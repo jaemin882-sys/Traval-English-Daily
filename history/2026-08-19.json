@@ -1,139 +1,134 @@
 {
   "date": "2026-08-19",
-  "updated_at": "17:54 KST",
-  "topic": "입국심사에서 여행 목적 설명",
-  "intro": "오늘 상황은 해외 입국심사대에서 심사관에게 여러분의 여행 목적을 정확하고 자신감 있게 설명하는 연습을 해볼 거예요. 당황하지 않고 자연스럽게 말할 수 있도록 준비해봅시다!",
+  "updated_at": "18:01 KST",
+  "topic": "공항 체크인과 좌석 요청",
+  "intro": "이번 학습은 공항 체크인 카운터에서 필요한 실전 영어 표현과 좌석 요청하는 방법을 연습합니다. 승무원과의 대화가 막히지 않도록 핵심 문장들을 익혀보세요.",
   "sentences": [
     {
-      "english": "I'm here for a vacation / sightseeing.",
-      "korean": "저는 휴가/관광 때문에 왔어요.",
-      "tip": "'vacation'은 휴가, 'sightseeing'은 구경하는 관광이에요. 둘 중 하나를 선택해 자연스럽게 사용하세요."
+      "english": "Hi, I'd like to check in for my flight to [Destination].",
+      "korean": "안녕하세요, [목적지]행 항공편 체크인하고 싶어요.",
+      "tip": "체크인 카운터에서 가장 먼저 할 말이에요. 목적지는 꼭 말해주는 것이 좋아요. (예: Seoul, London)"
     },
     {
-      "english": "I'll be staying for [number] days/weeks.",
-      "korean": "저는 [숫자]일/주 동안 머무를 거예요.",
-      "tip": "구체적인 체류 기간을 말할 때 유용해요. 'a week'(일주일)처럼 말할 수도 있습니다."
+      "english": "Do you have my reservation under [Your Name]?",
+      "korean": "[내 이름]으로 예약되어 있나요?",
+      "tip": "예약 번호를 찾기 어려울 때 이름을 말하며 물어볼 수 있어요. 이름 스펠링을 불러줄 준비를 하세요."
     },
     {
-      "english": "I'll be staying at [hotel name] in [city name].",
-      "korean": "저는 [도시 이름]에 있는 [호텔 이름]에 머무를 예정입니다.",
-      "tip": "호텔 이름과 도시를 함께 말하면 좋습니다. 에어비앤비면 'an Airbnb'라고 하세요."
+      "english": "Could I get a window seat, please?",
+      "korean": "창가 좌석으로 받을 수 있을까요?",
+      "tip": "좌석 요청할 때 가장 자주 쓰는 표현이에요. 'aisle seat(통로 좌석)'도 함께 알아두세요."
     },
     {
-      "english": "I'm just here for leisure/tourism.",
-      "korean": "저는 단지 여가/관광 목적으로 왔어요.",
-      "tip": "'just'를 넣어 순수한 관광 목적임을 강조할 수 있어요. 혹시 모를 오해를 줄일 수 있죠."
+      "english": "Is there any chance for an upgrade?",
+      "korean": "혹시 업그레이드 가능할까요?",
+      "tip": "밑져야 본전! 조심스럽게 물어볼 때 쓰는 표현이에요. 안 될 수도 있으니 기대는 많이 하지 마세요."
     },
     {
-      "english": "Here's my return ticket.",
-      "korean": "여기 제 귀국 항공권입니다.",
-      "tip": "심사관이 요청하거나, 먼저 보여주며 의심을 해소할 때 활용하세요."
+      "english": "How much does it cost to check in this bag?",
+      "korean": "이 가방을 부치려면 얼마인가요?",
+      "tip": "수하물 추가 요금을 물어볼 때 유용해요. 'check in this bag' 대신 'check this bag'도 가능해요."
     }
   ],
   "pattern": {
     "form": "Could you + 동사 ...?",
-    "meaning": "~해 주시겠어요? (정중하게 요청할 때)",
+    "meaning": "'~해 주실 수 있나요?' 정중하게 요청할 때 쓰는 만능 표현이에요. 'Can you~?'보다 더 공손하게 들려요.",
     "examples": [
-      "Could you show me the way to terminal 2?",
-      "Could you please speak a little slower?"
+      "Could you tell me where Gate 7 is? (7번 게이트가 어디인지 알려주실 수 있나요?)",
+      "Could you please confirm my flight details? (제 비행 정보 다시 확인해 주실 수 있나요?)"
     ]
   },
   "words": [
     {
-      "word": "Customs declaration form",
-      "meaning": "세관 신고서"
+      "word": "reservation",
+      "meaning": "예약"
     },
     {
-      "word": "Immigration officer",
-      "meaning": "입국 심사관"
+      "word": "boarding pass",
+      "meaning": "탑승권"
     },
     {
-      "word": "Return ticket",
-      "meaning": "귀국 항공권"
+      "word": "aisle seat",
+      "meaning": "통로 좌석"
     },
     {
-      "word": "Accommodation",
-      "meaning": "숙소 (머무르는 곳)"
+      "word": "overhead compartment",
+      "meaning": "머리 위 짐칸"
     },
     {
-      "word": "Purpose of travel",
-      "meaning": "여행 목적"
+      "word": "excess baggage fee",
+      "meaning": "초과 수하물 요금"
     }
   ],
   "dialogue": [
     {
       "speaker": "Staff",
-      "english": "Good morning. What is the purpose of your visit?",
-      "korean": "안녕하세요. 방문 목적이 무엇입니까?"
+      "english": "Good morning. May I have your passport, please?",
+      "korean": "안녕하세요. 여권 좀 주시겠어요?"
     },
     {
       "speaker": "You",
-      "english": "Good morning. I'm here for a vacation.",
-      "korean": "안녕하세요. 저는 휴가 때문에 왔습니다."
+      "english": "Sure, here you go. I'd like to check in for my flight to Seoul.",
+      "korean": "네, 여기 있어요. 서울행 항공편 체크인하고 싶어요."
     },
     {
       "speaker": "Staff",
-      "english": "How long will you be staying in the U.S.?",
-      "korean": "미국에 얼마나 오래 머무르실 예정인가요?"
+      "english": "Thank you. Do you have any checked baggage today?",
+      "korean": "감사합니다. 오늘 부치실 짐이 있으신가요?"
     },
     {
       "speaker": "You",
-      "english": "I'll be staying for seven days. Here's my return ticket.",
-      "korean": "7일 동안 머무를 거예요. 여기 제 귀국 항공권입니다."
+      "english": "Yes, just this one bag. Could I get a window seat, please?",
+      "korean": "네, 이 가방 하나요. 창가 좌석으로 받을 수 있을까요?"
     },
     {
       "speaker": "Staff",
-      "english": "And where will you be staying?",
-      "korean": "어디에 머무르실 건가요?"
+      "english": "Let me see... Yes, a window seat is available. Here's your boarding pass.",
+      "korean": "확인해볼게요... 네, 창가 좌석 가능합니다. 여기 탑승권입니다."
     },
     {
       "speaker": "You",
-      "english": "I'll be staying at the Hilton Hotel in New York City. Here's my hotel reservation.",
-      "korean": "뉴욕시에 있는 힐튼 호텔에 머무를 예정입니다. 여기 제 호텔 예약 확인서입니다."
-    },
-    {
-      "speaker": "Staff",
-      "english": "Alright. Enjoy your trip!",
-      "korean": "알겠습니다. 즐거운 여행 되세요!"
+      "english": "Thank you!",
+      "korean": "감사합니다!"
     }
   ],
   "retrieval": [
     {
-      "english": "I'm here for a vacation.",
-      "korean": "저는 휴가 때문에 왔어요.",
-      "tip": "가장 기본적인 여행 목적을 설명하는 표현입니다. 자신감 있게 말해보세요."
+      "english": "I'd like to check in for my flight to [Destination].",
+      "korean": "[목적지]행 항공편 체크인하고 싶어요.",
+      "tip": "목적지를 말해주는 것이 중요해요."
     },
     {
-      "english": "I'll be staying for five days.",
-      "korean": "저는 5일 동안 머무를 거예요.",
-      "tip": "체류 기간을 물을 때 꼭 필요한 문장이에요. 'five days' 대신 본인의 기간을 넣어서 연습해보세요."
+      "english": "Could I get a window seat, please?",
+      "korean": "창가 좌석으로 받을 수 있을까요?",
+      "tip": "'Could I get~?'은 정중한 요청에 자주 쓰여요."
     },
     {
-      "english": "Here's my return ticket.",
-      "korean": "여기 제 귀국 항공권입니다.",
-      "tip": "증빙 자료를 보여주면서 말하면 신뢰를 줄 수 있어요. 'Here's my [서류 이름]' 패턴도 기억하세요."
+      "english": "Is there any chance for an upgrade?",
+      "korean": "혹시 업그레이드 가능할까요?",
+      "tip": "'Is there any chance for~?'는 조심스럽게 가능성을 물을 때 써요."
     }
   ],
   "quiz": [
     {
-      "question": "입국 심사관이 'Where will you be staying?' (어디에 머무를 예정인가요?)라고 물었을 때 가장 자연스러운 대답은?",
+      "question": "공항 체크인 카운터에서 직원에게 '예약이 제 이름으로 되어 있는지 확인해 주실 수 있나요?'라고 묻고 싶을 때 가장 자연스러운 표현은?",
       "options": [
-        "I'll be staying at the Park Hotel for three nights.",
-        "I like to stay in a comfortable bed.",
-        "I don't know, maybe a hotel."
+        "Could you check my reservation under [Your Name]?",
+        "My reservation, [Your Name]?",
+        "Confirm my name for reservation?"
       ],
       "answer_index": 0,
-      "explanation": "가장 구체적이고 심사관이 원하는 숙소 정보를 명확히 알려주는 답변입니다."
+      "explanation": "'Could you check~?'은 아주 정중하고 흔한 요청 표현입니다. '[Your Name]으로 예약'은 'under [Your Name]'으로 자연스럽게 연결됩니다."
     },
     {
-      "question": "입국 심사관이 'What is the purpose of your visit?' (방문 목적이 무엇인가요?)라고 물었을 때, 순수하게 '관광 목적'임을 설명하려면?",
+      "question": "짐이 너무 많아서 추가 수하물 요금이 걱정될 때, 직원에게 '이 가방을 부치려면 얼마인가요?'라고 물을 때 가장 자연스러운 표현은?",
       "options": [
-        "I'm just here for tourism and sightseeing.",
-        "I want to sightsee many things.",
-        "My purpose is to see the sights."
+        "How much for this bag check?",
+        "How much does it cost to check in this bag?",
+        "Price of this bag to check?"
       ],
-      "answer_index": 0,
-      "explanation": "'I'm just here for tourism and sightseeing'은 관광 목적을 가장 자연스럽고 간결하게 설명하는 표현입니다. 'just'는 순수한 목적임을 강조해요."
+      "answer_index": 1,
+      "explanation": "'How much does it cost to ~?'는 어떤 일에 드는 비용을 물을 때 가장 정확하고 흔하게 쓰는 표현입니다. 'check in this bag'은 수하물을 부친다는 의미로 적절합니다."
     }
   ],
   "review_items": []
