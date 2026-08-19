@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Travel English Daily</title>
+<style>
+body{margin:0;background:#f5f5f7;color:#1d1d1f;font-family:-apple-system,BlinkMacSystemFont,"Pretendard","Segoe UI",sans-serif}
+.wrap{width:min(820px,calc(100% - 28px));margin:auto;padding:42px 0 70px}
+.small{font-size:12px;color:#8e8e93;font-weight:800;letter-spacing:.12em}
+h1{font-size:clamp(42px,7vw,64px);letter-spacing:-.05em;margin:8px 0 12px}
+.meta{font-size:13px;color:#8e8e93}
+.hero{margin-top:26px;background:#171718;color:white;border-radius:24px;padding:28px}
+.hero h2{margin:8px 0;font-size:30px}.hero p{color:#d2d2d7;line-height:1.6}
+.sec{margin-top:24px}.title{font-size:19px;font-weight:800;margin-bottom:10px}
+.card{background:white;border-radius:18px;padding:18px;margin-bottom:10px;border:1px solid rgba(0,0,0,.04)}
+.en{font-size:17px;font-weight:750}.ko{margin-top:5px;color:#6e6e73;font-size:14px}.tip{margin-top:6px;color:#9a9aa0;font-size:12px}
+.words{display:grid;grid-template-columns:repeat(5,1fr);gap:8px}.word{background:white;border-radius:14px;padding:14px;border:1px solid rgba(0,0,0,.04)}.word b{display:block}.word span{font-size:12px;color:#777}
+.line{padding:9px 0;border-top:1px solid #eee}.line:first-child{border-top:0}.speaker{font-size:11px;color:#888;font-weight:800}
+.quiz button{display:block;width:100%;text-align:left;margin-top:7px;padding:11px;border:1px solid #e5e5e7;border-radius:11px;background:white;cursor:pointer}
+.history{margin-top:34px;background:white;border-radius:18px;padding:20px}.history li{padding:9px 0;border-top:1px solid #eee}.history li:first-child{border-top:0}
+@media(max-width:650px){.words{grid-template-columns:repeat(2,1fr)}}
+</style>
+</head>
+<body><div class="wrap">
+<div class="small">10-MINUTE TRAVEL STUDY</div>
+<h1>Travel English Daily</h1>
+<div class="meta" id="date">불러오는 중…</div>
+
+<section class="hero" id="hero" hidden><div class="small">TODAY'S SITUATION</div><h2 id="topic"></h2><p id="intro"></p></section>
+
+<section class="sec"><div class="title">핵심 문장 5개</div><div id="sentences"></div></section>
+<section class="sec"><div class="title">오늘의 단어 5개</div><div class="words" id="words"></div></section>
+<section class="sec"><div class="title">짧은 대화</div><div class="card" id="dialogue"></div></section>
+<section class="sec"><div class="title">미니 퀴즈</div><div id="quiz"></div></section>
+
+<section class="history"><div class="title">Study History</div><ul id="historyList"></ul></section>
+</div>
+<script>
+const e=(v="")=>String(v).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
+async function load(){
+ const r=await fetch('./lesson.json?v='+Date.now(),{cache:'no-store'}); const d=await r.json();
+ date.textContent=(d.date||'')+' · '+(d.updated_at||'');
+ topic.textContent=d.topic||''; intro.textContent=d.intro||''; hero.hidden=false;
+ sentences.innerHTML=(d.sentences||[]).map((x,i)=>`<div class="card"><div class="en">${i+1}. ${e(x.english)}</div><div class="ko">${e(x.korean)}</div><div class="tip">${e(x.tip||'')}</div></div>`).join('');
+ words.innerHTML=(d.words||[]).map(x=>`<div class="word"><b>${e(x.word)}</b><span>${e(x.meaning)}</span></div>`).join('');
+ dialogue.innerHTML=(d.dialogue||[]).map(x=>`<div class="line"><div class="speaker">${e(x.speaker)}</div><div class="en">${e(x.english)}</div><div class="ko">${e(x.korean)}</div></div>`).join('');
+ quiz.innerHTML=(d.quiz||[]).map((q,qi)=>`<div class="card quiz"><div class="en">Q${qi+1}. ${e(q.question)}</div>${(q.options||[]).map((o,oi)=>`<button data-q="${qi}" data-o="${oi}">${e(o)}</button>`).join('')}<div class="tip" id="r${qi}"></div></div>`).join('');
+ document.querySelectorAll('.quiz button').forEach(b=>b.addEventListener('click',()=>{let q=d.quiz[+b.dataset.q];document.getElementById('r'+b.dataset.q).textContent=(+b.dataset.o===+q.answer_index?'정답! ':'다시 생각해봐요. ')+(q.explanation||'')}));
+}
+async function hist(){try{const r=await fetch('./history/index.json?v='+Date.now(),{cache:'no-store'});const d=await r.json();historyList.innerHTML=[...(d.items||[])].reverse().slice(0,30).map(x=>`<li><b>${e(x.date)}</b> · ${e(x.topic)}</li>`).join('')||'<li>아직 기록이 없습니다.</li>'}catch{}}
+load();hist();
+</script></body></html>
