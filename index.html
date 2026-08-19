@@ -120,6 +120,26 @@ footer{text-align:center;margin-top:28px;color:#aaa;font-size:10px}
   .hero{padding:23px 20px}
   .day-split{grid-template-columns:1fr}
 }
+
+.history-list li{cursor:pointer;border-radius:10px;padding-left:8px;padding-right:8px}
+.history-list li:hover{background:#f7f7f9}
+.history-list li.active{background:#f1f1f3}
+.history-view{margin-top:14px;padding-top:16px;border-top:1px solid #e9e9eb}
+.history-view[hidden]{display:none}
+.history-view-head{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:14px}
+.history-view-date{font-size:11px;color:#94949a;margin-bottom:4px}
+.history-view-topic{font-size:20px;font-weight:820;letter-spacing:-.02em}
+.history-relearn-btn{border:0;border-radius:10px;padding:9px 12px;background:#1d1d1f;color:#fff;font-size:11px;font-weight:800;cursor:pointer;white-space:nowrap}
+.history-mini-title{margin:18px 0 8px;font-size:13px;font-weight:820;color:#44444a}
+.history-sentence{padding:10px 0;border-top:1px solid #efeff1}
+.history-sentence:first-of-type{border-top:0}
+.history-sentence .en{font-size:14px}.history-sentence .ko{font-size:12px}
+.history-words{display:flex;gap:6px;flex-wrap:wrap}
+.history-word{padding:7px 9px;border-radius:9px;background:#f4f4f6;font-size:11px}
+.history-word b{margin-right:4px}
+.history-dialogue{display:flex;flex-direction:column;gap:7px}
+.history-retrieval{scroll-margin-top:20px}
+
 </style>
 </head>
 
@@ -199,8 +219,33 @@ footer{text-align:center;margin-top:28px;color:#aaa;font-size:10px}
 
   <section class="history">
     <div class="title">Study History</div>
-    <div class="subtitle">최근 학습한 여행 상황</div>
+    <div class="subtitle">날짜를 누르면 그날 학습 내용을 다시 볼 수 있어요.</div>
     <ul class="history-list" id="historyList"></ul>
+
+    <div class="history-view" id="historyView" hidden>
+      <div class="history-view-head">
+        <div>
+          <div class="history-view-date" id="historyViewDate"></div>
+          <div class="history-view-topic" id="historyViewTopic"></div>
+        </div>
+        <button class="history-relearn-btn" id="historyRelearnBtn" type="button">다시 학습하기</button>
+      </div>
+
+      <div class="history-mini-title">핵심 문장</div>
+      <div id="historySentences"></div>
+
+      <div class="history-mini-title">단어</div>
+      <div class="history-words" id="historyWords"></div>
+
+      <div class="history-mini-title">짧은 대화</div>
+      <div class="history-dialogue" id="historyDialogue"></div>
+
+      <div class="history-mini-title history-retrieval" id="historyRetrievalAnchor">기억에서 꺼내기</div>
+      <div id="historyRetrieval"></div>
+
+      <div class="history-mini-title">상황 판단 퀴즈</div>
+      <div id="historyQuiz"></div>
+    </div>
   </section>
 
   <div class="install-note">
@@ -303,6 +348,89 @@ async function loadLesson(){
   bindRevealButtons();
 }
 
+
+let selectedHistoryData=null;
+
+function historyRetrievalCard(item){
+  return `
+    <article class="retrieval-card">
+      <div class="prompt-ko">${esc(item.korean||"")}</div>
+      <input class="retrieval-input" type="text" autocomplete="off" placeholder="영어로 입력하거나 먼저 소리 내어 말해보세요">
+      <div class="actions"><button class="btn btn-dark history-reveal-btn" type="button">정답 보기</button></div>
+      <div class="answer">
+        <div class="answer-en">${esc(item.english||"")}</div>
+        <div class="answer-tip">${esc(item.tip||"내가 말한 표현과 비교해보세요.")}</div>
+      </div>
+    </article>`;
+}
+
+function bindHistoryReveal(){
+  document.querySelectorAll(".history-reveal-btn").forEach(btn=>{
+    btn.addEventListener("click",()=>{
+      const answer=btn.closest(".retrieval-card").querySelector(".answer");
+      answer.classList.toggle("show");
+      btn.textContent=answer.classList.contains("show")?"정답 숨기기":"정답 보기";
+    });
+  });
+}
+
+async function openHistory(date){
+  try{
+    const r=await fetch(`./history/${date}.json?v=${Date.now()}`,{cache:"no-store"});
+    if(!r.ok)throw new Error();
+    const d=await r.json();
+    selectedHistoryData=d;
+
+    document.querySelectorAll("#historyList li").forEach(li=>{
+      li.classList.toggle("active",li.dataset.date===date);
+    });
+
+    historyViewDate.textContent=date;
+    historyViewTopic.textContent=d.topic||"";
+
+    historySentences.innerHTML=(d.sentences||[]).map((x,i)=>`
+      <div class="history-sentence">
+        <div class="en">${i+1}. ${esc(x.english||"")}</div>
+        <div class="ko">${esc(x.korean||"")}</div>
+      </div>`).join("");
+
+    historyWords.innerHTML=(d.words||[]).map(x=>`
+      <span class="history-word"><b>${esc(x.word||"")}</b>${esc(x.meaning||"")}</span>`).join("");
+
+    historyDialogue.innerHTML=(d.dialogue||[]).map(x=>{
+      const s=String(x.speaker||"").toLowerCase();
+      const role=(s==="you"||s.includes("traveler")||s.includes("guest"))?"you":"staff";
+      return `<div class="dialogue-line ${role}">
+        <div class="speaker">${esc(x.speaker||"")}</div>
+        <div class="dialogue-en">${esc(x.english||"")}</div>
+        <div class="dialogue-ko">${esc(x.korean||"")}</div>
+      </div>`;
+    }).join("");
+
+    const retrieval=(d.retrieval||[]).length?d.retrieval:(d.sentences||[]).slice(0,3);
+    historyRetrieval.innerHTML=retrieval.map(historyRetrievalCard).join("");
+
+    historyQuiz.innerHTML=(d.quiz||[]).map((q,qi)=>`
+      <article class="card quiz">
+        <div class="en">Q${qi+1}. ${esc(q.question||"")}</div>
+        ${(q.options||[]).map((o,oi)=>`<button type="button" class="history-quiz-btn" data-q="${qi}" data-o="${oi}">${esc(o)}</button>`).join("")}
+        <div class="quiz-result" id="historyQuizResult${qi}"></div>
+      </article>`).join("");
+
+    document.querySelectorAll(".history-quiz-btn").forEach(btn=>{
+      btn.addEventListener("click",()=>{
+        const qi=Number(btn.dataset.q),oi=Number(btn.dataset.o),q=d.quiz[qi];
+        document.getElementById(`historyQuizResult${qi}`).textContent=
+          (oi===Number(q.answer_index)?"정답! ":"다시 생각해봐요. ")+(q.explanation||"");
+      });
+    });
+
+    bindHistoryReveal();
+    historyView.hidden=false;
+    historyView.scrollIntoView({behavior:"smooth",block:"start"});
+  }catch(e){console.warn("history load failed",e)}
+}
+
 async function loadHistory(){
   try{
     const r=await fetch(`./history/index.json?v=${Date.now()}`,{cache:"no-store"});
@@ -310,26 +438,23 @@ async function loadHistory(){
     const d=await r.json();
     const items=Array.isArray(d.items)?[...d.items].reverse().slice(0,30):[];
     historyList.innerHTML=items.length
-      ? items.map(x=>`<li><b>${esc(x.date)}</b> · ${esc(x.topic)}</li>`).join("")
+      ? items.map(x=>`<li data-date="${esc(x.date)}"><b>${esc(x.date)}</b> · ${esc(x.topic)}</li>`).join("")
       : "<li>아직 기록이 없습니다.</li>";
+    historyList.querySelectorAll("li[data-date]").forEach(li=>{
+      li.addEventListener("click",()=>openHistory(li.dataset.date));
+    });
   }catch{}
 }
 
-document.querySelectorAll(".jump-card").forEach(card=>{
-  card.addEventListener("click",()=>{
-    const id=card.dataset.target;
-    let target=document.getElementById(id);
-
-    // 복습 항목이 아직 없는 첫날에는 '기억에서 꺼내기'로 이동
-    if(id==="reviewSection" && (!target || target.hidden)){
-      target=document.getElementById("retrievalList")?.closest(".section");
-    }
-
-    if(target){
-      target.scrollIntoView({behavior:"smooth",block:"start"});
-    }
-  });
+historyRelearnBtn.addEventListener("click",()=>{
+  if(!selectedHistoryData)return;
+  historyRetrievalAnchor.scrollIntoView({behavior:"smooth",block:"start"});
+  setTimeout(()=>{
+    const firstInput=historyRetrieval.querySelector(".retrieval-input");
+    if(firstInput)firstInput.focus();
+  },450);
 });
+
 
 loadLesson();
 loadHistory();
