@@ -1,52 +1,279 @@
 <!doctype html>
 <html lang="ko">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f5f5f7">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Travel English">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
 <title>Travel English Daily</title>
+
 <style>
-body{margin:0;background:#f5f5f7;color:#1d1d1f;font-family:-apple-system,BlinkMacSystemFont,"Pretendard","Segoe UI",sans-serif}
-.wrap{width:min(820px,calc(100% - 28px));margin:auto;padding:42px 0 70px}
-.small{font-size:12px;color:#8e8e93;font-weight:800;letter-spacing:.12em}
-h1{font-size:clamp(42px,7vw,64px);letter-spacing:-.05em;margin:8px 0 12px}
-.meta{font-size:13px;color:#8e8e93}
-.hero{margin-top:26px;background:#171718;color:white;border-radius:24px;padding:28px}
-.hero h2{margin:8px 0;font-size:30px}.hero p{color:#d2d2d7;line-height:1.6}
-.sec{margin-top:24px}.title{font-size:19px;font-weight:800;margin-bottom:10px}
-.card{background:white;border-radius:18px;padding:18px;margin-bottom:10px;border:1px solid rgba(0,0,0,.04)}
-.en{font-size:17px;font-weight:750}.ko{margin-top:5px;color:#6e6e73;font-size:14px}.tip{margin-top:6px;color:#9a9aa0;font-size:12px}
-.words{display:grid;grid-template-columns:repeat(5,1fr);gap:8px}.word{background:white;border-radius:14px;padding:14px;border:1px solid rgba(0,0,0,.04)}.word b{display:block}.word span{font-size:12px;color:#777}
-.line{padding:9px 0;border-top:1px solid #eee}.line:first-child{border-top:0}.speaker{font-size:11px;color:#888;font-weight:800}
-.quiz button{display:block;width:100%;text-align:left;margin-top:7px;padding:11px;border:1px solid #e5e5e7;border-radius:11px;background:white;cursor:pointer}
-.history{margin-top:34px;background:white;border-radius:18px;padding:20px}.history li{padding:9px 0;border-top:1px solid #eee}.history li:first-child{border-top:0}
-@media(max-width:650px){.words{grid-template-columns:repeat(2,1fr)}}
+:root{
+  --bg:#f5f5f7;--card:#fff;--text:#1d1d1f;--sub:#717176;
+  --line:#e8e8eb;--dark:#171718;--soft:#f7f7f9;--blue:#2377d8;
+}
+*{box-sizing:border-box}
+body{
+  margin:0;background:var(--bg);color:var(--text);
+  font-family:-apple-system,BlinkMacSystemFont,"Pretendard","Segoe UI",sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{width:min(860px,calc(100% - 28px));margin:auto;padding:38px 0 72px}
+.eyebrow{font-size:11px;font-weight:800;letter-spacing:.13em;color:#8e8e93}
+h1{margin:8px 0 10px;font-size:clamp(42px,7vw,64px);line-height:1;letter-spacing:-.05em}
+.meta{font-size:12px;color:#929298}
+.hero{margin-top:25px;padding:28px;border-radius:24px;background:var(--dark);color:#fff}
+.hero-label{font-size:10px;color:#a7a7ad;font-weight:800;letter-spacing:.08em}
+.hero h2{margin:9px 0 7px;font-size:clamp(25px,4vw,32px);letter-spacing:-.035em}
+.hero p{margin:0;color:#d2d2d7;line-height:1.6;font-size:14px}
+
+.day-split{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:18px}
+.mini-stat{background:#fff;border-radius:15px;padding:14px 15px;border:1px solid rgba(0,0,0,.035)}
+.mini-stat b{display:block;font-size:13px}
+.mini-stat span{display:block;margin-top:3px;font-size:11px;color:#8d8d93}
+
+.section{margin-top:27px}
+.section-head{display:flex;justify-content:space-between;align-items:flex-end;gap:10px;margin-bottom:11px}
+.title{font-size:19px;font-weight:820;letter-spacing:-.02em}
+.subtitle{font-size:11px;color:#95959b}
+.card{background:#fff;border-radius:17px;padding:18px;margin-bottom:9px;border:1px solid rgba(0,0,0,.035)}
+.en{font-size:17px;font-weight:750;line-height:1.45}
+.ko{margin-top:4px;color:#68686e;font-size:14px;line-height:1.5}
+.tip{margin-top:7px;color:#98989e;font-size:11px;line-height:1.45}
+
+.retrieval-card{background:#fff;border-radius:17px;padding:17px 18px;margin-bottom:9px;border:1px solid rgba(0,0,0,.035)}
+.prompt-ko{font-size:16px;font-weight:750;line-height:1.5}
+.retrieval-input{width:100%;margin-top:11px;border:1px solid #dedee2;border-radius:11px;padding:11px 12px;background:#fff;font-size:15px;outline:none}
+.retrieval-input:focus{border-color:#9999a0}
+.answer{display:none;margin-top:11px;padding:12px 13px;border-radius:11px;background:var(--soft)}
+.answer.show{display:block}
+.answer-en{font-size:15px;font-weight:780}
+.answer-tip{margin-top:5px;font-size:11px;color:#8b8b91}
+.actions{display:flex;gap:7px;margin-top:10px;flex-wrap:wrap}
+.btn{border:0;border-radius:10px;padding:9px 12px;font-size:12px;font-weight:750;cursor:pointer}
+.btn-dark{background:#1d1d1f;color:#fff}.btn-light{background:#eeeeF1;color:#444}
+
+.pattern{background:#eef5ff;border-radius:18px;padding:18px;border:1px solid #dce9f8}
+.pattern-form{font-size:19px;font-weight:820;letter-spacing:-.02em}
+.pattern-meaning{margin-top:5px;color:#4f6073;font-size:13px}
+.pattern-example{margin-top:10px;font-size:13px;line-height:1.6;color:#5d6570}
+
+.words{display:grid;grid-template-columns:repeat(5,1fr);gap:8px}
+.word{background:#fff;border-radius:14px;padding:14px 12px;border:1px solid rgba(0,0,0,.035)}
+.word b{display:block;font-size:14px}.word span{display:block;margin-top:5px;font-size:11px;color:#77777d}
+
+.dialogue-line{padding:9px 0;border-top:1px solid #eee}
+.dialogue-line:first-child{border-top:0;padding-top:0}
+.speaker{font-size:10px;font-weight:800;color:#88888e}
+.dialogue-en{margin-top:3px;font-size:15px;font-weight:680}
+.dialogue-ko{margin-top:2px;font-size:12px;color:#77777d}
+
+.quiz button{display:block;width:100%;text-align:left;margin-top:7px;padding:11px 12px;border:1px solid #e4e4e7;border-radius:11px;background:#fff;font-size:13px;cursor:pointer}
+.quiz button:hover{background:#f7f7f9}
+.quiz-result{margin-top:8px;font-size:12px;font-weight:700}
+
+.history{margin-top:34px;background:#fff;border-radius:18px;padding:19px;border:1px solid rgba(0,0,0,.035)}
+.history-list{list-style:none;margin:10px 0 0;padding:0}
+.history-list li{padding:9px 0;border-top:1px solid #eee;font-size:13px}
+.history-list li:first-child{border-top:0}
+
+.install-note{margin-top:24px;padding:14px 16px;border-radius:14px;background:#fff;font-size:12px;line-height:1.55;color:#777}
+footer{text-align:center;margin-top:28px;color:#aaa;font-size:10px}
+
+@media(max-width:650px){
+  .words{grid-template-columns:repeat(2,1fr)}
+  .hero{padding:23px 20px}
+  .day-split{grid-template-columns:1fr}
+}
 </style>
 </head>
-<body><div class="wrap">
-<div class="small">10-MINUTE TRAVEL STUDY</div>
-<h1>Travel English Daily</h1>
-<div class="meta" id="date">불러오는 중…</div>
 
-<section class="hero" id="hero" hidden><div class="small">TODAY'S SITUATION</div><h2 id="topic"></h2><p id="intro"></p></section>
+<body>
+<div class="wrap">
+  <div class="eyebrow">TRAVEL ENGLISH · 10 MINUTES A DAY</div>
+  <h1>Travel English Daily</h1>
+  <div class="meta" id="dateText">오늘 학습 불러오는 중…</div>
 
-<section class="sec"><div class="title">핵심 문장 5개</div><div id="sentences"></div></section>
-<section class="sec"><div class="title">오늘의 단어 5개</div><div class="words" id="words"></div></section>
-<section class="sec"><div class="title">짧은 대화</div><div class="card" id="dialogue"></div></section>
-<section class="sec"><div class="title">미니 퀴즈</div><div id="quiz"></div></section>
+  <section class="hero" id="hero" hidden>
+    <div class="hero-label">TODAY'S SITUATION</div>
+    <h2 id="topicTitle"></h2>
+    <p id="topicIntro"></p>
+  </section>
 
-<section class="history"><div class="title">Study History</div><ul id="historyList"></ul></section>
+  <div class="day-split">
+    <div class="mini-stat"><b>복습 3분</b><span>Day 2 · 4 · 7 · 14 간격으로 다시 꺼내기</span></div>
+    <div class="mini-stat"><b>새 학습 7분</b><span>실제 여행에서 바로 쓰는 표현 중심</span></div>
+  </div>
+
+  <section class="section" id="reviewSection" hidden>
+    <div class="section-head">
+      <div>
+        <div class="title">복습 3분</div>
+        <div class="subtitle">한국어만 보고 먼저 영어로 말해보세요.</div>
+      </div>
+    </div>
+    <div id="reviewList"></div>
+  </section>
+
+  <section class="section">
+    <div class="section-head">
+      <div><div class="title">오늘의 핵심 문장 5개</div><div class="subtitle">너무 쉬운 인사말은 제외했어요.</div></div>
+    </div>
+    <div id="sentences"></div>
+  </section>
+
+  <section class="section" id="patternSection" hidden>
+    <div class="section-head"><div class="title">오늘의 재사용 패턴</div></div>
+    <div class="pattern">
+      <div class="pattern-form" id="patternForm"></div>
+      <div class="pattern-meaning" id="patternMeaning"></div>
+      <div class="pattern-example" id="patternExamples"></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-head"><div class="title">단어 5개</div></div>
+    <div class="words" id="words"></div>
+  </section>
+
+  <section class="section">
+    <div class="section-head"><div class="title">짧은 대화</div></div>
+    <div class="card" id="dialogue"></div>
+  </section>
+
+  <section class="section">
+    <div class="section-head">
+      <div><div class="title">기억에서 꺼내기</div><div class="subtitle">답을 보기 전에 직접 입력하거나 소리 내어 말하세요.</div></div>
+    </div>
+    <div id="retrievalList"></div>
+  </section>
+
+  <section class="section">
+    <div class="section-head"><div class="title">상황 판단 퀴즈</div><div class="subtitle">단순 번역보다 실제 상황에 가까운 문제</div></div>
+    <div id="quizList"></div>
+  </section>
+
+  <section class="history">
+    <div class="title">Study History</div>
+    <div class="subtitle">최근 학습한 여행 상황</div>
+    <ul class="history-list" id="historyList"></ul>
+  </section>
+
+  <div class="install-note">
+    iPhone Safari에서 <b>공유 → 홈 화면에 추가</b>를 누르면 앱처럼 단독 아이콘으로 사용할 수 있어요.
+  </div>
+
+  <footer>Travel English Daily · 여행에서 바로 꺼내 쓰는 영어</footer>
 </div>
+
 <script>
-const e=(v="")=>String(v).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
-async function load(){
- const r=await fetch('./lesson.json?v='+Date.now(),{cache:'no-store'}); const d=await r.json();
- date.textContent=(d.date||'')+' · '+(d.updated_at||'');
- topic.textContent=d.topic||''; intro.textContent=d.intro||''; hero.hidden=false;
- sentences.innerHTML=(d.sentences||[]).map((x,i)=>`<div class="card"><div class="en">${i+1}. ${e(x.english)}</div><div class="ko">${e(x.korean)}</div><div class="tip">${e(x.tip||'')}</div></div>`).join('');
- words.innerHTML=(d.words||[]).map(x=>`<div class="word"><b>${e(x.word)}</b><span>${e(x.meaning)}</span></div>`).join('');
- dialogue.innerHTML=(d.dialogue||[]).map(x=>`<div class="line"><div class="speaker">${e(x.speaker)}</div><div class="en">${e(x.english)}</div><div class="ko">${e(x.korean)}</div></div>`).join('');
- quiz.innerHTML=(d.quiz||[]).map((q,qi)=>`<div class="card quiz"><div class="en">Q${qi+1}. ${e(q.question)}</div>${(q.options||[]).map((o,oi)=>`<button data-q="${qi}" data-o="${oi}">${e(o)}</button>`).join('')}<div class="tip" id="r${qi}"></div></div>`).join('');
- document.querySelectorAll('.quiz button').forEach(b=>b.addEventListener('click',()=>{let q=d.quiz[+b.dataset.q];document.getElementById('r'+b.dataset.q).textContent=(+b.dataset.o===+q.answer_index?'정답! ':'다시 생각해봐요. ')+(q.explanation||'')}));
+const esc=(v="")=>String(v).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
+
+function retrievalCard(item, label="복습"){
+  return `
+    <article class="retrieval-card">
+      <div class="subtitle">${esc(label)}</div>
+      <div class="prompt-ko">${esc(item.korean)}</div>
+      <input class="retrieval-input" type="text" autocomplete="off" placeholder="영어로 입력하거나, 먼저 소리 내어 말해보세요">
+      <div class="actions">
+        <button class="btn btn-dark reveal-btn" type="button">정답 보기</button>
+      </div>
+      <div class="answer">
+        <div class="answer-en">${esc(item.english)}</div>
+        <div class="answer-tip">${esc(item.tip || "내가 말한 표현과 비교한 뒤 한 번 더 소리 내어 말해보세요.")}</div>
+      </div>
+    </article>`;
 }
-async function hist(){try{const r=await fetch('./history/index.json?v='+Date.now(),{cache:'no-store'});const d=await r.json();historyList.innerHTML=[...(d.items||[])].reverse().slice(0,30).map(x=>`<li><b>${e(x.date)}</b> · ${e(x.topic)}</li>`).join('')||'<li>아직 기록이 없습니다.</li>'}catch{}}
-load();hist();
-</script></body></html>
+
+function bindRevealButtons(){
+  document.querySelectorAll(".reveal-btn").forEach(btn=>{
+    btn.addEventListener("click",()=>{
+      const answer=btn.closest(".retrieval-card").querySelector(".answer");
+      answer.classList.toggle("show");
+      btn.textContent=answer.classList.contains("show")?"정답 숨기기":"정답 보기";
+    });
+  });
+}
+
+async function loadLesson(){
+  const r=await fetch(`./lesson.json?v=${Date.now()}`,{cache:"no-store"});
+  const d=await r.json();
+
+  dateText.textContent=`${d.date||""} · ${d.updated_at||""}`;
+  topicTitle.textContent=d.topic||"";
+  topicIntro.textContent=d.intro||"";
+  hero.hidden=false;
+
+  const reviews=Array.isArray(d.review_items)?d.review_items:[];
+  if(reviews.length){
+    reviewList.innerHTML=reviews.map(x=>retrievalCard(x,`${esc(x.source_date||"이전 학습")} 복습`)).join("");
+    reviewSection.hidden=false;
+  }
+
+  sentences.innerHTML=(d.sentences||[]).map((x,i)=>`
+    <article class="card">
+      <div class="en">${i+1}. ${esc(x.english)}</div>
+      <div class="ko">${esc(x.korean)}</div>
+      <div class="tip">${esc(x.tip||"")}</div>
+    </article>`).join("");
+
+  if(d.pattern){
+    patternForm.textContent=d.pattern.form||"";
+    patternMeaning.textContent=d.pattern.meaning||"";
+    patternExamples.innerHTML=(d.pattern.examples||[]).map(x=>`• ${esc(x)}`).join("<br>");
+    patternSection.hidden=false;
+  }
+
+  words.innerHTML=(d.words||[]).map(x=>`
+    <div class="word"><b>${esc(x.word)}</b><span>${esc(x.meaning)}</span></div>`).join("");
+
+  dialogue.innerHTML=(d.dialogue||[]).map(x=>`
+    <div class="dialogue-line">
+      <div class="speaker">${esc(x.speaker)}</div>
+      <div class="dialogue-en">${esc(x.english)}</div>
+      <div class="dialogue-ko">${esc(x.korean)}</div>
+    </div>`).join("");
+
+  const retrieval=(d.retrieval||[]).length ? d.retrieval : (d.sentences||[]).slice(0,3);
+  retrievalList.innerHTML=retrieval.map(x=>retrievalCard(x,"오늘 표현")).join("");
+
+  quizList.innerHTML=(d.quiz||[]).map((q,qi)=>`
+    <article class="card quiz">
+      <div class="en">Q${qi+1}. ${esc(q.question)}</div>
+      ${(q.options||[]).map((o,oi)=>`<button type="button" data-q="${qi}" data-o="${oi}">${esc(o)}</button>`).join("")}
+      <div class="quiz-result" id="quizResult${qi}"></div>
+    </article>`).join("");
+
+  document.querySelectorAll(".quiz button").forEach(btn=>{
+    btn.addEventListener("click",()=>{
+      const qi=Number(btn.dataset.q), oi=Number(btn.dataset.o), q=d.quiz[qi];
+      document.getElementById(`quizResult${qi}`).textContent=
+        (oi===Number(q.answer_index)?"정답! ":"다시 생각해봐요. ")+(q.explanation||"");
+    });
+  });
+
+  bindRevealButtons();
+}
+
+async function loadHistory(){
+  try{
+    const r=await fetch(`./history/index.json?v=${Date.now()}`,{cache:"no-store"});
+    if(!r.ok)return;
+    const d=await r.json();
+    const items=Array.isArray(d.items)?[...d.items].reverse().slice(0,30):[];
+    historyList.innerHTML=items.length
+      ? items.map(x=>`<li><b>${esc(x.date)}</b> · ${esc(x.topic)}</li>`).join("")
+      : "<li>아직 기록이 없습니다.</li>";
+  }catch{}
+}
+
+loadLesson();
+loadHistory();
+</script>
+</body>
+</html>
