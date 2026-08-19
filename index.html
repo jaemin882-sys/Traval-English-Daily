@@ -33,9 +33,21 @@ h1{margin:8px 0 10px;font-size:clamp(42px,7vw,64px);line-height:1;letter-spacing
 .hero p{margin:0;color:#d2d2d7;line-height:1.6;font-size:14px}
 
 .day-split{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:18px}
-.mini-stat{background:#fff;border-radius:15px;padding:14px 15px;border:1px solid rgba(0,0,0,.035)}
+.mini-stat{
+  width:100%;
+  background:#fff;
+  border-radius:15px;
+  padding:14px 15px;
+  border:1px solid rgba(0,0,0,.035);
+  text-align:left;
+  font-family:inherit;
+  color:inherit;
+}
 .mini-stat b{display:block;font-size:13px}
 .mini-stat span{display:block;margin-top:3px;font-size:11px;color:#8d8d93}
+.jump-card{cursor:pointer;transition:transform .15s ease,background .15s ease}
+.jump-card:hover{background:#fafafa;transform:translateY(-1px)}
+.jump-card em{display:block;margin-top:8px;font-size:10px;font-style:normal;font-weight:800;color:#5f7fa3}
 
 .section{margin-top:27px}
 .section-head{display:flex;justify-content:space-between;align-items:flex-end;gap:10px;margin-bottom:11px}
@@ -67,11 +79,29 @@ h1{margin:8px 0 10px;font-size:clamp(42px,7vw,64px);line-height:1;letter-spacing
 .word{background:#fff;border-radius:14px;padding:14px 12px;border:1px solid rgba(0,0,0,.035)}
 .word b{display:block;font-size:14px}.word span{display:block;margin-top:5px;font-size:11px;color:#77777d}
 
-.dialogue-line{padding:9px 0;border-top:1px solid #eee}
-.dialogue-line:first-child{border-top:0;padding-top:0}
-.speaker{font-size:10px;font-weight:800;color:#88888e}
-.dialogue-en{margin-top:3px;font-size:15px;font-weight:680}
-.dialogue-ko{margin-top:2px;font-size:12px;color:#77777d}
+.dialogue-wrap{display:flex;flex-direction:column;gap:10px}
+.dialogue-line{
+  max-width:82%;
+  padding:12px 14px;
+  border-radius:16px;
+  border:1px solid rgba(0,0,0,.035);
+}
+.dialogue-line.staff{
+  align-self:flex-start;
+  background:#f1f1f3;
+  border-bottom-left-radius:5px;
+}
+.dialogue-line.you{
+  align-self:flex-end;
+  background:#eaf3ff;
+  border-color:#d8e8fb;
+  border-bottom-right-radius:5px;
+}
+.speaker{font-size:10px;font-weight:850;color:#77777d;letter-spacing:.04em}
+.dialogue-line.you .speaker{color:#2f6fae;text-align:right}
+.dialogue-en{margin-top:4px;font-size:15px;font-weight:700;line-height:1.45}
+.dialogue-ko{margin-top:3px;font-size:12px;color:#77777d;line-height:1.45}
+.dialogue-line.you .dialogue-en,.dialogue-line.you .dialogue-ko{text-align:right}
 
 .quiz button{display:block;width:100%;text-align:left;margin-top:7px;padding:11px 12px;border:1px solid #e4e4e7;border-radius:11px;background:#fff;font-size:13px;cursor:pointer}
 .quiz button:hover{background:#f7f7f9}
@@ -106,8 +136,17 @@ footer{text-align:center;margin-top:28px;color:#aaa;font-size:10px}
   </section>
 
   <div class="day-split">
-    <div class="mini-stat"><b>복습 3분</b><span>Day 2 · 4 · 7 · 14 간격으로 다시 꺼내기</span></div>
-    <div class="mini-stat"><b>새 학습 7분</b><span>실제 여행에서 바로 쓰는 표현 중심</span></div>
+    <button class="mini-stat jump-card" type="button" data-target="reviewSection">
+      <b>복습 3분</b>
+      <span>Day 2 · 4 · 7 · 14 간격으로 다시 꺼내기</span>
+      <em>복습으로 이동 ↓</em>
+    </button>
+
+    <button class="mini-stat jump-card" type="button" data-target="newStudySection">
+      <b>새 학습 7분</b>
+      <span>실제 여행에서 바로 쓰는 표현 중심</span>
+      <em>오늘 학습으로 이동 ↓</em>
+    </button>
   </div>
 
   <section class="section" id="reviewSection" hidden>
@@ -120,7 +159,7 @@ footer{text-align:center;margin-top:28px;color:#aaa;font-size:10px}
     <div id="reviewList"></div>
   </section>
 
-  <section class="section">
+  <section class="section" id="newStudySection">
     <div class="section-head">
       <div><div class="title">오늘의 핵심 문장 5개</div><div class="subtitle">너무 쉬운 인사말은 제외했어요.</div></div>
     </div>
@@ -143,7 +182,7 @@ footer{text-align:center;margin-top:28px;color:#aaa;font-size:10px}
 
   <section class="section">
     <div class="section-head"><div class="title">짧은 대화</div></div>
-    <div class="card" id="dialogue"></div>
+    <div class="dialogue-wrap" id="dialogue"></div>
   </section>
 
   <section class="section">
@@ -232,12 +271,16 @@ async function loadLesson(){
   words.innerHTML=(d.words||[]).map(x=>`
     <div class="word"><b>${esc(x.word)}</b><span>${esc(x.meaning)}</span></div>`).join("");
 
-  dialogue.innerHTML=(d.dialogue||[]).map(x=>`
-    <div class="dialogue-line">
-      <div class="speaker">${esc(x.speaker)}</div>
-      <div class="dialogue-en">${esc(x.english)}</div>
-      <div class="dialogue-ko">${esc(x.korean)}</div>
-    </div>`).join("");
+  dialogue.innerHTML=(d.dialogue||[]).map(x=>{
+    const speaker=String(x.speaker||"").toLowerCase();
+    const role=(speaker==="you"||speaker.includes("traveler")||speaker.includes("guest"))?"you":"staff";
+    return `
+      <div class="dialogue-line ${role}">
+        <div class="speaker">${esc(x.speaker)}</div>
+        <div class="dialogue-en">${esc(x.english)}</div>
+        <div class="dialogue-ko">${esc(x.korean)}</div>
+      </div>`;
+  }).join("");
 
   const retrieval=(d.retrieval||[]).length ? d.retrieval : (d.sentences||[]).slice(0,3);
   retrievalList.innerHTML=retrieval.map(x=>retrievalCard(x,"오늘 표현")).join("");
@@ -271,6 +314,22 @@ async function loadHistory(){
       : "<li>아직 기록이 없습니다.</li>";
   }catch{}
 }
+
+document.querySelectorAll(".jump-card").forEach(card=>{
+  card.addEventListener("click",()=>{
+    const id=card.dataset.target;
+    let target=document.getElementById(id);
+
+    // 복습 항목이 아직 없는 첫날에는 '기억에서 꺼내기'로 이동
+    if(id==="reviewSection" && (!target || target.hidden)){
+      target=document.getElementById("retrievalList")?.closest(".section");
+    }
+
+    if(target){
+      target.scrollIntoView({behavior:"smooth",block:"start"});
+    }
+  });
+});
 
 loadLesson();
 loadHistory();
