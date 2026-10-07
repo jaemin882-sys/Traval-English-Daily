@@ -1,164 +1,203 @@
 {
   "date": "2026-10-07",
-  "updated_at": "17:40 KST",
-  "topic": "공항 체크인에서 통로석·앞쪽 좌석 요청하기",
-  "intro": "오늘은 공항 체크인 시 항공사 직원에게 원하는 좌석을 좀 더 자연스럽고 다양하게 요청하는 표현들을 연습합니다.",
+  "updated_at": "20:56 KST",
+  "topic": "공항 체크인에서 수하물 무게 초과 해결하기",
+  "intro": "해외여행 직전, 공항 체크인 카운터에서 수하물 무게가 초과되었다는 당황스러운 말을 들었을 때 어떻게 대처해야 할까요? 추가 요금을 물어보고, 짐을 다시 정리하거나 다른 해결책을 찾기 위한 실용적인 영어 표현들을 배워봅니다.",
   "sentences": [
     {
-      "english": "I was hoping to get an aisle seat, if possible.",
-      "korean": "가능하다면 통로석으로 받고 싶었어요.",
-      "tip": "'I was hoping to...'는 '~하고 싶었다'는 식으로 부드럽게 요청할 때 쓰는 표현입니다."
+      "english": "It seems my bag is overweight.",
+      "pronunciation": "잇 씨-임스 마이 백 이즈 오우-버-웨잇.",
+      "korean": "제 가방이 무게 초과인 것 같아요.",
+      "tip": "직원이 먼저 초과되었다고 알려주겠지만, 본인이 먼저 상황을 인지했을 때 말할 수 있는 간결한 표현입니다."
     },
     {
-      "english": "Is it possible to be seated closer to the front?",
-      "korean": "앞쪽 좌석으로 배정받을 수 있을까요?",
-      "tip": "'Is it possible to...?'는 '가능할까요?'라고 부드럽게 문의할 때 유용합니다. 'be seated'는 '좌석에 앉다'는 의미입니다."
+      "english": "What's the excess baggage fee for this?",
+      "pronunciation": "왓츠 디 엑쎄스 배기쥐 피 포 디스?",
+      "korean": "이것에 대한 초과 수하물 요금은 얼마인가요?",
+      "tip": "가장 기본적인 질문으로, 추가 요금 정보를 얻을 때 사용합니다. 'How much is the excess baggage fee?'와 같은 뜻이지만, 좀 더 간결합니다."
     },
     {
-      "english": "Just to confirm, are there any aisle seats left?",
-      "korean": "확인차 여쭤보는데, 통로석이 아직 남아있는 건가요?",
-      "tip": "'Just to confirm'은 '확인차'라는 뜻으로, 상대방의 말을 재확인하거나 현재 상황을 다시 물어볼 때 좋습니다."
+      "english": "Is there any way I can avoid paying the fee?",
+      "pronunciation": "이즈 데어 애니 웨이 아이 캔 어보이드 페잉 더 피?",
+      "korean": "요금을 내지 않을 방법이 있을까요?",
+      "tip": "대안을 찾고 싶을 때 매우 유용한 표현입니다. 짐을 재조정하거나, 다른 방법이 있는지 물어볼 때 사용합니다."
     },
     {
-      "english": "I tend to get a bit motion sick, so an aisle seat really helps.",
-      "korean": "제가 멀미를 좀 하는 편이라 통로석이 많이 도움이 되거든요.",
-      "tip": "'I tend to...'는 '~하는 경향이 있다'는 뜻으로, 선호하는 이유를 설명할 때 유용합니다. 'motion sick'은 '멀미가 나는'이라는 표현입니다."
+      "english": "Would it be possible to shift some items to my carry-on?",
+      "pronunciation": "우딧 비 파서블 투 쉬프트 썸 아이럼스 투 마이 캐리-온?",
+      "korean": "짐 일부를 제 기내 수하물로 옮길 수 있을까요?",
+      "tip": "무게 초과 시 가장 흔한 해결책을 제안하는 표현입니다. 'Could I...?'보다 좀 더 정중한 뉘앙스를 줍니다."
     },
     {
-      "english": "If not, what would be the next best option for easy access?",
-      "korean": "만약 안 된다면, (비행기에서) 쉽게 움직일 수 있는 다른 가장 좋은 좌석은 어떤 게 있을까요?",
-      "tip": "선호하는 좌석이 없을 때 대안을 물어보는 표현입니다. 'easy access'는 '접근하기 쉬운'이라는 의미로, 화장실 등을 이용할 때 편리한 좌석을 말할 수 있습니다."
+      "english": "Just to confirm, what's the maximum weight for the carry-on?",
+      "pronunciation": "저스트 투 컨펌, 왓츠 더 맥씨멈 웨잇 포 더 캐리-온?",
+      "korean": "확인차 여쭤보는데, 기내 수하물 최대 무게는 얼마인가요?",
+      "tip": "이야기 중에 중요한 정보를 다시 한번 확인하고 싶을 때 쓰는 표현입니다. 'Just to make sure'와 비슷합니다."
     }
   ],
   "pattern": {
-    "form": "Is there any chance I could get + (좌석 종류/요청) ...?",
-    "meaning": "~을 받을 수 있는 가능성이 있을까요? (혹시 ~할 수 있을까요?)",
+    "form": "Is there any way I can/to + [동사 원형]...?",
+    "pronunciation": "이즈 데어 애니 웨이 아이 캔/투 ...?",
+    "meaning": "~할 방법이 있을까요?",
     "examples": [
-      "Is there any chance I could get a window seat with more legroom?",
-      "Is there any chance I could get a seat away from the lavatory?"
+      {
+        "english": "Is there any way I can check in online?",
+        "pronunciation": "이즈 데어 애니 웨이 아이 캔 체크 인 온라인?",
+        "korean": "온라인으로 체크인할 방법이 있을까요?",
+        "tip": "어떤 행동을 할 수 있는 방법을 문의할 때 사용합니다."
+      },
+      {
+        "english": "Is there any way to get a refund?",
+        "pronunciation": "이즈 데어 애니 웨이 투 겟 어 리펀드?",
+        "korean": "환불 받을 방법이 있을까요?",
+        "tip": "특정 결과를 얻을 수 있는 방법을 문의할 때 사용합니다."
+      }
     ]
   },
   "words": [
     {
-      "word": "aisle seat",
-      "meaning": "통로석"
+      "word": "overweight",
+      "pronunciation": "오우-버-웨잇",
+      "meaning": "무게 초과인"
     },
     {
-      "word": "window seat",
-      "meaning": "창가석"
+      "word": "excess baggage fee",
+      "pronunciation": "엑쎄스 배기쥐 피",
+      "meaning": "초과 수하물 요금"
     },
     {
-      "word": "legroom",
-      "meaning": "다리 공간"
+      "word": "carry-on",
+      "pronunciation": "캐리-온",
+      "meaning": "기내 반입 수하물 (hand luggage와 같은 의미)"
     },
     {
-      "word": "bulkhead seat",
-      "meaning": "벌크헤드석 (맨 앞 좌석, 벽 앞)"
+      "word": "redistribute",
+      "pronunciation": "리디스트리뷰트",
+      "meaning": "재분배하다, 다시 나누다"
     },
     {
-      "word": "exit row",
-      "meaning": "비상구 열 (더 넓은 다리 공간)"
+      "word": "flat rate",
+      "pronunciation": "플랫 뤠잇",
+      "meaning": "정액 요금"
     }
   ],
   "dialogue": [
     {
       "speaker": "Staff",
-      "english": "Hello! Checking in for flight KE123 to London?",
-      "korean": "안녕하세요! 런던행 KE123편 체크인 도와드릴까요?"
+      "english": "Hello, your passport and ticket, please.",
+      "pronunciation": "헬로우, 유어 패스포트 앤 티켓, 플리즈.",
+      "korean": "안녕하세요, 여권과 티켓 주세요."
     },
     {
       "speaker": "You",
-      "english": "Yes, that's right. I was hoping to get an aisle seat, if possible.",
-      "korean": "네, 맞아요. 가능하다면 통로석으로 받고 싶었어요."
+      "english": "(Hands over documents) Here you go.",
+      "pronunciation": "히어 유 고.",
+      "korean": "(서류를 건네며) 여기 있습니다."
     },
     {
       "speaker": "Staff",
-      "english": "Let me see... There are a few aisle seats available towards the back. Is it possible to be seated closer to the front?",
-      "korean": "음, 확인해볼게요... 뒤쪽에는 통로석이 몇 군데 남아있네요. 앞쪽 좌석으로 배정받을 수 있을까요?"
+      "english": "Thank you. It seems your checked bag is a bit overweight. It's 25 kg, and the limit is 23 kg.",
+      "pronunciation": "땡큐. 잇 씨-임스 유어 체크트 백 이즈 어 빗 오우-버-웨잇. 잇츠 트웬티 파이브 킬로그램, 앤 더 리밋 이즈 트웬티 쓰리 킬로그램.",
+      "korean": "감사합니다. 부치실 가방이 무게 초과인 것 같네요. 25kg이고, 제한은 23kg입니다."
     },
     {
       "speaker": "You",
-      "english": "Ah, I tend to get a bit motion sick, so an aisle seat really helps. If not, what would be the next best option for easy access?",
-      "korean": "아, 제가 멀미를 좀 하는 편이라 통로석이 많이 도움이 되거든요. 만약 안 된다면, 쉽게 움직일 수 있는 다른 가장 좋은 좌석은 어떤 게 있을까요?"
+      "english": "Oh, I see. What's the excess baggage fee for this?",
+      "pronunciation": "오우, 아이 씨. 왓츠 디 엑쎄스 배기쥐 피 포 디스?",
+      "korean": "아, 그렇군요. 초과 수하물 요금은 얼마인가요?"
     },
     {
       "speaker": "Staff",
-      "english": "I understand. There's an aisle seat in row 25, which is just behind the wing. That's probably your best bet for easy access without being too far back.",
-      "korean": "알겠습니다. 25열에 통로석이 하나 있는데, 날개 바로 뒤쪽입니다. 너무 뒤로 가지 않으면서 쉽게 움직일 수 있는 가장 좋은 선택일 것 같아요."
+      "english": "It's a flat rate of $50 for up to 5 kg over.",
+      "pronunciation": "잇츠 어 플랫 뤠잇 오브 피프티 달러스 포 업 투 파이브 킬로그램 오우-버.",
+      "korean": "5kg까지는 정액 50달러입니다."
     },
     {
       "speaker": "You",
-      "english": "Okay, that sounds great. Thank you!",
-      "korean": "네, 좋아요. 감사합니다!"
+      "english": "I was wondering if it would be possible to shift some items to my carry-on? I have a small backpack.",
+      "pronunciation": "아이 워즈 원더링 이프 잇 우딧 비 파서블 투 쉬프트 썸 아이럼스 투 마이 캐리-온? 아이 해브 어 스몰 백팩.",
+      "korean": "기내 수하물로 짐 일부를 옮길 수 있을까 해서요. 작은 배낭이 하나 있습니다."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Yes, you can do that, as long as your carry-on meets the size and weight limits for hand luggage.",
+      "pronunciation": "예스, 유 캔 두 댓, 애즈 롱 애즈 유어 캐리-온 밋츠 더 사이즈 앤 웨잇 리밋츠 포 핸드 러기쥐.",
+      "korean": "네, 그렇게 하실 수 있습니다. 기내 수하물 크기 및 무게 제한을 충족하는 한 가능합니다."
     }
   ],
   "retrieval": [
     {
-      "english": "I was hoping to get an aisle seat, if possible.",
-      "korean": "가능하면 통로석으로 받고 싶었어요.",
-      "tip": "부드럽게 원하는 좌석을 요청할 때 사용하세요."
+      "english": "It seems my bag is overweight.",
+      "pronunciation": "잇 씨-임스 마이 백 이즈 오우-버-웨잇.",
+      "korean": "수하물 무게가 초과된 것 같아요.",
+      "tip": "문제를 직접적으로 언급하여 상황을 설명합니다."
     },
     {
-      "english": "Is it possible to be seated closer to the front?",
-      "korean": "앞쪽 좌석으로 배정받을 수 있을까요?",
-      "tip": "구체적인 좌석 위치를 문의할 때 활용하세요."
+      "english": "Is there any way I can avoid paying the fee?",
+      "pronunciation": "이즈 데어 애니 웨이 아이 캔 어보이드 페잉 더 피?",
+      "korean": "추가 요금을 피할 방법이 있을까요?",
+      "tip": "대안이나 해결책을 찾고 싶을 때 사용할 수 있는 유용한 질문입니다."
     },
     {
-      "english": "I tend to get a bit motion sick, so an aisle seat really helps.",
-      "korean": "제가 멀미를 좀 하는 편이라 통로석이 많이 도움이 되거든요.",
-      "tip": "좌석을 선호하는 이유를 설명할 때 사용하면 좋습니다."
+      "english": "Would it be possible to shift some items to my carry-on?",
+      "pronunciation": "우딧 비 파서블 투 쉬프트 썸 아이럼스 투 마이 캐리-온?",
+      "korean": "기내 수하물로 짐을 좀 옮길 수 있을까요?",
+      "tip": "정중하게 특정 해결책을 제안하거나 가능 여부를 물을 때 씁니다."
     }
   ],
-  "quiz": [
+  "alternatives": [
     {
-      "question": "체크인 시, 다리 공간이 더 넓은 좌석을 요청하고 싶을 때 가장 자연스러운 표현은?",
-      "options": [
-        "Is there any chance I could get a seat with more legroom?",
-        "Give me a seat with extra legroom.",
-        "I need a bigger space for my legs."
-      ],
-      "answer_index": 0,
-      "explanation": "'Is there any chance I could get...?'는 공손하게 요청하는 자연스러운 표현입니다. 다른 선택지는 너무 직설적이거나 어색합니다."
+      "english": "My bag seems to be over the weight limit.",
+      "pronunciation": "마이 백 씨-임스 투 비 오우-버 더 웨잇 리밋.",
+      "korean": "제 가방이 무게 제한을 초과한 것 같아요.",
+      "note": "'It seems my bag is overweight'보다 조금 더 구체적으로 '무게 제한(weight limit)'을 언급하는 표현입니다."
     },
     {
-      "question": "직원이 '통로석은 뒤쪽에만 남아있어요'라고 할 때, 앞쪽으로 배정받고 싶은 의사를 부드럽게 다시 표현하려면?",
-      "options": [
-        "I want to sit at the front.",
-        "Is it possible to be seated closer to the front?",
-        "Can you change my seat to the front?"
-      ],
-      "answer_index": 1,
-      "explanation": "'Is it possible to be seated closer to the front?'는 앞쪽 좌석으로 배정받고 싶은 의사를 공손하게 묻는 가장 적절한 표현입니다. 다른 선택지는 명령조이거나 덜 부드럽습니다."
+      "english": "What are my options regarding this overweight bag?",
+      "pronunciation": "왓 아 마이 옵션스 리가딩 디스 오우-버-웨잇 백?",
+      "korean": "이 초과된 가방에 대해 어떤 선택 사항이 있을까요?",
+      "note": "'Is there any way I can avoid paying the fee?'보다 더 넓게 모든 가능한 해결책이나 대안을 묻는 표현입니다. 직접적인 요금 회피 대신 상황 전반에 대한 문의입니다."
+    },
+    {
+      "english": "Is it possible to transfer some of these items to my hand luggage?",
+      "pronunciation": "이즈 잇 파서블 투 트랜스퍼 썸 오브 디즈 아이럼스 투 마이 핸드 러기쥐?",
+      "korean": "이 짐 중 일부를 제 기내 수하물로 옮길 수 있을까요?",
+      "note": "'shift' 대신 'transfer'를, 'carry-on' 대신 'hand luggage'를 사용하여 같은 의미를 전달합니다. 'Is it possible to'는 'Would it be possible to'보다 조금 덜 정중하지만 여전히 공손한 표현입니다."
     }
   ],
   "review_items": [
     {
       "source_date": "2026-10-06",
       "english": "Hi, I'd like to check in. I have a reservation under [your last name].",
+      "pronunciation": "",
       "korean": "안녕하세요, 체크인하고 싶어요. 제 이름으로 예약되어 있습니다.",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
       "source_date": "2026-10-06",
       "english": "Could you please confirm my reservation details?",
+      "pronunciation": "",
       "korean": "예약 상세 정보를 확인해 주시겠어요?",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
       "source_date": "2026-10-04",
       "english": "I'm here for a short vacation.",
+      "pronunciation": "",
       "korean": "짧은 휴가 때문에 왔어요.",
       "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
       "source_date": "2026-10-04",
       "english": "I'm here to travel and do some sightseeing.",
+      "pronunciation": "",
       "korean": "여행하고 관광하려고 왔어요.",
       "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
       "source_date": "2026-10-01",
       "english": "Excuse me, I'm checking on flight KE123.",
+      "pronunciation": "",
       "korean": "실례합니다, KE123편에 대해 문의하러 왔어요.",
       "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     }
