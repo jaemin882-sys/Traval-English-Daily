@@ -1,134 +1,134 @@
 {
   "date": "2026-10-07",
-  "updated_at": "10:41 KST",
-  "topic": "호텔 방에 문제가 있을 때",
-  "intro": "여행 중 호텔 방에서 예상치 못한 문제가 생겼을 때, 당황하지 않고 필요한 도움을 요청할 수 있는 실용적인 영어 표현들을 연습합니다. 직접 말문을 열어 문제를 해결해 보세요!",
+  "updated_at": "17:40 KST",
+  "topic": "공항 체크인에서 통로석·앞쪽 좌석 요청하기",
+  "intro": "오늘은 공항 체크인 시 항공사 직원에게 원하는 좌석을 좀 더 자연스럽고 다양하게 요청하는 표현들을 연습합니다.",
   "sentences": [
     {
-      "english": "I'm afraid the air conditioning isn't working.",
-      "korean": "죄송하지만 에어컨이 작동하지 않아요.",
-      "tip": "'I'm afraid'는 유감스러운 소식을 전할 때 쓰는 공손한 표현입니다."
+      "english": "I was hoping to get an aisle seat, if possible.",
+      "korean": "가능하다면 통로석으로 받고 싶었어요.",
+      "tip": "'I was hoping to...'는 '~하고 싶었다'는 식으로 부드럽게 요청할 때 쓰는 표현입니다."
     },
     {
-      "english": "There's no hot water coming from the shower.",
-      "korean": "샤워기에서 뜨거운 물이 안 나와요.",
-      "tip": "'coming from'을 붙여 어디에서 물이 나오지 않는지 더 명확하게 전달합니다."
+      "english": "Is it possible to be seated closer to the front?",
+      "korean": "앞쪽 좌석으로 배정받을 수 있을까요?",
+      "tip": "'Is it possible to...?'는 '가능할까요?'라고 부드럽게 문의할 때 유용합니다. 'be seated'는 '좌석에 앉다'는 의미입니다."
     },
     {
-      "english": "I'm having trouble connecting to the Wi-Fi.",
-      "korean": "와이파이 연결이 잘 안 돼요.",
-      "tip": "'I'm having trouble ~ing'는 '~하는 데 어려움을 겪고 있다'는 뜻으로 기술적인 문제에 자주 쓰입니다."
+      "english": "Just to confirm, are there any aisle seats left?",
+      "korean": "확인차 여쭤보는데, 통로석이 아직 남아있는 건가요?",
+      "tip": "'Just to confirm'은 '확인차'라는 뜻으로, 상대방의 말을 재확인하거나 현재 상황을 다시 물어볼 때 좋습니다."
     },
     {
-      "english": "Could you send someone to take a look at it?",
-      "korean": "누군가 와서 좀 봐주실 수 있을까요?",
-      "tip": "어떤 문제가 발생했는지 구체적으로 설명하기 어려울 때 쓸 수 있는 만능 요청 표현입니다."
+      "english": "I tend to get a bit motion sick, so an aisle seat really helps.",
+      "korean": "제가 멀미를 좀 하는 편이라 통로석이 많이 도움이 되거든요.",
+      "tip": "'I tend to...'는 '~하는 경향이 있다'는 뜻으로, 선호하는 이유를 설명할 때 유용합니다. 'motion sick'은 '멀미가 나는'이라는 표현입니다."
     },
     {
-      "english": "The toilet seems to be clogged.",
-      "korean": "변기가 막힌 것 같아요.",
-      "tip": "'seems to be ~'는 '~인 것 같다'는 의미로 조심스럽게 상황을 전달할 때 유용합니다."
+      "english": "If not, what would be the next best option for easy access?",
+      "korean": "만약 안 된다면, (비행기에서) 쉽게 움직일 수 있는 다른 가장 좋은 좌석은 어떤 게 있을까요?",
+      "tip": "선호하는 좌석이 없을 때 대안을 물어보는 표현입니다. 'easy access'는 '접근하기 쉬운'이라는 의미로, 화장실 등을 이용할 때 편리한 좌석을 말할 수 있습니다."
     }
   ],
   "pattern": {
-    "form": "Could you + 동사 ...?",
-    "meaning": "~ 좀 해주실 수 있나요? (공손하게 부탁할 때)",
+    "form": "Is there any chance I could get + (좌석 종류/요청) ...?",
+    "meaning": "~을 받을 수 있는 가능성이 있을까요? (혹시 ~할 수 있을까요?)",
     "examples": [
-      "Could you bring some extra towels?",
-      "Could you call a taxi for me?"
+      "Is there any chance I could get a window seat with more legroom?",
+      "Is there any chance I could get a seat away from the lavatory?"
     ]
   },
   "words": [
     {
-      "word": "clogged",
-      "meaning": "막힌 (배수구, 변기 등)"
+      "word": "aisle seat",
+      "meaning": "통로석"
     },
     {
-      "word": "malfunction",
-      "meaning": "기능 이상, 오작동"
+      "word": "window seat",
+      "meaning": "창가석"
     },
     {
-      "word": "maintenance staff",
-      "meaning": "시설 관리 직원"
+      "word": "legroom",
+      "meaning": "다리 공간"
     },
     {
-      "word": "out of order",
-      "meaning": "고장 난, 작동 중단"
+      "word": "bulkhead seat",
+      "meaning": "벌크헤드석 (맨 앞 좌석, 벽 앞)"
     },
     {
-      "word": "inconvenience",
-      "meaning": "불편 (직원들이 사과할 때 자주 쓰는 표현)"
+      "word": "exit row",
+      "meaning": "비상구 열 (더 넓은 다리 공간)"
     }
   ],
   "dialogue": [
     {
-      "speaker": "You",
-      "english": "Hello, this is room 705. I'm afraid I have a problem.",
-      "korean": "안녕하세요, 705호입니다. 문제가 좀 생겼어요."
-    },
-    {
       "speaker": "Staff",
-      "english": "Certainly, what seems to be the issue?",
-      "korean": "네, 어떤 문제이신가요?"
+      "english": "Hello! Checking in for flight KE123 to London?",
+      "korean": "안녕하세요! 런던행 KE123편 체크인 도와드릴까요?"
     },
     {
       "speaker": "You",
-      "english": "The air conditioning isn't working properly, and the room is getting quite hot.",
-      "korean": "에어컨이 제대로 작동하지 않아서 방이 점점 더워지고 있어요."
+      "english": "Yes, that's right. I was hoping to get an aisle seat, if possible.",
+      "korean": "네, 맞아요. 가능하다면 통로석으로 받고 싶었어요."
     },
     {
       "speaker": "Staff",
-      "english": "I apologize for the inconvenience. We'll send our maintenance staff right up.",
-      "korean": "불편을 드려 죄송합니다. 저희 시설 관리 직원을 바로 올려보내겠습니다."
+      "english": "Let me see... There are a few aisle seats available towards the back. Is it possible to be seated closer to the front?",
+      "korean": "음, 확인해볼게요... 뒤쪽에는 통로석이 몇 군데 남아있네요. 앞쪽 좌석으로 배정받을 수 있을까요?"
     },
     {
       "speaker": "You",
-      "english": "Thank you. Could you let me know roughly how long it might take?",
-      "korean": "감사합니다. 대략 얼마나 걸릴지 알려주실 수 있나요?"
+      "english": "Ah, I tend to get a bit motion sick, so an aisle seat really helps. If not, what would be the next best option for easy access?",
+      "korean": "아, 제가 멀미를 좀 하는 편이라 통로석이 많이 도움이 되거든요. 만약 안 된다면, 쉽게 움직일 수 있는 다른 가장 좋은 좌석은 어떤 게 있을까요?"
     },
     {
       "speaker": "Staff",
-      "english": "They should be there within 15 minutes.",
-      "korean": "15분 이내에 도착할 겁니다."
+      "english": "I understand. There's an aisle seat in row 25, which is just behind the wing. That's probably your best bet for easy access without being too far back.",
+      "korean": "알겠습니다. 25열에 통로석이 하나 있는데, 날개 바로 뒤쪽입니다. 너무 뒤로 가지 않으면서 쉽게 움직일 수 있는 가장 좋은 선택일 것 같아요."
+    },
+    {
+      "speaker": "You",
+      "english": "Okay, that sounds great. Thank you!",
+      "korean": "네, 좋아요. 감사합니다!"
     }
   ],
   "retrieval": [
     {
-      "english": "I'm afraid the air conditioning isn't working.",
-      "korean": "에어컨이 작동하지 않아요.",
-      "tip": "'I'm afraid'를 붙이면 더 정중하게 들립니다."
+      "english": "I was hoping to get an aisle seat, if possible.",
+      "korean": "가능하면 통로석으로 받고 싶었어요.",
+      "tip": "부드럽게 원하는 좌석을 요청할 때 사용하세요."
     },
     {
-      "english": "There's no hot water coming from the shower.",
-      "korean": "샤워기에서 뜨거운 물이 안 나와요.",
-      "tip": "'from the shower'로 출처를 명확히 말하는 것이 좋습니다."
+      "english": "Is it possible to be seated closer to the front?",
+      "korean": "앞쪽 좌석으로 배정받을 수 있을까요?",
+      "tip": "구체적인 좌석 위치를 문의할 때 활용하세요."
     },
     {
-      "english": "Could you send someone to take a look at it?",
-      "korean": "이거 좀 봐주시겠어요?",
-      "tip": "문제를 특정하기 어려울 때 유용하게 쓸 수 있는 표현입니다."
+      "english": "I tend to get a bit motion sick, so an aisle seat really helps.",
+      "korean": "제가 멀미를 좀 하는 편이라 통로석이 많이 도움이 되거든요.",
+      "tip": "좌석을 선호하는 이유를 설명할 때 사용하면 좋습니다."
     }
   ],
   "quiz": [
     {
-      "question": "호텔 방 에어컨이 고장 났을 때, 호텔 직원에게 가장 자연스럽게 문제 상황을 전달하는 표현은 무엇일까요?",
+      "question": "체크인 시, 다리 공간이 더 넓은 좌석을 요청하고 싶을 때 가장 자연스러운 표현은?",
       "options": [
-        "I'm afraid the air conditioning isn't working.",
-        "The AC is broken. Fix it!",
-        "No AC in my room."
+        "Is there any chance I could get a seat with more legroom?",
+        "Give me a seat with extra legroom.",
+        "I need a bigger space for my legs."
       ],
       "answer_index": 0,
-      "explanation": "'I'm afraid'를 사용하여 공손하게 문제 상황을 전달하는 것이 가장 자연스럽습니다. 'broken'보다 'isn't working'이 더 부드러운 표현입니다."
+      "explanation": "'Is there any chance I could get...?'는 공손하게 요청하는 자연스러운 표현입니다. 다른 선택지는 너무 직설적이거나 어색합니다."
     },
     {
-      "question": "방의 어떤 물건이 망가져서 직원을 불러 고쳐달라고 하고 싶을 때, 어떤 표현이 가장 적절할까요?",
+      "question": "직원이 '통로석은 뒤쪽에만 남아있어요'라고 할 때, 앞쪽으로 배정받고 싶은 의사를 부드럽게 다시 표현하려면?",
       "options": [
-        "Could you send someone to take a look at it?",
-        "I need you to fix this immediately.",
-        "This is broken. Repair it!"
+        "I want to sit at the front.",
+        "Is it possible to be seated closer to the front?",
+        "Can you change my seat to the front?"
       ],
-      "answer_index": 0,
-      "explanation": "'Could you~' 패턴은 공손하게 도움을 요청하는 가장 좋은 방법이며, 'take a look'은 '확인하다, 살펴보다'라는 의미로 직접적인 수리 요구보다 부담을 덜어줍니다."
+      "answer_index": 1,
+      "explanation": "'Is it possible to be seated closer to the front?'는 앞쪽 좌석으로 배정받고 싶은 의사를 공손하게 묻는 가장 적절한 표현입니다. 다른 선택지는 명령조이거나 덜 부드럽습니다."
     }
   ],
   "review_items": [
