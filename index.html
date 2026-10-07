@@ -5,459 +5,99 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#f5f5f7">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="Travel English">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
 <title>Travel English Daily</title>
-
 <style>
-:root{
-  --bg:#f5f5f7;--card:#fff;--text:#1d1d1f;--sub:#717176;
-  --line:#e8e8eb;--dark:#171718;--soft:#f7f7f9;--blue:#2377d8;
-}
-*{box-sizing:border-box}
-body{
-  margin:0;background:var(--bg);color:var(--text);
-  font-family:-apple-system,BlinkMacSystemFont,"Pretendard","Segoe UI",sans-serif;
-  -webkit-font-smoothing:antialiased;
-}
+:root{--bg:#f5f5f7;--card:#fff;--text:#1d1d1f;--sub:#717176;--line:#e8e8eb;--soft:#f7f7f9;--blue:#2377d8}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Pretendard","Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
 .wrap{width:min(860px,calc(100% - 28px));margin:auto;padding:38px 0 72px}
 .eyebrow{font-size:11px;font-weight:800;letter-spacing:.13em;color:#8e8e93}
 h1{margin:8px 0 10px;font-size:clamp(42px,7vw,64px);line-height:1;letter-spacing:-.05em}
 .meta{font-size:12px;color:#929298}
-.hero{margin-top:25px;padding:28px;border-radius:24px;background:var(--dark);color:#fff}
-.hero-label{font-size:10px;color:#a7a7ad;font-weight:800;letter-spacing:.08em}
-.hero h2{margin:9px 0 7px;font-size:clamp(25px,4vw,32px);letter-spacing:-.035em}
-.hero p{margin:0;color:#d2d2d7;line-height:1.6;font-size:14px}
-
-.day-split{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:18px}
-.mini-stat{
-  width:100%;
-  background:#fff;
-  border-radius:15px;
-  padding:14px 15px;
-  border:1px solid rgba(0,0,0,.035);
-  text-align:left;
-  font-family:inherit;
-  color:inherit;
-}
-.mini-stat b{display:block;font-size:13px}
-.mini-stat span{display:block;margin-top:3px;font-size:11px;color:#8d8d93}
-.jump-card{cursor:pointer;transition:transform .15s ease,background .15s ease}
-.jump-card:hover{background:#fafafa;transform:translateY(-1px)}
-.jump-card em{display:block;margin-top:8px;font-size:10px;font-style:normal;font-weight:800;color:#5f7fa3}
-
-.section{margin-top:27px}
-.section-head{display:flex;justify-content:space-between;align-items:flex-end;gap:10px;margin-bottom:11px}
-.title{font-size:19px;font-weight:820;letter-spacing:-.02em}
-.subtitle{font-size:11px;color:#95959b}
-.card{background:#fff;border-radius:17px;padding:18px;margin-bottom:9px;border:1px solid rgba(0,0,0,.035)}
-.en{font-size:17px;font-weight:750;line-height:1.45}
-.ko{margin-top:4px;color:#68686e;font-size:14px;line-height:1.5}
-.tip{margin-top:7px;color:#98989e;font-size:11px;line-height:1.45}
-
-.retrieval-card{background:#fff;border-radius:17px;padding:17px 18px;margin-bottom:9px;border:1px solid rgba(0,0,0,.035)}
-.prompt-ko{font-size:16px;font-weight:750;line-height:1.5}
-.retrieval-input{width:100%;margin-top:11px;border:1px solid #dedee2;border-radius:11px;padding:11px 12px;background:#fff;font-size:15px;outline:none}
-.retrieval-input:focus{border-color:#9999a0}
-.answer{display:none;margin-top:11px;padding:12px 13px;border-radius:11px;background:var(--soft)}
-.answer.show{display:block}
-.answer-en{font-size:15px;font-weight:780}
-.answer-tip{margin-top:5px;font-size:11px;color:#8b8b91}
-.actions{display:flex;gap:7px;margin-top:10px;flex-wrap:wrap}
-.btn{border:0;border-radius:10px;padding:9px 12px;font-size:12px;font-weight:750;cursor:pointer}
-.btn-dark{background:#1d1d1f;color:#fff}.btn-light{background:#eeeeF1;color:#444}
-
-.pattern{background:#eef5ff;border-radius:18px;padding:18px;border:1px solid #dce9f8}
-.pattern-form{font-size:19px;font-weight:820;letter-spacing:-.02em}
-.pattern-meaning{margin-top:5px;color:#4f6073;font-size:13px}
-.pattern-example{margin-top:10px;font-size:13px;line-height:1.6;color:#5d6570}
-
-.words{display:grid;grid-template-columns:repeat(5,1fr);gap:8px}
-.word{background:#fff;border-radius:14px;padding:14px 12px;border:1px solid rgba(0,0,0,.035)}
-.word b{display:block;font-size:14px}.word span{display:block;margin-top:5px;font-size:11px;color:#77777d}
-
-.dialogue-wrap{display:flex;flex-direction:column;gap:10px}
-.dialogue-line{
-  max-width:82%;
-  padding:12px 14px;
-  border-radius:16px;
-  border:1px solid rgba(0,0,0,.035);
-}
-.dialogue-line.staff{
-  align-self:flex-start;
-  background:#f1f1f3;
-  border-bottom-left-radius:5px;
-}
-.dialogue-line.you{
-  align-self:flex-end;
-  background:#eaf3ff;
-  border-color:#d8e8fb;
-  border-bottom-right-radius:5px;
-}
-.speaker{font-size:10px;font-weight:850;color:#77777d;letter-spacing:.04em}
-.dialogue-line.you .speaker{color:#2f6fae;text-align:right}
-.dialogue-en{margin-top:4px;font-size:15px;font-weight:700;line-height:1.45}
-.dialogue-ko{margin-top:3px;font-size:12px;color:#77777d;line-height:1.45}
-.dialogue-line.you .dialogue-en,.dialogue-line.you .dialogue-ko{text-align:right}
-
-.quiz button{display:block;width:100%;text-align:left;margin-top:7px;padding:11px 12px;border:1px solid #e4e4e7;border-radius:11px;background:#fff;font-size:13px;cursor:pointer}
-.quiz button:hover{background:#f7f7f9}
-.quiz-result{margin-top:8px;font-size:12px;font-weight:700}
-
-.history{margin-top:34px;background:#fff;border-radius:18px;padding:19px;border:1px solid rgba(0,0,0,.035)}
-.history-list{list-style:none;margin:10px 0 0;padding:0}
-.history-list li{padding:9px 0;border-top:1px solid #eee;font-size:13px}
-.history-list li:first-child{border-top:0}
-
-.install-note{margin-top:24px;padding:14px 16px;border-radius:14px;background:#fff;font-size:12px;line-height:1.55;color:#777}
+.hero{margin-top:25px;padding:28px;border-radius:24px;background:#171718;color:#fff}
+.hero-label{font-size:10px;color:#a7a7ad;font-weight:800;letter-spacing:.08em}.hero h2{margin:9px 0 7px;font-size:clamp(25px,4vw,32px)}.hero p{margin:0;color:#d2d2d7;line-height:1.6;font-size:14px}
+.section{margin-top:27px}.section-head{display:flex;justify-content:space-between;align-items:flex-end;gap:10px;margin-bottom:11px}
+.title{font-size:19px;font-weight:820}.subtitle{font-size:11px;color:#95959b}
+.card,.retrieval-card,.alt-card{background:#fff;border-radius:17px;padding:18px;margin-bottom:9px;border:1px solid rgba(0,0,0,.035)}
+.en,.alt-en{font-size:17px;font-weight:750;line-height:1.45}.ko,.alt-ko{margin-top:4px;color:#68686e;font-size:14px;line-height:1.5}
+.pron{margin-top:3px;color:#9a9aa0;font-size:11px;line-height:1.4}.tip,.alt-note{margin-top:7px;color:#98989e;font-size:11px;line-height:1.45}
+.pattern{background:#eef5ff;border-radius:18px;padding:18px;border:1px solid #dce9f8}.pattern-form{font-size:19px;font-weight:820}.pattern-meaning{margin-top:5px;color:#4f6073;font-size:13px}.pattern-example{margin-top:10px;font-size:13px;line-height:1.6;color:#5d6570}
+.words{display:grid;grid-template-columns:repeat(5,1fr);gap:8px}.word{background:#fff;border-radius:14px;padding:14px 12px}.word b{display:block;font-size:14px}.word span{display:block;margin-top:5px;font-size:11px;color:#77777d}
+.dialogue-wrap,.history-dialogue{display:flex;flex-direction:column;gap:10px}.dialogue-line{max-width:82%;padding:12px 14px;border-radius:16px}.dialogue-line.staff{align-self:flex-start;background:#f1f1f3}.dialogue-line.you{align-self:flex-end;background:#eaf3ff}.speaker{font-size:10px;font-weight:850;color:#777}.dialogue-line.you .speaker,.dialogue-line.you .dialogue-en,.dialogue-line.you .dialogue-ko,.dialogue-line.you .pron{text-align:right}.dialogue-en{margin-top:4px;font-size:15px;font-weight:700}.dialogue-ko{margin-top:3px;font-size:12px;color:#777}
+.prompt-ko{font-size:16px;font-weight:750}.retrieval-input{width:100%;margin-top:11px;border:1px solid #dedee2;border-radius:11px;padding:11px 12px;font-size:15px}.answer{display:none;margin-top:11px;padding:12px 13px;border-radius:11px;background:var(--soft)}.answer.show{display:block}.answer-en{font-size:15px;font-weight:780}
+.btn{border:0;border-radius:10px;padding:9px 12px;font-size:12px;font-weight:750;cursor:pointer;background:#1d1d1f;color:#fff;margin-top:10px}
+.history{margin-top:34px;background:#fff;border-radius:18px;padding:19px}.history-list{list-style:none;margin:10px 0 0;padding:0}.history-list li{padding:9px 8px;border-top:1px solid #eee;font-size:13px;cursor:pointer}.history-list li:first-child{border-top:0}.history-list li.active{background:#f1f1f3;border-radius:10px}
+.history-view{margin-top:14px;padding-top:16px;border-top:1px solid #e9e9eb}.history-view[hidden]{display:none}.history-view-topic{font-size:20px;font-weight:820}.history-mini-title{margin:18px 0 8px;font-size:13px;font-weight:820}.history-sentence{padding:10px 0;border-top:1px solid #efeff1}.history-words{display:flex;gap:6px;flex-wrap:wrap}.history-word{padding:8px 9px;border-radius:9px;background:#f4f4f6;font-size:11px}
 footer{text-align:center;margin-top:28px;color:#aaa;font-size:10px}
-
-@media(max-width:650px){
-  .words{grid-template-columns:repeat(2,1fr)}
-  .hero{padding:23px 20px}
-  .day-split{grid-template-columns:1fr}
-}
-
-.history-list li{cursor:pointer;border-radius:10px;padding-left:8px;padding-right:8px}
-.history-list li:hover{background:#f7f7f9}
-.history-list li.active{background:#f1f1f3}
-.history-view{margin-top:14px;padding-top:16px;border-top:1px solid #e9e9eb}
-.history-view[hidden]{display:none}
-.history-view-head{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:14px}
-.history-view-date{font-size:11px;color:#94949a;margin-bottom:4px}
-.history-view-topic{font-size:20px;font-weight:820;letter-spacing:-.02em}
-.history-relearn-btn{border:0;border-radius:10px;padding:9px 12px;background:#1d1d1f;color:#fff;font-size:11px;font-weight:800;cursor:pointer;white-space:nowrap}
-.history-mini-title{margin:18px 0 8px;font-size:13px;font-weight:820;color:#44444a}
-.history-sentence{padding:10px 0;border-top:1px solid #efeff1}
-.history-sentence:first-of-type{border-top:0}
-.history-sentence .en{font-size:14px}.history-sentence .ko{font-size:12px}
-.history-words{display:flex;gap:6px;flex-wrap:wrap}
-.history-word{padding:7px 9px;border-radius:9px;background:#f4f4f6;font-size:11px}
-.history-word b{margin-right:4px}
-.history-dialogue{display:flex;flex-direction:column;gap:7px}
-.history-retrieval{scroll-margin-top:20px}
-
+@media(max-width:650px){.words{grid-template-columns:repeat(2,1fr)}.hero{padding:23px 20px}}
 </style>
 </head>
-
 <body>
 <div class="wrap">
-  <div class="eyebrow">TRAVEL ENGLISH · 10 MINUTES A DAY</div>
-  <h1>Travel English Daily</h1>
-  <div class="meta" id="dateText">오늘 학습 불러오는 중…</div>
+<div class="eyebrow">TRAVEL ENGLISH · 10 MINUTES A DAY</div>
+<h1>Travel English Daily</h1>
+<div class="meta" id="dateText">오늘 학습 불러오는 중…</div>
+<section class="hero" id="hero" hidden><div class="hero-label">TODAY'S SITUATION</div><h2 id="topicTitle"></h2><p id="topicIntro"></p></section>
 
-  <section class="hero" id="hero" hidden>
-    <div class="hero-label">TODAY'S SITUATION</div>
-    <h2 id="topicTitle"></h2>
-    <p id="topicIntro"></p>
-  </section>
+<section class="section" id="reviewSection" hidden><div class="section-head"><div><div class="title">복습 3분</div><div class="subtitle">한국어만 보고 영어로 먼저 말해보세요.</div></div></div><div id="reviewList"></div></section>
+<section class="section"><div class="section-head"><div><div class="title">오늘의 핵심 문장 5개</div><div class="subtitle">영어 아래 작은 글씨는 따라 읽기용 한글 발음이에요.</div></div></div><div id="sentences"></div></section>
+<section class="section" id="patternSection" hidden><div class="section-head"><div class="title">오늘의 재사용 패턴</div></div><div class="pattern"><div class="pattern-form" id="patternForm"></div><div class="pron" id="patternPron"></div><div class="pattern-meaning" id="patternMeaning"></div><div class="pattern-example" id="patternExamples"></div></div></section>
+<section class="section"><div class="section-head"><div class="title">단어·표현 5개</div></div><div class="words" id="words"></div></section>
+<section class="section"><div class="section-head"><div class="title">짧은 대화</div></div><div class="dialogue-wrap" id="dialogue"></div></section>
+<section class="section"><div class="section-head"><div><div class="title">기억에서 꺼내기</div><div class="subtitle">정답 보기 전에 직접 말해보세요.</div></div></div><div id="retrievalList"></div></section>
+<section class="section"><div class="section-head"><div><div class="title">이렇게 말해도 돼요</div><div class="subtitle">정답은 하나가 아니에요. 같은 상황에서 자연스럽게 바꿔 말할 수 있어요.</div></div></div><div id="alternativesList"></div></section>
 
-  <div class="day-split">
-    <button class="mini-stat jump-card" type="button" data-target="reviewSection">
-      <b>복습 3분</b>
-      <span>Day 2 · 4 · 7 · 14 간격으로 다시 꺼내기</span>
-      <em>복습으로 이동 ↓</em>
-    </button>
-
-    <button class="mini-stat jump-card" type="button" data-target="newStudySection">
-      <b>새 학습 7분</b>
-      <span>실제 여행에서 바로 쓰는 표현 중심</span>
-      <em>오늘 학습으로 이동 ↓</em>
-    </button>
-  </div>
-
-  <section class="section" id="reviewSection" hidden>
-    <div class="section-head">
-      <div>
-        <div class="title">복습 3분</div>
-        <div class="subtitle">한국어만 보고 먼저 영어로 말해보세요.</div>
-      </div>
-    </div>
-    <div id="reviewList"></div>
-  </section>
-
-  <section class="section" id="newStudySection">
-    <div class="section-head">
-      <div><div class="title">오늘의 핵심 문장 5개</div><div class="subtitle">너무 쉬운 인사말은 제외했어요.</div></div>
-    </div>
-    <div id="sentences"></div>
-  </section>
-
-  <section class="section" id="patternSection" hidden>
-    <div class="section-head"><div class="title">오늘의 재사용 패턴</div></div>
-    <div class="pattern">
-      <div class="pattern-form" id="patternForm"></div>
-      <div class="pattern-meaning" id="patternMeaning"></div>
-      <div class="pattern-example" id="patternExamples"></div>
-    </div>
-  </section>
-
-  <section class="section">
-    <div class="section-head"><div class="title">단어 5개</div></div>
-    <div class="words" id="words"></div>
-  </section>
-
-  <section class="section">
-    <div class="section-head"><div class="title">짧은 대화</div></div>
-    <div class="dialogue-wrap" id="dialogue"></div>
-  </section>
-
-  <section class="section">
-    <div class="section-head">
-      <div><div class="title">기억에서 꺼내기</div><div class="subtitle">답을 보기 전에 직접 입력하거나 소리 내어 말하세요.</div></div>
-    </div>
-    <div id="retrievalList"></div>
-  </section>
-
-  <section class="section">
-    <div class="section-head"><div class="title">상황 판단 퀴즈</div><div class="subtitle">단순 번역보다 실제 상황에 가까운 문제</div></div>
-    <div id="quizList"></div>
-  </section>
-
-  <section class="history">
-    <div class="title">Study History</div>
-    <div class="subtitle">날짜를 누르면 그날 학습 내용을 다시 볼 수 있어요.</div>
-    <ul class="history-list" id="historyList"></ul>
-
-    <div class="history-view" id="historyView" hidden>
-      <div class="history-view-head">
-        <div>
-          <div class="history-view-date" id="historyViewDate"></div>
-          <div class="history-view-topic" id="historyViewTopic"></div>
-        </div>
-        <button class="history-relearn-btn" id="historyRelearnBtn" type="button">다시 학습하기</button>
-      </div>
-
-      <div class="history-mini-title">핵심 문장</div>
-      <div id="historySentences"></div>
-
-      <div class="history-mini-title">단어</div>
-      <div class="history-words" id="historyWords"></div>
-
-      <div class="history-mini-title">짧은 대화</div>
-      <div class="history-dialogue" id="historyDialogue"></div>
-
-      <div class="history-mini-title history-retrieval" id="historyRetrievalAnchor">기억에서 꺼내기</div>
-      <div id="historyRetrieval"></div>
-
-      <div class="history-mini-title">상황 판단 퀴즈</div>
-      <div id="historyQuiz"></div>
-    </div>
-  </section>
-
-  <div class="install-note">
-    iPhone Safari에서 <b>공유 → 홈 화면에 추가</b>를 누르면 앱처럼 단독 아이콘으로 사용할 수 있어요.
-  </div>
-
-  <footer>Travel English Daily · 여행에서 바로 꺼내 쓰는 영어</footer>
+<section class="history">
+<div class="title">Study History</div><div class="subtitle">날짜를 누르면 그날 학습 내용을 다시 볼 수 있어요.</div>
+<ul class="history-list" id="historyList"></ul>
+<div class="history-view" id="historyView" hidden>
+<div id="historyViewDate" class="subtitle"></div><div id="historyViewTopic" class="history-view-topic"></div>
+<div class="history-mini-title">핵심 문장</div><div id="historySentences"></div>
+<div class="history-mini-title">단어·표현</div><div class="history-words" id="historyWords"></div>
+<div class="history-mini-title">짧은 대화</div><div class="history-dialogue" id="historyDialogue"></div>
+<div class="history-mini-title">기억에서 꺼내기</div><div id="historyRetrieval"></div>
+<div class="history-mini-title">이렇게 말해도 돼요</div><div id="historyAlternatives"></div>
+</div>
+</section>
+<footer>Travel English Daily · 여행에서 바로 꺼내 쓰는 영어</footer>
 </div>
 
 <script>
 const esc=(v="")=>String(v).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
+const pron=x=>x?`<div class="pron">${esc(x)}</div>`:"";
 
-function retrievalCard(item, label="복습"){
-  return `
-    <article class="retrieval-card">
-      <div class="subtitle">${esc(label)}</div>
-      <div class="prompt-ko">${esc(item.korean)}</div>
-      <input class="retrieval-input" type="text" autocomplete="off" placeholder="영어로 입력하거나, 먼저 소리 내어 말해보세요">
-      <div class="actions">
-        <button class="btn btn-dark reveal-btn" type="button">정답 보기</button>
-      </div>
-      <div class="answer">
-        <div class="answer-en">${esc(item.english)}</div>
-        <div class="answer-tip">${esc(item.tip || "내가 말한 표현과 비교한 뒤 한 번 더 소리 내어 말해보세요.")}</div>
-      </div>
-    </article>`;
+function retrievalCard(x,label="오늘 표현"){
+ return `<article class="retrieval-card"><div class="subtitle">${esc(label)}</div><div class="prompt-ko">${esc(x.korean||"")}</div><input class="retrieval-input" placeholder="영어로 먼저 말하거나 입력해보세요"><button class="btn reveal-btn" type="button">정답 보기</button><div class="answer"><div class="answer-en">${esc(x.english||"")}</div>${pron(x.pronunciation)}<div class="tip">${esc(x.tip||"")}</div></div></article>`;
 }
-
-function bindRevealButtons(){
-  document.querySelectorAll(".reveal-btn").forEach(btn=>{
-    btn.addEventListener("click",()=>{
-      const answer=btn.closest(".retrieval-card").querySelector(".answer");
-      answer.classList.toggle("show");
-      btn.textContent=answer.classList.contains("show")?"정답 숨기기":"정답 보기";
-    });
-  });
-}
+function bindReveal(){document.querySelectorAll(".reveal-btn").forEach(b=>b.onclick=()=>{const a=b.closest(".retrieval-card").querySelector(".answer");a.classList.toggle("show");b.textContent=a.classList.contains("show")?"정답 숨기기":"정답 보기";});}
 
 async function loadLesson(){
-  const r=await fetch(`./lesson.json?v=${Date.now()}`,{cache:"no-store"});
-  const d=await r.json();
-
-  dateText.textContent=`${d.date||""} · ${d.updated_at||""}`;
-  topicTitle.textContent=d.topic||"";
-  topicIntro.textContent=d.intro||"";
-  hero.hidden=false;
-
-  const reviews=Array.isArray(d.review_items)?d.review_items:[];
-  if(reviews.length){
-    reviewList.innerHTML=reviews.map(x=>retrievalCard(x,`${esc(x.source_date||"이전 학습")} 복습`)).join("");
-    reviewSection.hidden=false;
-  }
-
-  sentences.innerHTML=(d.sentences||[]).map((x,i)=>`
-    <article class="card">
-      <div class="en">${i+1}. ${esc(x.english)}</div>
-      <div class="ko">${esc(x.korean)}</div>
-      <div class="tip">${esc(x.tip||"")}</div>
-    </article>`).join("");
-
-  if(d.pattern){
-    patternForm.textContent=d.pattern.form||"";
-    patternMeaning.textContent=d.pattern.meaning||"";
-    patternExamples.innerHTML=(d.pattern.examples||[]).map(x=>`• ${esc(x)}`).join("<br>");
-    patternSection.hidden=false;
-  }
-
-  words.innerHTML=(d.words||[]).map(x=>`
-    <div class="word"><b>${esc(x.word)}</b><span>${esc(x.meaning)}</span></div>`).join("");
-
-  dialogue.innerHTML=(d.dialogue||[]).map(x=>{
-    const speaker=String(x.speaker||"").toLowerCase();
-    const role=(speaker==="you"||speaker.includes("traveler")||speaker.includes("guest"))?"you":"staff";
-    return `
-      <div class="dialogue-line ${role}">
-        <div class="speaker">${esc(x.speaker)}</div>
-        <div class="dialogue-en">${esc(x.english)}</div>
-        <div class="dialogue-ko">${esc(x.korean)}</div>
-      </div>`;
-  }).join("");
-
-  const retrieval=(d.retrieval||[]).length ? d.retrieval : (d.sentences||[]).slice(0,3);
-  retrievalList.innerHTML=retrieval.map(x=>retrievalCard(x,"오늘 표현")).join("");
-
-  quizList.innerHTML=(d.quiz||[]).map((q,qi)=>`
-    <article class="card quiz">
-      <div class="en">Q${qi+1}. ${esc(q.question)}</div>
-      ${(q.options||[]).map((o,oi)=>`<button type="button" data-q="${qi}" data-o="${oi}">${esc(o)}</button>`).join("")}
-      <div class="quiz-result" id="quizResult${qi}"></div>
-    </article>`).join("");
-
-  document.querySelectorAll(".quiz button").forEach(btn=>{
-    btn.addEventListener("click",()=>{
-      const qi=Number(btn.dataset.q), oi=Number(btn.dataset.o), q=d.quiz[qi];
-      document.getElementById(`quizResult${qi}`).textContent=
-        (oi===Number(q.answer_index)?"정답! ":"다시 생각해봐요. ")+(q.explanation||"");
-    });
-  });
-
-  bindRevealButtons();
-}
-
-
-let selectedHistoryData=null;
-
-function historyRetrievalCard(item){
-  return `
-    <article class="retrieval-card">
-      <div class="prompt-ko">${esc(item.korean||"")}</div>
-      <input class="retrieval-input" type="text" autocomplete="off" placeholder="영어로 입력하거나 먼저 소리 내어 말해보세요">
-      <div class="actions"><button class="btn btn-dark history-reveal-btn" type="button">정답 보기</button></div>
-      <div class="answer">
-        <div class="answer-en">${esc(item.english||"")}</div>
-        <div class="answer-tip">${esc(item.tip||"내가 말한 표현과 비교해보세요.")}</div>
-      </div>
-    </article>`;
-}
-
-function bindHistoryReveal(){
-  document.querySelectorAll(".history-reveal-btn").forEach(btn=>{
-    btn.addEventListener("click",()=>{
-      const answer=btn.closest(".retrieval-card").querySelector(".answer");
-      answer.classList.toggle("show");
-      btn.textContent=answer.classList.contains("show")?"정답 숨기기":"정답 보기";
-    });
-  });
+ const r=await fetch(`./lesson.json?v=${Date.now()}`,{cache:"no-store"}); const d=await r.json();
+ dateText.textContent=`${d.date||""} · ${d.updated_at||""}`; topicTitle.textContent=d.topic||""; topicIntro.textContent=d.intro||""; hero.hidden=false;
+ const reviews=d.review_items||[]; if(reviews.length){reviewList.innerHTML=reviews.map(x=>retrievalCard(x,`${x.source_date||"이전"} 복습`)).join("");reviewSection.hidden=false;}
+ sentences.innerHTML=(d.sentences||[]).map((x,i)=>`<article class="card"><div class="en">${i+1}. ${esc(x.english||"")}</div>${pron(x.pronunciation)}<div class="ko">${esc(x.korean||"")}</div><div class="tip">${esc(x.tip||"")}</div></article>`).join("");
+ if(d.pattern){patternForm.textContent=d.pattern.form||"";patternPron.textContent=d.pattern.pronunciation||"";patternMeaning.textContent=d.pattern.meaning||"";patternExamples.innerHTML=(d.pattern.examples||[]).map(x=>typeof x==="string"?`• ${esc(x)}`:`<div style="margin-top:8px"><b>${esc(x.english||"")}</b>${pron(x.pronunciation)}<div class="ko">${esc(x.korean||"")}</div></div>`).join("");patternSection.hidden=false;}
+ words.innerHTML=(d.words||[]).map(x=>`<div class="word"><b>${esc(x.word||"")}</b>${pron(x.pronunciation)}<span>${esc(x.meaning||"")}</span></div>`).join("");
+ dialogue.innerHTML=(d.dialogue||[]).map(x=>{const s=String(x.speaker||"").toLowerCase();const role=(s==="you"||s.includes("traveler")||s.includes("guest"))?"you":"staff";return `<div class="dialogue-line ${role}"><div class="speaker">${esc(x.speaker||"")}</div><div class="dialogue-en">${esc(x.english||"")}</div>${pron(x.pronunciation)}<div class="dialogue-ko">${esc(x.korean||"")}</div></div>`}).join("");
+ retrievalList.innerHTML=(d.retrieval||[]).map(x=>retrievalCard(x)).join("");
+ alternativesList.innerHTML=(d.alternatives||[]).map(x=>`<article class="alt-card"><div class="alt-en">${esc(x.english||"")}</div>${pron(x.pronunciation)}<div class="alt-ko">${esc(x.korean||"")}</div><div class="alt-note">${esc(x.note||"")}</div></article>`).join("");
+ bindReveal();
 }
 
 async function openHistory(date){
-  try{
-    const r=await fetch(`./history/${date}.json?v=${Date.now()}`,{cache:"no-store"});
-    if(!r.ok)throw new Error();
-    const d=await r.json();
-    selectedHistoryData=d;
-
-    document.querySelectorAll("#historyList li").forEach(li=>{
-      li.classList.toggle("active",li.dataset.date===date);
-    });
-
-    historyViewDate.textContent=date;
-    historyViewTopic.textContent=d.topic||"";
-
-    historySentences.innerHTML=(d.sentences||[]).map((x,i)=>`
-      <div class="history-sentence">
-        <div class="en">${i+1}. ${esc(x.english||"")}</div>
-        <div class="ko">${esc(x.korean||"")}</div>
-      </div>`).join("");
-
-    historyWords.innerHTML=(d.words||[]).map(x=>`
-      <span class="history-word"><b>${esc(x.word||"")}</b>${esc(x.meaning||"")}</span>`).join("");
-
-    historyDialogue.innerHTML=(d.dialogue||[]).map(x=>{
-      const s=String(x.speaker||"").toLowerCase();
-      const role=(s==="you"||s.includes("traveler")||s.includes("guest"))?"you":"staff";
-      return `<div class="dialogue-line ${role}">
-        <div class="speaker">${esc(x.speaker||"")}</div>
-        <div class="dialogue-en">${esc(x.english||"")}</div>
-        <div class="dialogue-ko">${esc(x.korean||"")}</div>
-      </div>`;
-    }).join("");
-
-    const retrieval=(d.retrieval||[]).length?d.retrieval:(d.sentences||[]).slice(0,3);
-    historyRetrieval.innerHTML=retrieval.map(historyRetrievalCard).join("");
-
-    historyQuiz.innerHTML=(d.quiz||[]).map((q,qi)=>`
-      <article class="card quiz">
-        <div class="en">Q${qi+1}. ${esc(q.question||"")}</div>
-        ${(q.options||[]).map((o,oi)=>`<button type="button" class="history-quiz-btn" data-q="${qi}" data-o="${oi}">${esc(o)}</button>`).join("")}
-        <div class="quiz-result" id="historyQuizResult${qi}"></div>
-      </article>`).join("");
-
-    document.querySelectorAll(".history-quiz-btn").forEach(btn=>{
-      btn.addEventListener("click",()=>{
-        const qi=Number(btn.dataset.q),oi=Number(btn.dataset.o),q=d.quiz[qi];
-        document.getElementById(`historyQuizResult${qi}`).textContent=
-          (oi===Number(q.answer_index)?"정답! ":"다시 생각해봐요. ")+(q.explanation||"");
-      });
-    });
-
-    bindHistoryReveal();
-    historyView.hidden=false;
-    historyView.scrollIntoView({behavior:"smooth",block:"start"});
-  }catch(e){console.warn("history load failed",e)}
+ const r=await fetch(`./history/${date}.json?v=${Date.now()}`,{cache:"no-store"}); if(!r.ok)return; const d=await r.json();
+ document.querySelectorAll("#historyList li").forEach(li=>li.classList.toggle("active",li.dataset.date===date));
+ historyViewDate.textContent=date;historyViewTopic.textContent=d.topic||"";
+ historySentences.innerHTML=(d.sentences||[]).map((x,i)=>`<div class="history-sentence"><div class="en">${i+1}. ${esc(x.english||"")}</div>${pron(x.pronunciation)}<div class="ko">${esc(x.korean||"")}</div></div>`).join("");
+ historyWords.innerHTML=(d.words||[]).map(x=>`<span class="history-word"><b>${esc(x.word||"")}</b>${pron(x.pronunciation)}<div>${esc(x.meaning||"")}</div></span>`).join("");
+ historyDialogue.innerHTML=(d.dialogue||[]).map(x=>{const s=String(x.speaker||"").toLowerCase();const role=(s==="you"||s.includes("traveler")||s.includes("guest"))?"you":"staff";return `<div class="dialogue-line ${role}"><div class="speaker">${esc(x.speaker||"")}</div><div class="dialogue-en">${esc(x.english||"")}</div>${pron(x.pronunciation)}<div class="dialogue-ko">${esc(x.korean||"")}</div></div>`}).join("");
+ historyRetrieval.innerHTML=(d.retrieval||[]).map(x=>retrievalCard(x,"과거 표현")).join("");
+ historyAlternatives.innerHTML=(d.alternatives||[]).map(x=>`<article class="alt-card"><div class="alt-en">${esc(x.english||"")}</div>${pron(x.pronunciation)}<div class="alt-ko">${esc(x.korean||"")}</div><div class="alt-note">${esc(x.note||"")}</div></article>`).join("");
+ historyView.hidden=false;historyView.scrollIntoView({behavior:"smooth",block:"start"});bindReveal();
 }
-
-async function loadHistory(){
-  try{
-    const r=await fetch(`./history/index.json?v=${Date.now()}`,{cache:"no-store"});
-    if(!r.ok)return;
-    const d=await r.json();
-    const items=Array.isArray(d.items)?[...d.items].reverse().slice(0,30):[];
-    historyList.innerHTML=items.length
-      ? items.map(x=>`<li data-date="${esc(x.date)}"><b>${esc(x.date)}</b> · ${esc(x.topic)}</li>`).join("")
-      : "<li>아직 기록이 없습니다.</li>";
-    historyList.querySelectorAll("li[data-date]").forEach(li=>{
-      li.addEventListener("click",()=>openHistory(li.dataset.date));
-    });
-  }catch{}
-}
-
-historyRelearnBtn.addEventListener("click",()=>{
-  if(!selectedHistoryData)return;
-  historyRetrievalAnchor.scrollIntoView({behavior:"smooth",block:"start"});
-  setTimeout(()=>{
-    const firstInput=historyRetrieval.querySelector(".retrieval-input");
-    if(firstInput)firstInput.focus();
-  },450);
-});
-
-
-loadLesson();
-loadHistory();
+async function loadHistory(){try{const r=await fetch(`./history/index.json?v=${Date.now()}`,{cache:"no-store"});if(!r.ok)return;const d=await r.json();const items=[...(d.items||[])].reverse().slice(0,30);historyList.innerHTML=items.map(x=>`<li data-date="${esc(x.date)}"><b>${esc(x.date)}</b> · ${esc(x.topic)}</li>`).join("");historyList.querySelectorAll("li").forEach(li=>li.onclick=()=>openHistory(li.dataset.date));}catch{}}
+loadLesson();loadHistory();
 </script>
-</body>
-</html>
+</body></html>
