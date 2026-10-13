@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-13",
+  "updated_at": "12:05 KST",
+  "topic": "연결편 시간이 촉박할 때 직원에게 도움 요청하기",
+  "intro": "해외여행 중 환승 공항에 도착했는데, 다음 연결편까지 시간이 너무 촉박할 때가 있습니다. 이런 비상 상황에서 공항 직원에게 도움을 요청하고, 필요한 정보를 빠르게 얻어 비행기를 놓치지 않도록 실제 회화용 표현들을 배워봅시다.",
+  "sentences": [
+    {
+      "english": "I have a very tight connection to my next flight, KE456 to Paris. My layover is only 40 minutes.",
+      "pronunciation": "아이 해버 베리 타잍 커넥션 투 마이 넥스트 플라잍, 케이-이 포-파이브-식 투 패리스. 마이 레이오버 이즈 온리 포티 미닛츠.",
+      "korean": "다음 연결편, 파리행 KE456편까지 시간이 너무 촉박해요. 환승 시간이 겨우 40분밖에 안 됩니다.",
+      "tip": "구체적인 다음 항공편 정보와 환승 시간을 말하면 직원에게 정확한 상황을 전달하여 긴급함을 인지시킬 수 있습니다."
+    },
+    {
+      "english": "I'm worried I won't make it. Is there any way I could get some assistance or expedited directions?",
+      "pronunciation": "아임 워리드 아이 원트 메익 잇. 이즈 데어 애니 웨이 아이 쿧 겟 썸 어시스턴스 오어 엑스퍼다이티드 디렉션즈?",
+      "korean": "비행기를 놓칠까 봐 걱정됩니다. 어떤 도움이나 빨리 갈 수 있는 길 안내를 받을 수 있을까요?",
+      "tip": "'expedited directions'는 빨리 갈 수 있는 길 안내를 의미하며, 'expedited'를 사용해 긴급함을 나타낼 수 있습니다."
+    },
+    {
+      "english": "Could you please tell me the quickest way to get to Gate B12 from here?",
+      "pronunciation": "쿧 유 플리즈 텔 미 더 퀵키스트 웨이 투 겟 투 게이트 비-트웰브 프롬 히어?",
+      "korean": "여기서 B12번 탑승구까지 가는 가장 빠른 길을 알려주시겠어요?",
+      "tip": "특정 게이트 번호를 언급하며 가장 빠른 길을 물어보는 표현입니다. 'from here'를 붙여 현재 위치를 강조합니다."
+    },
+    {
+      "english": "Just to confirm, will my checked baggage be automatically transferred to my connecting flight?",
+      "pronunciation": "저스트 투 컨펌, 윌 마이 첵트 배기지 비 오토매티컬리 트랜스퍼드 투 마이 커넥팅 플라잍?",
+      "korean": "다시 확인하자면, 제 위탁 수하물이 연결편으로 자동으로 옮겨지는 건가요?",
+      "tip": "긴급 상황에서도 수하물 문제를 확인하여 혹시 모를 추가적인 지연을 방지하고 안심할 수 있습니다."
+    },
+    {
+      "english": "What happens if I miss my connecting flight due to this tight schedule?",
+      "pronunciation": "왓 해픈스 이프 아이 미스 마이 커넥팅 플라잍 듀 투 디스 타잍 스케줄?",
+      "korean": "이렇게 촉박한 일정 때문에 연결편을 놓치면 어떻게 되나요?",
+      "tip": "최악의 상황을 대비해 대안이나 조치를 미리 물어보는 표현으로, 직원의 도움을 이끌어낼 수 있습니다."
+    }
+  ],
+  "pattern": {
+    "form": "I'm a bit concerned about [명사/동명사]. Is there anything [형용사] you can do?",
+    "pronunciation": "아임 어 빗 컨선드 어바웃 [명사/동명사]. 이즈 데어 에니띵 [형용사] 유 캔 두?",
+    "meaning": "~에 대해 좀 걱정됩니다. 무엇을 할 수 있는 것이 있을까요?",
+    "examples": [
+      {
+        "english": "I'm a bit concerned about the short layover. Is there anything urgent you can do?",
+        "pronunciation": "아임 어 빗 컨선드 어바웃 더 쇼트 레이오버. 이즈 데어 에니띵 얼젼트 유 캔 두?",
+        "korean": "짧은 환승 시간 때문에 좀 걱정됩니다. 급하게 해줄 수 있는 것이 있을까요?"
+      },
+      {
+        "english": "I'm a bit concerned about missing my flight. Is there anything helpful you can do?",
+        "pronunciation": "아임 어 빗 컨선드 어바웃 미싱 마이 플라잍. 이즈 데어 에니띵 헬프풀 유 캔 두?",
+        "korean": "비행기를 놓칠까 봐 좀 걱정됩니다. 도움이 될 만한 것이 있을까요?"
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "tight connection",
+      "pronunciation": "타잍 커넥션",
+      "meaning": "촉박한 연결편/환승"
+    },
+    {
+      "word": "layover",
+      "pronunciation": "레이오버",
+      "meaning": "경유, 환승 시간"
+    },
+    {
+      "word": "expedited",
+      "pronunciation": "엑스퍼다이티드",
+      "meaning": "신속한, 빠르게 처리된"
+    },
+    {
+      "word": "make it",
+      "pronunciation": "메익 잇",
+      "meaning": "(시간 내에) 해내다, 도착하다"
+    },
+    {
+      "word": "boarding gate",
+      "pronunciation": "보딩 게이트",
+      "meaning": "탑승구"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "You",
+      "english": "Excuse me, I really need some help. I have a very tight connection to my next flight, KE456 to Paris. My layover is only 40 minutes.",
+      "pronunciation": "익스큐즈 미, 아이 리얼리 니드 썸 헬프. 아이 해버 베리 타잍 커넥션 투 마이 넥스트 플라잍, 케이-이 포-파이브-식 투 패리스. 마이 레이오버 이즈 온리 포티 미닛츠.",
+      "korean": "실례합니다, 정말 도움이 필요해요. 다음 연결편, 파리행 KE456편까지 시간이 너무 촉박합니다. 환승 시간이 겨우 40분밖에 안 돼요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Okay, I see. KE456 to Paris. That is quite short. What's your current gate?",
+      "pronunciation": "오케이, 아이 씨. 케이-이 포-파이브-식 투 패리스. 댓 이즈 콰잍 쇼트. 왓츠 유어 커런트 게이트?",
+      "korean": "네, 알겠습니다. 파리행 KE456편이요. 꽤 촉박하네요. 현재 탑승구는 어디신가요?"
+    },
+    {
+      "speaker": "You",
+      "english": "I just arrived at Gate C5, and KE456 departs from Gate B12. I'm worried I won't make it. Is there any way I could get some assistance or expedited directions?",
+      "pronunciation": "아이 저스트 어라이브드 앳 게이트 씨-파이브, 앤 케이-이 포-파이브-식 디파르츠 프롬 게이트 비-트웰브. 아임 워리드 아이 원트 메익 잇. 이즈 데어 애니 웨이 아이 쿧 겟 썸 어시스턴스 오어 엑스퍼다이티드 디렉션즈?",
+      "korean": "방금 C5번 탑승구에 도착했는데, KE456편은 B12번 탑승구에서 출발해요. 놓칠까 봐 걱정돼요. 어떤 도움이나 빨리 갈 수 있는 길 안내를 받을 수 있을까요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "C5 to B12, I understand. B12 is in a different concourse. I can give you directions, but it might be quicker to take the shuttle train to Concourse B. I'll get you a priority pass.",
+      "pronunciation": "씨-파이브 투 비-트웰브, 아이 언더스탠드. 비-트웰브 이즈 인 어 디퍼런트 컨코스. 아이 캔 기브 유 디렉션즈, 벗 잇 마잍 비 퀵커 투 테익 더 셔틀 트레인 투 컨코스 비. 아일 겟 유 어 프라이오리티 패스.",
+      "korean": "C5에서 B12요. 알겠습니다. B12는 다른 터미널 구역(concourse)에 있습니다. 제가 길을 알려드릴 수도 있지만, B 터미널 구역으로 가는 셔틀 트레인을 타는 게 더 빠를 거예요. 우선 통과권을 드리겠습니다."
+    },
+    {
+      "speaker": "You",
+      "english": "A priority pass would be great, thank you! Just to confirm, will my checked baggage be automatically transferred to my connecting flight?",
+      "pronunciation": "어 프라이오리티 패스 우드 비 그레잍, 땡큐! 저스트 투 컨펌, 윌 마이 첵트 배기지 비 오토매티컬리 트랜스퍼드 투 마이 커넥팅 플라잍?",
+      "korean": "우선 통과권이라니 정말 좋네요, 감사합니다! 다시 확인하자면, 제 위탁 수하물이 연결편으로 자동으로 옮겨지는 건가요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Yes, your baggage will be transferred automatically. Just focus on getting to Gate B12 as quickly as possible. The shuttle train leaves every 5 minutes from this level.",
+      "pronunciation": "예스, 유어 배기지 윌 비 트랜스퍼드 오토매티컬리. 저스트 포커스 온 게팅 투 게이트 비-트웰브 애즈 퀵클리 애즈 파서블. 더 셔틀 트레인 리브즈 에브리 파이브 미닛츠 프롬 디스 레벨.",
+      "korean": "네, 수하물은 자동으로 옮겨질 겁니다. B12번 탑승구로 가능한 한 빨리 이동하는 데 집중하세요. 셔틀 트레인은 이 층에서 5분마다 출발합니다."
+    },
+    {
+      "speaker": "You",
+      "english": "Got it. And what happens if I miss my connecting flight due to this tight schedule, despite everything?",
+      "pronunciation": "갓 잇. 앤 왓 해픈스 이프 아이 미스 마이 커넥팅 플라잍 듀 투 디스 타잍 스케줄, 디스파잍 에브리띵?",
+      "korean": "알겠습니다. 만약 이 모든 노력에도 불구하고 이렇게 촉박한 일정 때문에 연결편을 놓치면 어떻게 되나요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "If you genuinely miss it due to the tight connection, come back to this desk immediately. We'll assist you with rebooking the next available flight. But please try your best to make it!",
+      "pronunciation": "이프 유 제뉴인리 미스 잇 듀 투 더 타잍 커넥션, 컴 백 투 디스 데스크 이미디엇리. 윌 어시스트 유 위드 리부킹 더 넥스트 어베일러블 플라잍. 벗 플리즈 트라이 유어 베스트 투 메익 잇!",
+      "korean": "정말로 촉박한 연결편 때문에 놓치셨다면, 즉시 이 안내 데스크로 돌아오세요. 다음 이용 가능한 항공편으로 재예약하는 것을 도와드리겠습니다. 하지만 최선을 다해 탑승하세요!"
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "I have a very tight connection to my next flight.",
+      "pronunciation": "아이 해버 베리 타잍 커넥션 투 마이 넥스트 플라잍.",
+      "korean": "다음 연결편까지 시간이 정말 촉박합니다.",
+      "tip": "'촉박한 연결편'을 의미하는 단어와 패턴을 떠올려보세요."
+    },
+    {
+      "english": "Could you please tell me the quickest way to get to my connecting flight?",
+      "pronunciation": "쿧 유 플리즈 텔 미 더 퀵키스트 웨이 투 겟 투 마이 커넥팅 플라잍?",
+      "korean": "다음 비행기로 환승하는 가장 빠른 길을 알려주시겠어요?",
+      "tip": "'가장 빠른 길'이라는 표현과 길을 묻는 질문 구조를 사용하세요."
+    },
+    {
+      "english": "What happens if I miss my connecting flight?",
+      "pronunciation": "왓 해픈스 이프 아이 미스 마이 커넥팅 플라잍?",
+      "korean": "만약 제가 연결편을 놓치면 어떻게 되나요?",
+      "tip": "'만약 ~라면 어떻게 되나요?' 패턴을 사용하세요."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "I'm in a bit of a rush for my connecting flight. Any chance you could point me in the right direction quickly?",
+      "pronunciation": "아임 인 어 빗 오브 어 러쉬 포 마이 커넥팅 플라잍. 에니 찬스 유 쿧 포인 미 인 더 라잍 디렉션 퀵클리?",
+      "korean": "다음 연결편 때문에 좀 급합니다. 빠른 길을 알려주실 수 있을까요?",
+      "note": "'I'm in a bit of a rush'는 좀 더 캐주얼하게 급한 상황을 표현합니다. 'Any chance you could...'는 'Is there any way I could...'와 유사하지만, 좀 더 간결한 도움 요청입니다."
+    },
+    {
+      "english": "Just making sure, my bags will automatically transfer, right?",
+      "pronunciation": "저스트 메이킹 슈어, 마이 백스 윌 오토매티컬리 트랜스퍼, 라잍?",
+      "korean": "확인차 묻는데, 제 짐은 자동으로 옮겨지는 거죠?",
+      "note": "'Just making sure'는 'Just to confirm'과 비슷한 의미로, 좀 더 구어체적이고 자연스러운 확인 표현입니다. 'right?'를 덧붙여 확인을 구하는 뉘앙스를 강화합니다."
+    },
+    {
+      "english": "If I can't make it to the gate on time, what are my options?",
+      "pronunciation": "이프 아이 캔트 메익 잇 투 더 게이트 온 타임, 왓 아 마이 옵션스?",
+      "korean": "제시간에 게이트에 도착하지 못하면, 어떤 선택지들이 있을까요?",
+      "note": "'What are my options?'는 'What happens if...?'보다 조금 더 직접적으로 해결책이나 대안을 묻는 표현입니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-10-12",
+      "english": "Hi, I'm on flight KE123 to London, and the departure board is showing a significant delay.",
+      "pronunciation": "하이, 아임 온 플라잇 케이 이 원 투 쓰리 투 런던, 앤 더 디파쳐 보-드 이즈 쇼잉 어 시그니피컨트 딜레이.",
+      "korean": "안녕하세요, 저는 런던행 KE123편 승객인데, 출발 전광판에 상당한 지연이 표시되어 있네요.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-12",
+      "english": "I'd appreciate it if you could clarify what caused the flight delay.",
+      "pronunciation": "아이드 어프리시에잇 잇 이프 유 쿠드 클레러파이 왓 코-즈드 더 플라잇 딜레이.",
+      "korean": "항공편 지연의 원인이 무엇인지 명확히 알려주시면 감사하겠습니다.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-10",
+      "english": "Do I need to take out all my electronics, even small ones?",
+      "pronunciation": "두 아이 니-ㄷ 투 테잌 아웃 올 마이 일렉트라닉스, 이-븐 스몰 원스?",
+      "korean": "작은 전자기기까지 모두 꺼내야 하나요?",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-10",
+      "english": "I'm not entirely sure about the rules for liquids. Where should I put them?",
+      "pronunciation": "아임 낫 인타이얼리 슈어 어바웃 더 룰스 포-ㄹ 리퀴즈. 웨어 슈ㄷ 아이 풋 뎀?",
+      "korean": "액체류 규정이 정확히 어떻게 되는지 잘 모르겠어요. 어디에 두어야 하나요?",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-07",
+      "english": "It seems my bag is overweight.",
+      "pronunciation": "잇 씨-임스 마이 백 이즈 오우-버-웨잇.",
+      "korean": "제 가방이 무게 초과인 것 같아요.",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
