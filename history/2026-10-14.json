@@ -1,0 +1,203 @@
+{
+  "date": "2026-10-14",
+  "updated_at": "10:18 KST",
+  "topic": "항공편 취소 후 대체편 문의하기",
+  "intro": "해외여행 직전, 공항에 도착했는데 갑자기 항공편 취소 문자를 받았다면? 당황하지 말고 항공사 직원에게 상황을 설명하고 대체 항공편이나 환불, 보상 등에 대해 문의해야 합니다. 오늘은 항공편 취소 상황에서 필요한 실용적인 영어 표현들을 배워볼게요.",
+  "sentences": [
+    {
+      "english": "My flight, [Flight Number] to [Destination], has just been cancelled. What are my next steps?",
+      "pronunciation": "마이 플라잇, [플라잇 넘버] 투 [데스터네이션], 해스 져스트 빈 캔설드. 왓 아 마이 넥스트 스텝스?",
+      "korean": "제 [목적지]행 [항공편 번호]편 항공편이 방금 취소되었습니다. 이제 어떻게 해야 하죠?",
+      "tip": "항공편 취소 상황을 설명하고 바로 다음 절차를 문의할 때 사용합니다. 구체적인 항공편 정보를 함께 언급하는 것이 중요합니다."
+    },
+    {
+      "english": "I'm trying to understand the reason for this cancellation. What exactly happened?",
+      "pronunciation": "아임 트라잉 투 언더스탠 더 리즌 포 디스 캔설레이션. 왓 이그잭틀리 해픈드?",
+      "korean": "이번 취소의 이유를 이해하고 싶습니다. 정확히 무슨 일이 있었던 거죠?",
+      "tip": "취소 사유를 정확히 알고 싶을 때 쓰는 표현입니다. 직원이 상황을 설명해 줄 기회를 주는 완곡한 질문입니다."
+    },
+    {
+      "english": "Are there any alternative flights available for today or tomorrow?",
+      "pronunciation": "아 데어 애니 얼터너티브 플라잇스 어베일러블 포 투데이 오어 투마로우?",
+      "korean": "오늘이나 내일 출발하는 다른 대체 항공편이 있을까요?",
+      "tip": "대체 항공편을 찾을 때 특정 시간대나 날짜를 지정하여 질문하면 더 빠르고 효율적인 답변을 얻을 수 있습니다."
+    },
+    {
+      "english": "Am I entitled to a refund or any compensation for this?",
+      "pronunciation": "앰 아인 타이틀드 투 어 리펀드 오어 애니 컴펜세이션 포 디스?",
+      "korean": "이 경우 환불이나 보상을 받을 수 있나요?",
+      "tip": "항공편 취소 시 승객의 권리(환불, 보상)를 직접적으로 문의하는 표현입니다. 'entitled to'는 ~을 받을 자격이 있다는 뜻입니다."
+    },
+    {
+      "english": "Will this new arrangement affect my checked luggage, or will it be transferred automatically?",
+      "pronunciation": "윌 디스 뉴 어레인지먼트 어펙트 마이 첵트 러기지, 오어 윌 잇 비 트랜스퍼드 오토매티컬리?",
+      "korean": "이 새로운 조치가 제 위탁 수하물에 영향을 미치나요, 아니면 자동으로 옮겨지나요?",
+      "tip": "대체 항공편으로 변경 시 위탁 수하물의 처리 방식은 중요한 문제입니다. 명확하게 확인하여 혼란을 방지하세요."
+    }
+  ],
+  "pattern": {
+    "form": "I was supposed to [동사 원형]...",
+    "pronunciation": "아이 워즈 서포즈드 투 [동사 원형]...",
+    "meaning": "~하기로 되어 있었는데 (예상했던 계획이 틀어졌음을 암시)",
+    "examples": [
+      {
+        "english": "I was supposed to depart at 10 AM, but the flight is cancelled.",
+        "pronunciation": "아이 워즈 서포즈드 투 디파트 앳 텐 에이엠, 벗 더 플라잇 이즈 캔설드.",
+        "korean": "오전 10시에 출발하기로 되어 있었는데, 항공편이 취소되었어요."
+      },
+      {
+        "english": "I was supposed to meet a friend at my destination this evening.",
+        "pronunciation": "아이 워즈 서포즈드 투 밋 어 프렌드 앳 마이 데스터네이션 디스 이브닝.",
+        "korean": "오늘 저녁에 목적지에서 친구를 만나기로 되어 있었어요."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "cancellation",
+      "pronunciation": "캔설레이션",
+      "meaning": "취소"
+    },
+    {
+      "word": "alternative flight",
+      "pronunciation": "얼터너티브 플라잇",
+      "meaning": "대체 항공편"
+    },
+    {
+      "word": "rebook",
+      "pronunciation": "리북",
+      "meaning": "(항공편 등을) 재예약하다"
+    },
+    {
+      "word": "compensation",
+      "pronunciation": "컴펜세이션",
+      "meaning": "보상"
+    },
+    {
+      "word": "overnight stay",
+      "pronunciation": "오버나잇 스테이",
+      "meaning": "1박 숙박 (호텔 등)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "You",
+      "english": "Excuse me, I just received a notification that my flight, KE123 to London, has been cancelled. What are my next steps?",
+      "pronunciation": "익스큐즈 미, 아이 져스트 리시브드 어 노티피케이션 댓 마이 플라잇, 케이 이 원 투 쓰리 투 런던, 해스 빈 캔설드. 왓 아 마이 넥스트 스텝스?",
+      "korean": "실례합니다, 방금 제 KE123편 런던행 항공편이 취소되었다는 알림을 받았습니다. 이제 어떻게 해야 하죠?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "I'm sorry to hear that, sir/ma'am. Could you please provide your booking reference or passport?",
+      "pronunciation": "아임 쏘리 투 히어 댓, 써/매암. 쿠쥬 플리즈 프로바이드 유어 부킹 레퍼런스 오어 패스포트?",
+      "korean": "죄송합니다 고객님. 예약 참조 번호나 여권을 주시겠어요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Here's my booking reference: ABCDEFG. I'm trying to understand the reason for this cancellation. What exactly happened?",
+      "pronunciation": "히어스 마이 부킹 레퍼런스: 에이 비 씨 디 이 에프 지. 아임 트라잉 투 언더스탠 더 리즌 포 디스 캔설레이션. 왓 이그잭틀리 해픈드?",
+      "korean": "제 예약 번호는 ABCDEFG입니다. 이번 취소의 이유를 이해하고 싶습니다. 정확히 무슨 일이 있었던 거죠?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Thank you. Let me check... Yes, flight KE123 to London has been cancelled due to unforeseen operational issues. We apologize for the inconvenience. We're rebooking passengers onto the next available flights.",
+      "pronunciation": "땡큐. 렛 미 첵... 예스, 플라잇 케이 이 원 투 쓰리 투 런던 해스 빈 캔설드 듀 투 언포씬 오퍼레이셔널 이슈스. 위 어폴러자이즈 포 디 인컨비니언스. 위어 리부킹 패신저스 온투 더 넥스트 어베일러블 플라잇스.",
+      "korean": "감사합니다. 확인해 보니... 네, KE123편 런던행 항공편은 예기치 않은 운항 문제로 취소되었습니다. 불편을 드려 죄송합니다. 다음 이용 가능한 항공편으로 승객들을 재예약하고 있습니다."
+    },
+    {
+      "speaker": "You",
+      "english": "I see. Are there any alternative flights available for today or tomorrow?",
+      "pronunciation": "아이 씨. 아 데어 애니 얼터너티브 플라잇스 어베일러블 포 투데이 오어 투마로우?",
+      "korean": "알겠습니다. 오늘이나 내일 출발하는 다른 대체 항공편이 있을까요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Yes, we have a flight, KE125, departing tomorrow morning at 9 AM. It has a few seats left. Would you like to be rebooked on that?",
+      "pronunciation": "예스, 위 해브 어 플라잇, 케이 이 원 투 파이브, 디파팅 투마로우 모닝 앳 나인 에이엠. 잇 해스 어 퓨 씨츠 레프트. 우쥬 라익 투 비 리북트 온 댓?",
+      "korean": "네, 내일 아침 9시에 출발하는 KE125편 항공편이 있습니다. 좌석이 몇 개 남아있습니다. 그 편으로 재예약해 드릴까요?"
+    },
+    {
+      "speaker": "You",
+      "english": "That might work. Will this new arrangement affect my checked luggage, or will it be transferred automatically?",
+      "pronunciation": "댓 마이트 워크. 윌 디스 뉴 어레인지먼트 어펙트 마이 첵트 러기지, 오어 윌 잇 비 트랜스퍼드 오토매티컬리?",
+      "korean": "그럼 괜찮을 것 같네요. 이 새로운 조치가 제 위탁 수하물에 영향을 미치나요, 아니면 자동으로 옮겨지나요?"
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "My flight has just been cancelled. What are my next steps?",
+      "pronunciation": "마이 플라잇 해스 져스트 빈 캔설드. 왓 아 마이 넥스트 스텝스?",
+      "korean": "제 항공편이 방금 취소되었습니다. 이제 어떻게 해야 하죠?",
+      "tip": "항공편 취소를 알리고 바로 다음 단계를 묻는 표현"
+    },
+    {
+      "english": "Are there any alternative flights available for today or tomorrow?",
+      "pronunciation": "아 데어 애니 얼터너티브 플라잇스 어베일러블 포 투데이 오어 투마로우?",
+      "korean": "오늘이나 내일 출발하는 다른 대체 항공편이 있을까요?",
+      "tip": "대체 가능한 항공편 여부를 문의할 때"
+    },
+    {
+      "english": "Will this new arrangement affect my checked luggage?",
+      "pronunciation": "윌 디스 뉴 어레인지먼트 어펙트 마이 첵트 러기지?",
+      "korean": "새로운 조치가 제 위탁 수하물에 영향을 미치나요?",
+      "tip": "대체편 탑승 시 수하물 처리 방식 확인"
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "I just got a notification about my flight to [Destination], [Flight Number]. It says it's been cancelled. What should I do now?",
+      "pronunciation": "아이 져스트 갓 어 노티피케이션 어바웃 마이 플라잇 투 [데스터네이션], [플라잇 넘버]. 잇 세즈 잇츠 빈 캔설드. 왓 슈드 아이 두 나우?",
+      "korean": "제 [목적지]행 [항공편 번호]편 항공편에 대한 알림을 방금 받았는데, 취소되었다고 합니다. 이제 어떻게 해야 하죠?",
+      "note": "'received a notification' 대신 'got a notification'을 사용하여 좀 더 캐주얼하고 직접적인 표현. 'What should I do now?'는 'What are my next steps?'와 비슷한 의미지만 조금 더 당장의 행동에 초점을 맞춤."
+    },
+    {
+      "english": "It appears my flight, [Flight Number] to [Destination], has been cancelled. Could you please advise on what options are available?",
+      "pronunciation": "잇 어피어스 마이 플라잇, [플라잇 넘버] 투 [데스터네이션], 해즈 빈 캔설드. 쿠쥬 플리즈 어드바이즈 온 왓 옵션스 아 어베일러블?",
+      "korean": "제 [목적지]행 [항공편 번호]편 항공편이 취소된 것 같습니다. 어떤 선택지가 있는지 알려주시겠어요?",
+      "note": "'It appears'는 조금 더 정중하고 간접적으로 상황을 인지했음을 표현합니다. 'Could you please advise on what options are available?'은 'What are my next steps?'보다 좀 더 공식적으로 조언을 구하는 표현."
+    },
+    {
+      "english": "Is there any possibility of rebooking me on another flight, perhaps for today or tomorrow?",
+      "pronunciation": "이즈 데어 애니 파서빌리티 오브 리부킹 미 온 어나더 플라잇, 퍼햅스 포 투데이 오어 투마로우?",
+      "korean": "혹시 오늘이나 내일 출발하는 다른 항공편으로 저를 재예약해줄 가능성이 있을까요?",
+      "note": "'Are there any alternative flights available?'보다 'Is there any possibility of...?'는 직접적으로 질문하기보다 가능성을 묻는 더 부드러운 표현. 'rebooking me'를 사용하여 재예약의 의사를 명확히 함."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-10-13",
+      "english": "I have a very tight connection to my next flight, KE456 to Paris. My layover is only 40 minutes.",
+      "pronunciation": "아이 해버 베리 타잍 커넥션 투 마이 넥스트 플라잍, 케이-이 포-파이브-식 투 패리스. 마이 레이오버 이즈 온리 포티 미닛츠.",
+      "korean": "다음 연결편, 파리행 KE456편까지 시간이 너무 촉박해요. 환승 시간이 겨우 40분밖에 안 됩니다.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-13",
+      "english": "I'm worried I won't make it. Is there any way I could get some assistance or expedited directions?",
+      "pronunciation": "아임 워리드 아이 원트 메익 잇. 이즈 데어 애니 웨이 아이 쿧 겟 썸 어시스턴스 오어 엑스퍼다이티드 디렉션즈?",
+      "korean": "비행기를 놓칠까 봐 걱정됩니다. 어떤 도움이나 빨리 갈 수 있는 길 안내를 받을 수 있을까요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-11",
+      "english": "My boarding pass shows Gate A7, but the departure screen is showing Gate B3 for my flight to London. I'm a bit confused.",
+      "pronunciation": "마이 보딩 파-쓰 쇼우스 게잇 에이 세븐, 벗 더 디파-쳐 스크린 이즈 쇼잉 게잇 비 쓰리 포- 마이 플라잇 투 런던. 아임 어 빗 컨퓨-즈드.",
+      "korean": "제 탑승권에는 A7 게이트라고 되어 있는데, 출발 전광판에는 런던행 제 비행기가 B3 게이트라고 나와 있어요. 좀 헷갈리네요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-11",
+      "english": "I was hoping you could help me confirm which gate is the correct one for flight KE123 to London.",
+      "pronunciation": "아이 워즈 호우핑 유 쿧 헬프 미 컨펌 위치 게잇 이즈 더 커렉트 원 포- 플라잇 케이 이 원 투 쓰리 투 런던.",
+      "korean": "KE123편 런던행 비행기의 정확한 탑승구가 어디인지 확인하는 걸 도와주셨으면 해요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-08",
+      "english": "I'm hoping to get an aisle seat if possible.",
+      "pronunciation": "아임 호-핑 투 겟 언 아일 씨-트 이프 파서블.",
+      "korean": "가능하면 통로석으로 배정받고 싶어요.",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
