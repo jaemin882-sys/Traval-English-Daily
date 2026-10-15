@@ -1,0 +1,199 @@
+{
+  "date": "2026-10-15",
+  "updated_at": "09:39 KST",
+  "topic": "기내에서 좌석을 바꿔도 되는지 묻기",
+  "intro": "해외여행의 시작, 기내에서 좌석이 불편하거나 일행과 떨어져 앉게 될 때, 승무원에게 좌석 변경 가능성을 문의하는 상황을 연습해봅시다. 친절하게 상황을 설명하고 대안을 묻는 것이 중요해요.",
+  "sentences": [
+    {
+      "english": "Is there any chance I could possibly move to a different seat?",
+      "pronunciation": "이즈 데어 애니 챈스 아이 쿧 파서블리 무브 투 어 디프런트 싯?",
+      "korean": "혹시 다른 좌석으로 옮길 수 있는 가능성이 있을까요?",
+      "tip": "'Is there any chance...?'는 정중하게 가능성을 묻는 표현입니다. 'possibly'를 추가하면 더욱 조심스러운 뉘앙스가 됩니다."
+    },
+    {
+      "english": "I'm finding this seat a bit uncomfortable for such a long flight, if you don't mind.",
+      "pronunciation": "아임 파인딩 디스 싯 어 빗 언컴퍼터블 포 서치 어 롱 플라잇, 이프 유 돈 마인드.",
+      "korean": "실례지만, 이 좌석이 장시간 비행하기엔 좀 불편해서요.",
+      "tip": "좌석 변경을 요청하는 이유를 설명할 때 사용합니다. 'if you don't mind'를 붙여 공손함을 더할 수 있습니다."
+    },
+    {
+      "english": "Do you happen to know if there are any unoccupied seats in a quieter section?",
+      "pronunciation": "두 유 해픈 투 노 이프 데어 아 애니 언아큐파이드 싯츠 인 어 콰이어터 섹션?",
+      "korean": "혹시 좀 더 조용한 구역에 비어있는 좌석이 있는지 아세요?",
+      "tip": "'Do you happen to know~?'는 상대방에게 부담을 주지 않고 정보를 묻는 간접적인 표현입니다. 'unoccupied'는 'empty'보다 약간 더 격식 있는 '비어있는'이라는 뜻입니다."
+    },
+    {
+      "english": "So, just to confirm, there might be an aisle seat available a few rows back?",
+      "pronunciation": "쏘, 저슷 투 컨펌, 데어 마잇 비 언 아일 싯 어베일러블 어 퓨 로우즈 백?",
+      "korean": "그럼, 확인을 위해 여쭤보자면, 뒤쪽 몇 줄에 통로 좌석이 있을 수도 있다는 말씀이신가요?",
+      "tip": "승무원의 설명을 재확인할 때 사용합니다. 'a few rows back'은 '몇 줄 뒤에'라는 의미입니다."
+    },
+    {
+      "english": "I'd really appreciate it if you could let me know if anything opens up.",
+      "pronunciation": "아이드 리얼리 어프리시에잇 잇 이프 유 쿧 렛 미 노 이프 에니씽 오픈즈 업.",
+      "korean": "만약 좌석이 비게 된다면 알려주시면 정말 감사하겠습니다.",
+      "tip": "즉시 좌석 변경이 어려울 경우, 나중에라도 가능성이 생기면 알려달라고 부탁할 때 쓸 수 있는 매우 정중한 표현입니다."
+    }
+  ],
+  "pattern": {
+    "form": "Is there any chance + [주어] + [동사 원형]...?",
+    "pronunciation": "이즈 데어 애니 챈스 [주어] [동사 원형]...?",
+    "meaning": "~할 가능성이 있을까요?",
+    "examples": [
+      {
+        "english": "Is there any chance we could depart earlier?",
+        "pronunciation": "이즈 데어 애니 챈스 위 쿧 디파트 얼리어?",
+        "korean": "혹시 저희가 더 일찍 출발할 가능성이 있을까요?",
+        "tip": "기내에서 'depart'는 이륙하다는 뜻으로 쓰입니다."
+      },
+      {
+        "english": "Is there any chance to get a window seat later in the flight?",
+        "pronunciation": "이즈 데어 애니 챈스 투 겟 어 윈도우 싯 레이터 인 더 플라잇?",
+        "korean": "비행 중 나중에라도 창가 좌석을 얻을 가능성이 있을까요?",
+        "tip": "'to get'을 사용하여 '얻을' 가능성을 묻는 표현입니다."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "unoccupied",
+      "pronunciation": "언-아큐파이드",
+      "meaning": "비어있는, 사람이 없는"
+    },
+    {
+      "word": "recline",
+      "pronunciation": "리-클라인",
+      "meaning": "(등받이를) 뒤로 젖히다"
+    },
+    {
+      "word": "overhead bin",
+      "pronunciation": "오버헤드 빈",
+      "meaning": "머리 위 짐칸 (기내 수납칸)"
+    },
+    {
+      "word": "crew member",
+      "pronunciation": "크루 멤버",
+      "meaning": "승무원 (항공기, 선박 등의 승무원)"
+    },
+    {
+      "word": "turbulent",
+      "pronunciation": "터뷸런트",
+      "meaning": "난기류의, 흔들리는"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "You",
+      "english": "Excuse me, I was wondering if there's any possibility of changing my seat?",
+      "pronunciation": "익스큐즈 미, 아이 워즈 원더링 이프 데어즈 애니 파서빌리티 오브 체인징 마이 싯?",
+      "korean": "실례합니다, 혹시 제 좌석을 바꿀 가능성이 있을까요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Let me check for you. Is there a specific reason or preference?",
+      "pronunciation": "렛 미 첵 포 유. 이즈 데어 어 스페시픽 리즌 오어 프레퍼런스?",
+      "korean": "확인해 드릴게요. 특별한 이유나 선호하는 좌석이 있으신가요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Yes, I'm finding this seat doesn't recline properly, and I was hoping for an aisle seat if possible.",
+      "pronunciation": "예스, 아임 파인딩 디스 싯 더즌트 리클라인 프라펄리, 앤 아이 워즈 호핑 포 언 아일 싯 이프 파서블.",
+      "korean": "네, 이 좌석 등받이가 잘 안 젖혀지는 것 같아서요, 그리고 가능하면 통로 좌석을 선호합니다."
+    },
+    {
+      "speaker": "Staff",
+      "english": "I see. It looks like we have an unoccupied aisle seat available in row 27. Would that be suitable for you?",
+      "pronunciation": "아이 씨. 잇 룩스 라이크 위 해브 언 언아큐파이드 아일 싯 어베일러블 인 로우 트웬티세븐. 욷 댓 비 수터블 포 유?",
+      "korean": "알겠습니다. 27열에 비어있는 통로 좌석이 하나 있는 것 같네요. 괜찮으시겠어요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Row 27? That sounds great. Is there anything I need to do to move?",
+      "pronunciation": "로우 트웬티세븐? 댓 사운즈 그레잇. 이즈 데어 에니씽 아이 니드 투 두 투 무브?",
+      "korean": "27열이요? 아주 좋습니다. 옮기려면 제가 뭘 해야 하나요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Just gather your belongings. I'll print you a new boarding pass for seat 27C. Enjoy your flight!",
+      "pronunciation": "저슷 개더 유어 빌롱잉즈. 아일 프린트 유 어 뉴 보딩 패스 포 싯 트웬티세븐 씨. 인조이 유어 플라잇!",
+      "korean": "소지품만 챙기시면 됩니다. 27C 좌석의 새 탑승권을 인쇄해 드릴게요. 즐거운 비행 되세요!"
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "Is there any chance I could possibly move to a different seat?",
+      "pronunciation": "이즈 데어 애니 챈스 아이 쿧 파서블리 무브 투 어 디프런트 싯?",
+      "korean": "혹시 다른 좌석으로 옮길 수 있는 가능성이 있을까요?",
+      "tip": "'가능성'을 묻는 정중한 표현을 떠올려보세요."
+    },
+    {
+      "english": "Do you happen to know if there are any unoccupied seats in a quieter section?",
+      "pronunciation": "두 유 해픈 투 노 이프 데어 아 애니 언아큐파이드 싯츠 인 어 콰이어터 섹션?",
+      "korean": "혹시 좀 더 조용한 구역에 비어있는 좌석이 있는지 아세요?",
+      "tip": "'혹시 아세요?'와 '비어있는 좌석'이라는 표현을 사용해보세요."
+    },
+    {
+      "english": "I'd really appreciate it if you could let me know if anything opens up.",
+      "pronunciation": "아이드 리얼리 어프리시에잇 잇 이프 유 쿧 렛 미 노 이프 에니씽 오픈즈 업.",
+      "korean": "만약 좌석이 비게 된다면 알려주시면 정말 감사하겠습니다.",
+      "tip": "'정말 감사하다'는 표현과 '비게 된다면'이라는 가정을 연결해보세요."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "Would it be possible to switch seats?",
+      "pronunciation": "욷 잇 비 파서블 투 스위치 싯츠?",
+      "korean": "좌석을 바꿀 수 있을까요?",
+      "note": "'Is there any chance~'보다 더 직접적이지만 여전히 정중한 요청입니다. 'possible'이라는 단어에 초점을 맞춥니다."
+    },
+    {
+      "english": "I was wondering if you might have any alternative seating options.",
+      "pronunciation": "아이 워즈 원더링 이프 유 마잇 해브 애니 얼터너티브 시팅 옵션즈.",
+      "korean": "혹시 다른 좌석 선택지가 있는지 궁금합니다.",
+      "note": "'I was wondering if~'는 간접적인 질문으로 매우 공손합니다. 'alternative seating options'는 '다른 좌석 옵션'을 의미합니다."
+    },
+    {
+      "english": "My current seat is quite uncomfortable. Is there anything you could do?",
+      "pronunciation": "마이 커런트 싯 이즈 콰잇 언컴퍼터블. 이즈 데어 에니씽 유 쿧 두?",
+      "korean": "현재 좌석이 꽤 불편합니다. 혹시 조치를 취해 주실 수 있으신가요?",
+      "note": "문제 상황을 먼저 설명한 후, '무엇을 도와줄 수 있는지'를 묻는 표현입니다. 직접적인 요청보다는 상황 설명을 통해 도움을 유도합니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-10-14",
+      "english": "My flight, [Flight Number] to [Destination], has just been cancelled. What are my next steps?",
+      "pronunciation": "마이 플라잇, [플라잇 넘버] 투 [데스터네이션], 해스 져스트 빈 캔설드. 왓 아 마이 넥스트 스텝스?",
+      "korean": "제 [목적지]행 [항공편 번호]편 항공편이 방금 취소되었습니다. 이제 어떻게 해야 하죠?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-14",
+      "english": "I'm trying to understand the reason for this cancellation. What exactly happened?",
+      "pronunciation": "아임 트라잉 투 언더스탠 더 리즌 포 디스 캔설레이션. 왓 이그잭틀리 해픈드?",
+      "korean": "이번 취소의 이유를 이해하고 싶습니다. 정확히 무슨 일이 있었던 거죠?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-12",
+      "english": "Hi, I'm on flight KE123 to London, and the departure board is showing a significant delay.",
+      "pronunciation": "하이, 아임 온 플라잇 케이 이 원 투 쓰리 투 런던, 앤 더 디파쳐 보-드 이즈 쇼잉 어 시그니피컨트 딜레이.",
+      "korean": "안녕하세요, 저는 런던행 KE123편 승객인데, 출발 전광판에 상당한 지연이 표시되어 있네요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-12",
+      "english": "I'd appreciate it if you could clarify what caused the flight delay.",
+      "pronunciation": "아이드 어프리시에잇 잇 이프 유 쿠드 클레러파이 왓 코-즈드 더 플라잇 딜레이.",
+      "korean": "항공편 지연의 원인이 무엇인지 명확히 알려주시면 감사하겠습니다.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-09",
+      "english": "I've been trying to check in online for my flight, but it just wouldn't go through.",
+      "pronunciation": "아이-브 빈 트라잉 투 쳌 인 온라인 포 마이 플라잇, 벗 잇 저스트 우든트 고- 뜨루.",
+      "korean": "제 항공편 온라인 체크인을 계속 시도했는데, 진행이 안 됐어요.",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
