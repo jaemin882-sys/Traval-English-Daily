@@ -1,198 +1,211 @@
 {
-  "date": "2026-10-16",
-  "updated_at": "09:31 KST",
-  "topic": "기내에서 담요·물·식사 옵션 요청하기",
-  "intro": "해외여행의 시작은 비행기 안에서부터! 장거리 비행 중 필요한 것이 생겼을 때, 승무원에게 자연스럽게 요청하고 확인할 수 있는 실용적인 영어 표현들을 배워볼까요? 담요, 물, 식사 옵션 문의 등 기내에서 마주할 수 있는 다양한 상황에 대비해 봅시다.",
+  "date": "2026-10-17",
+  "updated_at": "09:38 KST",
+  "topic": "수하물이 나오지 않을 때 신고하기",
+  "intro": "해외여행 직전, 공항에 도착했는데 내 수하물이 나오지 않는 난감한 상황! 침착하게 분실 신고를 하고 다음 절차를 밟기 위한 핵심 영어 표현들을 학습합니다.",
   "sentences": [
     {
-      "english": "I'm feeling a bit chilly. Would it be possible to get a blanket?",
-      "pronunciation": "아임 필링 어 빗 칠리. 우딧 비 파서블 투 겟 어 블랭킷?",
-      "korean": "조금 쌀쌀해서요. 담요를 받을 수 있을까요?",
-      "tip": "몸 상태를 먼저 설명한 후 'Would it be possible to~?'로 정중하게 요청하는 표현입니다."
+      "english": "It seems my checked bag didn't make it to the baggage carousel.",
+      "pronunciation": "잇 심스 마이 췍트 백 디든 메이킷 투 더 배기쥐 캐러셀.",
+      "korean": "제가 부친 짐이 수하물 수취대로 나오지 않은 것 같아요.",
+      "tip": "'didn't make it to~'는 '~에 도착하지 못했다'는 자연스러운 표현입니다."
     },
     {
-      "english": "Excuse me, I was hoping to get some water when you have a moment.",
-      "pronunciation": "익스큐즈 미, 아이 워즈 호핑 투 겟 썸 워터 웬 유 해브 어 모먼트.",
-      "korean": "실례합니다, 괜찮으실 때 물을 좀 받을 수 있을까 해서요.",
-      "tip": "'I was hoping to~'는 직접적인 요청보다 부드럽고 예의 바른 표현으로, 상대방의 여유를 고려할 때 좋습니다."
+      "english": "I need to file a report for my missing luggage. Where can I do that?",
+      "pronunciation": "아이 니드 투 파일 어 리포트 포 마이 미씽 러기쥐. 웨어 캔 아이 두 댓?",
+      "korean": "나오지 않는 제 짐에 대해 신고해야 해요. 어디서 할 수 있죠?",
+      "tip": "'file a report'는 '신고하다'라는 뜻으로, 공식적인 절차에 사용됩니다."
     },
     {
-      "english": "Could you perhaps tell me what the meal options are for this flight?",
-      "pronunciation": "쿧 유 퍼햅스 텔 미 왓 더 밀 옵션스 알 포 디스 플라잇?",
-      "korean": "혹시 이번 비행의 식사 옵션이 무엇인지 알려주실 수 있을까요?",
-      "tip": "'Could you perhaps~?'는 '혹시~해주실 수 있나요?'와 같이 보다 조심스럽게 질문할 때 사용합니다."
+      "english": "Just to clarify, what information will you need from me to process this?",
+      "pronunciation": "져슷 투 클레러파이, 왓 인포메이션 윌 유 니드 프럼 미 투 프로세스 디스?",
+      "korean": "명확히 하기 위해서인데, 이 일을 처리하는 데 어떤 정보가 필요한가요?",
+      "tip": "'Just to clarify'는 상대방에게 어떤 정보가 필요한지 명확히 물을 때 유용합니다."
     },
     {
-      "english": "Just to double-check, is there a vegetarian option available?",
-      "pronunciation": "저스트 투 더블-첵, 이즈 데어 어 베지테리언 옵션 어베일러블?",
-      "korean": "다시 한번 확인하고 싶은데요, 채식 옵션이 가능한가요?",
-      "tip": "'Just to double-check'은 기존 정보를 다시 확인하거나 정확하게 짚고 넘어갈 때 유용합니다. 'vegetarian option'은 채식 메뉴를 의미합니다."
+      "english": "What's the best way to get updates on its whereabouts once I leave the airport?",
+      "pronunciation": "왓츠 더 베스트 웨이 투 겟 업데잇츠 온 이츠 웨어라바웃츠 원쓰 아이 리브 디 에어포트?",
+      "korean": "공항을 떠나고 나면, 짐의 행방에 대한 소식을 어떻게 받는 게 가장 좋을까요?",
+      "tip": "'whereabouts'는 '행방, 소재'라는 뜻으로 짐의 위치를 물을 때 적합합니다."
     },
     {
-      "english": "I seem to have missed the meal service. Is there any chance I could still get something?",
-      "pronunciation": "아이 심 투 해브 미스트 더 밀 서비스. 이즈 데어 애니 챈스 아이 쿧 스틸 겟 썸띵?",
-      "korean": "식사 서비스를 놓친 것 같아요. 혹시 아직 뭔가 받을 수 있는 기회가 있을까요?",
-      "tip": "'I seem to have~'는 '제가 ~한 것 같습니다'라고 부드럽게 상황을 설명할 때 쓰며, 'Is there any chance~?'로 대안을 묻습니다."
+      "english": "In the event it can't be found, what's the procedure for compensation or reimbursement?",
+      "pronunciation": "인 디 이벤 잇 캔트 비 파운드, 왓츠 더 프로세쥬어 포 컴펜세이션 오어 리임벌스먼트?",
+      "korean": "만약 짐을 찾을 수 없게 된다면, 보상이나 변상을 위한 절차는 어떻게 되나요?",
+      "tip": "'In the event (that)~'은 '~의 경우에 대비하여'라는 뜻으로 만일의 상황을 물을 때 사용합니다."
     }
   ],
   "pattern": {
-    "form": "I'm looking for [명사]. Do you happen to know...?",
-    "pronunciation": "아임 루킹 포 [명사]. 두 유 해픈 투 노...?",
-    "meaning": "~를 찾고 있습니다. 혹시 ~에 대해 알고 계신가요?",
+    "form": "Could you walk me through the process for [noun/verb-ing]?",
+    "pronunciation": "쿠쥬 웍 미 쓰루 더 프로세스 포 [명사/동명사]?",
+    "meaning": "~에 대한 절차를 설명해 주시겠어요?",
     "examples": [
       {
-        "english": "I'm looking for the lavatories. Do you happen to know where they are?",
-        "pronunciation": "아임 루킹 포 더 래버토리즈. 두 유 해픈 투 노 웨어 데이 아?",
-        "korean": "화장실을 찾고 있습니다. 혹시 어디에 있는지 아세요?",
-        "tip": "기내 화장실은 'lavatory'라고 하는 경우가 많습니다."
+        "english": "Could you walk me through the process for claiming my baggage if it arrives later?",
+        "pronunciation": "쿠쥬 웍 미 쓰루 더 프로세스 포 클레이밍 마이 배기쥐 이프 잇 어라이브스 레이터?",
+        "korean": "짐이 나중에 도착하면 수령하는 절차를 설명해 주시겠어요?",
+        "tip": "'claiming'은 잃어버린 물건을 되찾는다는 의미가 있습니다."
       },
       {
-        "english": "I'm looking for a pen. Do you happen to know if you have one available?",
-        "pronunciation": "아임 루킹 포 어 펜. 두 유 해픈 투 노 이프 유 해브 원 어베일러블?",
-        "korean": "펜을 찾고 있습니다. 혹시 하나 가지고 계신가요?",
-        "tip": "입국 신고서 작성 시 펜을 빌릴 때 유용하게 쓸 수 있습니다."
+        "english": "Could you walk me through the process for getting a refund?",
+        "pronunciation": "쿠쥬 웍 미 쓰루 더 프로세스 포 게팅 어 리펀드?",
+        "korean": "환불받는 절차를 설명해 주시겠어요?",
+        "tip": "환불, 교환 등 복잡한 절차를 물을 때 유용합니다."
       }
     ]
   },
   "words": [
     {
-      "word": "chilly",
-      "pronunciation": "칠리",
-      "meaning": "쌀쌀한, 으스스한"
+      "word": "baggage carousel",
+      "pronunciation": "배기쥐 캐러셀",
+      "meaning": "수하물 수취대, 컨베이어 벨트"
     },
     {
-      "word": "lavatory",
-      "pronunciation": "래버토리",
-      "meaning": "화장실 (비행기에서 흔히 쓰이는 표현)"
+      "word": "file a claim/report",
+      "pronunciation": "파일 어 클레임/리포트",
+      "meaning": "(분실물 등에 대해) 신고/청구하다"
     },
     {
-      "word": "meal service",
-      "pronunciation": "밀 서비스",
-      "meaning": "식사 제공 서비스"
+      "word": "baggage tag",
+      "pronunciation": "배기쥐 태그",
+      "meaning": "수하물 표 (짐표)"
     },
     {
-      "word": "vegetarian option",
-      "pronunciation": "베지테리언 옵션",
-      "meaning": "채식 메뉴 (선택사항)"
+      "word": "delayed baggage",
+      "pronunciation": "딜레이드 배기쥐",
+      "meaning": "지연된 수하물"
     },
     {
-      "word": "overhead compartment",
-      "pronunciation": "오버헤드 컴파트먼트",
-      "meaning": "머리 위 짐칸, 수하물칸"
+      "word": "compensation / reimbursement",
+      "pronunciation": "컴펜세이션 / 리임벌스먼트",
+      "meaning": "보상 / 변상 (비용 상환)"
     }
   ],
   "dialogue": [
     {
       "speaker": "You",
-      "english": "Excuse me, I'm feeling a bit chilly. Would it be possible to get a blanket?",
-      "pronunciation": "익스큐즈 미, 아임 필링 어 빗 칠리. 우딧 비 파서블 투 겟 어 블랭킷?",
-      "korean": "실례합니다, 조금 쌀쌀해서요. 담요를 받을 수 있을까요?"
+      "english": "Excuse me, I'm a bit concerned. It seems my checked bag didn't make it to the baggage carousel.",
+      "pronunciation": "익스큐즈 미, 아임 어 빗 컨썬드. 잇 심스 마이 췍트 백 디든 메이킷 투 더 배기쥐 캐러셀.",
+      "korean": "실례합니다, 좀 걱정이 되네요. 제가 부친 짐이 수하물 수취대로 나오지 않은 것 같아요.",
+      "tip": "'I'm a bit concerned'로 우려를 표현하며 대화를 시작합니다."
     },
     {
       "speaker": "Staff",
-      "english": "Certainly, I'll bring one for you right away. Is there anything else I can get for you?",
-      "pronunciation": "썰튼리, 아일 브링 원 포 유 라잇 어웨이. 이즈 데어 애니띵 엘스 아이 캔 겟 포 유?",
-      "korean": "네, 바로 가져다 드릴게요. 다른 필요한 건 없으신가요?"
+      "english": "I'm sorry to hear that. Could you please show me your baggage tag and boarding pass?",
+      "pronunciation": "아임 쏘리 투 히어 댓. 쿠쥬 플리즈 쇼 미 유어 배기쥐 태그 앤 보딩 패스?",
+      "korean": "유감입니다. 수하물 태그와 탑승권을 보여주시겠어요?",
+      "tip": "직원은 보통 수하물 태그와 탑승권을 먼저 요청합니다."
     },
     {
       "speaker": "You",
-      "english": "Thank you. And, I seem to have missed the meal service. Could you perhaps tell me what the meal options are for this flight?",
-      "pronunciation": "땡큐. 앤드, 아이 심 투 해브 미스트 더 밀 서비스. 쿧 유 퍼햅스 텔 미 왓 더 밀 옵션스 알 포 디스 플라잇?",
-      "korean": "감사합니다. 그리고 식사 서비스를 놓친 것 같아요. 혹시 이번 비행의 식사 옵션이 무엇인지 알려주실 수 있을까요?"
+      "english": "Sure, here they are. I need to file a report for my missing luggage. Where can I do that?",
+      "pronunciation": "슈어, 히어 데이 아. 아이 니드 투 파일 어 리포트 포 마이 미씽 러기쥐. 웨어 캔 아이 두 댓?",
+      "korean": "네, 여기 있습니다. 나오지 않는 제 짐에 대해 신고해야 해요. 어디서 할 수 있죠?",
+      "tip": "필요한 정보를 제공한 뒤 바로 다음 행동을 묻는 질문입니다."
     },
     {
       "speaker": "Staff",
-      "english": "No problem. We have chicken or pasta today. And there's also a limited supply of vegetarian meals left.",
-      "pronunciation": "노 프라블럼. 위 해브 치킨 오어 파스타 투데이. 앤드 데어즈 올소 어 리미티드 서플라이 오브 베지테리언 밀즈 레프트.",
-      "korean": "괜찮습니다. 오늘은 치킨 또는 파스타가 있습니다. 그리고 채식 식사도 소량 남아있어요."
+      "english": "You're in the right place. We'll handle it here. Just to clarify, what information will you need from me to process this?",
+      "pronunciation": "유어 인 더 라잇 플레이스. 위을 핸들 잇 히어. 져슷 투 클레러파이, 왓 인포메이션 윌 유 니드 프럼 미 투 프로세스 디스?",
+      "korean": "제대로 찾아오셨습니다. 여기서 처리해 드릴게요. 명확히 하기 위해서인데, 이 일을 처리하는 데 어떤 정보가 필요한가요?",
+      "tip": "직원의 말을 반복하며 내가 필요한 정보를 적극적으로 묻는 방식입니다."
     },
     {
       "speaker": "You",
-      "english": "Okay, just to double-check, is there a vegetarian option available right now? And I was hoping to get some water as well.",
-      "pronunciation": "오케이, 저스트 투 더블-첵, 이즈 데어 어 베지테리언 옵션 어베일러블 라잇 나우? 앤드 아이 워즈 호핑 투 겟 썸 워터 에즈 웰.",
-      "korean": "음, 다시 한번 확인하고 싶은데요, 지금 바로 채식 옵션이 가능한가요? 그리고 물도 좀 받을 수 있을까 해서요."
+      "english": "Besides my contact details and bag description, what's the best way to get updates on its whereabouts once I leave the airport?",
+      "pronunciation": "비사이즈 마이 컨택트 디테일즈 앤 백 디스크립션, 왓츠 더 베스트 웨이 투 겟 업데잇츠 온 이츠 웨어라바웃츠 원쓰 아이 리브 디 에어포트?",
+      "korean": "연락처와 가방 묘사 외에, 공항을 떠나고 나면 짐의 행방에 대한 소식을 어떻게 받는 게 가장 좋을까요?",
+      "tip": "이미 제공할 정보를 언급하며 추가적인 질문으로 넘어갑니다."
     },
     {
       "speaker": "Staff",
-      "english": "Yes, we still have one vegetarian meal left. I'll get that for you along with your water.",
-      "pronunciation": "예스, 위 스틸 해브 원 베지테리언 밀 레프트. 아일 겟 댓 포 유 얼롱 윗 유어 워터.",
-      "korean": "네, 채식 식사 하나 남아있습니다. 물과 함께 가져다 드릴게요."
+      "english": "We'll give you a reference number. You can track its status online or call our dedicated line. Your bag will likely be delivered to your accommodation.",
+      "pronunciation": "위을 기브 유 어 레퍼런스 넘버. 유 캔 트랙 이츠 스테이터스 온라인 오어 콜 아워 데디케이티드 라인. 유어 백 윌 라이클리 비 딜리버드 투 유어 어커머데이션.",
+      "korean": "참조 번호를 드릴 겁니다. 온라인으로 상태를 추적하거나 전용 전화로 전화할 수 있습니다. 가방은 아마 숙소로 배달될 겁니다.",
+      "tip": "추적 방법과 배달 가능성에 대한 정보를 제공합니다."
+    },
+    {
+      "speaker": "You",
+      "english": "Understood. In the event it can't be found, what's the procedure for compensation or reimbursement?",
+      "pronunciation": "언더스투드. 인 디 이벤 잇 캔트 비 파운드, 왓츠 더 프로세쥬어 포 컴펜세이션 오어 리임벌스먼트?",
+      "korean": "알겠습니다. 만약 짐을 찾을 수 없게 된다면, 보상이나 변상을 위한 절차는 어떻게 되나요?",
+      "tip": "'Understood'로 이해했음을 표현하며 다음 질문으로 넘어갑니다."
     }
   ],
   "retrieval": [
     {
-      "english": "I'm feeling a bit chilly. Would it be possible to get a blanket?",
-      "pronunciation": "아임 필링 어 빗 칠리. 우딧 비 파서블 투 겟 어 블랭킷?",
-      "korean": "조금 쌀쌀해서 담요를 받을 수 있을까요?",
-      "tip": "몸 상태를 먼저 설명하고 정중하게 요청해 보세요."
+      "english": "It seems my checked bag didn't make it to the baggage carousel.",
+      "pronunciation": "잇 심스 마이 췍트 백 디든 메이킷 투 더 배기쥐 캐러셀.",
+      "korean": "짐이 수하물 수취대로 나오지 않은 것 같아요.",
+      "tip": "짐이 도착하지 않았음을 자연스럽게 표현해 보세요."
     },
     {
-      "english": "Could you perhaps tell me what the meal options are for this flight?",
-      "pronunciation": "쿧 유 퍼햅스 텔 미 왓 더 밀 옵션스 알 포 디스 플라잇?",
-      "korean": "이번 비행의 식사 옵션이 무엇인지 알려주실 수 있을까요?",
-      "tip": "식사 메뉴를 조심스럽게 물어볼 때 사용하는 표현입니다."
+      "english": "What's the best way to get updates on its whereabouts once I leave the airport?",
+      "pronunciation": "왓츠 더 베스트 웨이 투 겟 업데잇츠 온 이츠 웨어라바웃츠 원쓰 아이 리브 디 에어포트?",
+      "korean": "공항을 떠나고 나면, 짐의 행방에 대한 소식을 어떻게 받는 게 가장 좋을까요?",
+      "tip": "짐의 행방에 대한 업데이트 방법을 묻는 질문입니다."
     },
     {
-      "english": "Just to double-check, is there a vegetarian option available?",
-      "pronunciation": "저스트 투 더블-첵, 이즈 데어 어 베지테리언 옵션 어베일러블?",
-      "korean": "다시 한번 확인하고 싶은데요, 채식 옵션이 가능한가요?",
-      "tip": "이미 들은 정보를 정확하게 재확인할 때 쓰는 표현입니다."
+      "english": "Could you walk me through the process for claiming my baggage if it arrives later?",
+      "pronunciation": "쿠쥬 웍 미 쓰루 더 프로세스 포 클레이밍 마이 배기쥐 이프 잇 어라이브스 레이터?",
+      "korean": "나중에 짐이 도착하면 수령하는 절차를 설명해 주시겠어요?",
+      "tip": "복잡한 절차에 대해 설명을 요청하는 패턴입니다."
     }
   ],
   "alternatives": [
     {
-      "english": "I'm a little cold. Could I get a blanket, please?",
-      "pronunciation": "아임 어 리틀 콜드. 쿧 아이 겟 어 블랭킷, 플리즈?",
-      "korean": "좀 추운데요. 담요 좀 받을 수 있을까요?",
-      "note": "원래 표현보다 조금 더 직접적이고 간결한 요청입니다. 'chilly'보다 'cold'를 사용합니다."
+      "english": "I can't seem to find my checked luggage on the carousel.",
+      "pronunciation": "아이 캔트 심 투 파인드 마이 췍트 러기쥐 온 더 캐러셀.",
+      "korean": "수하물 수취대에서 제 부친 짐을 찾을 수가 없네요.",
+      "note": "'It seems my checked bag didn't make it to the baggage carousel'보다 내가 짐을 찾으려는데 잘 안 된다는 상황을 직접적으로 표현합니다."
     },
     {
-      "english": "What are the meal choices for this flight?",
-      "pronunciation": "왓 알 더 밀 초이시스 포 디스 플라잇?",
-      "korean": "이번 비행 식사 메뉴는 뭔가요?",
-      "note": "원래 표현보다 훨씬 더 간결하고 직접적인 질문입니다. 격식 없이 빠르게 물어볼 때 사용하기 좋습니다."
+      "english": "I'm looking to report a missing bag.",
+      "pronunciation": "아임 루킹 투 리포트 어 미씽 백.",
+      "korean": "분실된 가방을 신고하려고 합니다.",
+      "note": "'I need to file a report for my missing luggage'보다 덜 격식적이고 좀 더 일상적인 표현입니다. 주로 대화 초반에 의도를 밝힐 때 사용하기 좋습니다."
     },
     {
-      "english": "I just want to confirm, is the vegetarian meal still an option?",
-      "pronunciation": "아이 저스트 원트 투 컨펌, 이즈 더 베지테리언 밀 스틸 언 옵션?",
-      "korean": "그냥 확인하고 싶은데요, 채식 식사가 아직 가능한가요?",
-      "note": "'Just to double-check' 대신 'I just want to confirm'을 사용하여 재확인하는 표현입니다. 의미는 유사하지만 조금 더 확정적인 뉘앙스입니다."
+      "english": "Could you clarify what documents are required?",
+      "pronunciation": "쿠쥬 클레러파이 왓 다큐먼츠 아 리콰이어드?",
+      "korean": "어떤 서류들이 필요한지 명확히 해주실 수 있나요?",
+      "note": "'Just to clarify, what information will you need from me...?' 보다 '서류'에 초점을 맞춘 질문입니다. 좀 더 구체적인 정보가 필요할 때 사용합니다."
     }
   ],
   "review_items": [
     {
-      "source_date": "2026-10-15",
-      "english": "Is there any chance I could possibly move to a different seat?",
-      "pronunciation": "이즈 데어 애니 챈스 아이 쿧 파서블리 무브 투 어 디프런트 싯?",
-      "korean": "혹시 다른 좌석으로 옮길 수 있는 가능성이 있을까요?",
+      "source_date": "2026-10-16",
+      "english": "I'm feeling a bit chilly. Would it be possible to get a blanket?",
+      "pronunciation": "아임 필링 어 빗 칠리. 우딧 비 파서블 투 겟 어 블랭킷?",
+      "korean": "조금 쌀쌀해서요. 담요를 받을 수 있을까요?",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-15",
-      "english": "I'm finding this seat a bit uncomfortable for such a long flight, if you don't mind.",
-      "pronunciation": "아임 파인딩 디스 싯 어 빗 언컴퍼터블 포 서치 어 롱 플라잇, 이프 유 돈 마인드.",
-      "korean": "실례지만, 이 좌석이 장시간 비행하기엔 좀 불편해서요.",
+      "source_date": "2026-10-16",
+      "english": "Excuse me, I was hoping to get some water when you have a moment.",
+      "pronunciation": "익스큐즈 미, 아이 워즈 호핑 투 겟 썸 워터 웬 유 해브 어 모먼트.",
+      "korean": "실례합니다, 괜찮으실 때 물을 좀 받을 수 있을까 해서요.",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-13",
-      "english": "I have a very tight connection to my next flight, KE456 to Paris. My layover is only 40 minutes.",
-      "pronunciation": "아이 해버 베리 타잍 커넥션 투 마이 넥스트 플라잍, 케이-이 포-파이브-식 투 패리스. 마이 레이오버 이즈 온리 포티 미닛츠.",
-      "korean": "다음 연결편, 파리행 KE456편까지 시간이 너무 촉박해요. 환승 시간이 겨우 40분밖에 안 됩니다.",
+      "source_date": "2026-10-14",
+      "english": "My flight, [Flight Number] to [Destination], has just been cancelled. What are my next steps?",
+      "pronunciation": "마이 플라잇, [플라잇 넘버] 투 [데스터네이션], 해스 져스트 빈 캔설드. 왓 아 마이 넥스트 스텝스?",
+      "korean": "제 [목적지]행 [항공편 번호]편 항공편이 방금 취소되었습니다. 이제 어떻게 해야 하죠?",
       "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-13",
-      "english": "I'm worried I won't make it. Is there any way I could get some assistance or expedited directions?",
-      "pronunciation": "아임 워리드 아이 원트 메익 잇. 이즈 데어 애니 웨이 아이 쿧 겟 썸 어시스턴스 오어 엑스퍼다이티드 디렉션즈?",
-      "korean": "비행기를 놓칠까 봐 걱정됩니다. 어떤 도움이나 빨리 갈 수 있는 길 안내를 받을 수 있을까요?",
+      "source_date": "2026-10-14",
+      "english": "I'm trying to understand the reason for this cancellation. What exactly happened?",
+      "pronunciation": "아임 트라잉 투 언더스탠 더 리즌 포 디스 캔설레이션. 왓 이그잭틀리 해픈드?",
+      "korean": "이번 취소의 이유를 이해하고 싶습니다. 정확히 무슨 일이 있었던 거죠?",
       "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-10",
-      "english": "Do I need to take out all my electronics, even small ones?",
-      "pronunciation": "두 아이 니-ㄷ 투 테잌 아웃 올 마이 일렉트라닉스, 이-븐 스몰 원스?",
-      "korean": "작은 전자기기까지 모두 꺼내야 하나요?",
+      "source_date": "2026-10-11",
+      "english": "My boarding pass shows Gate A7, but the departure screen is showing Gate B3 for my flight to London. I'm a bit confused.",
+      "pronunciation": "마이 보딩 파-쓰 쇼우스 게잇 에이 세븐, 벗 더 디파-쳐 스크린 이즈 쇼잉 게잇 비 쓰리 포- 마이 플라잇 투 런던. 아임 어 빗 컨퓨-즈드.",
+      "korean": "제 탑승권에는 A7 게이트라고 되어 있는데, 출발 전광판에는 런던행 제 비행기가 B3 게이트라고 나와 있어요. 좀 헷갈리네요.",
       "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     }
   ]
