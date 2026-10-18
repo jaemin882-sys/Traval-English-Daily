@@ -1,211 +1,208 @@
 {
-  "date": "2026-10-17",
-  "updated_at": "09:38 KST",
-  "topic": "수하물이 나오지 않을 때 신고하기",
-  "intro": "해외여행 직전, 공항에 도착했는데 내 수하물이 나오지 않는 난감한 상황! 침착하게 분실 신고를 하고 다음 절차를 밟기 위한 핵심 영어 표현들을 학습합니다.",
+  "date": "2026-10-18",
+  "updated_at": "09:07 KST",
+  "topic": "수하물이 파손됐을 때 보상 절차 문의하기",
+  "intro": "수하물이 파손되어 속상하시죠? 다행히 공항 내에서 파손 신고를 마쳤다면, 이제 보상 절차에 대해 문의하고 정당한 보상을 받을 차례입니다. 오늘 학습할 표현들로 침착하게 보상 과정을 확인하고 필요한 조치를 취해봅시다.",
   "sentences": [
     {
-      "english": "It seems my checked bag didn't make it to the baggage carousel.",
-      "pronunciation": "잇 심스 마이 췍트 백 디든 메이킷 투 더 배기쥐 캐러셀.",
-      "korean": "제가 부친 짐이 수하물 수취대로 나오지 않은 것 같아요.",
-      "tip": "'didn't make it to~'는 '~에 도착하지 못했다'는 자연스러운 표현입니다."
+      "english": "I've already reported my damaged luggage, and now I need to understand the compensation process.",
+      "pronunciation": "아이브 오-레디 리포티드 마이 대미지드 러기지, 앤 나우 아이 니드 투 언더스탠드 더 컴펀세이션 프로세스.",
+      "korean": "제가 이미 파손된 수하물 신고를 했고, 이제 보상 절차를 이해하고 싶습니다.",
+      "tip": "파손 신고를 마친 후, 다음 단계로 보상 절차에 대해 문의할 때 사용하는 자연스러운 시작 문장입니다."
     },
     {
-      "english": "I need to file a report for my missing luggage. Where can I do that?",
-      "pronunciation": "아이 니드 투 파일 어 리포트 포 마이 미씽 러기쥐. 웨어 캔 아이 두 댓?",
-      "korean": "나오지 않는 제 짐에 대해 신고해야 해요. 어디서 할 수 있죠?",
-      "tip": "'file a report'는 '신고하다'라는 뜻으로, 공식적인 절차에 사용됩니다."
+      "english": "Could you explain how I can proceed with a claim for the damage?",
+      "pronunciation": "쿠쥬 익스플레인 하우 아이 캔 프로씨드 윗 어 클레임 포 더 대미지?",
+      "korean": "제가 그 파손에 대한 청구를 어떻게 진행할 수 있는지 설명해 주실 수 있나요?",
+      "tip": "'proceed with a claim'은 '청구를 진행하다'는 뜻으로, 구체적인 절차나 다음 단계를 물을 때 유용합니다."
     },
     {
-      "english": "Just to clarify, what information will you need from me to process this?",
-      "pronunciation": "져슷 투 클레러파이, 왓 인포메이션 윌 유 니드 프럼 미 투 프로세스 디스?",
-      "korean": "명확히 하기 위해서인데, 이 일을 처리하는 데 어떤 정보가 필요한가요?",
-      "tip": "'Just to clarify'는 상대방에게 어떤 정보가 필요한지 명확히 물을 때 유용합니다."
+      "english": "What documents are typically required when applying for compensation?",
+      "pronunciation": "왓 다큐먼츠 아 티피컬리 리콰이어드 웬 어플라잉 포 컴펀세이션?",
+      "korean": "보상을 신청할 때 일반적으로 어떤 서류들이 필요한가요?",
+      "tip": "'typically required'는 '일반적으로 필요한'이라는 의미로, 필요한 서류나 정보를 문의할 때 사용합니다."
     },
     {
-      "english": "What's the best way to get updates on its whereabouts once I leave the airport?",
-      "pronunciation": "왓츠 더 베스트 웨이 투 겟 업데잇츠 온 이츠 웨어라바웃츠 원쓰 아이 리브 디 에어포트?",
-      "korean": "공항을 떠나고 나면, 짐의 행방에 대한 소식을 어떻게 받는 게 가장 좋을까요?",
-      "tip": "'whereabouts'는 '행방, 소재'라는 뜻으로 짐의 위치를 물을 때 적합합니다."
+      "english": "I was wondering what the usual timeline is for resolving such cases.",
+      "pronunciation": "아이 워즈 원더링 왓 더 유주얼 타임라인 이즈 포 리졸빙 서치 케이씨즈.",
+      "korean": "이런 경우들이 해결되는 데 보통 얼마나 걸리는지 궁금했습니다.",
+      "tip": "'I was wondering'은 직접적으로 묻는 것보다 좀 더 공손하고 부드럽게 질문하는 표현입니다. 'timeline'은 '소요 기간'을 의미합니다."
     },
     {
-      "english": "In the event it can't be found, what's the procedure for compensation or reimbursement?",
-      "pronunciation": "인 디 이벤 잇 캔트 비 파운드, 왓츠 더 프로세쥬어 포 컴펜세이션 오어 리임벌스먼트?",
-      "korean": "만약 짐을 찾을 수 없게 된다면, 보상이나 변상을 위한 절차는 어떻게 되나요?",
-      "tip": "'In the event (that)~'은 '~의 경우에 대비하여'라는 뜻으로 만일의 상황을 물을 때 사용합니다."
+      "english": "Is there an option for repair, or is it solely a reimbursement for the damaged item?",
+      "pronunciation": "이즈 데어 언 옵션 포 리페어, 오어 이즈 잇 솔리 어 림벌스먼트 포 더 대미지드 아이템?",
+      "korean": "수리 옵션이 있나요, 아니면 손상된 물품에 대한 환불만 가능한가요?",
+      "tip": "수리 vs. 보상 중 어떤 선택지가 있는지 물을 때 사용하는 문장입니다. 'solely'는 '오로지, 단지'라는 뜻입니다."
     }
   ],
   "pattern": {
-    "form": "Could you walk me through the process for [noun/verb-ing]?",
-    "pronunciation": "쿠쥬 웍 미 쓰루 더 프로세스 포 [명사/동명사]?",
-    "meaning": "~에 대한 절차를 설명해 주시겠어요?",
+    "form": "What's involved in the process of [verb-ing/noun]?",
+    "pronunciation": "왓츠 인볼브드 인 더 프로세스 오브 [동명사/명사]?",
+    "meaning": "~하는 과정에는 무엇이 포함되나요? / ~ 절차는 어떻게 되나요?",
     "examples": [
       {
-        "english": "Could you walk me through the process for claiming my baggage if it arrives later?",
-        "pronunciation": "쿠쥬 웍 미 쓰루 더 프로세스 포 클레이밍 마이 배기쥐 이프 잇 어라이브스 레이터?",
-        "korean": "짐이 나중에 도착하면 수령하는 절차를 설명해 주시겠어요?",
-        "tip": "'claiming'은 잃어버린 물건을 되찾는다는 의미가 있습니다."
+        "english": "What's involved in the process of submitting the claim?",
+        "pronunciation": "왓츠 인볼브드 인 더 프로세스 오브 섭미팅 더 클레임?",
+        "korean": "클레임을 제출하는 과정에는 무엇이 포함되나요?"
       },
       {
-        "english": "Could you walk me through the process for getting a refund?",
-        "pronunciation": "쿠쥬 웍 미 쓰루 더 프로세스 포 게팅 어 리펀드?",
-        "korean": "환불받는 절차를 설명해 주시겠어요?",
-        "tip": "환불, 교환 등 복잡한 절차를 물을 때 유용합니다."
+        "english": "What's involved in the process of appealing the decision?",
+        "pronunciation": "왓츠 인볼브드 인 더 프로세스 오브 어필링 더 디씨젼?",
+        "korean": "결정에 이의를 제기하는 과정에는 무엇이 포함되나요?"
       }
     ]
   },
   "words": [
     {
-      "word": "baggage carousel",
-      "pronunciation": "배기쥐 캐러셀",
-      "meaning": "수하물 수취대, 컨베이어 벨트"
+      "word": "compensation claim",
+      "pronunciation": "컴펀세이션 클레임",
+      "meaning": "보상 청구"
     },
     {
-      "word": "file a claim/report",
-      "pronunciation": "파일 어 클레임/리포트",
-      "meaning": "(분실물 등에 대해) 신고/청구하다"
+      "word": "baggage report / damage report",
+      "pronunciation": "배기지 리포트 / 대미지 리포트",
+      "meaning": "수하물 신고서 / 파손 신고서"
     },
     {
-      "word": "baggage tag",
-      "pronunciation": "배기쥐 태그",
-      "meaning": "수하물 표 (짐표)"
+      "word": "proof of damage",
+      "pronunciation": "프루프 오브 대미지",
+      "meaning": "손상 증거 (사진 등)"
     },
     {
-      "word": "delayed baggage",
-      "pronunciation": "딜레이드 배기쥐",
-      "meaning": "지연된 수하물"
+      "word": "repair estimate",
+      "pronunciation": "리페어 에스티밋",
+      "meaning": "수리 견적서"
     },
     {
-      "word": "compensation / reimbursement",
-      "pronunciation": "컴펜세이션 / 리임벌스먼트",
-      "meaning": "보상 / 변상 (비용 상환)"
+      "word": "depreciation",
+      "pronunciation": "디프리씨에이션",
+      "meaning": "감가상각"
     }
   ],
   "dialogue": [
     {
       "speaker": "You",
-      "english": "Excuse me, I'm a bit concerned. It seems my checked bag didn't make it to the baggage carousel.",
-      "pronunciation": "익스큐즈 미, 아임 어 빗 컨썬드. 잇 심스 마이 췍트 백 디든 메이킷 투 더 배기쥐 캐러셀.",
-      "korean": "실례합니다, 좀 걱정이 되네요. 제가 부친 짐이 수하물 수취대로 나오지 않은 것 같아요.",
-      "tip": "'I'm a bit concerned'로 우려를 표현하며 대화를 시작합니다."
+      "english": "Excuse me, I reported my damaged luggage earlier, and I'd like to understand the compensation process.",
+      "pronunciation": "익스큐즈 미, 아이 리포티드 마이 대미지드 러기지 얼리어, 앤 아이드 라잌 투 언더스탠드 더 컴펀세이션 프로세스.",
+      "korean": "실례합니다, 제가 아까 파손된 수하물을 신고했는데, 보상 절차를 알고 싶어서요."
     },
     {
       "speaker": "Staff",
-      "english": "I'm sorry to hear that. Could you please show me your baggage tag and boarding pass?",
-      "pronunciation": "아임 쏘리 투 히어 댓. 쿠쥬 플리즈 쇼 미 유어 배기쥐 태그 앤 보딩 패스?",
-      "korean": "유감입니다. 수하물 태그와 탑승권을 보여주시겠어요?",
-      "tip": "직원은 보통 수하물 태그와 탑승권을 먼저 요청합니다."
+      "english": "Certainly. To proceed with a compensation claim, you'll need to submit a few documents.",
+      "pronunciation": "썰튼리. 투 프로씨드 윗 어 컴펀세이션 클레임, 유-윌 니드 투 섭밋 어 퓨 다큐먼츠.",
+      "korean": "네, 물론입니다. 보상 청구를 진행하시려면 몇 가지 서류를 제출하셔야 합니다."
     },
     {
       "speaker": "You",
-      "english": "Sure, here they are. I need to file a report for my missing luggage. Where can I do that?",
-      "pronunciation": "슈어, 히어 데이 아. 아이 니드 투 파일 어 리포트 포 마이 미씽 러기쥐. 웨어 캔 아이 두 댓?",
-      "korean": "네, 여기 있습니다. 나오지 않는 제 짐에 대해 신고해야 해요. 어디서 할 수 있죠?",
-      "tip": "필요한 정보를 제공한 뒤 바로 다음 행동을 묻는 질문입니다."
+      "english": "What documents are typically required when applying for compensation?",
+      "pronunciation": "왓 다큐먼츠 아 티피컬리 리콰이어드 웬 어플라잉 포 컴펀세이션?",
+      "korean": "보상을 신청할 때 일반적으로 어떤 서류들이 필요한가요?"
     },
     {
       "speaker": "Staff",
-      "english": "You're in the right place. We'll handle it here. Just to clarify, what information will you need from me to process this?",
-      "pronunciation": "유어 인 더 라잇 플레이스. 위을 핸들 잇 히어. 져슷 투 클레러파이, 왓 인포메이션 윌 유 니드 프럼 미 투 프로세스 디스?",
-      "korean": "제대로 찾아오셨습니다. 여기서 처리해 드릴게요. 명확히 하기 위해서인데, 이 일을 처리하는 데 어떤 정보가 필요한가요?",
-      "tip": "직원의 말을 반복하며 내가 필요한 정보를 적극적으로 묻는 방식입니다."
+      "english": "We'll need your baggage report, proof of damage like photos, and any receipts for the damaged items if you have them.",
+      "pronunciation": "위-윌 니드 유어 배기지 리포트, 프루프 오브 대미지 라잌 포토스, 앤 애니 리씻츠 포 더 대미지드 아이템스 이프 유 해브 뎀.",
+      "korean": "수하물 신고서, 사진과 같은 손상 증거, 그리고 손상된 물품에 대한 영수증이 있으시면 필요합니다."
     },
     {
       "speaker": "You",
-      "english": "Besides my contact details and bag description, what's the best way to get updates on its whereabouts once I leave the airport?",
-      "pronunciation": "비사이즈 마이 컨택트 디테일즈 앤 백 디스크립션, 왓츠 더 베스트 웨이 투 겟 업데잇츠 온 이츠 웨어라바웃츠 원쓰 아이 리브 디 에어포트?",
-      "korean": "연락처와 가방 묘사 외에, 공항을 떠나고 나면 짐의 행방에 대한 소식을 어떻게 받는 게 가장 좋을까요?",
-      "tip": "이미 제공할 정보를 언급하며 추가적인 질문으로 넘어갑니다."
+      "english": "Okay, got it. I was wondering what the usual timeline is for resolving such cases.",
+      "pronunciation": "오케이, 가릿. 아이 워즈 원더링 왓 더 유주얼 타임라인 이즈 포 리졸빙 서치 케이씨즈.",
+      "korean": "네, 알겠습니다. 이런 경우들이 해결되는 데 보통 얼마나 걸리는지 궁금합니다."
     },
     {
       "speaker": "Staff",
-      "english": "We'll give you a reference number. You can track its status online or call our dedicated line. Your bag will likely be delivered to your accommodation.",
-      "pronunciation": "위을 기브 유 어 레퍼런스 넘버. 유 캔 트랙 이츠 스테이터스 온라인 오어 콜 아워 데디케이티드 라인. 유어 백 윌 라이클리 비 딜리버드 투 유어 어커머데이션.",
-      "korean": "참조 번호를 드릴 겁니다. 온라인으로 상태를 추적하거나 전용 전화로 전화할 수 있습니다. 가방은 아마 숙소로 배달될 겁니다.",
-      "tip": "추적 방법과 배달 가능성에 대한 정보를 제공합니다."
+      "english": "Typically, it takes about 2 to 4 weeks for the claim to be processed, depending on the complexity.",
+      "pronunciation": "티피컬리, 잇 테익스 어바웃 투 투 포 윅스 포 더 클레임 투 비 프로세스트, 디펜딩 온 더 컴플렉써티.",
+      "korean": "일반적으로는 청구가 처리되는 데 2주에서 4주 정도 소요되며, 사안의 복잡성에 따라 달라질 수 있습니다."
     },
     {
       "speaker": "You",
-      "english": "Understood. In the event it can't be found, what's the procedure for compensation or reimbursement?",
-      "pronunciation": "언더스투드. 인 디 이벤 잇 캔트 비 파운드, 왓츠 더 프로세쥬어 포 컴펜세이션 오어 리임벌스먼트?",
-      "korean": "알겠습니다. 만약 짐을 찾을 수 없게 된다면, 보상이나 변상을 위한 절차는 어떻게 되나요?",
-      "tip": "'Understood'로 이해했음을 표현하며 다음 질문으로 넘어갑니다."
+      "english": "Is there an option for repair, or is it solely a reimbursement for the damaged item?",
+      "pronunciation": "이즈 데어 언 옵션 포 리페어, 오어 이즈 잇 솔리 어 림벌스먼트 포 더 대미지드 아이템?",
+      "korean": "수리 옵션이 있나요, 아니면 손상된 물품에 대한 환불만 가능한가요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "We usually offer reimbursement based on the item's depreciated value, but in some cases, if the item is reparable, we might ask for a repair estimate.",
+      "pronunciation": "위 유주얼리 오퍼 림벌스먼트 베이스트 온 디 아이템스 디프리씨에이티드 밸류, 벗 인 썸 케이씨즈, 이프 디 아이템 이즈 리패러블, 위 마이트 애스크 포 어 리페어 에스티밋.",
+      "korean": "저희는 일반적으로 물품의 감가상각된 가치에 따라 보상금을 지급하지만, 경우에 따라 수리가 가능하다면 수리 견적서를 요청할 수도 있습니다."
     }
   ],
   "retrieval": [
     {
-      "english": "It seems my checked bag didn't make it to the baggage carousel.",
-      "pronunciation": "잇 심스 마이 췍트 백 디든 메이킷 투 더 배기쥐 캐러셀.",
-      "korean": "짐이 수하물 수취대로 나오지 않은 것 같아요.",
-      "tip": "짐이 도착하지 않았음을 자연스럽게 표현해 보세요."
+      "english": "I've already reported my damaged luggage, and now I need to understand the compensation process.",
+      "pronunciation": "아이브 오-레디 리포티드 마이 대미지드 러기지, 앤 나우 아이 니드 투 언더스탠드 더 컴펀세이션 프로세스.",
+      "korean": "제가 이미 파손 신고는 했고, 이제 보상 절차를 이해하고 싶습니다.",
+      "tip": "이미 발생한 사실(reported)과 다음으로 필요한 정보(understand)를 연결하여 말해보세요."
     },
     {
-      "english": "What's the best way to get updates on its whereabouts once I leave the airport?",
-      "pronunciation": "왓츠 더 베스트 웨이 투 겟 업데잇츠 온 이츠 웨어라바웃츠 원쓰 아이 리브 디 에어포트?",
-      "korean": "공항을 떠나고 나면, 짐의 행방에 대한 소식을 어떻게 받는 게 가장 좋을까요?",
-      "tip": "짐의 행방에 대한 업데이트 방법을 묻는 질문입니다."
+      "english": "What documents are typically required when applying for compensation?",
+      "pronunciation": "왓 다큐먼츠 아 티피컬리 리콰이어드 웬 어플라잉 포 컴펀세이션?",
+      "korean": "보상 청구를 위해 일반적으로 어떤 서류가 필요한가요?",
+      "tip": "'일반적으로 필요한' 서류를 묻는 표현과 '보상'이라는 단어를 활용해보세요."
     },
     {
-      "english": "Could you walk me through the process for claiming my baggage if it arrives later?",
-      "pronunciation": "쿠쥬 웍 미 쓰루 더 프로세스 포 클레이밍 마이 배기쥐 이프 잇 어라이브스 레이터?",
-      "korean": "나중에 짐이 도착하면 수령하는 절차를 설명해 주시겠어요?",
-      "tip": "복잡한 절차에 대해 설명을 요청하는 패턴입니다."
+      "english": "Is there an option for repair, or is it solely a reimbursement for the damaged item?",
+      "pronunciation": "이즈 데어 언 옵션 포 리페어, 오어 이즈 잇 솔리 어 림벌스먼트 포 더 대미지드 아이템?",
+      "korean": "수리 옵션이 있나요, 아니면 손상된 물품에 대한 환불만 가능한가요?",
+      "tip": "'~ 옵션이 있다'와 '오로지 ~만 가능하다'는 표현을 사용하여 두 가지 선택지를 질문해보세요."
     }
   ],
   "alternatives": [
     {
-      "english": "I can't seem to find my checked luggage on the carousel.",
-      "pronunciation": "아이 캔트 심 투 파인드 마이 췍트 러기쥐 온 더 캐러셀.",
-      "korean": "수하물 수취대에서 제 부친 짐을 찾을 수가 없네요.",
-      "note": "'It seems my checked bag didn't make it to the baggage carousel'보다 내가 짐을 찾으려는데 잘 안 된다는 상황을 직접적으로 표현합니다."
+      "english": "Could you guide me through the steps for a damage claim?",
+      "pronunciation": "쿠쥬 가이드 미 뜨루 더 스텝스 포 어 대미지 클레임?",
+      "korean": "파손 청구 절차를 안내해 주시겠어요?",
+      "note": "'Guide me through'는 상대방에게 전체 과정을 단계별로 설명해 달라고 요청할 때 사용하며, 'explain'보다 더 자세한 안내를 기대할 때 쓰기 좋습니다."
     },
     {
-      "english": "I'm looking to report a missing bag.",
-      "pronunciation": "아임 루킹 투 리포트 어 미씽 백.",
-      "korean": "분실된 가방을 신고하려고 합니다.",
-      "note": "'I need to file a report for my missing luggage'보다 덜 격식적이고 좀 더 일상적인 표현입니다. 주로 대화 초반에 의도를 밝힐 때 사용하기 좋습니다."
+      "english": "What kind of paperwork do I need to prepare for this?",
+      "pronunciation": "왓 카인드 오브 페이퍼웍 두 아이 니드 투 프리페어 포 디스?",
+      "korean": "이것을 위해 어떤 종류의 서류를 준비해야 하나요?",
+      "note": "'Paperwork'은 'documents'보다 좀 더 캐주얼하고 일상적인 표현입니다. 구어체에서 자주 사용됩니다."
     },
     {
-      "english": "Could you clarify what documents are required?",
-      "pronunciation": "쿠쥬 클레러파이 왓 다큐먼츠 아 리콰이어드?",
-      "korean": "어떤 서류들이 필요한지 명확히 해주실 수 있나요?",
-      "note": "'Just to clarify, what information will you need from me...?' 보다 '서류'에 초점을 맞춘 질문입니다. 좀 더 구체적인 정보가 필요할 때 사용합니다."
+      "english": "Roughly how long does it take for these claims to be settled?",
+      "pronunciation": "러플리 하우 롱 더즈 잇 테익 포 디즈 클레임즈 투 비 셋틀드?",
+      "korean": "이런 클레임들이 처리되는 데 대략 얼마나 걸리나요?",
+      "note": "'Roughly'는 '대략'이라는 의미로, 정확한 시간보다는 개략적인 추정치를 물을 때 유용합니다. 'be settled'는 클레임이 '해결되다/처리되다'라는 뜻입니다."
     }
   ],
   "review_items": [
     {
-      "source_date": "2026-10-16",
-      "english": "I'm feeling a bit chilly. Would it be possible to get a blanket?",
-      "pronunciation": "아임 필링 어 빗 칠리. 우딧 비 파서블 투 겟 어 블랭킷?",
-      "korean": "조금 쌀쌀해서요. 담요를 받을 수 있을까요?",
+      "source_date": "2026-10-17",
+      "english": "It seems my checked bag didn't make it to the baggage carousel.",
+      "pronunciation": "잇 심스 마이 췍트 백 디든 메이킷 투 더 배기쥐 캐러셀.",
+      "korean": "제가 부친 짐이 수하물 수취대로 나오지 않은 것 같아요.",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-16",
-      "english": "Excuse me, I was hoping to get some water when you have a moment.",
-      "pronunciation": "익스큐즈 미, 아이 워즈 호핑 투 겟 썸 워터 웬 유 해브 어 모먼트.",
-      "korean": "실례합니다, 괜찮으실 때 물을 좀 받을 수 있을까 해서요.",
+      "source_date": "2026-10-17",
+      "english": "I need to file a report for my missing luggage. Where can I do that?",
+      "pronunciation": "아이 니드 투 파일 어 리포트 포 마이 미씽 러기쥐. 웨어 캔 아이 두 댓?",
+      "korean": "나오지 않는 제 짐에 대해 신고해야 해요. 어디서 할 수 있죠?",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-14",
-      "english": "My flight, [Flight Number] to [Destination], has just been cancelled. What are my next steps?",
-      "pronunciation": "마이 플라잇, [플라잇 넘버] 투 [데스터네이션], 해스 져스트 빈 캔설드. 왓 아 마이 넥스트 스텝스?",
-      "korean": "제 [목적지]행 [항공편 번호]편 항공편이 방금 취소되었습니다. 이제 어떻게 해야 하죠?",
+      "source_date": "2026-10-15",
+      "english": "Is there any chance I could possibly move to a different seat?",
+      "pronunciation": "이즈 데어 애니 챈스 아이 쿧 파서블리 무브 투 어 디프런트 싯?",
+      "korean": "혹시 다른 좌석으로 옮길 수 있는 가능성이 있을까요?",
       "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-14",
-      "english": "I'm trying to understand the reason for this cancellation. What exactly happened?",
-      "pronunciation": "아임 트라잉 투 언더스탠 더 리즌 포 디스 캔설레이션. 왓 이그잭틀리 해픈드?",
-      "korean": "이번 취소의 이유를 이해하고 싶습니다. 정확히 무슨 일이 있었던 거죠?",
+      "source_date": "2026-10-15",
+      "english": "I'm finding this seat a bit uncomfortable for such a long flight, if you don't mind.",
+      "pronunciation": "아임 파인딩 디스 싯 어 빗 언컴퍼터블 포 서치 어 롱 플라잇, 이프 유 돈 마인드.",
+      "korean": "실례지만, 이 좌석이 장시간 비행하기엔 좀 불편해서요.",
       "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-11",
-      "english": "My boarding pass shows Gate A7, but the departure screen is showing Gate B3 for my flight to London. I'm a bit confused.",
-      "pronunciation": "마이 보딩 파-쓰 쇼우스 게잇 에이 세븐, 벗 더 디파-쳐 스크린 이즈 쇼잉 게잇 비 쓰리 포- 마이 플라잇 투 런던. 아임 어 빗 컨퓨-즈드.",
-      "korean": "제 탑승권에는 A7 게이트라고 되어 있는데, 출발 전광판에는 런던행 제 비행기가 B3 게이트라고 나와 있어요. 좀 헷갈리네요.",
+      "source_date": "2026-10-12",
+      "english": "Hi, I'm on flight KE123 to London, and the departure board is showing a significant delay.",
+      "pronunciation": "하이, 아임 온 플라잇 케이 이 원 투 쓰리 투 런던, 앤 더 디파쳐 보-드 이즈 쇼잉 어 시그니피컨트 딜레이.",
+      "korean": "안녕하세요, 저는 런던행 KE123편 승객인데, 출발 전광판에 상당한 지연이 표시되어 있네요.",
       "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     }
   ]
