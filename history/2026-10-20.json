@@ -1,0 +1,203 @@
+{
+  "date": "2026-10-20",
+  "updated_at": "10:07 KST",
+  "topic": "입국심사에서 여행 목적과 체류기간 설명하기",
+  "intro": "해외여행 입국심사대에서 당황하지 않고, 입국 심사관에게 여행 목적과 체류 기간을 명확하고 자연스럽게 설명하는 영어 표현들을 익혀봅시다.",
+  "sentences": [
+    {
+      "english": "My primary purpose for this trip is leisure and sightseeing.",
+      "pronunciation": "마이 프라이머리 펄퍼스 포 디스 트립 이즈 레져 앤 사이트씨잉.",
+      "korean": "제 이번 여행의 주된 목적은 여가와 관광입니다.",
+      "tip": "'primary purpose'는 '주된 목적'이라는 뜻으로, 여행 목적을 명확히 전달할 때 유용합니다."
+    },
+    {
+      "english": "I'll be staying for about eight days, with my flight back on the 25th.",
+      "pronunciation": "아일 비 스테잉 포 어바웃 에잇 데이즈, 윗 마이 플라잇 백 온 더 트웬티피프쓰.",
+      "korean": "저는 약 8일 동안 머물 예정이며, 돌아오는 비행기는 25일입니다.",
+      "tip": "체류 기간과 더불어 출국 날짜를 함께 언급하여 심사관에게 정확한 정보를 제공합니다."
+    },
+    {
+      "english": "I'm looking forward to exploring the city and experiencing the local culture.",
+      "pronunciation": "아임 루킹 포워드 투 익스플로링 더 씨티 앤 익스피어리언싱 더 로컬 컬쳐.",
+      "korean": "도시를 둘러보고 현지 문화를 경험하길 기대하고 있습니다.",
+      "tip": "여행 목적을 구체적인 활동으로 설명하여, 순수한 관광 목적임을 강조할 수 있습니다."
+    },
+    {
+      "english": "My visit concludes on the 3rd of next month, as per my return ticket.",
+      "pronunciation": "마이 비짓 컨클루즈 온 더 써드 어브 넥스트 먼쓰, 애즈 퍼 마이 리턴 티켓.",
+      "korean": "제 방문은 다음 달 3일에 끝납니다, 왕복 항공권에 명시된 대로요.",
+      "tip": "체류 기간의 근거로 'return ticket(왕복 항공권)'을 언급하며 신뢰감을 높일 수 있습니다."
+    },
+    {
+      "english": "So, I'm here just for a short vacation, roughly a week.",
+      "pronunciation": "쏘우, 아임 히어 저슷 포 어 쇼트 베이케이슌, 러플리 어 위크.",
+      "korean": "그러니까, 저는 짧은 휴가차 온 겁니다, 대략 일주일 정도요.",
+      "tip": "질문을 다시 확인하거나, 간략하게 요약해서 말할 때 'So, I'm here just for...'와 'roughly'를 활용해 자연스럽게 표현할 수 있습니다."
+    }
+  ],
+  "pattern": {
+    "form": "My plan is to [동사 원형]...",
+    "pronunciation": "마이 플랜 이즈 투 [동사]...",
+    "meaning": "~할 계획입니다.",
+    "examples": [
+      {
+        "english": "My plan is to visit a few museums and historical sites.",
+        "pronunciation": "마이 플랜 이즈 투 비짓 어 퓨 뮤지엄즈 앤 히스토리컬 싸이츠.",
+        "korean": "몇몇 박물관과 유적지를 방문할 계획입니다."
+      },
+      {
+        "english": "My plan is to travel to Busan after my stay in Seoul.",
+        "pronunciation": "마이 플랜 이즈 투 트래블 투 부산 애프터 마이 스테이 인 서울.",
+        "korean": "서울에 머문 후에는 부산으로 이동할 계획입니다."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "leisure",
+      "pronunciation": "레져",
+      "meaning": "여가"
+    },
+    {
+      "word": "sightseeing",
+      "pronunciation": "사이트씨잉",
+      "meaning": "관광"
+    },
+    {
+      "word": "duration of stay",
+      "pronunciation": "듀레이션 어브 스테이",
+      "meaning": "체류 기간"
+    },
+    {
+      "word": "return ticket",
+      "pronunciation": "리턴 티켓",
+      "meaning": "왕복 항공권"
+    },
+    {
+      "word": "accommodation",
+      "pronunciation": "어카머데이슌",
+      "meaning": "숙소"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Staff",
+      "english": "Good morning. May I see your passport, please?",
+      "pronunciation": "굿 모닝. 메이 아이 씨 유어 패스포트, 플리즈?",
+      "korean": "안녕하세요. 여권 좀 보여주시겠어요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Certainly, here you go.",
+      "pronunciation": "썰튼리, 히어 유 고.",
+      "korean": "네, 여기 있습니다."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Thank you. What's the purpose of your visit to [Country Name]?",
+      "pronunciation": "땡큐. 왓츠 더 펄퍼스 어브 유어 비짓 투 [국가명]?",
+      "korean": "감사합니다. [국가명] 방문 목적은 무엇인가요?"
+    },
+    {
+      "speaker": "You",
+      "english": "My primary purpose for this trip is leisure and sightseeing.",
+      "pronunciation": "마이 프라이머리 펄퍼스 포 디스 트립 이즈 레져 앤 사이트씨잉.",
+      "korean": "제 이번 여행의 주된 목적은 여가와 관광입니다."
+    },
+    {
+      "speaker": "Staff",
+      "english": "And how long do you intend to stay?",
+      "pronunciation": "앤 하우 롱 두 유 인텐드 투 스테이?",
+      "korean": "얼마나 오래 머무실 예정인가요?"
+    },
+    {
+      "speaker": "You",
+      "english": "I'll be staying for about eight days, with my flight back on the 25th.",
+      "pronunciation": "아일 비 스테잉 포 어바웃 에잇 데이즈, 윗 마이 플라잇 백 온 더 트웬티피프쓰.",
+      "korean": "저는 약 8일 동안 머물 예정이며, 돌아오는 비행기는 25일입니다."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Alright. Enjoy your stay.",
+      "pronunciation": "올라잇. 인조이 유어 스테이.",
+      "korean": "알겠습니다. 즐거운 시간 보내세요."
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "My primary purpose for this trip is leisure and sightseeing.",
+      "pronunciation": "마이 프라이머리 펄퍼스 포 디스 트립 이즈 레져 앤 사이트씨잉.",
+      "korean": "제 이번 여행의 주된 목적은 여가와 관광입니다.",
+      "tip": "'주된 목적'을 표현할 때 'primary purpose'를 사용해보세요."
+    },
+    {
+      "english": "I'll be staying for about eight days, with my flight back on the 25th.",
+      "pronunciation": "아일 비 스테잉 포 어바웃 에잇 데이즈, 윗 마이 플라잇 백 온 더 트웬티피프쓰.",
+      "korean": "저는 약 8일 동안 머물 예정이며, 돌아오는 비행기는 25일입니다.",
+      "tip": "체류 기간과 함께 출국 날짜를 구체적으로 언급해 보세요."
+    },
+    {
+      "english": "I'm looking forward to exploring the city and experiencing the local culture.",
+      "pronunciation": "아임 루킹 포워드 투 익스플로링 더 씨티 앤 익스피어리언싱 더 로컬 컬쳐.",
+      "korean": "도시를 둘러보고 현지 문화를 경험하길 기대하고 있습니다.",
+      "tip": "여행 중 하고 싶은 활동을 설명할 때 'I'm looking forward to...' 패턴을 사용해 보세요."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "I'm visiting purely for a holiday.",
+      "pronunciation": "아임 비지팅 퓨얼리 포 어 할러데이.",
+      "korean": "저는 순전히 휴가차 방문했습니다.",
+      "note": "원래 표현보다 좀 더 간결하고 캐주얼하게 '휴가 목적'임을 설명할 때 좋습니다."
+    },
+    {
+      "english": "I anticipate my visit will last roughly a week.",
+      "pronunciation": "아이 앤티서페잇 마이 비짓 윌 래스트 러플리 어 위크.",
+      "korean": "제 방문은 대략 일주일 정도 지속될 것으로 예상합니다.",
+      "note": "'anticipate'와 'last'를 사용하여 좀 더 격식 있고 예상하는 기간을 표현합니다."
+    },
+    {
+      "english": "I plan to do quite a bit of sightseeing and try out some local cuisine.",
+      "pronunciation": "아이 플랜 투 두 콰잇 어 빗 어브 사이트씨잉 앤 트라이 아웃 썸 로컬 퀴진.",
+      "korean": "관광을 꽤 많이 하고 현지 음식을 좀 맛볼 계획입니다.",
+      "note": "구체적인 활동들을 언급하며 'quite a bit of (꽤 많은)'과 'try out (경험하다/맛보다)' 표현으로 좀 더 풍부하게 설명합니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-10-17",
+      "english": "It seems my checked bag didn't make it to the baggage carousel.",
+      "pronunciation": "잇 심스 마이 췍트 백 디든 메이킷 투 더 배기쥐 캐러셀.",
+      "korean": "제가 부친 짐이 수하물 수취대로 나오지 않은 것 같아요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-17",
+      "english": "I need to file a report for my missing luggage. Where can I do that?",
+      "pronunciation": "아이 니드 투 파일 어 리포트 포 마이 미씽 러기쥐. 웨어 캔 아이 두 댓?",
+      "korean": "나오지 않는 제 짐에 대해 신고해야 해요. 어디서 할 수 있죠?",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-14",
+      "english": "My flight, [Flight Number] to [Destination], has just been cancelled. What are my next steps?",
+      "pronunciation": "마이 플라잇, [플라잇 넘버] 투 [데스터네이션], 해스 져스트 빈 캔설드. 왓 아 마이 넥스트 스텝스?",
+      "korean": "제 [목적지]행 [항공편 번호]편 항공편이 방금 취소되었습니다. 이제 어떻게 해야 하죠?",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-14",
+      "english": "I'm trying to understand the reason for this cancellation. What exactly happened?",
+      "pronunciation": "아임 트라잉 투 언더스탠 더 리즌 포 디스 캔설레이션. 왓 이그잭틀리 해픈드?",
+      "korean": "이번 취소의 이유를 이해하고 싶습니다. 정확히 무슨 일이 있었던 거죠?",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-07",
+      "english": "It seems my bag is overweight.",
+      "pronunciation": "잇 씨-임스 마이 백 이즈 오우-버-웨잇.",
+      "korean": "제 가방이 무게 초과인 것 같아요.",
+      "tip": "13일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
