@@ -1,203 +1,215 @@
 {
-  "date": "2026-10-21",
-  "updated_at": "09:42 KST",
-  "topic": "입국심사에서 숙소 주소를 설명하기",
-  "intro": "해외여행의 첫 관문인 입국심사. '어디에 머무르냐'는 질문은 가장 흔한 질문 중 하나인데요. 오늘은 숙소 주소를 명확하게 설명하고, 필요한 경우 추가 정보를 제공하거나 요청하는 다양한 표현을 학습해 봅시다.",
+  "date": "2026-10-22",
+  "updated_at": "09:46 KST",
+  "topic": "세관에서 신고할 물품이 있는지 질문받기",
+  "intro": "세관에서 입국 심사를 마치고 짐을 찾은 후, 세관원을 만나 신고할 물품이 있는지 질문받는 상황입니다. 여행 중 구매한 물품이나 소지품 중 신고 대상이 있는지 확인하고, 필요하다면 어떻게 신고해야 하는지 묻는 대화를 연습해 봅시다.",
   "sentences": [
     {
-      "english": "I'm staying at the 'Central Park Hotel', and I have the booking confirmation with the address right here.",
-      "pronunciation": "아임 스테-잉 앳 더 센트럴 파-크 호-텔, 앤 아이 해브 더 부-킹 컨퍼메이션 위드 디 애-드레스 라잇 히어.",
-      "korean": "저는 '센트럴 파크 호텔'에 묵을 예정이고, 주소가 적힌 예약 확인증을 여기 가지고 있어요.",
-      "tip": "숙소 이름과 함께 예약 확인증이 있음을 바로 언급하여 추가 질문에 대비하는 자연스러운 표현입니다."
+      "english": "I'm not entirely sure what qualifies as 'something to declare' in this country.",
+      "pronunciation": "아임 낫 인타이어-리 슈얼 왓 퀄러파이즈 애즈 '썸띵 투 디클레어' 인 디스 컨츄리.",
+      "korean": "이 나라에서 '신고할 물품'으로 분류되는 것이 정확히 무엇인지 잘 모르겠습니다.",
+      "tip": "신고 대상 품목에 대해 확신이 없을 때, 세관원에게 설명을 요청하는 공손한 표현입니다."
     },
     {
-      "english": "What specific details do you need for the accommodation address?",
-      "pronunciation": "왓 스페-시픽 디-테일스 두 유 니드 포 디 어카머데이션 애-드레스?",
-      "korean": "숙소 주소에 대해 어떤 구체적인 정보가 필요하신가요?",
-      "tip": "상대방이 원하는 정보의 종류(호텔 이름, 전체 주소, 우편번호 등)를 명확히 물을 때 사용합니다."
+      "english": "No, I don't believe I have anything to declare, but I have purchased a few duty-free items.",
+      "pronunciation": "노, 아돈 빌리브 아이 해브 애니띵 투 디클레어, 밧 아이 해브 퍼처스드 어 퓨 듀티-프리 아이템즈.",
+      "korean": "아니요, 신고할 물품은 없는 것 같습니다만, 면세품 몇 가지를 구매했습니다.",
+      "tip": "일반적으로 면세 한도 내의 물품은 신고 대상이 아니지만, 미리 언급하며 확인을 구하는 뉘앙스입니다."
     },
     {
-      "english": "I don't have the exact building number memorized, but I can show you the address on my phone.",
-      "pronunciation": "아이 돈 해브 디 이그젝트 빌딩 넘버 메모라이즈드, 벗 아이 캔 쇼 유 디 애-드레스 온 마이 폰.",
-      "korean": "정확한 번지수는 외우고 있지 않지만, 휴대폰으로 주소를 보여드릴 수 있어요.",
-      "tip": "기억이 나지 않을 때 솔직하게 말하고, 다른 방법(휴대폰 화면 등)으로 정보를 제공할 수 있음을 제시합니다."
+      "english": "I'm carrying a new camera for personal use. Does that require declaration?",
+      "pronunciation": "아임 캐링 어 뉴 카메라 포 퍼서널 유즈. 더즈 댓 리콰이어 디클러레이션?",
+      "korean": "개인 용도로 쓸 새 카메라를 가지고 있는데, 그것도 신고해야 하나요?",
+      "tip": "특정 물품이 신고 대상인지 명확히 물어볼 때 사용합니다. 'require declaration'은 '신고가 필요한가요?'라는 뜻입니다."
     },
     {
-      "english": "Just to confirm, are you looking for the name of the hotel or the full street address?",
-      "pronunciation": "저스트 투 컨펌, 아 유 루킹 포 더 네임 업 더 호-텔 오어 더 풀 스트릿 애-드레스?",
-      "korean": "확인차 여쭤보는데, 호텔 이름을 찾으시는 건가요, 아니면 전체 도로 주소를 찾으시는 건가요?",
-      "tip": "상대방의 질문을 정확히 이해했는지 재확인하고, 필요한 정보가 무엇인지 분명히 할 때 씁니다."
+      "english": "Is there a specific value limit for items that don't require declaration?",
+      "pronunciation": "이즈 데어 어 스페시픽 밸류 리밋 포 아이템즈 댓 돈 리콰이어 디클러레이션?",
+      "korean": "신고가 필요 없는 물품의 특정 금액 한도가 있나요?",
+      "tip": "물품의 가치에 따라 신고 여부가 달라지기 때문에, 금액 한도를 문의할 때 유용합니다."
     },
     {
-      "english": "I'll be staying at two different places. Which address would you like, the first one or both?",
-      "pronunciation": "아윌 비 스테-잉 앳 투 디-퍼런트 플레이시스. 위치 애-드레스 우쥬 라잌, 더 퍼스트 원 오어 보쓰?",
-      "korean": "두 군데 다른 숙소에 묵을 예정입니다. 첫 번째 숙소 주소가 필요하신가요, 아니면 둘 다 필요하신가요?",
-      "tip": "여러 숙소에 머무를 경우, 입국심사관이 어떤 정보를 원하는지 먼저 물어보는 능동적인 표현입니다."
+      "english": "So, just to confirm, if I don't have anything that exceeds the declared value limit, I don't need to fill out a form?",
+      "pronunciation": "소, 저슷 투 컨펌, 이프 아이 돈 해브 애니띵 댓 익시즈 더 디클레어드 밸류 리밋, 아돈 니드 투 필 아웃 어 폼?",
+      "korean": "그럼, 다시 확인하자면, 신고 금액 한도를 초과하는 물품이 없다면, 서류를 작성할 필요가 없는 건가요?",
+      "tip": "세관원의 설명을 듣고 자신의 이해가 맞는지 최종적으로 확인하는 표현입니다."
     }
   ],
   "pattern": {
-    "form": "I can [동사]... if that helps.",
-    "pronunciation": "아이 캔 [동사]... 이프 댓 헬프스.",
-    "meaning": "제가 ~할 수 있는데, 도움이 될까요? (정보 제공, 해결책 제시)",
+    "form": "I'm not sure if [주어] + [동사]...",
+    "pronunciation": "아임 낫 슈얼 이프 [주어] + [동사]...",
+    "meaning": "~해야 하는지 잘 모르겠습니다 / ~인지 확실치 않습니다.",
     "examples": [
       {
-        "english": "I can show you my hotel booking on my phone, if that helps.",
-        "pronunciation": "아이 캔 쇼 유 마이 호-텔 부-킹 온 마이 폰, 이프 댓 헬프스.",
-        "korean": "제가 휴대폰으로 호텔 예약을 보여드릴 수 있는데, 도움이 될까요?"
+        "english": "I'm not sure if this souvenir counts as a declared item.",
+        "pronunciation": "아임 낫 슈얼 이프 디스 수브니어 카운츠 애즈 어 디클레어드 아이템.",
+        "korean": "이 기념품이 신고 대상 물품으로 분류되는지 잘 모르겠습니다."
       },
       {
-        "english": "I can write down the full address for you, if that helps.",
-        "pronunciation": "아이 캔 라잇 다운 더 풀 애-드레스 포 유, 이프 댓 헬프스.",
-        "korean": "제가 주소 전체를 적어드릴 수 있는데, 도움이 될까요?"
+        "english": "I'm not sure if I filled out this customs form correctly.",
+        "pronunciation": "아임 낫 슈얼 이프 아이 필드 아웃 디스 커스텀스 폼 커렉틀리.",
+        "korean": "제가 이 세관 신고서를 제대로 작성했는지 잘 모르겠습니다."
       }
     ]
   },
   "words": [
     {
-      "word": "accommodation",
-      "pronunciation": "어카머데이션",
-      "meaning": "숙소, 거처"
+      "word": "Declare",
+      "pronunciation": "디클레어",
+      "meaning": "(세관에) 신고하다"
     },
     {
-      "word": "booking confirmation",
-      "pronunciation": "부-킹 컨퍼메이션",
-      "meaning": "예약 확인증"
+      "word": "Customs declaration",
+      "pronunciation": "커스텀스 디클러레이션",
+      "meaning": "세관 신고"
     },
     {
-      "word": "street number / building number",
-      "pronunciation": "스트릿 넘버 / 빌딩 넘버",
-      "meaning": "번지수, 건물 번호"
+      "word": "Prohibited items",
+      "pronunciation": "프로히비티드 아이템즈",
+      "meaning": "반입 금지 물품"
     },
     {
-      "word": "postal code / zip code",
-      "pronunciation": "포-스탈 코-드 / 집 코-드",
-      "meaning": "우편번호"
+      "word": "Restricted items",
+      "pronunciation": "레스트릭티드 아이템즈",
+      "meaning": "반입 제한 물품"
     },
     {
-      "word": "full address",
-      "pronunciation": "풀 애-드레스",
-      "meaning": "전체 주소"
+      "word": "Value limit",
+      "pronunciation": "밸류 리밋",
+      "meaning": "(면세) 금액 한도"
     }
   ],
   "dialogue": [
     {
       "speaker": "Staff",
-      "english": "What is your accommodation address in New York City?",
-      "pronunciation": "왓 이즈 유어 어카머데이션 애-드레스 인 뉴-요크 시티?",
-      "korean": "뉴욕 시티에서 묵을 숙소 주소가 어떻게 되나요?"
+      "english": "Next, please! Do you have anything to declare today?",
+      "pronunciation": "넥스트, 플리즈! 두 유 해브 애니띵 투 디클레어 투데이?",
+      "korean": "다음 분! 오늘 신고할 물품 있으신가요?"
     },
     {
       "speaker": "You",
-      "english": "I'm staying at the 'Riverbend Suites'. I can show you my hotel booking on my phone, if that helps.",
-      "pronunciation": "아임 스테-잉 앳 더 리-버벤드 수-잇츠. 아이 캔 쇼 유 마이 호-텔 부-킹 온 마이 폰, 이프 댓 헬프스.",
-      "korean": "저는 '리버벤드 스위트'에 머물 예정입니다. 휴대폰으로 호텔 예약을 보여드릴 수 있는데, 도움이 될까요?"
+      "english": "I'm not entirely sure what qualifies as 'something to declare' in this country.",
+      "pronunciation": "아임 낫 인타이어-리 슈얼 왓 퀄러파이즈 애즈 '썸띵 투 디클레어' 인 디스 컨츄리.",
+      "korean": "이 나라에서 '신고할 물품'으로 분류되는 것이 정확히 무엇인지 잘 모르겠습니다."
     },
     {
       "speaker": "Staff",
-      "english": "Please do. Could you show me the full address on it?",
-      "pronunciation": "플리-즈 두. 쿠쥬 쇼 미 더 풀 애-드레스 온 잇?",
-      "korean": "네, 보여주세요. 거기에 있는 전체 주소를 보여주시겠어요?"
+      "english": "Generally, we're looking for items over a certain value, commercial goods, or restricted items like certain food products or large amounts of cash.",
+      "pronunciation": "제너럴리, 위얼 루킹 포 아이템즈 오버 어 썰튼 밸류, 커머셜 구즈, 오어 레스트릭티드 아이템즈 라이크 썰튼 푸드 프로덕츠 오어 라지 어마운츠 오브 캐쉬.",
+      "korean": "일반적으로 특정 금액을 초과하는 물품, 상업용 물품, 혹은 특정 식품이나 많은 현금 같은 제한 물품을 말씀드립니다."
     },
     {
       "speaker": "You",
-      "english": "Here it is. It's '123 Main Street, New York, NY 10001'.",
-      "pronunciation": "히어 릿 이즈. 잇츠 원 투 쓰리 메인 스트릿, 뉴-요크, 엔 와이 원 더블 오 더블 오 원.",
-      "korean": "여기 있습니다. '123 메인 스트릿, 뉴욕, 뉴욕주 10001'입니다."
+      "english": "I'm carrying a new camera for personal use. Does that require declaration?",
+      "pronunciation": "아임 캐링 어 뉴 카메라 포 퍼서널 유즈. 더즈 댓 리콰이어 디클러레이션?",
+      "korean": "개인 용도로 쓸 새 카메라를 가지고 있는데, 그것도 신고해야 하나요?"
     },
     {
       "speaker": "Staff",
-      "english": "Thank you. And will you be staying there for your entire trip?",
-      "pronunciation": "땡큐. 앤 윌 유 비 스테-잉 데어 포 유어 엔타이얼 트립?",
-      "korean": "감사합니다. 그리고 여행 내내 그곳에 머무르실 건가요?"
+      "english": "For personal use, usually not, as long as its value is under the exemption limit. Is there anything else?",
+      "pronunciation": "포 퍼서널 유즈, 유주얼리 낫, 애즈 롱 애즈 잇츠 밸류 이즈 언더 더 이그젬션 리밋. 이즈 데어 애니띵 엘스?",
+      "korean": "개인 용도라면 보통 신고가 필요 없습니다, 면세 한도 아래라면요. 다른 건 없으신가요?"
     },
     {
       "speaker": "You",
-      "english": "No, I'll be staying at two different places. Which address would you like, just the first one?",
-      "pronunciation": "노, 아윌 비 스테-잉 앳 투 디-퍼런트 플레이시스. 위치 애-드레스 우쥬 라잌, 저스트 더 퍼스트 원?",
-      "korean": "아니요, 두 군데 다른 숙소에 묵을 예정입니다. 어떤 주소가 필요하신가요, 첫 번째 숙소만요?"
+      "english": "Is there a specific value limit for items that don't require declaration?",
+      "pronunciation": "이즈 데어 어 스페시픽 밸류 리밋 포 아이템즈 댓 돈 리콰이어 디클러레이션?",
+      "korean": "신고가 필요 없는 물품의 특정 금액 한도가 있나요?"
     },
     {
       "speaker": "Staff",
-      "english": "Just the first one is fine. Thank you. Enjoy your stay.",
-      "pronunciation": "저스트 더 퍼스트 원 이즈 파인. 땡큐. 인조이 유어 스테이.",
-      "korean": "첫 번째 숙소 주소만으로 괜찮습니다. 감사합니다. 즐거운 여행 되세요."
+      "english": "Yes, it's $800 per person. If everything falls below that and is for personal use, you're all set.",
+      "pronunciation": "예스, 잇츠 에잇 헌드레드 달러스 퍼 퍼슨. 이프 에브리띵 폴스 빌로우 댓 앤 이즈 포 퍼서널 유즈, 유얼 올 셋.",
+      "korean": "네, 1인당 800달러입니다. 모든 것이 그 아래이고 개인 용도라면, 괜찮습니다."
+    },
+    {
+      "speaker": "You",
+      "english": "So, just to confirm, if I don't have anything that exceeds the declared value limit, I don't need to fill out a form?",
+      "pronunciation": "소, 저슷 투 컨펌, 이프 아이 돈 해브 애니띵 댓 익시즈 더 디클레어드 밸류 리밋, 아돈 니드 투 필 아웃 어 폼?",
+      "korean": "그럼, 다시 확인하자면, 신고 금액 한도를 초과하는 물품이 없다면, 서류를 작성할 필요가 없는 건가요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "That's correct. You can proceed. Welcome to [Country Name].",
+      "pronunciation": "댓츠 커렉트. 유 캔 프로시드. 웰컴 투 [컨츄리 네임].",
+      "korean": "맞습니다. 지나가세요. [나라 이름]에 오신 것을 환영합니다."
     }
   ],
   "retrieval": [
     {
-      "english": "I have the booking confirmation with the full address on my phone. I can show it to you.",
-      "pronunciation": "아이 해브 더 부-킹 컨퍼메이션 위드 더 풀 애-드레스 온 마이 폰. 아이 캔 쇼 잇 투 유.",
-      "korean": "숙소 예약 확인증에 전체 주소가 있어요. 휴대폰으로 보여드릴 수 있어요.",
-      "tip": "'예약 확인증'과 '전체 주소' 표현을 떠올려 보세요. '보여드리다'는 'show'를 활용합니다."
+      "english": "I'm not entirely sure what qualifies as 'something to declare' in this country.",
+      "pronunciation": "아임 낫 인타이어-리 슈얼 왓 퀄러파이즈 애즈 '썸띵 투 디클레어' 인 디스 컨츄리.",
+      "korean": "이 나라에서 '신고할 물품'이 무엇을 의미하는지 잘 모르겠어요.",
+      "tip": "신고 대상 품목에 대한 불확실성을 표현합니다."
     },
     {
-      "english": "I don't have the exact building number memorized, but I can show you the address on my phone.",
-      "pronunciation": "아이 돈 해브 디 이그젝트 빌딩 넘버 메모라이즈드, 벗 아이 캔 쇼 유 디 애-드레스 온 마이 폰.",
-      "korean": "정확한 번지수는 지금 기억나지 않지만, 휴대폰으로 주소를 보여드릴 수 있어요.",
-      "tip": "'기억나지 않는다'는 'don't have memorized'로, '해결책 제시'는 'I can show you'를 사용합니다."
+      "english": "I'm carrying a new camera for personal use. Does that require declaration?",
+      "pronunciation": "아임 캐링 어 뉴 카메라 포 퍼서널 유즈. 더즈 댓 리콰이어 디클러레이션?",
+      "korean": "개인 용도로 쓸 새 카메라가 있는데, 이것도 신고해야 하나요?",
+      "tip": "특정 물품의 신고 필요 여부를 물어봅니다."
     },
     {
-      "english": "Are you looking for the name of the hotel or the full street address?",
-      "pronunciation": "아 유 루킹 포 더 네임 업 더 호-텔 오어 더 풀 스트릿 애-드레스?",
-      "korean": "호텔 이름이나 전체 주소 중 어떤 정보가 필요하신가요?",
-      "tip": "'찾고 계신가요?'는 'Are you looking for~?'로 시작하고, 두 가지 옵션을 제시하는 질문입니다."
+      "english": "So, just to confirm, if I don't have anything that exceeds the declared value limit, I don't need to fill out a form?",
+      "pronunciation": "소, 저슷 투 컨펌, 이프 아이 돈 해브 애니띵 댓 익시즈 더 디클레어드 밸류 리밋, 아돈 니드 투 필 아웃 어 폼?",
+      "korean": "그럼, 다시 확인하자면, 신고 금액 한도를 초과하는 물품이 없다면 서류를 작성할 필요가 없는 건가요?",
+      "tip": "세관원의 설명을 재확인할 때 사용합니다."
     }
   ],
   "alternatives": [
     {
-      "english": "My hotel details, including the full address, are on my booking here.",
-      "pronunciation": "마이 호-텔 디-테일스, 인클루-딩 더 풀 애-드레스, 아- 온 마이 부-킹 히어.",
-      "korean": "제 호텔 정보는 전체 주소를 포함해서 여기 예약 내역에 있습니다.",
-      "note": "더 간결하게 정보를 제시하며, 필요한 경우 보여줄 수 있음을 암시합니다. 'I have the booking confirmation...'보다 직접적입니다."
+      "english": "Could you tell me what items generally need to be declared?",
+      "pronunciation": "쿠쥬 텔 미 왓 아이템즈 제너럴리 니드 투 비 디클레어드?",
+      "korean": "보통 어떤 물품을 신고해야 하는지 말씀해 주실 수 있나요?",
+      "note": "원래 표현보다 좀 더 직접적이고 보편적인 질문으로, '무엇을 신고해야 하는가'에 초점을 맞춥니다."
     },
     {
-      "english": "I have the complete address on my digital itinerary. Would you like to see it?",
-      "pronunciation": "아이 해브 더 컴플릿 애-드레스 온 마이 디-지탈 아이-티너-러리. 우-쥬 라잌 투 씨 잇?",
-      "korean": "전체 주소는 제 디지털 여정표에 있어요. 보여드릴까요?",
-      "note": "'itinerary' (여행 일정표)라는 단어를 사용하여 더 폭넓은 정보원을 제시하며, 직접적인 질문으로 보여줄 의향을 표현합니다."
+      "english": "What exactly should I be declaring here?",
+      "pronunciation": "왓 이그잭틀리 슈드 아이 비 디클레어링 히어?",
+      "korean": "제가 여기서 정확히 무엇을 신고해야 하나요?",
+      "note": "좀 더 간결하고 직접적인 질문입니다. 자신의 상황에 초점을 맞춰 구체적인 답변을 기대할 때 사용합니다."
     },
     {
-      "english": "Could you specify if you need the hotel's name or the precise street address?",
-      "pronunciation": "쿠쥬 스페-시파이 이프 유 니드 더 호-텔스 네임 오어 더 프리-사이즈 스트릿 애-드레스?",
-      "korean": "호텔 이름이 필요한지, 아니면 정확한 거리 주소가 필요한지 구체적으로 말씀해 주시겠어요?",
-      "note": "'Could you specify'를 사용하여 좀 더 격식 있고 정중하게 구체적인 정보를 요청하는 표현입니다. 'Just to confirm...'보다 더 직접적인 요청입니다."
+      "english": "Is this camera, for personal use, something I should declare?",
+      "pronunciation": "이즈 디스 카메라, 포 퍼서널 유즈, 썸띵 아이 슈드 디클레어?",
+      "korean": "개인 용도의 이 카메라를 제가 신고해야 하는 건가요?",
+      "note": "'require declaration' 대신 'should declare'를 사용하여 좀 더 부드럽고 덜 공식적인 뉘앙스로 물어보는 표현입니다."
     }
   ],
   "review_items": [
     {
-      "source_date": "2026-10-20",
-      "english": "My primary purpose for this trip is leisure and sightseeing.",
-      "pronunciation": "마이 프라이머리 펄퍼스 포 디스 트립 이즈 레져 앤 사이트씨잉.",
-      "korean": "제 이번 여행의 주된 목적은 여가와 관광입니다.",
+      "source_date": "2026-10-21",
+      "english": "I'm staying at the 'Central Park Hotel', and I have the booking confirmation with the address right here.",
+      "pronunciation": "아임 스테-잉 앳 더 센트럴 파-크 호-텔, 앤 아이 해브 더 부-킹 컨퍼메이션 위드 디 애-드레스 라잇 히어.",
+      "korean": "저는 '센트럴 파크 호텔'에 묵을 예정이고, 주소가 적힌 예약 확인증을 여기 가지고 있어요.",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-20",
-      "english": "I'll be staying for about eight days, with my flight back on the 25th.",
-      "pronunciation": "아일 비 스테잉 포 어바웃 에잇 데이즈, 윗 마이 플라잇 백 온 더 트웬티피프쓰.",
-      "korean": "저는 약 8일 동안 머물 예정이며, 돌아오는 비행기는 25일입니다.",
+      "source_date": "2026-10-21",
+      "english": "What specific details do you need for the accommodation address?",
+      "pronunciation": "왓 스페-시픽 디-테일스 두 유 니드 포 디 어카머데이션 애-드레스?",
+      "korean": "숙소 주소에 대해 어떤 구체적인 정보가 필요하신가요?",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-18",
-      "english": "I've already reported my damaged luggage, and now I need to understand the compensation process.",
-      "pronunciation": "아이브 오-레디 리포티드 마이 대미지드 러기지, 앤 나우 아이 니드 투 언더스탠드 더 컴펀세이션 프로세스.",
-      "korean": "제가 이미 파손된 수하물 신고를 했고, 이제 보상 절차를 이해하고 싶습니다.",
-      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
-    },
-    {
-      "source_date": "2026-10-18",
-      "english": "Could you explain how I can proceed with a claim for the damage?",
-      "pronunciation": "쿠쥬 익스플레인 하우 아이 캔 프로씨드 윗 어 클레임 포 더 대미지?",
-      "korean": "제가 그 파손에 대한 청구를 어떻게 진행할 수 있는지 설명해 주실 수 있나요?",
-      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
-    },
-    {
-      "source_date": "2026-10-15",
-      "english": "Is there any chance I could possibly move to a different seat?",
-      "pronunciation": "이즈 데어 애니 챈스 아이 쿧 파서블리 무브 투 어 디프런트 싯?",
-      "korean": "혹시 다른 좌석으로 옮길 수 있는 가능성이 있을까요?",
+      "source_date": "2026-10-16",
+      "english": "I'm feeling a bit chilly. Would it be possible to get a blanket?",
+      "pronunciation": "아임 필링 어 빗 칠리. 우딧 비 파서블 투 겟 어 블랭킷?",
+      "korean": "조금 쌀쌀해서요. 담요를 받을 수 있을까요?",
       "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-16",
+      "english": "Excuse me, I was hoping to get some water when you have a moment.",
+      "pronunciation": "익스큐즈 미, 아이 워즈 호핑 투 겟 썸 워터 웬 유 해브 어 모먼트.",
+      "korean": "실례합니다, 괜찮으실 때 물을 좀 받을 수 있을까 해서요.",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-09",
+      "english": "I've been trying to check in online for my flight, but it just wouldn't go through.",
+      "pronunciation": "아이-브 빈 트라잉 투 쳌 인 온라인 포 마이 플라잇, 벗 잇 저스트 우든트 고- 뜨루.",
+      "korean": "제 항공편 온라인 체크인을 계속 시도했는데, 진행이 안 됐어요.",
+      "tip": "13일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     }
   ]
 }
