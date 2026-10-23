@@ -1,215 +1,197 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "updated_at": "09:46 KST",
-  "topic": "세관에서 신고할 물품이 있는지 질문받기",
-  "intro": "세관에서 입국 심사를 마치고 짐을 찾은 후, 세관원을 만나 신고할 물품이 있는지 질문받는 상황입니다. 여행 중 구매한 물품이나 소지품 중 신고 대상이 있는지 확인하고, 필요하다면 어떻게 신고해야 하는지 묻는 대화를 연습해 봅시다.",
+  "topic": "공항에서 유심·eSIM 개통 문의하기",
+  "intro": "해외여행 시 필수적인 휴대폰 연결! 공항에서 현지 유심이나 eSIM 개통에 대해 문의하는 방법을 알아봅니다. 내 폰에 맞는 요금제를 찾고, 개통 절차와 호환성까지 확인하는 다양한 표현들을 배워봅시다.",
   "sentences": [
     {
-      "english": "I'm not entirely sure what qualifies as 'something to declare' in this country.",
-      "pronunciation": "아임 낫 인타이어-리 슈얼 왓 퀄러파이즈 애즈 '썸띵 투 디클레어' 인 디스 컨츄리.",
-      "korean": "이 나라에서 '신고할 물품'으로 분류되는 것이 정확히 무엇인지 잘 모르겠습니다.",
-      "tip": "신고 대상 품목에 대해 확신이 없을 때, 세관원에게 설명을 요청하는 공손한 표현입니다."
+      "english": "I'm looking to get a local SIM card for my phone while I'm visiting.",
+      "pronunciation": "아임 루킹 투 겟 어 로컬 심 카드 포 마이 폰 와일 아임 비지팅.",
+      "korean": "여행하는 동안 휴대폰에 쓸 현지 유심 카드를 구매하려고 해요.",
+      "tip": "도착지에서 현지 유심 구매 의사를 표현하는 자연스러운 방법입니다."
     },
     {
-      "english": "No, I don't believe I have anything to declare, but I have purchased a few duty-free items.",
-      "pronunciation": "노, 아돈 빌리브 아이 해브 애니띵 투 디클레어, 밧 아이 해브 퍼처스드 어 퓨 듀티-프리 아이템즈.",
-      "korean": "아니요, 신고할 물품은 없는 것 같습니다만, 면세품 몇 가지를 구매했습니다.",
-      "tip": "일반적으로 면세 한도 내의 물품은 신고 대상이 아니지만, 미리 언급하며 확인을 구하는 뉘앙스입니다."
+      "english": "Are eSIMs an option here, or do you only provide physical SIM cards?",
+      "pronunciation": "알 이심스 언 옵션 히어, 오어 두 유 온-리 프로바이드 피지컬 심 카즈?",
+      "korean": "여기서는 eSIM도 가능한가요, 아니면 물리 SIM 카드만 제공하나요?",
+      "tip": "eSIM 사용 여부를 확인하고 싶을 때 쓰는 명확한 질문입니다."
     },
     {
-      "english": "I'm carrying a new camera for personal use. Does that require declaration?",
-      "pronunciation": "아임 캐링 어 뉴 카메라 포 퍼서널 유즈. 더즈 댓 리콰이어 디클러레이션?",
-      "korean": "개인 용도로 쓸 새 카메라를 가지고 있는데, 그것도 신고해야 하나요?",
-      "tip": "특정 물품이 신고 대상인지 명확히 물어볼 때 사용합니다. 'require declaration'은 '신고가 필요한가요?'라는 뜻입니다."
+      "english": "What's the general procedure for activating one of these?",
+      "pronunciation": "왓츠 더 제너럴 프로시저 포 액티베이팅 원 오브 디즈?",
+      "korean": "이런 SIM 카드를 개통하는 일반적인 절차는 어떻게 되나요?",
+      "tip": "개통(활성화) 방법에 대한 전반적인 설명을 요청할 때 유용합니다."
     },
     {
-      "english": "Is there a specific value limit for items that don't require declaration?",
-      "pronunciation": "이즈 데어 어 스페시픽 밸류 리밋 포 아이템즈 댓 돈 리콰이어 디클러레이션?",
-      "korean": "신고가 필요 없는 물품의 특정 금액 한도가 있나요?",
-      "tip": "물품의 가치에 따라 신고 여부가 달라지기 때문에, 금액 한도를 문의할 때 유용합니다."
+      "english": "Could you briefly explain the main data packages you have?",
+      "pronunciation": "쿠쥬 브리플리 익스플레인 더 메인 데이타 패키지스 유 해브?",
+      "korean": "주요 데이터 요금제들을 간단히 설명해 주실 수 있을까요?",
+      "tip": "다양한 요금제 중에서 핵심적인 것들을 간략하게 설명해달라고 요청하는 표현입니다."
     },
     {
-      "english": "So, just to confirm, if I don't have anything that exceeds the declared value limit, I don't need to fill out a form?",
-      "pronunciation": "소, 저슷 투 컨펌, 이프 아이 돈 해브 애니띵 댓 익시즈 더 디클레어드 밸류 리밋, 아돈 니드 투 필 아웃 어 폼?",
-      "korean": "그럼, 다시 확인하자면, 신고 금액 한도를 초과하는 물품이 없다면, 서류를 작성할 필요가 없는 건가요?",
-      "tip": "세관원의 설명을 듣고 자신의 이해가 맞는지 최종적으로 확인하는 표현입니다."
+      "english": "Will this SIM card be compatible with my phone, as it's an international model?",
+      "pronunciation": "윌 디스 심 카드 비 컴패터블 윗 마이 폰, 애즈 잇츠 언 인터내셔널 마들?",
+      "korean": "제 폰이 해외 모델이라, 이 SIM 카드가 호환될까요?",
+      "tip": "자신의 휴대폰 기종이 현지 SIM 카드와 호환되는지 궁금할 때 쓰는 질문입니다."
     }
   ],
   "pattern": {
-    "form": "I'm not sure if [주어] + [동사]...",
-    "pronunciation": "아임 낫 슈얼 이프 [주어] + [동사]...",
-    "meaning": "~해야 하는지 잘 모르겠습니다 / ~인지 확실치 않습니다.",
+    "form": "I'm curious if you offer [service/product]...",
+    "pronunciation": "아임 큐리어스 이프 유 오퍼 [서비스/프로덕트]...",
+    "meaning": "혹시 [서비스/제품]을 제공하시는지 궁금해서요...",
     "examples": [
       {
-        "english": "I'm not sure if this souvenir counts as a declared item.",
-        "pronunciation": "아임 낫 슈얼 이프 디스 수브니어 카운츠 애즈 어 디클레어드 아이템.",
-        "korean": "이 기념품이 신고 대상 물품으로 분류되는지 잘 모르겠습니다."
+        "english": "I'm curious if you offer any short-term data plans for tourists.",
+        "pronunciation": "아임 큐리어스 이프 유 오퍼 애니 쇼트-텀 데이타 플랜스 포 투어리스츠.",
+        "korean": "혹시 관광객들을 위한 단기 데이터 요금제를 제공하시는지 궁금해서요."
       },
       {
-        "english": "I'm not sure if I filled out this customs form correctly.",
-        "pronunciation": "아임 낫 슈얼 이프 아이 필드 아웃 디스 커스텀스 폼 커렉틀리.",
-        "korean": "제가 이 세관 신고서를 제대로 작성했는지 잘 모르겠습니다."
+        "english": "I'm curious if you offer a service to help set up the SIM card.",
+        "pronunciation": "아임 큐리어스 이프 유 오퍼 어 서비스 투 헬프 셋 업 더 심 카드.",
+        "korean": "혹시 SIM 카드 설정을 도와주는 서비스를 제공하시는지 궁금해서요."
       }
     ]
   },
   "words": [
     {
-      "word": "Declare",
-      "pronunciation": "디클레어",
-      "meaning": "(세관에) 신고하다"
+      "word": "SIM card",
+      "pronunciation": "심 카드",
+      "meaning": "유심 카드 (물리 형태)"
     },
     {
-      "word": "Customs declaration",
-      "pronunciation": "커스텀스 디클러레이션",
-      "meaning": "세관 신고"
+      "word": "eSIM",
+      "pronunciation": "이-심",
+      "meaning": "이심 (내장형 디지털 유심)"
     },
     {
-      "word": "Prohibited items",
-      "pronunciation": "프로히비티드 아이템즈",
-      "meaning": "반입 금지 물품"
+      "word": "activate",
+      "pronunciation": "액티베이트",
+      "meaning": "활성화하다, 개통하다"
     },
     {
-      "word": "Restricted items",
-      "pronunciation": "레스트릭티드 아이템즈",
-      "meaning": "반입 제한 물품"
+      "word": "data plan / package",
+      "pronunciation": "데이타 플랜 / 패키지",
+      "meaning": "데이터 요금제"
     },
     {
-      "word": "Value limit",
-      "pronunciation": "밸류 리밋",
-      "meaning": "(면세) 금액 한도"
+      "word": "compatible",
+      "pronunciation": "컴패터블",
+      "meaning": "호환되는, 양립할 수 있는"
     }
   ],
   "dialogue": [
     {
+      "speaker": "You",
+      "english": "Hi there. I'm looking to get a local SIM card for my phone while I'm visiting.",
+      "pronunciation": "하이 데어. 아임 루킹 투 겟 어 로컬 심 카드 포 마이 폰 와일 아임 비지팅.",
+      "korean": "안녕하세요. 여행하는 동안 쓸 현지 유심 카드를 구매하려고 해요."
+    },
+    {
       "speaker": "Staff",
-      "english": "Next, please! Do you have anything to declare today?",
-      "pronunciation": "넥스트, 플리즈! 두 유 해브 애니띵 투 디클레어 투데이?",
-      "korean": "다음 분! 오늘 신고할 물품 있으신가요?"
+      "english": "Certainly. We offer both physical SIM cards and eSIMs. Do you have a preference?",
+      "pronunciation": "써튼리. 위 오퍼 보쓰 피지컬 심 카즈 앤 이심스. 두 유 해브 어 프레퍼런스?",
+      "korean": "네, 물론입니다. 물리 SIM 카드와 eSIM 모두 제공하고 있어요. 어떤 것을 선호하시나요?"
     },
     {
       "speaker": "You",
-      "english": "I'm not entirely sure what qualifies as 'something to declare' in this country.",
-      "pronunciation": "아임 낫 인타이어-리 슈얼 왓 퀄러파이즈 애즈 '썸띵 투 디클레어' 인 디스 컨츄리.",
-      "korean": "이 나라에서 '신고할 물품'으로 분류되는 것이 정확히 무엇인지 잘 모르겠습니다."
+      "english": "Are eSIMs an option here, or do you only provide physical SIM cards? I'm curious if you offer any short-term data plans for tourists.",
+      "pronunciation": "알 이심스 언 옵션 히어, 오어 두 유 온-리 프로바이드 피지컬 심 카즈? 아임 큐리어스 이프 유 오퍼 애니 쇼트-텀 데이타 플랜스 포 투어리스츠.",
+      "korean": "여기서 eSIM도 가능한가요, 아니면 물리 SIM 카드만 제공하나요? 혹시 관광객들을 위한 단기 데이터 요금제를 제공하시는지 궁금해서요."
     },
     {
       "speaker": "Staff",
-      "english": "Generally, we're looking for items over a certain value, commercial goods, or restricted items like certain food products or large amounts of cash.",
-      "pronunciation": "제너럴리, 위얼 루킹 포 아이템즈 오버 어 썰튼 밸류, 커머셜 구즈, 오어 레스트릭티드 아이템즈 라이크 썰튼 푸드 프로덕츠 오어 라지 어마운츠 오브 캐쉬.",
-      "korean": "일반적으로 특정 금액을 초과하는 물품, 상업용 물품, 혹은 특정 식품이나 많은 현금 같은 제한 물품을 말씀드립니다."
+      "english": "Yes, we have various eSIM options with short-term data plans, typically 7 or 14 days. What's the general procedure for activating one of these?",
+      "pronunciation": "예스, 위 해브 베리어스 이심 옵션스 윗 쇼트-텀 데이타 플랜스, 티피컬리 세븐 오어 포틴 데이즈. 왓츠 더 제너럴 프로시저 포 액티베이팅 원 오브 디즈?",
+      "korean": "네, 7일 또는 14일짜리 단기 데이터 요금제를 포함한 다양한 eSIM 옵션이 있습니다. 이러한 SIM 카드 활성화 절차는 어떻게 되나요?"
     },
     {
       "speaker": "You",
-      "english": "I'm carrying a new camera for personal use. Does that require declaration?",
-      "pronunciation": "아임 캐링 어 뉴 카메라 포 퍼서널 유즈. 더즈 댓 리콰이어 디클러레이션?",
-      "korean": "개인 용도로 쓸 새 카메라를 가지고 있는데, 그것도 신고해야 하나요?"
+      "english": "Okay, that sounds good. What's the general procedure for activating one of these? And will this SIM card be compatible with my phone, as it's an international model?",
+      "pronunciation": "오케이, 댓 사운즈 굿. 왓츠 더 제너럴 프로시저 포 액티베이팅 원 오브 디즈? 앤 윌 디스 심 카드 비 컴패터블 윗 마이 폰, 애즈 잇츠 언 인터내셔널 마들?",
+      "korean": "네, 좋습니다. 이런 SIM 카드를 개통하는 일반적인 절차는 어떻게 되나요? 그리고 제 폰이 해외 모델이라, 이 SIM 카드가 호환될까요?"
     },
     {
       "speaker": "Staff",
-      "english": "For personal use, usually not, as long as its value is under the exemption limit. Is there anything else?",
-      "pronunciation": "포 퍼서널 유즈, 유주얼리 낫, 애즈 롱 애즈 잇츠 밸류 이즈 언더 더 이그젬션 리밋. 이즈 데어 애니띵 엘스?",
-      "korean": "개인 용도라면 보통 신고가 필요 없습니다, 면세 한도 아래라면요. 다른 건 없으신가요?"
-    },
-    {
-      "speaker": "You",
-      "english": "Is there a specific value limit for items that don't require declaration?",
-      "pronunciation": "이즈 데어 어 스페시픽 밸류 리밋 포 아이템즈 댓 돈 리콰이어 디클러레이션?",
-      "korean": "신고가 필요 없는 물품의 특정 금액 한도가 있나요?"
-    },
-    {
-      "speaker": "Staff",
-      "english": "Yes, it's $800 per person. If everything falls below that and is for personal use, you're all set.",
-      "pronunciation": "예스, 잇츠 에잇 헌드레드 달러스 퍼 퍼슨. 이프 에브리띵 폴스 빌로우 댓 앤 이즈 포 퍼서널 유즈, 유얼 올 셋.",
-      "korean": "네, 1인당 800달러입니다. 모든 것이 그 아래이고 개인 용도라면, 괜찮습니다."
-    },
-    {
-      "speaker": "You",
-      "english": "So, just to confirm, if I don't have anything that exceeds the declared value limit, I don't need to fill out a form?",
-      "pronunciation": "소, 저슷 투 컨펌, 이프 아이 돈 해브 애니띵 댓 익시즈 더 디클레어드 밸류 리밋, 아돈 니드 투 필 아웃 어 폼?",
-      "korean": "그럼, 다시 확인하자면, 신고 금액 한도를 초과하는 물품이 없다면, 서류를 작성할 필요가 없는 건가요?"
-    },
-    {
-      "speaker": "Staff",
-      "english": "That's correct. You can proceed. Welcome to [Country Name].",
-      "pronunciation": "댓츠 커렉트. 유 캔 프로시드. 웰컴 투 [컨츄리 네임].",
-      "korean": "맞습니다. 지나가세요. [나라 이름]에 오신 것을 환영합니다."
+      "english": "For eSIMs, we'll give you a QR code to scan, and it usually activates instantly. Most international models are compatible, but we can quickly check your specific phone model if you show it to me.",
+      "pronunciation": "포 이심스, 위일 기브 유 어 큐-알 코드 투 스캔, 앤 잇 유주얼리 액티베이츠 인스턴틀리. 모스트 인터내셔널 마들스 아 컴패터블, 벗 위 캔 퀵클리 체크 유어 스페시픽 폰 마들 이프 유 쇼 잇 투 미.",
+      "korean": "eSIM의 경우, 스캔할 QR 코드를 드릴 것이고 보통 즉시 활성화됩니다. 대부분의 해외 모델은 호환되지만, 휴대폰을 보여주시면 특정 모델을 빠르게 확인해 드릴 수 있습니다."
     }
   ],
   "retrieval": [
     {
-      "english": "I'm not entirely sure what qualifies as 'something to declare' in this country.",
-      "pronunciation": "아임 낫 인타이어-리 슈얼 왓 퀄러파이즈 애즈 '썸띵 투 디클레어' 인 디스 컨츄리.",
-      "korean": "이 나라에서 '신고할 물품'이 무엇을 의미하는지 잘 모르겠어요.",
-      "tip": "신고 대상 품목에 대한 불확실성을 표현합니다."
+      "english": "I'm looking to get a local SIM card for my phone while I'm visiting.",
+      "pronunciation": "아임 루킹 투 겟 어 로컬 심 카드 포 마이 폰 와일 아임 비지팅.",
+      "korean": "여행하는 동안 쓸 현지 유심 카드를 구매하고 싶다고 말할 때 쓰는 표현은?",
+      "tip": "'~하려고 한다'는 의사를 자연스럽게 표현하는 방법"
     },
     {
-      "english": "I'm carrying a new camera for personal use. Does that require declaration?",
-      "pronunciation": "아임 캐링 어 뉴 카메라 포 퍼서널 유즈. 더즈 댓 리콰이어 디클러레이션?",
-      "korean": "개인 용도로 쓸 새 카메라가 있는데, 이것도 신고해야 하나요?",
-      "tip": "특정 물품의 신고 필요 여부를 물어봅니다."
+      "english": "What's the general procedure for activating one of these?",
+      "pronunciation": "왓츠 더 제너럴 프로시저 포 액티베이팅 원 오브 디즈?",
+      "korean": "유심 또는 이심 개통 절차에 대해 문의할 때 쓰는 표현은?",
+      "tip": "어떤 것의 '일반적인 절차'를 묻는 유용한 질문"
     },
     {
-      "english": "So, just to confirm, if I don't have anything that exceeds the declared value limit, I don't need to fill out a form?",
-      "pronunciation": "소, 저슷 투 컨펌, 이프 아이 돈 해브 애니띵 댓 익시즈 더 디클레어드 밸류 리밋, 아돈 니드 투 필 아웃 어 폼?",
-      "korean": "그럼, 다시 확인하자면, 신고 금액 한도를 초과하는 물품이 없다면 서류를 작성할 필요가 없는 건가요?",
-      "tip": "세관원의 설명을 재확인할 때 사용합니다."
+      "english": "Will this SIM card be compatible with my phone, as it's an international model?",
+      "pronunciation": "윌 디스 심 카드 비 컴패터블 윗 마이 폰, 애즈 잇츠 언 인터내셔널 마들?",
+      "korean": "해외 모델인 내 폰이 이 유심 카드와 호환되는지 확인할 때 쓰는 표현은?",
+      "tip": "'호환성'을 묻고 이유를 덧붙이는 자연스러운 방식"
     }
   ],
   "alternatives": [
     {
-      "english": "Could you tell me what items generally need to be declared?",
-      "pronunciation": "쿠쥬 텔 미 왓 아이템즈 제너럴리 니드 투 비 디클레어드?",
-      "korean": "보통 어떤 물품을 신고해야 하는지 말씀해 주실 수 있나요?",
-      "note": "원래 표현보다 좀 더 직접적이고 보편적인 질문으로, '무엇을 신고해야 하는가'에 초점을 맞춥니다."
+      "english": "I'm hoping to pick up a local SIM card while I'm here.",
+      "pronunciation": "아임 호핑 투 픽 업 어 로컬 심 카드 와일 아임 히어.",
+      "korean": "여기 있는 동안 현지 유심 카드를 구매하려고 해요.",
+      "note": "원래 표현보다 조금 더 캐주얼하며, 'pick up'은 뭔가를 쉽고 편리하게 얻는다는 뉘앙스가 있습니다."
     },
     {
-      "english": "What exactly should I be declaring here?",
-      "pronunciation": "왓 이그잭틀리 슈드 아이 비 디클레어링 히어?",
-      "korean": "제가 여기서 정확히 무엇을 신고해야 하나요?",
-      "note": "좀 더 간결하고 직접적인 질문입니다. 자신의 상황에 초점을 맞춰 구체적인 답변을 기대할 때 사용합니다."
+      "english": "Could you tell me about your options for tourist SIM cards?",
+      "pronunciation": "쿠쥬 텔 미 어바웃 유어 옵션스 포 투어리스트 심 카즈?",
+      "korean": "관광객용 유심 카드 옵션에 대해 말씀해 주실 수 있나요?",
+      "note": "직접적으로 '옵션'에 대한 설명을 요청하는 표현으로, 더 구체적인 정보 요청에 가깝습니다."
     },
     {
-      "english": "Is this camera, for personal use, something I should declare?",
-      "pronunciation": "이즈 디스 카메라, 포 퍼서널 유즈, 썸띵 아이 슈드 디클레어?",
-      "korean": "개인 용도의 이 카메라를 제가 신고해야 하는 건가요?",
-      "note": "'require declaration' 대신 'should declare'를 사용하여 좀 더 부드럽고 덜 공식적인 뉘앙스로 물어보는 표현입니다."
+      "english": "My phone needs a local connection; what's available here?",
+      "pronunciation": "마이 폰 니즈 어 로컬 커넥션; 왓츠 어베일러블 히어?",
+      "korean": "제 폰이 현지 연결이 필요한데, 여기서 가능한 게 무엇인가요?",
+      "note": "자신의 '필요'를 먼저 설명하고, 그에 따른 '해결책'을 묻는 형태로, 좀 더 문제 해결 지향적인 질문입니다."
     }
   ],
   "review_items": [
     {
-      "source_date": "2026-10-21",
-      "english": "I'm staying at the 'Central Park Hotel', and I have the booking confirmation with the address right here.",
-      "pronunciation": "아임 스테-잉 앳 더 센트럴 파-크 호-텔, 앤 아이 해브 더 부-킹 컨퍼메이션 위드 디 애-드레스 라잇 히어.",
-      "korean": "저는 '센트럴 파크 호텔'에 묵을 예정이고, 주소가 적힌 예약 확인증을 여기 가지고 있어요.",
+      "source_date": "2026-10-22",
+      "english": "I'm not entirely sure what qualifies as 'something to declare' in this country.",
+      "pronunciation": "아임 낫 인타이어-리 슈얼 왓 퀄러파이즈 애즈 '썸띵 투 디클레어' 인 디스 컨츄리.",
+      "korean": "이 나라에서 '신고할 물품'으로 분류되는 것이 정확히 무엇인지 잘 모르겠습니다.",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-21",
-      "english": "What specific details do you need for the accommodation address?",
-      "pronunciation": "왓 스페-시픽 디-테일스 두 유 니드 포 디 어카머데이션 애-드레스?",
-      "korean": "숙소 주소에 대해 어떤 구체적인 정보가 필요하신가요?",
+      "source_date": "2026-10-22",
+      "english": "No, I don't believe I have anything to declare, but I have purchased a few duty-free items.",
+      "pronunciation": "노, 아돈 빌리브 아이 해브 애니띵 투 디클레어, 밧 아이 해브 퍼처스드 어 퓨 듀티-프리 아이템즈.",
+      "korean": "아니요, 신고할 물품은 없는 것 같습니다만, 면세품 몇 가지를 구매했습니다.",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-16",
-      "english": "I'm feeling a bit chilly. Would it be possible to get a blanket?",
-      "pronunciation": "아임 필링 어 빗 칠리. 우딧 비 파서블 투 겟 어 블랭킷?",
-      "korean": "조금 쌀쌀해서요. 담요를 받을 수 있을까요?",
-      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+      "source_date": "2026-10-20",
+      "english": "My primary purpose for this trip is leisure and sightseeing.",
+      "pronunciation": "마이 프라이머리 펄퍼스 포 디스 트립 이즈 레져 앤 사이트씨잉.",
+      "korean": "제 이번 여행의 주된 목적은 여가와 관광입니다.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-16",
-      "english": "Excuse me, I was hoping to get some water when you have a moment.",
-      "pronunciation": "익스큐즈 미, 아이 워즈 호핑 투 겟 썸 워터 웬 유 해브 어 모먼트.",
-      "korean": "실례합니다, 괜찮으실 때 물을 좀 받을 수 있을까 해서요.",
-      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+      "source_date": "2026-10-20",
+      "english": "I'll be staying for about eight days, with my flight back on the 25th.",
+      "pronunciation": "아일 비 스테잉 포 어바웃 에잇 데이즈, 윗 마이 플라잇 백 온 더 트웬티피프쓰.",
+      "korean": "저는 약 8일 동안 머물 예정이며, 돌아오는 비행기는 25일입니다.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-09",
-      "english": "I've been trying to check in online for my flight, but it just wouldn't go through.",
-      "pronunciation": "아이-브 빈 트라잉 투 쳌 인 온라인 포 마이 플라잇, 벗 잇 저스트 우든트 고- 뜨루.",
-      "korean": "제 항공편 온라인 체크인을 계속 시도했는데, 진행이 안 됐어요.",
-      "tip": "13일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+      "source_date": "2026-10-17",
+      "english": "It seems my checked bag didn't make it to the baggage carousel.",
+      "pronunciation": "잇 심스 마이 췍트 백 디든 메이킷 투 더 배기쥐 캐러셀.",
+      "korean": "제가 부친 짐이 수하물 수취대로 나오지 않은 것 같아요.",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     }
   ]
 }

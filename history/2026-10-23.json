@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-23",
+  "updated_at": "09:46 KST",
+  "topic": "공항에서 유심·eSIM 개통 문의하기",
+  "intro": "해외여행 시 필수적인 휴대폰 연결! 공항에서 현지 유심이나 eSIM 개통에 대해 문의하는 방법을 알아봅니다. 내 폰에 맞는 요금제를 찾고, 개통 절차와 호환성까지 확인하는 다양한 표현들을 배워봅시다.",
+  "sentences": [
+    {
+      "english": "I'm looking to get a local SIM card for my phone while I'm visiting.",
+      "pronunciation": "아임 루킹 투 겟 어 로컬 심 카드 포 마이 폰 와일 아임 비지팅.",
+      "korean": "여행하는 동안 휴대폰에 쓸 현지 유심 카드를 구매하려고 해요.",
+      "tip": "도착지에서 현지 유심 구매 의사를 표현하는 자연스러운 방법입니다."
+    },
+    {
+      "english": "Are eSIMs an option here, or do you only provide physical SIM cards?",
+      "pronunciation": "알 이심스 언 옵션 히어, 오어 두 유 온-리 프로바이드 피지컬 심 카즈?",
+      "korean": "여기서는 eSIM도 가능한가요, 아니면 물리 SIM 카드만 제공하나요?",
+      "tip": "eSIM 사용 여부를 확인하고 싶을 때 쓰는 명확한 질문입니다."
+    },
+    {
+      "english": "What's the general procedure for activating one of these?",
+      "pronunciation": "왓츠 더 제너럴 프로시저 포 액티베이팅 원 오브 디즈?",
+      "korean": "이런 SIM 카드를 개통하는 일반적인 절차는 어떻게 되나요?",
+      "tip": "개통(활성화) 방법에 대한 전반적인 설명을 요청할 때 유용합니다."
+    },
+    {
+      "english": "Could you briefly explain the main data packages you have?",
+      "pronunciation": "쿠쥬 브리플리 익스플레인 더 메인 데이타 패키지스 유 해브?",
+      "korean": "주요 데이터 요금제들을 간단히 설명해 주실 수 있을까요?",
+      "tip": "다양한 요금제 중에서 핵심적인 것들을 간략하게 설명해달라고 요청하는 표현입니다."
+    },
+    {
+      "english": "Will this SIM card be compatible with my phone, as it's an international model?",
+      "pronunciation": "윌 디스 심 카드 비 컴패터블 윗 마이 폰, 애즈 잇츠 언 인터내셔널 마들?",
+      "korean": "제 폰이 해외 모델이라, 이 SIM 카드가 호환될까요?",
+      "tip": "자신의 휴대폰 기종이 현지 SIM 카드와 호환되는지 궁금할 때 쓰는 질문입니다."
+    }
+  ],
+  "pattern": {
+    "form": "I'm curious if you offer [service/product]...",
+    "pronunciation": "아임 큐리어스 이프 유 오퍼 [서비스/프로덕트]...",
+    "meaning": "혹시 [서비스/제품]을 제공하시는지 궁금해서요...",
+    "examples": [
+      {
+        "english": "I'm curious if you offer any short-term data plans for tourists.",
+        "pronunciation": "아임 큐리어스 이프 유 오퍼 애니 쇼트-텀 데이타 플랜스 포 투어리스츠.",
+        "korean": "혹시 관광객들을 위한 단기 데이터 요금제를 제공하시는지 궁금해서요."
+      },
+      {
+        "english": "I'm curious if you offer a service to help set up the SIM card.",
+        "pronunciation": "아임 큐리어스 이프 유 오퍼 어 서비스 투 헬프 셋 업 더 심 카드.",
+        "korean": "혹시 SIM 카드 설정을 도와주는 서비스를 제공하시는지 궁금해서요."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "SIM card",
+      "pronunciation": "심 카드",
+      "meaning": "유심 카드 (물리 형태)"
+    },
+    {
+      "word": "eSIM",
+      "pronunciation": "이-심",
+      "meaning": "이심 (내장형 디지털 유심)"
+    },
+    {
+      "word": "activate",
+      "pronunciation": "액티베이트",
+      "meaning": "활성화하다, 개통하다"
+    },
+    {
+      "word": "data plan / package",
+      "pronunciation": "데이타 플랜 / 패키지",
+      "meaning": "데이터 요금제"
+    },
+    {
+      "word": "compatible",
+      "pronunciation": "컴패터블",
+      "meaning": "호환되는, 양립할 수 있는"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "You",
+      "english": "Hi there. I'm looking to get a local SIM card for my phone while I'm visiting.",
+      "pronunciation": "하이 데어. 아임 루킹 투 겟 어 로컬 심 카드 포 마이 폰 와일 아임 비지팅.",
+      "korean": "안녕하세요. 여행하는 동안 쓸 현지 유심 카드를 구매하려고 해요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Certainly. We offer both physical SIM cards and eSIMs. Do you have a preference?",
+      "pronunciation": "써튼리. 위 오퍼 보쓰 피지컬 심 카즈 앤 이심스. 두 유 해브 어 프레퍼런스?",
+      "korean": "네, 물론입니다. 물리 SIM 카드와 eSIM 모두 제공하고 있어요. 어떤 것을 선호하시나요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Are eSIMs an option here, or do you only provide physical SIM cards? I'm curious if you offer any short-term data plans for tourists.",
+      "pronunciation": "알 이심스 언 옵션 히어, 오어 두 유 온-리 프로바이드 피지컬 심 카즈? 아임 큐리어스 이프 유 오퍼 애니 쇼트-텀 데이타 플랜스 포 투어리스츠.",
+      "korean": "여기서 eSIM도 가능한가요, 아니면 물리 SIM 카드만 제공하나요? 혹시 관광객들을 위한 단기 데이터 요금제를 제공하시는지 궁금해서요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Yes, we have various eSIM options with short-term data plans, typically 7 or 14 days. What's the general procedure for activating one of these?",
+      "pronunciation": "예스, 위 해브 베리어스 이심 옵션스 윗 쇼트-텀 데이타 플랜스, 티피컬리 세븐 오어 포틴 데이즈. 왓츠 더 제너럴 프로시저 포 액티베이팅 원 오브 디즈?",
+      "korean": "네, 7일 또는 14일짜리 단기 데이터 요금제를 포함한 다양한 eSIM 옵션이 있습니다. 이러한 SIM 카드 활성화 절차는 어떻게 되나요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Okay, that sounds good. What's the general procedure for activating one of these? And will this SIM card be compatible with my phone, as it's an international model?",
+      "pronunciation": "오케이, 댓 사운즈 굿. 왓츠 더 제너럴 프로시저 포 액티베이팅 원 오브 디즈? 앤 윌 디스 심 카드 비 컴패터블 윗 마이 폰, 애즈 잇츠 언 인터내셔널 마들?",
+      "korean": "네, 좋습니다. 이런 SIM 카드를 개통하는 일반적인 절차는 어떻게 되나요? 그리고 제 폰이 해외 모델이라, 이 SIM 카드가 호환될까요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "For eSIMs, we'll give you a QR code to scan, and it usually activates instantly. Most international models are compatible, but we can quickly check your specific phone model if you show it to me.",
+      "pronunciation": "포 이심스, 위일 기브 유 어 큐-알 코드 투 스캔, 앤 잇 유주얼리 액티베이츠 인스턴틀리. 모스트 인터내셔널 마들스 아 컴패터블, 벗 위 캔 퀵클리 체크 유어 스페시픽 폰 마들 이프 유 쇼 잇 투 미.",
+      "korean": "eSIM의 경우, 스캔할 QR 코드를 드릴 것이고 보통 즉시 활성화됩니다. 대부분의 해외 모델은 호환되지만, 휴대폰을 보여주시면 특정 모델을 빠르게 확인해 드릴 수 있습니다."
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "I'm looking to get a local SIM card for my phone while I'm visiting.",
+      "pronunciation": "아임 루킹 투 겟 어 로컬 심 카드 포 마이 폰 와일 아임 비지팅.",
+      "korean": "여행하는 동안 쓸 현지 유심 카드를 구매하고 싶다고 말할 때 쓰는 표현은?",
+      "tip": "'~하려고 한다'는 의사를 자연스럽게 표현하는 방법"
+    },
+    {
+      "english": "What's the general procedure for activating one of these?",
+      "pronunciation": "왓츠 더 제너럴 프로시저 포 액티베이팅 원 오브 디즈?",
+      "korean": "유심 또는 이심 개통 절차에 대해 문의할 때 쓰는 표현은?",
+      "tip": "어떤 것의 '일반적인 절차'를 묻는 유용한 질문"
+    },
+    {
+      "english": "Will this SIM card be compatible with my phone, as it's an international model?",
+      "pronunciation": "윌 디스 심 카드 비 컴패터블 윗 마이 폰, 애즈 잇츠 언 인터내셔널 마들?",
+      "korean": "해외 모델인 내 폰이 이 유심 카드와 호환되는지 확인할 때 쓰는 표현은?",
+      "tip": "'호환성'을 묻고 이유를 덧붙이는 자연스러운 방식"
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "I'm hoping to pick up a local SIM card while I'm here.",
+      "pronunciation": "아임 호핑 투 픽 업 어 로컬 심 카드 와일 아임 히어.",
+      "korean": "여기 있는 동안 현지 유심 카드를 구매하려고 해요.",
+      "note": "원래 표현보다 조금 더 캐주얼하며, 'pick up'은 뭔가를 쉽고 편리하게 얻는다는 뉘앙스가 있습니다."
+    },
+    {
+      "english": "Could you tell me about your options for tourist SIM cards?",
+      "pronunciation": "쿠쥬 텔 미 어바웃 유어 옵션스 포 투어리스트 심 카즈?",
+      "korean": "관광객용 유심 카드 옵션에 대해 말씀해 주실 수 있나요?",
+      "note": "직접적으로 '옵션'에 대한 설명을 요청하는 표현으로, 더 구체적인 정보 요청에 가깝습니다."
+    },
+    {
+      "english": "My phone needs a local connection; what's available here?",
+      "pronunciation": "마이 폰 니즈 어 로컬 커넥션; 왓츠 어베일러블 히어?",
+      "korean": "제 폰이 현지 연결이 필요한데, 여기서 가능한 게 무엇인가요?",
+      "note": "자신의 '필요'를 먼저 설명하고, 그에 따른 '해결책'을 묻는 형태로, 좀 더 문제 해결 지향적인 질문입니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-10-22",
+      "english": "I'm not entirely sure what qualifies as 'something to declare' in this country.",
+      "pronunciation": "아임 낫 인타이어-리 슈얼 왓 퀄러파이즈 애즈 '썸띵 투 디클레어' 인 디스 컨츄리.",
+      "korean": "이 나라에서 '신고할 물품'으로 분류되는 것이 정확히 무엇인지 잘 모르겠습니다.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-22",
+      "english": "No, I don't believe I have anything to declare, but I have purchased a few duty-free items.",
+      "pronunciation": "노, 아돈 빌리브 아이 해브 애니띵 투 디클레어, 밧 아이 해브 퍼처스드 어 퓨 듀티-프리 아이템즈.",
+      "korean": "아니요, 신고할 물품은 없는 것 같습니다만, 면세품 몇 가지를 구매했습니다.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-20",
+      "english": "My primary purpose for this trip is leisure and sightseeing.",
+      "pronunciation": "마이 프라이머리 펄퍼스 포 디스 트립 이즈 레져 앤 사이트씨잉.",
+      "korean": "제 이번 여행의 주된 목적은 여가와 관광입니다.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-20",
+      "english": "I'll be staying for about eight days, with my flight back on the 25th.",
+      "pronunciation": "아일 비 스테잉 포 어바웃 에잇 데이즈, 윗 마이 플라잇 백 온 더 트웬티피프쓰.",
+      "korean": "저는 약 8일 동안 머물 예정이며, 돌아오는 비행기는 25일입니다.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-17",
+      "english": "It seems my checked bag didn't make it to the baggage carousel.",
+      "pronunciation": "잇 심스 마이 췍트 백 디든 메이킷 투 더 배기쥐 캐러셀.",
+      "korean": "제가 부친 짐이 수하물 수취대로 나오지 않은 것 같아요.",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
