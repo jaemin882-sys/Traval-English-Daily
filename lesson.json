@@ -1,196 +1,202 @@
 {
-  "date": "2026-10-23",
-  "updated_at": "09:46 KST",
-  "topic": "공항에서 유심·eSIM 개통 문의하기",
-  "intro": "해외여행 시 필수적인 휴대폰 연결! 공항에서 현지 유심이나 eSIM 개통에 대해 문의하는 방법을 알아봅니다. 내 폰에 맞는 요금제를 찾고, 개통 절차와 호환성까지 확인하는 다양한 표현들을 배워봅시다.",
+  "date": "2026-10-24",
+  "updated_at": "09:52 KST",
+  "topic": "공항에서 시내 가는 가장 쉬운 방법 묻기",
+  "intro": "해외여행 직후, 공항에 도착해서 시내로 이동해야 하는 상황이에요. 캐리어는 무겁고, 피곤하고, 지도는 낯설고… 이럴 때 가장 쉽고 편하게 시내로 가는 방법을 물어볼 수 있어야겠죠? 오늘 학습에서는 공항 직원에게 다양한 교통수단을 묻고, 내 상황에 맞는 최적의 방법을 찾아내는 실용적인 표현들을 배워봅니다.",
   "sentences": [
     {
-      "english": "I'm looking to get a local SIM card for my phone while I'm visiting.",
-      "pronunciation": "아임 루킹 투 겟 어 로컬 심 카드 포 마이 폰 와일 아임 비지팅.",
-      "korean": "여행하는 동안 휴대폰에 쓸 현지 유심 카드를 구매하려고 해요.",
-      "tip": "도착지에서 현지 유심 구매 의사를 표현하는 자연스러운 방법입니다."
+      "english": "What would be the most straightforward way to reach the city center from the airport?",
+      "pronunciation": "왓 우드 비 더 모-스트 스트레이트포-워r드 웨이 투 리-치 더 시티 센터 프롬 디 에어-포-r트?",
+      "korean": "공항에서 시내 중심부까지 가는 가장 간단한(직관적인) 방법은 무엇일까요?",
+      "tip": "'straightforward'는 복잡하지 않고 이해하기 쉬운 길이나 방법을 뜻해요. 가장 편한 방법을 물을 때 유용합니다."
     },
     {
-      "english": "Are eSIMs an option here, or do you only provide physical SIM cards?",
-      "pronunciation": "알 이심스 언 옵션 히어, 오어 두 유 온-리 프로바이드 피지컬 심 카즈?",
-      "korean": "여기서는 eSIM도 가능한가요, 아니면 물리 SIM 카드만 제공하나요?",
-      "tip": "eSIM 사용 여부를 확인하고 싶을 때 쓰는 명확한 질문입니다."
+      "english": "I'm hoping to find out the best public transport options to get downtown.",
+      "pronunciation": "아임 호-핑 투 파인드 아웃 더 베스트 퍼블릭 트랜스포-r트 압-션스 투 겟 다운타운.",
+      "korean": "시내 중심가로 가는 대중교통편 중 가장 좋은 방법을 알아보고 싶어요.",
+      "tip": "'I'm hoping to find out'은 무언가를 알고 싶을 때 부드럽게 질문하는 표현입니다. 'public transport'는 버스, 지하철, 기차 등을 총칭합니다."
     },
     {
-      "english": "What's the general procedure for activating one of these?",
-      "pronunciation": "왓츠 더 제너럴 프로시저 포 액티베이팅 원 오브 디즈?",
-      "korean": "이런 SIM 카드를 개통하는 일반적인 절차는 어떻게 되나요?",
-      "tip": "개통(활성화) 방법에 대한 전반적인 설명을 요청할 때 유용합니다."
+      "english": "Is there a direct bus or train service that goes to the Myeongdong area?",
+      "pronunciation": "이즈 데어 어 다이렉트 버스 오r 트레인 서-r비스 댓 고-스 투 더 명동 에어리어?",
+      "korean": "명동 지역으로 바로 가는 버스나 기차 서비스가 있나요?",
+      "tip": "특정 장소로 바로 가는 노선이 있는지 물을 때 'direct service'를 사용하고, 목적지('Myeongdong area')를 구체적으로 언급합니다."
     },
     {
-      "english": "Could you briefly explain the main data packages you have?",
-      "pronunciation": "쿠쥬 브리플리 익스플레인 더 메인 데이타 패키지스 유 해브?",
-      "korean": "주요 데이터 요금제들을 간단히 설명해 주실 수 있을까요?",
-      "tip": "다양한 요금제 중에서 핵심적인 것들을 간략하게 설명해달라고 요청하는 표현입니다."
+      "english": "Could you tell me where I can purchase tickets for the airport express?",
+      "pronunciation": "쿠쥬 텔 미 웨어r 아이 캔 퍼-r체스 티켓츠 포r 디 에어-포-r트 익스프레스?",
+      "korean": "공항 익스프레스 표는 어디서 살 수 있는지 알려주실 수 있나요?",
+      "tip": "'Could you tell me where'는 장소를 묻는 공손한 표현입니다. 'purchase'는 'buy'보다 격식 있는 표현으로 사용됩니다."
     },
     {
-      "english": "Will this SIM card be compatible with my phone, as it's an international model?",
-      "pronunciation": "윌 디스 심 카드 비 컴패터블 윗 마이 폰, 애즈 잇츠 언 인터내셔널 마들?",
-      "korean": "제 폰이 해외 모델이라, 이 SIM 카드가 호환될까요?",
-      "tip": "자신의 휴대폰 기종이 현지 SIM 카드와 호환되는지 궁금할 때 쓰는 질문입니다."
+      "english": "What's the estimated travel time for the train option, generally speaking?",
+      "pronunciation": "왓츠 디 에스티메이티드 트래블 타임 포r 더 트레인 압-션, 제너럴리 스피-킹?",
+      "korean": "기차 옵션의 예상 소요 시간은 어느 정도인가요, 일반적으로 말해서요?",
+      "tip": "'estimated travel time'은 예상 소요 시간을 묻는 표현입니다. 'generally speaking'은 대략적인 정보를 물을 때 덧붙여 말할 수 있습니다."
     }
   ],
   "pattern": {
-    "form": "I'm curious if you offer [service/product]...",
-    "pronunciation": "아임 큐리어스 이프 유 오퍼 [서비스/프로덕트]...",
-    "meaning": "혹시 [서비스/제품]을 제공하시는지 궁금해서요...",
+    "form": "What's the [adjective] way to [verb]...?",
+    "pronunciation": "왓츠 더 [형용사] 웨이 투 [동사]...?",
+    "meaning": "~하는 가장 [형용사] 방법은 무엇인가요?",
     "examples": [
       {
-        "english": "I'm curious if you offer any short-term data plans for tourists.",
-        "pronunciation": "아임 큐리어스 이프 유 오퍼 애니 쇼트-텀 데이타 플랜스 포 투어리스츠.",
-        "korean": "혹시 관광객들을 위한 단기 데이터 요금제를 제공하시는지 궁금해서요."
+        "english": "What's the quickest way to get to the hotel?",
+        "pronunciation": "왓츠 더 퀵키스트 웨이 투 겟 투 더 호텔?",
+        "korean": "호텔로 가는 가장 빠른 방법은 무엇인가요?"
       },
       {
-        "english": "I'm curious if you offer a service to help set up the SIM card.",
-        "pronunciation": "아임 큐리어스 이프 유 오퍼 어 서비스 투 헬프 셋 업 더 심 카드.",
-        "korean": "혹시 SIM 카드 설정을 도와주는 서비스를 제공하시는지 궁금해서요."
+        "english": "What's the cheapest way to buy tickets?",
+        "pronunciation": "왓츠 더 치-피스트 웨이 투 바이 티켓츠?",
+        "korean": "표를 사는 가장 저렴한 방법은 무엇인가요?"
       }
     ]
   },
   "words": [
     {
-      "word": "SIM card",
-      "pronunciation": "심 카드",
-      "meaning": "유심 카드 (물리 형태)"
+      "word": "city center / downtown",
+      "pronunciation": "시티 센터 / 다운타운",
+      "meaning": "시내 중심가"
     },
     {
-      "word": "eSIM",
-      "pronunciation": "이-심",
-      "meaning": "이심 (내장형 디지털 유심)"
+      "word": "public transport",
+      "pronunciation": "퍼블릭 트랜스포-r트",
+      "meaning": "대중교통 (버스, 지하철, 기차 등)"
     },
     {
-      "word": "activate",
-      "pronunciation": "액티베이트",
-      "meaning": "활성화하다, 개통하다"
+      "word": "airport express",
+      "pronunciation": "에어-포-r트 익스프레스",
+      "meaning": "공항 익스프레스 (직통 열차/버스)"
     },
     {
-      "word": "data plan / package",
-      "pronunciation": "데이타 플랜 / 패키지",
-      "meaning": "데이터 요금제"
+      "word": "fare",
+      "pronunciation": "페어r",
+      "meaning": "(교통수단) 요금"
     },
     {
-      "word": "compatible",
-      "pronunciation": "컴패터블",
-      "meaning": "호환되는, 양립할 수 있는"
+      "word": "ticket counter",
+      "pronunciation": "티켓 카운터-",
+      "meaning": "매표소"
     }
   ],
   "dialogue": [
     {
       "speaker": "You",
-      "english": "Hi there. I'm looking to get a local SIM card for my phone while I'm visiting.",
-      "pronunciation": "하이 데어. 아임 루킹 투 겟 어 로컬 심 카드 포 마이 폰 와일 아임 비지팅.",
-      "korean": "안녕하세요. 여행하는 동안 쓸 현지 유심 카드를 구매하려고 해요."
+      "english": "Excuse me. What would be the most straightforward way to reach the city center from the airport?",
+      "pronunciation": "익스큐-즈 미. 왓 우드 비 더 모-스트 스트레이트포-워r드 웨이 투 리-치 더 시티 센터 프롬 디 에어-포-r트?",
+      "korean": "실례합니다. 공항에서 시내 중심부까지 가는 가장 간단한 방법은 무엇일까요?"
     },
     {
       "speaker": "Staff",
-      "english": "Certainly. We offer both physical SIM cards and eSIMs. Do you have a preference?",
-      "pronunciation": "써튼리. 위 오퍼 보쓰 피지컬 심 카즈 앤 이심스. 두 유 해브 어 프레퍼런스?",
-      "korean": "네, 물론입니다. 물리 SIM 카드와 eSIM 모두 제공하고 있어요. 어떤 것을 선호하시나요?"
+      "english": "Welcome! You have a few options. There's the Airport Express train, local buses, or taxis.",
+      "pronunciation": "웰컴! 유 해브 어 퓨- 압-션스. 데어r즈 디 에어-포-r트 익스프레스 트레인, 로-컬 버스스, 오r 택시스.",
+      "korean": "환영합니다! 몇 가지 선택지가 있어요. 공항 익스프레스 기차, 시내버스, 아니면 택시가 있습니다."
     },
     {
       "speaker": "You",
-      "english": "Are eSIMs an option here, or do you only provide physical SIM cards? I'm curious if you offer any short-term data plans for tourists.",
-      "pronunciation": "알 이심스 언 옵션 히어, 오어 두 유 온-리 프로바이드 피지컬 심 카즈? 아임 큐리어스 이프 유 오퍼 애니 쇼트-텀 데이타 플랜스 포 투어리스츠.",
-      "korean": "여기서 eSIM도 가능한가요, 아니면 물리 SIM 카드만 제공하나요? 혹시 관광객들을 위한 단기 데이터 요금제를 제공하시는지 궁금해서요."
+      "english": "I'm hoping to find out the best public transport options to get downtown. Is there a direct bus or train service that goes to the Gangnam area?",
+      "pronunciation": "아임 호-핑 투 파인드 아웃 더 베스트 퍼블릭 트랜스포-r트 압-션스 투 겟 다운타운. 이즈 데어r 어 다이렉트 버스 오r 트레인 서-r비스 댓 고-스 투 더 강남 에어리어?",
+      "korean": "시내 중심가로 가는 대중교통편 중 가장 좋은 방법을 알아보고 싶어요. 강남 지역으로 바로 가는 버스나 기차 서비스가 있나요?"
     },
     {
       "speaker": "Staff",
-      "english": "Yes, we have various eSIM options with short-term data plans, typically 7 or 14 days. What's the general procedure for activating one of these?",
-      "pronunciation": "예스, 위 해브 베리어스 이심 옵션스 윗 쇼트-텀 데이타 플랜스, 티피컬리 세븐 오어 포틴 데이즈. 왓츠 더 제너럴 프로시저 포 액티베이팅 원 오브 디즈?",
-      "korean": "네, 7일 또는 14일짜리 단기 데이터 요금제를 포함한 다양한 eSIM 옵션이 있습니다. 이러한 SIM 카드 활성화 절차는 어떻게 되나요?"
+      "english": "Yes, for Gangnam, the Airport Limousine Bus is very convenient and direct. It makes several stops in Gangnam.",
+      "pronunciation": "예스, 포r 강남, 디 에어-포-r트 리무진 버스 이즈 베리 컨비-니언트 앤드 다이렉트. 잇 메익스 세버럴 스탑스 인 강남.",
+      "korean": "네, 강남으로 가실 때는 공항 리무진 버스가 매우 편리하고 직행입니다. 강남에 여러 정거장에서 정차해요."
     },
     {
       "speaker": "You",
-      "english": "Okay, that sounds good. What's the general procedure for activating one of these? And will this SIM card be compatible with my phone, as it's an international model?",
-      "pronunciation": "오케이, 댓 사운즈 굿. 왓츠 더 제너럴 프로시저 포 액티베이팅 원 오브 디즈? 앤 윌 디스 심 카드 비 컴패터블 윗 마이 폰, 애즈 잇츠 언 인터내셔널 마들?",
-      "korean": "네, 좋습니다. 이런 SIM 카드를 개통하는 일반적인 절차는 어떻게 되나요? 그리고 제 폰이 해외 모델이라, 이 SIM 카드가 호환될까요?"
+      "english": "That sounds good. Could you tell me where I can purchase tickets for the airport bus?",
+      "pronunciation": "댓 사운즈 굿. 쿠쥬 텔 미 웨어r 아이 캔 퍼-r체스 티켓츠 포r 디 에어-포-r트 버스?",
+      "korean": "좋네요. 공항버스 표는 어디서 살 수 있는지 알려주실 수 있나요?"
     },
     {
       "speaker": "Staff",
-      "english": "For eSIMs, we'll give you a QR code to scan, and it usually activates instantly. Most international models are compatible, but we can quickly check your specific phone model if you show it to me.",
-      "pronunciation": "포 이심스, 위일 기브 유 어 큐-알 코드 투 스캔, 앤 잇 유주얼리 액티베이츠 인스턴틀리. 모스트 인터내셔널 마들스 아 컴패터블, 벗 위 캔 퀵클리 체크 유어 스페시픽 폰 마들 이프 유 쇼 잇 투 미.",
-      "korean": "eSIM의 경우, 스캔할 QR 코드를 드릴 것이고 보통 즉시 활성화됩니다. 대부분의 해외 모델은 호환되지만, 휴대폰을 보여주시면 특정 모델을 빠르게 확인해 드릴 수 있습니다."
+      "english": "Absolutely. You can buy tickets at the ticket counter right outside this exit, or from the kiosks near the bus stops.",
+      "pronunciation": "앱설루-틀리. 유 캔 바이 티켓츠 앳 더 티켓 카운터-r 라이트 아웃사이드 디스 엑시트, 오r 프롬 더 키-아스크스 니어r 더 버스 스탑스.",
+      "korean": "물론이죠. 이 출구 바로 밖 매표소나 버스 정류장 근처 키오스크에서 표를 구매하실 수 있습니다."
+    },
+    {
+      "speaker": "You",
+      "english": "And what's the estimated travel time for the bus option to Gangnam?",
+      "pronunciation": "앤드 왓츠 디 에스티메이티드 트래블 타임 포r 더 버스 압-션 투 강남?",
+      "korean": "그럼 강남까지 버스로 가는 예상 소요 시간은 어느 정도인가요?"
     }
   ],
   "retrieval": [
     {
-      "english": "I'm looking to get a local SIM card for my phone while I'm visiting.",
-      "pronunciation": "아임 루킹 투 겟 어 로컬 심 카드 포 마이 폰 와일 아임 비지팅.",
-      "korean": "여행하는 동안 쓸 현지 유심 카드를 구매하고 싶다고 말할 때 쓰는 표현은?",
-      "tip": "'~하려고 한다'는 의사를 자연스럽게 표현하는 방법"
+      "english": "What would be the most straightforward way to reach the city center from the airport?",
+      "pronunciation": "왓 우드 비 더 모-스트 스트레이트포-워r드 웨이 투 리-치 더 시티 센터 프롬 디 에어-포-r트?",
+      "korean": "공항에서 시내까지 가는 가장 간단한 방법이 뭐예요?",
+      "tip": "'가장 간단한/직관적인 방법'을 뜻하는 영어 표현을 활용하세요."
     },
     {
-      "english": "What's the general procedure for activating one of these?",
-      "pronunciation": "왓츠 더 제너럴 프로시저 포 액티베이팅 원 오브 디즈?",
-      "korean": "유심 또는 이심 개통 절차에 대해 문의할 때 쓰는 표현은?",
-      "tip": "어떤 것의 '일반적인 절차'를 묻는 유용한 질문"
+      "english": "Is there a direct bus or train service that goes to the Myeongdong area?",
+      "pronunciation": "이즈 데어r 어 다이렉트 버스 오r 트레인 서-r비스 댓 고-스 투 더 명동 에어리어?",
+      "korean": "명동 지역으로 바로 가는 버스나 기차 서비스가 있나요?",
+      "tip": "특정 지역으로 '직행 서비스'가 있는지 물어보는 표현을 떠올리세요."
     },
     {
-      "english": "Will this SIM card be compatible with my phone, as it's an international model?",
-      "pronunciation": "윌 디스 심 카드 비 컴패터블 윗 마이 폰, 애즈 잇츠 언 인터내셔널 마들?",
-      "korean": "해외 모델인 내 폰이 이 유심 카드와 호환되는지 확인할 때 쓰는 표현은?",
-      "tip": "'호환성'을 묻고 이유를 덧붙이는 자연스러운 방식"
+      "english": "Could you tell me where I can purchase tickets for the airport express?",
+      "pronunciation": "쿠쥬 텔 미 웨어r 아이 캔 퍼-r체스 티켓츠 포r 디 에어-포-r트 익스프레스?",
+      "korean": "공항 익스프레스 표는 어디서 살 수 있는지 알려주실 수 있나요?",
+      "tip": "표를 '어디서 구매할 수 있는지' 묻는 공손한 표현을 사용해 보세요."
     }
   ],
   "alternatives": [
     {
-      "english": "I'm hoping to pick up a local SIM card while I'm here.",
-      "pronunciation": "아임 호핑 투 픽 업 어 로컬 심 카드 와일 아임 히어.",
-      "korean": "여기 있는 동안 현지 유심 카드를 구매하려고 해요.",
-      "note": "원래 표현보다 조금 더 캐주얼하며, 'pick up'은 뭔가를 쉽고 편리하게 얻는다는 뉘앙스가 있습니다."
+      "english": "How do people usually get into the city from here?",
+      "pronunciation": "하우 두 피-쁠 유-주얼리 겟 인투 더 시티 프롬 히어?",
+      "korean": "여기서 시내로 사람들은 보통 어떻게 가나요?",
+      "note": "원래 표현보다 좀 더 비격식적이며, 일반적인 통념이나 대중적인 방법을 묻는 뉘앙스가 강합니다."
     },
     {
-      "english": "Could you tell me about your options for tourist SIM cards?",
-      "pronunciation": "쿠쥬 텔 미 어바웃 유어 옵션스 포 투어리스트 심 카즈?",
-      "korean": "관광객용 유심 카드 옵션에 대해 말씀해 주실 수 있나요?",
-      "note": "직접적으로 '옵션'에 대한 설명을 요청하는 표현으로, 더 구체적인 정보 요청에 가깝습니다."
+      "english": "What's generally considered the best approach for getting downtown?",
+      "pronunciation": "왓츠 제너럴리 컨시더-r드 더 베스트 어프로-치 포r 게팅 다운타운?",
+      "korean": "시내로 가는 가장 좋은 방법은 일반적으로 무엇이라고 생각되나요?",
+      "note": "상대방의 '의견'이나 '추천'을 좀 더 직접적으로 묻는 뉘앙스이며, 원래 표현보다 약간 더 격식 있는 느낌을 줍니다."
     },
     {
-      "english": "My phone needs a local connection; what's available here?",
-      "pronunciation": "마이 폰 니즈 어 로컬 커넥션; 왓츠 어베일러블 히어?",
-      "korean": "제 폰이 현지 연결이 필요한데, 여기서 가능한 게 무엇인가요?",
-      "note": "자신의 '필요'를 먼저 설명하고, 그에 따른 '해결책'을 묻는 형태로, 좀 더 문제 해결 지향적인 질문입니다."
+      "english": "I'm looking for guidance on transport to the city. What are my options?",
+      "pronunciation": "아임 루-킹 포r 가이던스 온 트랜스포-r트 투 더 시티. 왓 아r 마이 압-션스?",
+      "korean": "시내로 가는 교통편에 대한 안내를 찾고 있습니다. 어떤 선택지가 있나요?",
+      "note": "특정 '가장 쉬운 방법'보다는 '전반적인 선택지'에 대한 안내를 요청할 때 사용합니다. 질문의 폭이 더 넓습니다."
     }
   ],
   "review_items": [
     {
-      "source_date": "2026-10-22",
-      "english": "I'm not entirely sure what qualifies as 'something to declare' in this country.",
-      "pronunciation": "아임 낫 인타이어-리 슈얼 왓 퀄러파이즈 애즈 '썸띵 투 디클레어' 인 디스 컨츄리.",
-      "korean": "이 나라에서 '신고할 물품'으로 분류되는 것이 정확히 무엇인지 잘 모르겠습니다.",
+      "source_date": "2026-10-23",
+      "english": "I'm looking to get a local SIM card for my phone while I'm visiting.",
+      "pronunciation": "아임 루킹 투 겟 어 로컬 심 카드 포 마이 폰 와일 아임 비지팅.",
+      "korean": "여행하는 동안 휴대폰에 쓸 현지 유심 카드를 구매하려고 해요.",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-22",
-      "english": "No, I don't believe I have anything to declare, but I have purchased a few duty-free items.",
-      "pronunciation": "노, 아돈 빌리브 아이 해브 애니띵 투 디클레어, 밧 아이 해브 퍼처스드 어 퓨 듀티-프리 아이템즈.",
-      "korean": "아니요, 신고할 물품은 없는 것 같습니다만, 면세품 몇 가지를 구매했습니다.",
+      "source_date": "2026-10-23",
+      "english": "Are eSIMs an option here, or do you only provide physical SIM cards?",
+      "pronunciation": "알 이심스 언 옵션 히어, 오어 두 유 온-리 프로바이드 피지컬 심 카즈?",
+      "korean": "여기서는 eSIM도 가능한가요, 아니면 물리 SIM 카드만 제공하나요?",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-20",
-      "english": "My primary purpose for this trip is leisure and sightseeing.",
-      "pronunciation": "마이 프라이머리 펄퍼스 포 디스 트립 이즈 레져 앤 사이트씨잉.",
-      "korean": "제 이번 여행의 주된 목적은 여가와 관광입니다.",
+      "source_date": "2026-10-21",
+      "english": "I'm staying at the 'Central Park Hotel', and I have the booking confirmation with the address right here.",
+      "pronunciation": "아임 스테-잉 앳 더 센트럴 파-크 호-텔, 앤 아이 해브 더 부-킹 컨퍼메이션 위드 디 애-드레스 라잇 히어.",
+      "korean": "저는 '센트럴 파크 호텔'에 묵을 예정이고, 주소가 적힌 예약 확인증을 여기 가지고 있어요.",
       "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-20",
-      "english": "I'll be staying for about eight days, with my flight back on the 25th.",
-      "pronunciation": "아일 비 스테잉 포 어바웃 에잇 데이즈, 윗 마이 플라잇 백 온 더 트웬티피프쓰.",
-      "korean": "저는 약 8일 동안 머물 예정이며, 돌아오는 비행기는 25일입니다.",
+      "source_date": "2026-10-21",
+      "english": "What specific details do you need for the accommodation address?",
+      "pronunciation": "왓 스페-시픽 디-테일스 두 유 니드 포 디 어카머데이션 애-드레스?",
+      "korean": "숙소 주소에 대해 어떤 구체적인 정보가 필요하신가요?",
       "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-17",
-      "english": "It seems my checked bag didn't make it to the baggage carousel.",
-      "pronunciation": "잇 심스 마이 췍트 백 디든 메이킷 투 더 배기쥐 캐러셀.",
-      "korean": "제가 부친 짐이 수하물 수취대로 나오지 않은 것 같아요.",
+      "source_date": "2026-10-18",
+      "english": "I've already reported my damaged luggage, and now I need to understand the compensation process.",
+      "pronunciation": "아이브 오-레디 리포티드 마이 대미지드 러기지, 앤 나우 아이 니드 투 언더스탠드 더 컴펀세이션 프로세스.",
+      "korean": "제가 이미 파손된 수하물 신고를 했고, 이제 보상 절차를 이해하고 싶습니다.",
       "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     }
   ]
