@@ -1,203 +1,200 @@
 {
-  "date": "2026-10-24",
-  "updated_at": "09:52 KST",
-  "topic": "공항에서 시내 가는 가장 쉬운 방법 묻기",
-  "intro": "해외여행 직후, 공항에 도착해서 시내로 이동해야 하는 상황이에요. 캐리어는 무겁고, 피곤하고, 지도는 낯설고… 이럴 때 가장 쉽고 편하게 시내로 가는 방법을 물어볼 수 있어야겠죠? 오늘 학습에서는 공항 직원에게 다양한 교통수단을 묻고, 내 상황에 맞는 최적의 방법을 찾아내는 실용적인 표현들을 배워봅니다.",
+  "date": "2026-10-25",
+  "updated_at": "09:24 KST",
+  "topic": "호텔 체크인과 예약 확인하기",
+  "intro": "해외여행의 피로를 풀기 위해 드디어 호텔에 도착했습니다! 프런트 데스크에서 능숙하게 체크인하고 예약 내용을 확인하며, 필요한 정보를 얻는 상황을 연습해 보세요. 예약에 문제가 생겼을 때도 당황하지 않고 해결하는 표현들을 익힙니다.",
   "sentences": [
     {
-      "english": "What would be the most straightforward way to reach the city center from the airport?",
-      "pronunciation": "왓 우드 비 더 모-스트 스트레이트포-워r드 웨이 투 리-치 더 시티 센터 프롬 디 에어-포-r트?",
-      "korean": "공항에서 시내 중심부까지 가는 가장 간단한(직관적인) 방법은 무엇일까요?",
-      "tip": "'straightforward'는 복잡하지 않고 이해하기 쉬운 길이나 방법을 뜻해요. 가장 편한 방법을 물을 때 유용합니다."
+      "english": "I've got a reservation for tonight under the name Kim, Min-jun.",
+      "pronunciation": "아브 갓 어 레저베이션 포 투나잇 언더 더 네임 김, 민-준.",
+      "korean": "김민준 이름으로 오늘 밤 예약이 되어 있습니다.",
+      "tip": "'I've got'은 'I have'보다 좀 더 캐주얼하고 자연스러운 표현입니다. 이름을 말할 때는 성과 이름을 모두 말해주는 것이 좋습니다."
     },
     {
-      "english": "I'm hoping to find out the best public transport options to get downtown.",
-      "pronunciation": "아임 호-핑 투 파인드 아웃 더 베스트 퍼블릭 트랜스포-r트 압-션스 투 겟 다운타운.",
-      "korean": "시내 중심가로 가는 대중교통편 중 가장 좋은 방법을 알아보고 싶어요.",
-      "tip": "'I'm hoping to find out'은 무언가를 알고 싶을 때 부드럽게 질문하는 표현입니다. 'public transport'는 버스, 지하철, 기차 등을 총칭합니다."
+      "english": "Would you mind double-checking the room type and check-out date for me?",
+      "pronunciation": "우쥬 마인 더블-체킹 더 룸 타입 앤 체크아웃 데이트 포 미?",
+      "korean": "객실 종류와 체크아웃 날짜를 다시 한번 확인해 주시겠어요?",
+      "tip": "'Would you mind ~ing'는 아주 공손하게 요청할 때 사용합니다. 구체적인 확인 사항(room type, check-out date)을 명확히 언급하세요."
     },
     {
-      "english": "Is there a direct bus or train service that goes to the Myeongdong area?",
-      "pronunciation": "이즈 데어 어 다이렉트 버스 오r 트레인 서-r비스 댓 고-스 투 더 명동 에어리어?",
-      "korean": "명동 지역으로 바로 가는 버스나 기차 서비스가 있나요?",
-      "tip": "특정 장소로 바로 가는 노선이 있는지 물을 때 'direct service'를 사용하고, 목적지('Myeongdong area')를 구체적으로 언급합니다."
+      "english": "It looks like my reservation isn't coming up on your system. I have my booking confirmation here.",
+      "pronunciation": "잇 룩스 라익 마이 레저베이션 이즌트 커밍 업 온 유어 시스템. 아이 해브 마이 부킹 컨퍼메이션 히어.",
+      "korean": "제 예약이 시스템에 뜨지 않는 것 같아요. 여기 예약 확정서가 있습니다.",
+      "tip": "'It looks like~'는 상황을 설명할 때 자주 쓰입니다. 문제가 발생했을 때 즉시 해결에 도움이 될 만한 정보(예약 확정서 등)를 제시하는 것이 좋습니다."
     },
     {
-      "english": "Could you tell me where I can purchase tickets for the airport express?",
-      "pronunciation": "쿠쥬 텔 미 웨어r 아이 캔 퍼-r체스 티켓츠 포r 디 에어-포-r트 익스프레스?",
-      "korean": "공항 익스프레스 표는 어디서 살 수 있는지 알려주실 수 있나요?",
-      "tip": "'Could you tell me where'는 장소를 묻는 공손한 표현입니다. 'purchase'는 'buy'보다 격식 있는 표현으로 사용됩니다."
+      "english": "In case there's an issue with my original booking, do you happen to have any similar rooms available for tonight?",
+      "pronunciation": "인 케이스 데어즈 언 이슈 위드 마이 오리지널 부킹, 두 유 해픈 투 해브 애니 시밀러 룸스 어베일러블 포 투나잇?",
+      "korean": "원래 예약에 문제가 있다면, 오늘 밤에 비슷한 객실이 혹시 남아있을까요?",
+      "tip": "'In case ~'는 만일의 상황을 가정할 때, 'Do you happen to have ~?'는 혹시 가지고 있는지 물어보는 완곡한 표현입니다. 대안을 찾는 질문입니다."
     },
     {
-      "english": "What's the estimated travel time for the train option, generally speaking?",
-      "pronunciation": "왓츠 디 에스티메이티드 트래블 타임 포r 더 트레인 압-션, 제너럴리 스피-킹?",
-      "korean": "기차 옵션의 예상 소요 시간은 어느 정도인가요, 일반적으로 말해서요?",
-      "tip": "'estimated travel time'은 예상 소요 시간을 묻는 표현입니다. 'generally speaking'은 대략적인 정보를 물을 때 덧붙여 말할 수 있습니다."
+      "english": "I'm curious about the hotel amenities. For example, what time is breakfast served, and is there a fitness center?",
+      "pronunciation": "아임 큐리어스 어바웃 더 호텔 어메니티스. 포 이그잼플, 왓 타임 이즈 브렉퍼스트 서브드, 앤 이즈 데어 어 피트니스 센터?",
+      "korean": "호텔 편의시설이 궁금한데요. 예를 들어, 조식은 몇 시에 제공되고 피트니스센터도 있나요?",
+      "tip": "'I'm curious about~'은 정보를 얻고 싶을 때 자연스럽게 사용할 수 있습니다. 'For example' 뒤에 구체적인 질문을 이어가세요."
     }
   ],
   "pattern": {
-    "form": "What's the [adjective] way to [verb]...?",
-    "pronunciation": "왓츠 더 [형용사] 웨이 투 [동사]...?",
-    "meaning": "~하는 가장 [형용사] 방법은 무엇인가요?",
+    "form": "I'm not sure if [주어] + [동사]...",
+    "pronunciation": "아임 낫 슈어 이프 [주어] + [동사]...",
+    "meaning": "~인지 확실하지 않아요/잘 모르겠어요",
     "examples": [
       {
-        "english": "What's the quickest way to get to the hotel?",
-        "pronunciation": "왓츠 더 퀵키스트 웨이 투 겟 투 더 호텔?",
-        "korean": "호텔로 가는 가장 빠른 방법은 무엇인가요?"
+        "english": "I'm not sure if my reservation includes breakfast.",
+        "pronunciation": "아임 낫 슈어 이프 마이 레저베이션 인클루즈 브렉퍼스트.",
+        "korean": "제 예약에 조식이 포함되어 있는지 확실하지 않아요."
       },
       {
-        "english": "What's the cheapest way to buy tickets?",
-        "pronunciation": "왓츠 더 치-피스트 웨이 투 바이 티켓츠?",
-        "korean": "표를 사는 가장 저렴한 방법은 무엇인가요?"
+        "english": "I'm not sure if I fully understood the directions to my room.",
+        "pronunciation": "아임 낫 슈어 이프 아이 풀리 언더스투드 더 디렉션스 투 마이 룸.",
+        "korean": "제 방으로 가는 길 안내를 완전히 이해했는지 모르겠어요."
       }
     ]
   },
   "words": [
     {
-      "word": "city center / downtown",
-      "pronunciation": "시티 센터 / 다운타운",
-      "meaning": "시내 중심가"
+      "word": "confirmation number",
+      "pronunciation": "컨퍼메이션 넘버",
+      "meaning": "예약 번호"
     },
     {
-      "word": "public transport",
-      "pronunciation": "퍼블릭 트랜스포-r트",
-      "meaning": "대중교통 (버스, 지하철, 기차 등)"
+      "word": "room type",
+      "pronunciation": "룸 타입",
+      "meaning": "객실 종류"
     },
     {
-      "word": "airport express",
-      "pronunciation": "에어-포-r트 익스프레스",
-      "meaning": "공항 익스프레스 (직통 열차/버스)"
+      "word": "check-out date",
+      "pronunciation": "체크아웃 데이트",
+      "meaning": "체크아웃 날짜"
     },
     {
-      "word": "fare",
-      "pronunciation": "페어r",
-      "meaning": "(교통수단) 요금"
+      "word": "amenities",
+      "pronunciation": "어메니티스",
+      "meaning": "편의 시설"
     },
     {
-      "word": "ticket counter",
-      "pronunciation": "티켓 카운터-",
-      "meaning": "매표소"
+      "word": "late check-out",
+      "pronunciation": "레이트 체크아웃",
+      "meaning": "늦은 체크아웃"
     }
   ],
   "dialogue": [
     {
+      "speaker": "Staff",
+      "english": "Welcome to our hotel. How may I assist you today?",
+      "pronunciation": "웰컴 투 아워 호텔. 하우 메이 아이 어시스트 유 투데이?",
+      "korean": "저희 호텔에 오신 것을 환영합니다. 무엇을 도와드릴까요?"
+    },
+    {
       "speaker": "You",
-      "english": "Excuse me. What would be the most straightforward way to reach the city center from the airport?",
-      "pronunciation": "익스큐-즈 미. 왓 우드 비 더 모-스트 스트레이트포-워r드 웨이 투 리-치 더 시티 센터 프롬 디 에어-포-r트?",
-      "korean": "실례합니다. 공항에서 시내 중심부까지 가는 가장 간단한 방법은 무엇일까요?"
+      "english": "Hi, I've got a reservation for tonight under the name Kim, Min-jun.",
+      "pronunciation": "하이, 아브 갓 어 레저베이션 포 투나잇 언더 더 네임 김, 민-준.",
+      "korean": "안녕하세요, 김민준 이름으로 오늘 밤 예약이 되어 있습니다."
     },
     {
       "speaker": "Staff",
-      "english": "Welcome! You have a few options. There's the Airport Express train, local buses, or taxis.",
-      "pronunciation": "웰컴! 유 해브 어 퓨- 압-션스. 데어r즈 디 에어-포-r트 익스프레스 트레인, 로-컬 버스스, 오r 택시스.",
-      "korean": "환영합니다! 몇 가지 선택지가 있어요. 공항 익스프레스 기차, 시내버스, 아니면 택시가 있습니다."
+      "english": "Alright, Mr. Kim. Let me pull that up for you... Ah, I see a reservation for a Deluxe King Room. Would you mind double-checking the room type and check-out date for me?",
+      "pronunciation": "올라잇, 미스터 김. 렛 미 풀 댓 업 포 유... 아, 아이 씨 어 레저베이션 포 어 디럭스 킹 룸. 우쥬 마인 더블-체킹 더 룸 타입 앤 체크아웃 데이트 포 미?",
+      "korean": "네, 김 선생님. 확인해 보겠습니다... 아, 디럭스 킹룸 예약이 있네요. 객실 종류와 체크아웃 날짜를 다시 한번 확인해 주시겠어요?"
     },
     {
       "speaker": "You",
-      "english": "I'm hoping to find out the best public transport options to get downtown. Is there a direct bus or train service that goes to the Gangnam area?",
-      "pronunciation": "아임 호-핑 투 파인드 아웃 더 베스트 퍼블릭 트랜스포-r트 압-션스 투 겟 다운타운. 이즈 데어r 어 다이렉트 버스 오r 트레인 서-r비스 댓 고-스 투 더 강남 에어리어?",
-      "korean": "시내 중심가로 가는 대중교통편 중 가장 좋은 방법을 알아보고 싶어요. 강남 지역으로 바로 가는 버스나 기차 서비스가 있나요?"
+      "english": "Actually, it looks like my reservation isn't coming up on your system. I have my booking confirmation here for a Deluxe Twin Room.",
+      "pronunciation": "액츄얼리, 잇 룩스 라익 마이 레저베이션 이즌트 커밍 업 온 유어 시스템. 아이 해브 마이 부킹 컨퍼메이션 히어 포 어 디럭스 트윈 룸.",
+      "korean": "음, 사실 제 예약이 시스템에 뜨지 않는 것 같아요. 여기 디럭스 트윈룸 예약 확정서가 있습니다."
     },
     {
       "speaker": "Staff",
-      "english": "Yes, for Gangnam, the Airport Limousine Bus is very convenient and direct. It makes several stops in Gangnam.",
-      "pronunciation": "예스, 포r 강남, 디 에어-포-r트 리무진 버스 이즈 베리 컨비-니언트 앤드 다이렉트. 잇 메익스 세버럴 스탑스 인 강남.",
-      "korean": "네, 강남으로 가실 때는 공항 리무진 버스가 매우 편리하고 직행입니다. 강남에 여러 정거장에서 정차해요."
+      "english": "My apologies, Mr. Kim. Let me cross-reference that for you with the confirmation number... Ah, yes, it was under a slightly different spelling. We've got you down for a Deluxe Twin, as confirmed.",
+      "pronunciation": "마이 어폴러지스, 미스터 김. 렛 미 크로스-레퍼런스 댓 포 유 위드 더 컨퍼메이션 넘버... 아, 예스, 잇 워즈 언더 어 슬라이틀리 디퍼런트 스펠링. 위브 갓 유 다운 포 어 디럭스 트윈, 애즈 컨펌드.",
+      "korean": "죄송합니다, 김 선생님. 확인 번호로 다시 대조해 보겠습니다... 아, 네, 철자가 약간 달랐네요. 확인하신 대로 디럭스 트윈룸으로 예약되어 있습니다."
     },
     {
       "speaker": "You",
-      "english": "That sounds good. Could you tell me where I can purchase tickets for the airport bus?",
-      "pronunciation": "댓 사운즈 굿. 쿠쥬 텔 미 웨어r 아이 캔 퍼-r체스 티켓츠 포r 디 에어-포-r트 버스?",
-      "korean": "좋네요. 공항버스 표는 어디서 살 수 있는지 알려주실 수 있나요?"
+      "english": "Perfect, thank you. I'm curious about the hotel amenities. For example, what time is breakfast served, and is there a fitness center?",
+      "pronunciation": "퍼펙트, 땡큐. 아임 큐리어스 어바웃 더 호텔 어메니티스. 포 이그잼플, 왓 타임 이즈 브렉퍼스트 서브드, 앤 이즈 데어 어 피트니스 센터?",
+      "korean": "완벽하네요, 감사합니다. 호텔 편의시설이 궁금한데요. 예를 들어, 조식은 몇 시에 제공되고 피트니스센터도 있나요?"
     },
     {
       "speaker": "Staff",
-      "english": "Absolutely. You can buy tickets at the ticket counter right outside this exit, or from the kiosks near the bus stops.",
-      "pronunciation": "앱설루-틀리. 유 캔 바이 티켓츠 앳 더 티켓 카운터-r 라이트 아웃사이드 디스 엑시트, 오r 프롬 더 키-아스크스 니어r 더 버스 스탑스.",
-      "korean": "물론이죠. 이 출구 바로 밖 매표소나 버스 정류장 근처 키오스크에서 표를 구매하실 수 있습니다."
-    },
-    {
-      "speaker": "You",
-      "english": "And what's the estimated travel time for the bus option to Gangnam?",
-      "pronunciation": "앤드 왓츠 디 에스티메이티드 트래블 타임 포r 더 버스 압-션 투 강남?",
-      "korean": "그럼 강남까지 버스로 가는 예상 소요 시간은 어느 정도인가요?"
+      "english": "Breakfast is served from 7 AM to 10 AM in our main restaurant, and yes, we have a fully equipped fitness center on the third floor, open 24/7.",
+      "pronunciation": "브렉퍼스트 이즈 서브드 프롬 세븐 에이엠 투 텐 에이엠 인 아워 메인 레스토랑, 앤 예스, 위 해브 어 풀리 이큅트 피트니스 센터 온 더 써드 플로어, 오픈 트웬티포 세븐.",
+      "korean": "조식은 저희 메인 레스토랑에서 오전 7시부터 10시까지 제공되며, 네, 3층에 24시간 운영되는 완비된 피트니스센터가 있습니다."
     }
   ],
   "retrieval": [
     {
-      "english": "What would be the most straightforward way to reach the city center from the airport?",
-      "pronunciation": "왓 우드 비 더 모-스트 스트레이트포-워r드 웨이 투 리-치 더 시티 센터 프롬 디 에어-포-r트?",
-      "korean": "공항에서 시내까지 가는 가장 간단한 방법이 뭐예요?",
-      "tip": "'가장 간단한/직관적인 방법'을 뜻하는 영어 표현을 활용하세요."
+      "english": "I've got a reservation for tonight under the name Kim, Min-jun.",
+      "pronunciation": "아브 갓 어 레저베이션 포 투나잇 언더 더 네임 김, 민-준.",
+      "korean": "오늘 밤 김민준 이름으로 예약되어 있어요."
     },
     {
-      "english": "Is there a direct bus or train service that goes to the Myeongdong area?",
-      "pronunciation": "이즈 데어r 어 다이렉트 버스 오r 트레인 서-r비스 댓 고-스 투 더 명동 에어리어?",
-      "korean": "명동 지역으로 바로 가는 버스나 기차 서비스가 있나요?",
-      "tip": "특정 지역으로 '직행 서비스'가 있는지 물어보는 표현을 떠올리세요."
+      "english": "It looks like my reservation isn't coming up on your system. I have my booking confirmation here.",
+      "pronunciation": "잇 룩스 라익 마이 레저베이션 이즌트 커밍 업 온 유어 시스템. 아이 해브 마이 부킹 컨퍼메이션 히어.",
+      "korean": "제 예약이 시스템에 뜨지 않는 것 같아요. 여기 예약 확정서가 있습니다."
     },
     {
-      "english": "Could you tell me where I can purchase tickets for the airport express?",
-      "pronunciation": "쿠쥬 텔 미 웨어r 아이 캔 퍼-r체스 티켓츠 포r 디 에어-포-r트 익스프레스?",
-      "korean": "공항 익스프레스 표는 어디서 살 수 있는지 알려주실 수 있나요?",
-      "tip": "표를 '어디서 구매할 수 있는지' 묻는 공손한 표현을 사용해 보세요."
+      "english": "I'm curious about the hotel amenities. For example, what time is breakfast served, and is there a fitness center?",
+      "pronunciation": "아임 큐리어스 어바웃 더 호텔 어메니티스. 포 이그잼플, 왓 타임 이즈 브렉퍼스트 서브드, 앤 이즈 데어 어 피트니스 센터?",
+      "korean": "호텔 편의시설이 궁금한데요. 예를 들어, 조식은 몇 시에 제공되고 피트니스센터도 있나요?"
     }
   ],
   "alternatives": [
     {
-      "english": "How do people usually get into the city from here?",
-      "pronunciation": "하우 두 피-쁠 유-주얼리 겟 인투 더 시티 프롬 히어?",
-      "korean": "여기서 시내로 사람들은 보통 어떻게 가나요?",
-      "note": "원래 표현보다 좀 더 비격식적이며, 일반적인 통념이나 대중적인 방법을 묻는 뉘앙스가 강합니다."
+      "english": "I'm here to check in. My name is Kim, Min-jun.",
+      "pronunciation": "아임 히어 투 체크 인. 마이 네임 이즈 김, 민-준.",
+      "korean": "체크인하러 왔습니다. 제 이름은 김민준입니다.",
+      "note": "원래 표현보다 조금 더 직접적이고 간결한 체크인 표현입니다."
     },
     {
-      "english": "What's generally considered the best approach for getting downtown?",
-      "pronunciation": "왓츠 제너럴리 컨시더-r드 더 베스트 어프로-치 포r 게팅 다운타운?",
-      "korean": "시내로 가는 가장 좋은 방법은 일반적으로 무엇이라고 생각되나요?",
-      "note": "상대방의 '의견'이나 '추천'을 좀 더 직접적으로 묻는 뉘앙스이며, 원래 표현보다 약간 더 격식 있는 느낌을 줍니다."
+      "english": "If my reservation isn't valid, do you have any comparable rooms free for tonight?",
+      "pronunciation": "이프 마이 레저베이션 이즌트 밸리드, 두 유 해브 애니 컴패러블 룸스 프리 포 투나잇?",
+      "korean": "제 예약이 유효하지 않다면, 오늘 밤에 비슷한 객실 중 빈방이 있나요?",
+      "note": "'In case there's an issue'보다 조건에 대한 가정이 더 직접적이며, 'similar' 대신 'comparable'을 사용하여 동등한 수준의 방을 묻는 뉘앙스가 있습니다."
     },
     {
-      "english": "I'm looking for guidance on transport to the city. What are my options?",
-      "pronunciation": "아임 루-킹 포r 가이던스 온 트랜스포-r트 투 더 시티. 왓 아r 마이 압-션스?",
-      "korean": "시내로 가는 교통편에 대한 안내를 찾고 있습니다. 어떤 선택지가 있나요?",
-      "note": "특정 '가장 쉬운 방법'보다는 '전반적인 선택지'에 대한 안내를 요청할 때 사용합니다. 질문의 폭이 더 넓습니다."
+      "english": "My booking doesn't appear to be in your records. I can provide the confirmation number if needed.",
+      "pronunciation": "마이 부킹 더즌트 어피어 투 비 인 유어 레코드스. 아이 캔 프로바이드 더 컨퍼메이션 넘버 이프 니디드.",
+      "korean": "제 예약이 기록에 없는 것 같습니다. 필요하시면 예약 번호를 드릴 수 있습니다.",
+      "note": "'It looks like'보다 조금 더 정중하고 공식적인 어조입니다. 'needed'를 사용하여 상대방의 필요에 따라 정보를 제공할 의사를 보입니다."
     }
   ],
   "review_items": [
     {
-      "source_date": "2026-10-23",
-      "english": "I'm looking to get a local SIM card for my phone while I'm visiting.",
-      "pronunciation": "아임 루킹 투 겟 어 로컬 심 카드 포 마이 폰 와일 아임 비지팅.",
-      "korean": "여행하는 동안 휴대폰에 쓸 현지 유심 카드를 구매하려고 해요.",
+      "source_date": "2026-10-24",
+      "english": "What would be the most straightforward way to reach the city center from the airport?",
+      "pronunciation": "왓 우드 비 더 모-스트 스트레이트포-워r드 웨이 투 리-치 더 시티 센터 프롬 디 에어-포-r트?",
+      "korean": "공항에서 시내 중심부까지 가는 가장 간단한(직관적인) 방법은 무엇일까요?",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-23",
-      "english": "Are eSIMs an option here, or do you only provide physical SIM cards?",
-      "pronunciation": "알 이심스 언 옵션 히어, 오어 두 유 온-리 프로바이드 피지컬 심 카즈?",
-      "korean": "여기서는 eSIM도 가능한가요, 아니면 물리 SIM 카드만 제공하나요?",
+      "source_date": "2026-10-24",
+      "english": "I'm hoping to find out the best public transport options to get downtown.",
+      "pronunciation": "아임 호-핑 투 파인드 아웃 더 베스트 퍼블릭 트랜스포-r트 압-션스 투 겟 다운타운.",
+      "korean": "시내 중심가로 가는 대중교통편 중 가장 좋은 방법을 알아보고 싶어요.",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-21",
-      "english": "I'm staying at the 'Central Park Hotel', and I have the booking confirmation with the address right here.",
-      "pronunciation": "아임 스테-잉 앳 더 센트럴 파-크 호-텔, 앤 아이 해브 더 부-킹 컨퍼메이션 위드 디 애-드레스 라잇 히어.",
-      "korean": "저는 '센트럴 파크 호텔'에 묵을 예정이고, 주소가 적힌 예약 확인증을 여기 가지고 있어요.",
+      "source_date": "2026-10-22",
+      "english": "I'm not entirely sure what qualifies as 'something to declare' in this country.",
+      "pronunciation": "아임 낫 인타이어-리 슈얼 왓 퀄러파이즈 애즈 '썸띵 투 디클레어' 인 디스 컨츄리.",
+      "korean": "이 나라에서 '신고할 물품'으로 분류되는 것이 정확히 무엇인지 잘 모르겠습니다.",
       "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-21",
-      "english": "What specific details do you need for the accommodation address?",
-      "pronunciation": "왓 스페-시픽 디-테일스 두 유 니드 포 디 어카머데이션 애-드레스?",
-      "korean": "숙소 주소에 대해 어떤 구체적인 정보가 필요하신가요?",
+      "source_date": "2026-10-22",
+      "english": "No, I don't believe I have anything to declare, but I have purchased a few duty-free items.",
+      "pronunciation": "노, 아돈 빌리브 아이 해브 애니띵 투 디클레어, 밧 아이 해브 퍼처스드 어 퓨 듀티-프리 아이템즈.",
+      "korean": "아니요, 신고할 물품은 없는 것 같습니다만, 면세품 몇 가지를 구매했습니다.",
       "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-18",
-      "english": "I've already reported my damaged luggage, and now I need to understand the compensation process.",
-      "pronunciation": "아이브 오-레디 리포티드 마이 대미지드 러기지, 앤 나우 아이 니드 투 언더스탠드 더 컴펀세이션 프로세스.",
-      "korean": "제가 이미 파손된 수하물 신고를 했고, 이제 보상 절차를 이해하고 싶습니다.",
-      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+      "source_date": "2026-10-12",
+      "english": "Hi, I'm on flight KE123 to London, and the departure board is showing a significant delay.",
+      "pronunciation": "하이, 아임 온 플라잇 케이 이 원 투 쓰리 투 런던, 앤 더 디파쳐 보-드 이즈 쇼잉 어 시그니피컨트 딜레이.",
+      "korean": "안녕하세요, 저는 런던행 KE123편 승객인데, 출발 전광판에 상당한 지연이 표시되어 있네요.",
+      "tip": "13일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     }
   ]
 }

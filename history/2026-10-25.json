@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-25",
+  "updated_at": "09:24 KST",
+  "topic": "호텔 체크인과 예약 확인하기",
+  "intro": "해외여행의 피로를 풀기 위해 드디어 호텔에 도착했습니다! 프런트 데스크에서 능숙하게 체크인하고 예약 내용을 확인하며, 필요한 정보를 얻는 상황을 연습해 보세요. 예약에 문제가 생겼을 때도 당황하지 않고 해결하는 표현들을 익힙니다.",
+  "sentences": [
+    {
+      "english": "I've got a reservation for tonight under the name Kim, Min-jun.",
+      "pronunciation": "아브 갓 어 레저베이션 포 투나잇 언더 더 네임 김, 민-준.",
+      "korean": "김민준 이름으로 오늘 밤 예약이 되어 있습니다.",
+      "tip": "'I've got'은 'I have'보다 좀 더 캐주얼하고 자연스러운 표현입니다. 이름을 말할 때는 성과 이름을 모두 말해주는 것이 좋습니다."
+    },
+    {
+      "english": "Would you mind double-checking the room type and check-out date for me?",
+      "pronunciation": "우쥬 마인 더블-체킹 더 룸 타입 앤 체크아웃 데이트 포 미?",
+      "korean": "객실 종류와 체크아웃 날짜를 다시 한번 확인해 주시겠어요?",
+      "tip": "'Would you mind ~ing'는 아주 공손하게 요청할 때 사용합니다. 구체적인 확인 사항(room type, check-out date)을 명확히 언급하세요."
+    },
+    {
+      "english": "It looks like my reservation isn't coming up on your system. I have my booking confirmation here.",
+      "pronunciation": "잇 룩스 라익 마이 레저베이션 이즌트 커밍 업 온 유어 시스템. 아이 해브 마이 부킹 컨퍼메이션 히어.",
+      "korean": "제 예약이 시스템에 뜨지 않는 것 같아요. 여기 예약 확정서가 있습니다.",
+      "tip": "'It looks like~'는 상황을 설명할 때 자주 쓰입니다. 문제가 발생했을 때 즉시 해결에 도움이 될 만한 정보(예약 확정서 등)를 제시하는 것이 좋습니다."
+    },
+    {
+      "english": "In case there's an issue with my original booking, do you happen to have any similar rooms available for tonight?",
+      "pronunciation": "인 케이스 데어즈 언 이슈 위드 마이 오리지널 부킹, 두 유 해픈 투 해브 애니 시밀러 룸스 어베일러블 포 투나잇?",
+      "korean": "원래 예약에 문제가 있다면, 오늘 밤에 비슷한 객실이 혹시 남아있을까요?",
+      "tip": "'In case ~'는 만일의 상황을 가정할 때, 'Do you happen to have ~?'는 혹시 가지고 있는지 물어보는 완곡한 표현입니다. 대안을 찾는 질문입니다."
+    },
+    {
+      "english": "I'm curious about the hotel amenities. For example, what time is breakfast served, and is there a fitness center?",
+      "pronunciation": "아임 큐리어스 어바웃 더 호텔 어메니티스. 포 이그잼플, 왓 타임 이즈 브렉퍼스트 서브드, 앤 이즈 데어 어 피트니스 센터?",
+      "korean": "호텔 편의시설이 궁금한데요. 예를 들어, 조식은 몇 시에 제공되고 피트니스센터도 있나요?",
+      "tip": "'I'm curious about~'은 정보를 얻고 싶을 때 자연스럽게 사용할 수 있습니다. 'For example' 뒤에 구체적인 질문을 이어가세요."
+    }
+  ],
+  "pattern": {
+    "form": "I'm not sure if [주어] + [동사]...",
+    "pronunciation": "아임 낫 슈어 이프 [주어] + [동사]...",
+    "meaning": "~인지 확실하지 않아요/잘 모르겠어요",
+    "examples": [
+      {
+        "english": "I'm not sure if my reservation includes breakfast.",
+        "pronunciation": "아임 낫 슈어 이프 마이 레저베이션 인클루즈 브렉퍼스트.",
+        "korean": "제 예약에 조식이 포함되어 있는지 확실하지 않아요."
+      },
+      {
+        "english": "I'm not sure if I fully understood the directions to my room.",
+        "pronunciation": "아임 낫 슈어 이프 아이 풀리 언더스투드 더 디렉션스 투 마이 룸.",
+        "korean": "제 방으로 가는 길 안내를 완전히 이해했는지 모르겠어요."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "confirmation number",
+      "pronunciation": "컨퍼메이션 넘버",
+      "meaning": "예약 번호"
+    },
+    {
+      "word": "room type",
+      "pronunciation": "룸 타입",
+      "meaning": "객실 종류"
+    },
+    {
+      "word": "check-out date",
+      "pronunciation": "체크아웃 데이트",
+      "meaning": "체크아웃 날짜"
+    },
+    {
+      "word": "amenities",
+      "pronunciation": "어메니티스",
+      "meaning": "편의 시설"
+    },
+    {
+      "word": "late check-out",
+      "pronunciation": "레이트 체크아웃",
+      "meaning": "늦은 체크아웃"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Staff",
+      "english": "Welcome to our hotel. How may I assist you today?",
+      "pronunciation": "웰컴 투 아워 호텔. 하우 메이 아이 어시스트 유 투데이?",
+      "korean": "저희 호텔에 오신 것을 환영합니다. 무엇을 도와드릴까요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Hi, I've got a reservation for tonight under the name Kim, Min-jun.",
+      "pronunciation": "하이, 아브 갓 어 레저베이션 포 투나잇 언더 더 네임 김, 민-준.",
+      "korean": "안녕하세요, 김민준 이름으로 오늘 밤 예약이 되어 있습니다."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Alright, Mr. Kim. Let me pull that up for you... Ah, I see a reservation for a Deluxe King Room. Would you mind double-checking the room type and check-out date for me?",
+      "pronunciation": "올라잇, 미스터 김. 렛 미 풀 댓 업 포 유... 아, 아이 씨 어 레저베이션 포 어 디럭스 킹 룸. 우쥬 마인 더블-체킹 더 룸 타입 앤 체크아웃 데이트 포 미?",
+      "korean": "네, 김 선생님. 확인해 보겠습니다... 아, 디럭스 킹룸 예약이 있네요. 객실 종류와 체크아웃 날짜를 다시 한번 확인해 주시겠어요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Actually, it looks like my reservation isn't coming up on your system. I have my booking confirmation here for a Deluxe Twin Room.",
+      "pronunciation": "액츄얼리, 잇 룩스 라익 마이 레저베이션 이즌트 커밍 업 온 유어 시스템. 아이 해브 마이 부킹 컨퍼메이션 히어 포 어 디럭스 트윈 룸.",
+      "korean": "음, 사실 제 예약이 시스템에 뜨지 않는 것 같아요. 여기 디럭스 트윈룸 예약 확정서가 있습니다."
+    },
+    {
+      "speaker": "Staff",
+      "english": "My apologies, Mr. Kim. Let me cross-reference that for you with the confirmation number... Ah, yes, it was under a slightly different spelling. We've got you down for a Deluxe Twin, as confirmed.",
+      "pronunciation": "마이 어폴러지스, 미스터 김. 렛 미 크로스-레퍼런스 댓 포 유 위드 더 컨퍼메이션 넘버... 아, 예스, 잇 워즈 언더 어 슬라이틀리 디퍼런트 스펠링. 위브 갓 유 다운 포 어 디럭스 트윈, 애즈 컨펌드.",
+      "korean": "죄송합니다, 김 선생님. 확인 번호로 다시 대조해 보겠습니다... 아, 네, 철자가 약간 달랐네요. 확인하신 대로 디럭스 트윈룸으로 예약되어 있습니다."
+    },
+    {
+      "speaker": "You",
+      "english": "Perfect, thank you. I'm curious about the hotel amenities. For example, what time is breakfast served, and is there a fitness center?",
+      "pronunciation": "퍼펙트, 땡큐. 아임 큐리어스 어바웃 더 호텔 어메니티스. 포 이그잼플, 왓 타임 이즈 브렉퍼스트 서브드, 앤 이즈 데어 어 피트니스 센터?",
+      "korean": "완벽하네요, 감사합니다. 호텔 편의시설이 궁금한데요. 예를 들어, 조식은 몇 시에 제공되고 피트니스센터도 있나요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Breakfast is served from 7 AM to 10 AM in our main restaurant, and yes, we have a fully equipped fitness center on the third floor, open 24/7.",
+      "pronunciation": "브렉퍼스트 이즈 서브드 프롬 세븐 에이엠 투 텐 에이엠 인 아워 메인 레스토랑, 앤 예스, 위 해브 어 풀리 이큅트 피트니스 센터 온 더 써드 플로어, 오픈 트웬티포 세븐.",
+      "korean": "조식은 저희 메인 레스토랑에서 오전 7시부터 10시까지 제공되며, 네, 3층에 24시간 운영되는 완비된 피트니스센터가 있습니다."
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "I've got a reservation for tonight under the name Kim, Min-jun.",
+      "pronunciation": "아브 갓 어 레저베이션 포 투나잇 언더 더 네임 김, 민-준.",
+      "korean": "오늘 밤 김민준 이름으로 예약되어 있어요."
+    },
+    {
+      "english": "It looks like my reservation isn't coming up on your system. I have my booking confirmation here.",
+      "pronunciation": "잇 룩스 라익 마이 레저베이션 이즌트 커밍 업 온 유어 시스템. 아이 해브 마이 부킹 컨퍼메이션 히어.",
+      "korean": "제 예약이 시스템에 뜨지 않는 것 같아요. 여기 예약 확정서가 있습니다."
+    },
+    {
+      "english": "I'm curious about the hotel amenities. For example, what time is breakfast served, and is there a fitness center?",
+      "pronunciation": "아임 큐리어스 어바웃 더 호텔 어메니티스. 포 이그잼플, 왓 타임 이즈 브렉퍼스트 서브드, 앤 이즈 데어 어 피트니스 센터?",
+      "korean": "호텔 편의시설이 궁금한데요. 예를 들어, 조식은 몇 시에 제공되고 피트니스센터도 있나요?"
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "I'm here to check in. My name is Kim, Min-jun.",
+      "pronunciation": "아임 히어 투 체크 인. 마이 네임 이즈 김, 민-준.",
+      "korean": "체크인하러 왔습니다. 제 이름은 김민준입니다.",
+      "note": "원래 표현보다 조금 더 직접적이고 간결한 체크인 표현입니다."
+    },
+    {
+      "english": "If my reservation isn't valid, do you have any comparable rooms free for tonight?",
+      "pronunciation": "이프 마이 레저베이션 이즌트 밸리드, 두 유 해브 애니 컴패러블 룸스 프리 포 투나잇?",
+      "korean": "제 예약이 유효하지 않다면, 오늘 밤에 비슷한 객실 중 빈방이 있나요?",
+      "note": "'In case there's an issue'보다 조건에 대한 가정이 더 직접적이며, 'similar' 대신 'comparable'을 사용하여 동등한 수준의 방을 묻는 뉘앙스가 있습니다."
+    },
+    {
+      "english": "My booking doesn't appear to be in your records. I can provide the confirmation number if needed.",
+      "pronunciation": "마이 부킹 더즌트 어피어 투 비 인 유어 레코드스. 아이 캔 프로바이드 더 컨퍼메이션 넘버 이프 니디드.",
+      "korean": "제 예약이 기록에 없는 것 같습니다. 필요하시면 예약 번호를 드릴 수 있습니다.",
+      "note": "'It looks like'보다 조금 더 정중하고 공식적인 어조입니다. 'needed'를 사용하여 상대방의 필요에 따라 정보를 제공할 의사를 보입니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-10-24",
+      "english": "What would be the most straightforward way to reach the city center from the airport?",
+      "pronunciation": "왓 우드 비 더 모-스트 스트레이트포-워r드 웨이 투 리-치 더 시티 센터 프롬 디 에어-포-r트?",
+      "korean": "공항에서 시내 중심부까지 가는 가장 간단한(직관적인) 방법은 무엇일까요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-24",
+      "english": "I'm hoping to find out the best public transport options to get downtown.",
+      "pronunciation": "아임 호-핑 투 파인드 아웃 더 베스트 퍼블릭 트랜스포-r트 압-션스 투 겟 다운타운.",
+      "korean": "시내 중심가로 가는 대중교통편 중 가장 좋은 방법을 알아보고 싶어요.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-22",
+      "english": "I'm not entirely sure what qualifies as 'something to declare' in this country.",
+      "pronunciation": "아임 낫 인타이어-리 슈얼 왓 퀄러파이즈 애즈 '썸띵 투 디클레어' 인 디스 컨츄리.",
+      "korean": "이 나라에서 '신고할 물품'으로 분류되는 것이 정확히 무엇인지 잘 모르겠습니다.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-22",
+      "english": "No, I don't believe I have anything to declare, but I have purchased a few duty-free items.",
+      "pronunciation": "노, 아돈 빌리브 아이 해브 애니띵 투 디클레어, 밧 아이 해브 퍼처스드 어 퓨 듀티-프리 아이템즈.",
+      "korean": "아니요, 신고할 물품은 없는 것 같습니다만, 면세품 몇 가지를 구매했습니다.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-12",
+      "english": "Hi, I'm on flight KE123 to London, and the departure board is showing a significant delay.",
+      "pronunciation": "하이, 아임 온 플라잇 케이 이 원 투 쓰리 투 런던, 앤 더 디파쳐 보-드 이즈 쇼잉 어 시그니피컨트 딜레이.",
+      "korean": "안녕하세요, 저는 런던행 KE123편 승객인데, 출발 전광판에 상당한 지연이 표시되어 있네요.",
+      "tip": "13일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
