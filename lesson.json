@@ -1,210 +1,202 @@
 {
-  "date": "2026-10-28",
-  "updated_at": "10:30 KST",
-  "topic": "방이 너무 시끄러워 객실 변경 요청하기",
-  "intro": "해외여행 중 호텔 객실의 소음 문제로 편안한 휴식을 방해받고 있다면, 정중하게 객실 변경을 요청하는 방법을 알아봅시다. 소음의 원인을 설명하고, 조용한 객실로 이동할 수 있는지 문의하며, 가능한 대안에 대해 묻는 자연스러운 표현들을 익혀볼 거예요.",
+  "date": "2026-10-29",
+  "updated_at": "10:53 KST",
+  "topic": "에어컨·난방이 작동하지 않을 때 요청하기",
+  "intro": "해외 호텔 객실에 머무는 동안 에어컨이나 난방이 제대로 작동하지 않아 불편함을 겪고 있나요? 프런트 데스크에 전화해서 문제를 설명하고 해결을 요청할 때 필요한 실용적인 영어 표현들을 익혀봅시다.",
   "sentences": [
     {
-      "english": "I'm afraid I'm experiencing quite a bit of noise in my room.",
-      "pronunciation": "아임 어프레이드 아임 익스피리언싱 콰잇-어 빗 어브 노이즈 인 마이 룸.",
-      "korean": "제 방에서 소음이 꽤 심한 것 같아서요.",
-      "tip": "'I'm afraid'는 유감이나 미안함을 표현할 때 정중하게 사용됩니다. 'quite a bit of'는 '상당히 많은'이라는 의미로, 문제의 정도를 강조할 때 좋습니다."
+      "english": "It seems the air conditioning in my room isn't functioning properly.",
+      "pronunciation": "잇 씨-임즈 디 에어 컨디셔닝 인 마이 룸 이즌트 펑셔닝 프라펄리.",
+      "korean": "제 방 에어컨이 제대로 작동하지 않는 것 같아요.",
+      "tip": "'It seems~'는 ~인 것 같다'는 뉘앙스로, 문제를 부드럽게 설명할 때 자주 쓰입니다."
     },
     {
-      "english": "It seems to be coming from the hallway/adjoining room, making it difficult to relax.",
-      "pronunciation": "잇 심스 투 비 커밍 프롬 더 홀웨이/어조이닝 룸, 메이킹 잇 디피컬트 투 릴렉스.",
-      "korean": "복도/옆방에서 나는 소리 같고, 편히 쉬기가 어렵네요.",
-      "tip": "'It seems to be coming from~'은 소음의 원인을 추정하여 설명할 때 사용하며, 'making it difficult to relax'로 그로 인한 불편함을 구체적으로 언급합니다."
+      "english": "I'm finding it quite cold in my room, and the heating doesn't seem to be turning on.",
+      "pronunciation": "아임 파인딩 잇 콰잇 코울드 인 마이 룸, 앤 더 히팅 더즌트 씨-임 투 비 터닝 온.",
+      "korean": "제 방이 꽤 춥고, 난방이 켜지지 않는 것 같아요.",
+      "tip": "'I'm finding it [형용사]'는 자신의 현재 상태나 경험을 표현할 때 유용합니다."
     },
     {
-      "english": "I was wondering if there's any chance of moving to a different room that might be a bit quieter.",
-      "pronunciation": "아이 워즈 원더링 이프 데어즈 애니 챈스 어브 무빙 투 어 디퍼런트 룸 댓 마잇 비 어 빗 콰이어터.",
-      "korean": "혹시 좀 더 조용한 다른 방으로 옮길 가능성이 있을까 해서요.",
-      "tip": "'I was wondering if~'는 매우 정중하고 완곡하게 요청하거나 질문할 때 쓰는 표현입니다. 'any chance of -ing'로 가능성을 묻습니다."
+      "english": "Would it be possible for someone to take a look at it?",
+      "pronunciation": "우딧 비 파서블 폴 썸원 투 테이커 룩 앳 잇?",
+      "korean": "누군가 와서 좀 봐줄 수 있을까요?",
+      "tip": "'Would it be possible for [누구] to [동사]?'는 정중하게 누군가에게 어떤 행동을 요청하는 표현입니다."
     },
     {
-      "english": "Are there any alternative rooms available on a higher floor or perhaps a different side of the hotel?",
-      "pronunciation": "아 데어 애니 얼터너티브 룸스 어베일러블 온 어 하이어 플로어 오어 퍼햅스 어 디퍼런트 사이드 어브 더 호털?",
-      "korean": "더 높은 층이나 호텔의 다른 쪽에는 대안이 될 만한 방이 있을까요?",
-      "tip": "'alternative rooms'는 대안이 될 수 있는 방들을 의미하며, 구체적인 위치(higher floor, different side)를 언급하여 원하는 바를 분명히 전달할 수 있습니다."
+      "english": "Is there any chance you could send someone from maintenance, or perhaps suggest a quick fix?",
+      "pronunciation": "이즈 데어 애니 챈스 유 쿧 쏀드 썸원 프롬 메인터넌스, 올 펄햅스 써제슷터 퀵 픽스?",
+      "korean": "시설 보수팀에서 누군가를 보내주시거나, 혹시 간단한 해결책을 알려주실 수 있을까요?",
+      "tip": "'Is there any chance~?'는 어떤 가능성이나 대안을 물어볼 때 사용하며, 'or perhaps~?'로 다른 옵션을 제시할 수 있습니다."
     },
     {
-      "english": "I'd really appreciate it if you could look into this for me and let me know what options are available.",
-      "pronunciation": "아이드 리얼리 어프리쉬에잇 잇 이프 유 쿧 룩 인투 디스 포 미 앤 렛 미 노우 왓 옵션스 아 어베일러블.",
-      "korean": "이 문제를 알아봐 주시고 가능한 선택지를 알려주시면 정말 감사하겠습니다.",
-      "tip": "'I'd really appreciate it if~'는 요청을 할 때 매우 정중하고 간곡한 표현입니다. 'look into this'는 문제를 조사하거나 확인해 달라는 뜻입니다."
+      "english": "Just to clarify, will it require a technician, or is it something I might be able to adjust myself?",
+      "pronunciation": "저슷 투 클레러파이, 윌 잇 리콰이어 어 테크니션, 올 이즈 잇 썸띵 아이 마잇 비 에이블 투 어저스트 마이셀프?",
+      "korean": "명확히 하자면, 기술자가 필요한 건가요, 아니면 제가 직접 조절할 수 있는 건가요?",
+      "tip": "'Just to clarify'는 내용을 다시 확인하거나 명확히 하고 싶을 때 쓰는 표현입니다. 선택지를 제시하여 상대방의 설명을 유도할 수 있습니다."
     }
   ],
   "pattern": {
-    "form": "I'm finding [something] to be [adjective], making it [impact].",
-    "pronunciation": "아임 파인딩 [썸띵] 투 비 [애드젝티브], 메이킹 잇 [임팩트].",
-    "meaning": "[무언가가] [형용사]하다고 생각해서, [결과]하게 되네요.",
+    "form": "[Subject] isn't responding as expected when I [action].",
+    "pronunciation": "[서브젝트] 이즌트 리스판딩 애즈 익스펙티드 웬 아이 [액션].",
+    "meaning": "[주어]가 제가 [행동]할 때 예상대로 반응하지 않네요.",
     "examples": [
       {
-        "english": "I'm finding this chair to be quite uncomfortable, making it hard to focus.",
-        "pronunciation": "아임 파인딩 디스 체어 투 비 콰잇 언컴포터블, 메이킹 잇 하드 투 포커스.",
-        "korean": "이 의자가 꽤 불편해서 집중하기 어렵네요.",
-        "tip": "어떤 물건이나 상황이 특정하다고 느끼고, 그로 인해 어떤 영향을 받는지 설명할 때 유용합니다."
+        "english": "The thermostat isn't responding as expected when I try to adjust the temperature.",
+        "pronunciation": "더 써머스탯 이즌트 리스판딩 애즈 익스펙티드 웬 아이 트라이 투 어저스트 더 템퍼러쳐.",
+        "korean": "온도 조절기가 온도를 조절하려고 할 때 예상대로 작동하지 않아요."
       },
       {
-        "english": "I'm finding the Wi-Fi to be quite slow, making it difficult to get work done.",
-        "pronunciation": "아임 파인딩 더 와이파이 투 비 콰잇 슬로우, 메이킹 잇 디피컬트 투 겟 워크 던.",
-        "korean": "와이파이가 꽤 느려서 업무를 처리하기 어렵네요.",
-        "tip": "구체적인 문제점을 짚고 그 문제로 인해 겪는 어려움을 설명할 수 있습니다."
+        "english": "The heater isn't responding as expected when I turn up the setting.",
+        "pronunciation": "더 히터 이즌트 리스판딩 애즈 익스펙티드 웬 아이 턴 업 더 셋팅.",
+        "korean": "히터가 설정을 올릴 때 예상대로 반응하지 않네요."
       }
     ]
   },
   "words": [
     {
-      "word": "disruptive",
-      "pronunciation": "디스럽티브",
-      "meaning": "방해되는, 지장을 주는"
+      "word": "air conditioning (AC)",
+      "pronunciation": "에어 컨디셔닝 (에이씨)",
+      "meaning": "에어컨"
     },
     {
-      "word": "adjoining room",
-      "pronunciation": "어조이닝 룸",
-      "meaning": "옆방, 연결된 방"
+      "word": "heating",
+      "pronunciation": "히팅",
+      "meaning": "난방"
     },
     {
-      "word": "soundproofing",
-      "pronunciation": "사운드프루핑",
-      "meaning": "방음 (시설)"
+      "word": "thermostat",
+      "pronunciation": "써머스탯",
+      "meaning": "온도 조절기"
     },
     {
-      "word": "inconvenience",
-      "pronunciation": "인컨비니언스",
-      "meaning": "불편, 애로사항"
+      "word": "maintenance",
+      "pronunciation": "메인터넌스",
+      "meaning": "시설 보수팀, 유지보수"
     },
     {
-      "word": "available options",
-      "pronunciation": "어베일러블 옵션스",
-      "meaning": "가능한 선택지"
+      "word": "quick fix",
+      "pronunciation": "퀵 픽스",
+      "meaning": "임시방편, 간단한 해결책"
     }
   ],
   "dialogue": [
     {
       "speaker": "You",
-      "english": "Excuse me, I need to discuss my room. I'm afraid I'm experiencing quite a bit of noise in my room.",
-      "pronunciation": "익스큐즈 미, 아이 니드 투 디스커스 마이 룸. 아임 어프레이드 아임 익스피리언싱 콰잇-어 빗 어브 노이즈 인 마이 룸.",
-      "korean": "실례합니다, 제 방 문제로 말씀드릴 게 있어요. 제 방에서 소음이 꽤 심한 것 같아서요."
+      "english": "Excuse me, I'm calling from room 705. It seems the air conditioning isn't functioning properly.",
+      "pronunciation": "익스큐즈 미, 아임 콜링 프롬 룸 세븐 오 파이브. 잇 씨-임즈 디 에어 컨디셔닝 이즌트 펑셔닝 프라펄리.",
+      "korean": "죄송합니다만, 705호입니다. 에어컨이 제대로 작동하지 않는 것 같아요."
     },
     {
       "speaker": "Staff",
-      "english": "Oh, I'm sorry to hear that. What kind of noise is it, and where is your room located?",
-      "pronunciation": "오, 아임 써리 투 히어 댓. 왓 카인드 어브 노이즈 이즈 잇, 앤 웨어 이즈 유어 룸 로케이티드?",
-      "korean": "아, 죄송합니다. 어떤 종류의 소음이며, 방은 어디에 있으신가요?"
+      "english": "Oh, I apologize for that inconvenience. Could you tell me a bit more about what's happening?",
+      "pronunciation": "오, 아이 어팔러자이즈 폴 댓 인컨비니언스. 쿧 유 텔 미 어 빗 모얼 어바웃 왓츠 해프닝?",
+      "korean": "오, 불편을 드려 죄송합니다. 무슨 일이 있는지 좀 더 자세히 말씀해주실 수 있을까요?"
     },
     {
       "speaker": "You",
-      "english": "It seems to be coming from the hallway, and perhaps the adjoining room, making it difficult to relax. My room is 703.",
-      "pronunciation": "잇 심스 투 비 커밍 프롬 더 홀웨이, 앤 퍼햅스 디 어조이닝 룸, 메이킹 잇 디피컬트 투 릴렉스. 마이 룸 이즈 세븐 오 쓰리.",
-      "korean": "복도에서 나는 소리 같고, 어쩌면 옆방에서도 들리는 것 같아서 편히 쉬기가 어렵네요. 제 방은 703호입니다."
+      "english": "Well, I've tried adjusting the thermostat, but it just stays warm. The fan is blowing, but it's not cooling down at all.",
+      "pronunciation": "웰, 아이브 트라이드 어저스팅 더 써머스탯, 벗 잇 저슷 스테이스 웜. 더 팬 이즈 블로잉, 벗 잇츠 낫 쿨링 다운 앳 올.",
+      "korean": "음, 온도 조절기를 조절해봤는데, 계속 따뜻해요. 팬은 돌아가는데 전혀 시원해지지 않네요."
     },
     {
       "speaker": "Staff",
-      "english": "I see. Let me check what we can do. Is it constant noise, or only at certain times?",
-      "pronunciation": "아이 씨. 렛 미 첵 왓 위 캔 두. 이즈 잇 컨스턴트 노이즈, 오어 온리 앳 써튼 타임스?",
-      "korean": "알겠습니다. 어떻게 해드릴 수 있는지 확인해볼게요. 계속되는 소음인가요, 아니면 특정 시간에만 나는 소음인가요?"
+      "english": "I see. It sounds like an issue with the unit itself. Would it be possible for someone from our maintenance team to come up and take a look?",
+      "pronunciation": "아이 씨. 잇 싸운즈 라이크 언 이슈 위드 더 유닛 잇셀프. 우딧 비 파서블 폴 썸원 프롬 아워 메인터넌스 팀 투 컴 업 앤 테이커 룩?",
+      "korean": "알겠습니다. 장치 자체에 문제가 있는 것 같네요. 저희 시설 보수팀에서 올라가서 확인해볼 수 있을까요?"
     },
     {
       "speaker": "You",
-      "english": "It's quite disruptive, especially late at night and in the early mornings. I was wondering if there's any chance of moving to a different room that might be a bit quieter.",
-      "pronunciation": "잇츠 콰잇 디스럽티브, 이스페셜리 레이트 앳 나잇 앤 인 디 얼리 모닝스. 아이 워즈 원더링 이프 데어즈 애니 챈스 어브 무빙 투 어 디퍼런트 룸 댓 마잇 비 어 빗 콰이어터.",
-      "korean": "꽤 방해되는 소리인데, 특히 밤늦게랑 이른 아침에 심합니다. 혹시 좀 더 조용한 다른 방으로 옮길 가능성이 있을까 해서요."
+      "english": "Yes, that would be great. Is there any chance they could come within the next hour or so? I'm finding it quite uncomfortable.",
+      "pronunciation": "예스, 댓 우드 비 그레이트. 이즈 데어 애니 챈스 데이 쿧 컴 위딘 더 넥스트 아워 올 쏘? 아임 파인딩 잇 콰잇 언컴퍼터블.",
+      "korean": "네, 좋을 것 같아요. 한 시간 이내에 오실 수 있을까요? 꽤 불편하네요."
     },
     {
       "speaker": "Staff",
-      "english": "I understand. Let me check our availability for tonight. We are quite busy, but I'll do my best. Are you looking for a similar room type?",
-      "pronunciation": "아이 언더스탠드. 렛 미 첵 아워 어베일러빌리티 포 투나잇. 위 아 콰잇 비지, 벗 아일 두 마이 베스트. 아 유 루킹 포 어 시밀러 룸 타입?",
-      "korean": "알겠습니다. 오늘 밤 가능한 객실이 있는지 확인해볼게요. 저희가 상당히 바쁘긴 하지만 최선을 다하겠습니다. 비슷한 객실 타입을 찾으시나요?"
+      "english": "Let me check their current schedule. They should be able to come up in about 30 to 45 minutes. We'll send them right up.",
+      "pronunciation": "렛 미 체크 데어 커런트 스케줄. 데이 슈드 비 에이블 투 컴 업 인 어바웃 써티 투 포티 파이브 미니츠. 위을 쏀드 뎀 라잇 업.",
+      "korean": "지금 일정을 확인해볼게요. 약 30분에서 45분 후에 올라가실 수 있을 겁니다. 바로 보내드리겠습니다."
     },
     {
       "speaker": "You",
-      "english": "Yes, a similar room type would be fine. Are there any alternative rooms available on a higher floor or perhaps a different side of the hotel? I'd really appreciate it if you could look into this for me and let me know what options are available.",
-      "pronunciation": "예스, 어 시밀러 룸 타입 우드 비 파인. 아 데어 애니 얼터너티브 룸스 어베일러블 온 어 하이어 플로어 오어 퍼햅스 어 디퍼런트 사이드 어브 더 호털? 아이드 리얼리 어프리쉬에잇 잇 이프 유 쿧 룩 인투 디스 포 미 앤 렛 미 노우 왓 옵션스 아 어베일러블.",
-      "korean": "네, 비슷한 객실 타입이면 괜찮습니다. 더 높은 층이나 호텔의 다른 쪽에는 대안이 될 만한 방이 있을까요? 이 문제를 알아봐 주시고 가능한 선택지를 알려주시면 정말 감사하겠습니다."
-    },
-    {
-      "speaker": "Staff",
-      "english": "Certainly, I'll see what available options we have. Please give me a moment while I check the system. I'll get back to you shortly.",
-      "pronunciation": "써튼리, 아일 씨 왓 어베일러블 옵션스 위 해브. 플리즈 기브 미 어 모먼트 와일 아이 첵 더 시스템. 아일 겟 백 투 유 숄틀리.",
-      "korean": "물론입니다, 저희가 어떤 가능한 선택지가 있는지 확인해볼게요. 잠시만 기다려주시면 시스템을 확인하고 바로 알려드리겠습니다."
+      "english": "Thank you, I really appreciate your help.",
+      "pronunciation": "쌩큐, 아이 리얼리 어프리시에이트 유얼 헬프.",
+      "korean": "감사합니다, 정말 도와주셔서 감사해요."
     }
   ],
   "retrieval": [
     {
-      "english": "I'm afraid I'm experiencing quite a bit of noise in my room.",
-      "pronunciation": "아임 어프레이드 아임 익스피리언싱 콰잇-어 빗 어브 노이즈 인 마이 룸.",
-      "korean": "제 방에서 소음이 꽤 심한 것 같아서요.",
-      "tip": "정중하게 불편함을 표현할 때 사용하는 구문입니다."
+      "english": "It seems the air conditioning in my room isn't functioning properly.",
+      "pronunciation": "잇 씨-임즈 디 에어 컨디셔닝 인 마이 룸 이즌트 펑셔닝 프라펄리.",
+      "korean": "제 방 에어컨이 제대로 작동하지 않는 것 같아요.",
+      "tip": "'seems'를 활용해서 부드럽게 문제를 설명해 보세요."
     },
     {
-      "english": "It seems to be coming from the hallway, making it difficult to relax.",
-      "pronunciation": "잇 심스 투 비 커밍 프롬 더 홀웨이, 메이킹 잇 디피컬트 투 릴렉스.",
-      "korean": "복도에서 나는 소리 같고, 편히 쉬기가 어렵네요.",
-      "tip": "소음의 원인과 그로 인한 영향을 설명하는 표현입니다."
+      "english": "Would it be possible for someone to take a look at it?",
+      "pronunciation": "우딧 비 파서블 폴 썸원 투 테이커 룩 앳 잇?",
+      "korean": "누군가 와서 좀 봐줄 수 있을까요?",
+      "tip": "'Would it be possible'로 정중하게 요청하는 표현입니다."
     },
     {
-      "english": "I was wondering if there's any chance of moving to a different room that might be a bit quieter.",
-      "pronunciation": "아이 워즈 원더링 이프 데어즈 애니 챈스 어브 무빙 투 어 디퍼런트 룸 댓 마잇 비 어 빗 콰이어터.",
-      "korean": "혹시 좀 더 조용한 다른 방으로 옮길 가능성이 있을까 해서요.",
-      "tip": "조용하고 정중하게 객실 변경 가능성을 문의하는 표현입니다."
+      "english": "Will it require a technician, or is it something I might be able to adjust myself?",
+      "pronunciation": "윌 잇 리콰이어 어 테크니션, 올 이즈 잇 썸띵 아이 마잇 비 에이블 투 어저스트 마이셀프?",
+      "korean": "기술자가 필요한 건가요, 아니면 제가 직접 조절할 수 있는 건가요?",
+      "tip": "문제의 본질이나 해결 방법을 확인하는 질문입니다."
     }
   ],
   "alternatives": [
     {
-      "english": "I'm having some trouble with noise in my room.",
-      "pronunciation": "아임 해빙 썸 트러블 위드 노이즈 인 마이 룸.",
-      "korean": "제 방 소음 때문에 좀 힘듭니다.",
-      "note": "'I'm afraid I'm experiencing...'보다 조금 덜 정중하지만, 문제를 직접적으로 제기하는 자연스러운 표현입니다."
+      "english": "I'm having a bit of trouble with the AC/heating in my room.",
+      "pronunciation": "아임 해빙 어 빗 어브 트러블 위드 디 에이씨/히팅 인 마이 룸.",
+      "korean": "제 방 에어컨/난방에 좀 문제가 있어요.",
+      "note": "'It seems'보다 개인적인 어려움을 표현하며 문제를 제기할 때 쓸 수 있습니다."
     },
     {
-      "english": "The noise from the hallway/adjoining room is pretty disruptive.",
-      "pronunciation": "더 노이즈 프롬 더 홀웨이/어조이닝 룸 이즈 프리티 디스럽티브.",
-      "korean": "복도/옆방 소음이 꽤 방해가 됩니다.",
-      "note": "'making it difficult to relax'보다 간결하고 직접적으로 소음의 부정적 영향을 전달합니다."
+      "english": "Could you send someone up to inspect the unit?",
+      "pronunciation": "쿧 유 쏀드 썸원 업 투 인스펙트 더 유닛?",
+      "korean": "점검하기 위해 누구 좀 올려보내 주실 수 있나요?",
+      "note": "'take a look'보다 전문가의 '점검'을 명확히 요청할 때 좋습니다."
     },
     {
-      "english": "Would it be possible to switch to a quieter room?",
-      "pronunciation": "우딧 비 파서블 투 스위치 투 어 콰이어터 룸?",
-      "korean": "더 조용한 방으로 바꿀 수 있을까요?",
-      "note": "'I was wondering if there's any chance of moving to...'보다 더 간결하고 흔하게 사용되는 요청 표현입니다."
+      "english": "Do you think it's something I can easily fix, or will it need proper repair?",
+      "pronunciation": "두 유 띵크 잇츠 썸띵 아이 캔 이질리 픽스, 올 윌 잇 니드 프라펄 리페어?",
+      "korean": "제가 쉽게 고칠 수 있는 걸까요, 아니면 제대로 된 수리가 필요할까요?",
+      "note": "'Just to clarify'보다 질문의 뉘앙스를 강조하여 상대방의 의견을 물을 때 사용합니다."
     }
   ],
   "review_items": [
     {
-      "source_date": "2026-10-27",
-      "english": "I've just gotten to my room, and I believe the room type isn't what I originally booked.",
-      "pronunciation": "아-브 저스트 가튼 투 마이 룸, 앤 아이 빌리브 더 룸 타입 이즌트 왓 아이 어리지널리 북트.",
-      "korean": "방금 방에 들어왔는데, 제가 원래 예약했던 객실 타입이 아닌 것 같아요.",
+      "source_date": "2026-10-28",
+      "english": "I'm afraid I'm experiencing quite a bit of noise in my room.",
+      "pronunciation": "아임 어프레이드 아임 익스피리언싱 콰잇-어 빗 어브 노이즈 인 마이 룸.",
+      "korean": "제 방에서 소음이 꽤 심한 것 같아서요.",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-27",
-      "english": "My booking confirmation clearly states a [booked room type] with [specific feature], but this room is a [current room type].",
-      "pronunciation": "마이 부킹 컨퍼메이션 클리얼리 스테이츠 어 [예약 객실 타입] 위드 [특징], 벗 디스 룸 이즈 어 [현재 객실 타입].",
-      "korean": "제 예약 확인서에는 [예약 객실 타입]에 [특정 특징]이 명시되어 있는데, 이 방은 [현재 객실 타입]이네요.",
+      "source_date": "2026-10-28",
+      "english": "It seems to be coming from the hallway/adjoining room, making it difficult to relax.",
+      "pronunciation": "잇 심스 투 비 커밍 프롬 더 홀웨이/어조이닝 룸, 메이킹 잇 디피컬트 투 릴렉스.",
+      "korean": "복도/옆방에서 나는 소리 같고, 편히 쉬기가 어렵네요.",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-25",
-      "english": "I've got a reservation for tonight under the name Kim, Min-jun.",
-      "pronunciation": "아브 갓 어 레저베이션 포 투나잇 언더 더 네임 김, 민-준.",
-      "korean": "김민준 이름으로 오늘 밤 예약이 되어 있습니다.",
+      "source_date": "2026-10-26",
+      "english": "I was hoping to check in a bit earlier today, if that's at all possible.",
+      "pronunciation": "아이 워즈 호-핑 투 첵 인 어 빗 얼리얼 투데이, 이프 댓츠 앳 올 파서블.",
+      "korean": "오늘 좀 일찍 체크인 할 수 있을까 해서요, 혹시라도 가능하다면요.",
       "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-25",
-      "english": "Would you mind double-checking the room type and check-out date for me?",
-      "pronunciation": "우쥬 마인 더블-체킹 더 룸 타입 앤 체크아웃 데이트 포 미?",
-      "korean": "객실 종류와 체크아웃 날짜를 다시 한번 확인해 주시겠어요?",
+      "source_date": "2026-10-26",
+      "english": "Do you happen to have any rooms ready around 11 AM?",
+      "pronunciation": "두 유 해픈 투 해브 애니 룸스 레디 어라운드 일레븐 에이엠?",
+      "korean": "혹시 11시쯤에 준비된 방이 있을까요?",
       "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-22",
-      "english": "I'm not entirely sure what qualifies as 'something to declare' in this country.",
-      "pronunciation": "아임 낫 인타이어-리 슈얼 왓 퀄러파이즈 애즈 '썸띵 투 디클레어' 인 디스 컨츄리.",
-      "korean": "이 나라에서 '신고할 물품'으로 분류되는 것이 정확히 무엇인지 잘 모르겠습니다.",
+      "source_date": "2026-10-23",
+      "english": "I'm looking to get a local SIM card for my phone while I'm visiting.",
+      "pronunciation": "아임 루킹 투 겟 어 로컬 심 카드 포 마이 폰 와일 아임 비지팅.",
+      "korean": "여행하는 동안 휴대폰에 쓸 현지 유심 카드를 구매하려고 해요.",
       "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     }
   ]
