@@ -1,0 +1,203 @@
+{
+  "date": "2026-10-30",
+  "updated_at": "11:03 KST",
+  "topic": "샤워기·온수 등 객실 시설 문제 설명하기",
+  "intro": "해외여행 중 호텔 객실의 샤워기, 온수, 수압 등 시설 문제로 불편을 겪을 때, 프런트 데스크나 담당 직원에게 문제를 정확하게 설명하고 도움을 요청하는 실제 회화 표현을 학습합니다.",
+  "sentences": [
+    {
+      "english": "I'm experiencing an issue with the shower in my room; there's no hot water coming out.",
+      "pronunciation": "아임 익스피리언싱 언 이슈 윗 더 샤워 인 마이 룸; 데얼스 노 핫 워터 커밍 아웃.",
+      "korean": "제 방 샤워기에 문제가 있어요. 뜨거운 물이 나오지 않습니다.",
+      "tip": "'I'm experiencing an issue with~'는 격식 있으면서도 직접적으로 문제 상황을 전달할 때 유용합니다."
+    },
+    {
+      "english": "It seems like the water pressure in the shower is unusually low, making it difficult to properly rinse.",
+      "pronunciation": "잇 심스 라이크 더 워터 프레셔 인 더 샤워 이스 언유주얼리 로우, 메이킹 잇 디피컬트 투 프라펄리 린스.",
+      "korean": "샤워기 수압이 유난히 낮은 것 같아요. 제대로 헹구기가 어렵네요.",
+      "tip": "'It seems like~'로 조심스럽게 관찰한 문제점을 언급하고, 'making it difficult to~'로 그 문제 때문에 겪는 어려움을 덧붙일 수 있습니다."
+    },
+    {
+      "english": "Could you send someone to take a look at the shower for me?",
+      "pronunciation": "쿠쥬 샌드 썸원 투 테이크 어 룩 앳 더 샤워 포 미?",
+      "korean": "샤워기를 좀 봐줄 사람을 보내주실 수 있나요?",
+      "tip": "도움을 요청하는 가장 일반적이고 정중한 표현 중 하나입니다. 'take a look at~'은 '~을 확인하다/점검하다'는 의미입니다."
+    },
+    {
+      "english": "Is there any specific way to operate the shower to get hot water, or is it supposed to be straightforward?",
+      "pronunciation": "이즈 데얼 애니 스페시픽 웨이 투 아퍼레이트 더 샤워 투 겟 핫 워터, 오어 이즈 잇 서포스트 투 비 스트레이트포워드?",
+      "korean": "뜨거운 물을 나오게 하려면 샤워기를 특별히 작동시키는 방법이 있나요, 아니면 그냥 일반적인가요?",
+      "tip": "혹시 사용법을 모르는 것인지 확인하며, 문제 해결에 대한 의지를 보이는 질문입니다. 'straightforward'는 '간단한, 쉬운'이라는 뜻입니다."
+    },
+    {
+      "english": "What would be the typical timeframe for a maintenance visit for something like this?",
+      "pronunciation": "왓 우드 비 더 티피컬 타임프레임 포 어 메인터넌스 비짓 포 썸씽 라이크 디스?",
+      "korean": "이런 문제로 보수 담당자가 오려면 보통 시간이 얼마나 걸리나요?",
+      "tip": "'What would be the typical timeframe?'는 예상 소요 시간을 묻는 자연스러운 표현입니다. 'maintenance visit'은 '유지보수 방문'입니다."
+    }
+  ],
+  "pattern": {
+    "form": "I'm having trouble with [noun/verb-ing].",
+    "pronunciation": "아임 해빙 트러블 윗 [명사/동명사].",
+    "meaning": "~에 문제가 있어요 / ~하기가 어려워요.",
+    "examples": [
+      {
+        "english": "I'm having trouble with the internet connection in my room.",
+        "pronunciation": "아임 해빙 트러블 윗 디 인터넷 커넥션 인 마이 룸.",
+        "korean": "제 방 인터넷 연결에 문제가 있어요."
+      },
+      {
+        "english": "I'm having trouble connecting to the Wi-Fi.",
+        "pronunciation": "아임 해빙 트러블 커넥팅 투 더 와이파이.",
+        "korean": "와이파이 연결에 문제가 있어요."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "water pressure",
+      "pronunciation": "워터 프레셔",
+      "meaning": "수압"
+    },
+    {
+      "word": "draining",
+      "pronunciation": "드레이닝",
+      "meaning": "배수 (물 빠짐)"
+    },
+    {
+      "word": "clogged",
+      "pronunciation": "클로그드",
+      "meaning": "막힌"
+    },
+    {
+      "word": "leak",
+      "pronunciation": "리크",
+      "meaning": "누수, 물이 새는 곳"
+    },
+    {
+      "word": "temperature control",
+      "pronunciation": "템퍼러쳐 컨트럴",
+      "meaning": "온도 조절"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Staff",
+      "english": "Good evening, how can I help you?",
+      "pronunciation": "굳 이브닝, 하우 캔 아이 헬프 유?",
+      "korean": "안녕하세요, 무엇을 도와드릴까요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Good evening. I'm experiencing an issue with the shower in my room; there's no hot water coming out. My room number is 703.",
+      "pronunciation": "굳 이브닝. 아임 익스피리언싱 언 이슈 윗 더 샤워 인 마이 룸; 데얼스 노 핫 워터 커밍 아웃. 마이 룸 넘버 이즈 세븐 오 쓰리.",
+      "korean": "안녕하세요. 제 방 샤워기에 문제가 있어요. 뜨거운 물이 나오지 않습니다. 제 방은 703호입니다."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Oh, I'm so sorry to hear that. Let me check the system for you. And is there anything else that seems problematic?",
+      "pronunciation": "오, 아임 쏘 써리 투 히어 댓. 렛 미 체크 더 시스템 포 유. 앤 이즈 데얼 애니씽 엘스 댓 심스 프라블레매틱?",
+      "korean": "오, 죄송합니다. 시스템을 확인해 드릴게요. 혹시 다른 문제는 없으신가요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Yes, actually. It seems like the water pressure in the shower is unusually low, making it difficult to properly rinse.",
+      "pronunciation": "예스, 액츄얼리. 잇 심스 라이크 더 워터 프레셔 인 더 샤워 이스 언유주얼리 로우, 메이킹 잇 디피컬트 투 프라펄리 린스.",
+      "korean": "네, 사실은요. 샤워기 수압이 유난히 낮은 것 같아서 제대로 헹구기가 어렵네요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "I understand. I'll dispatch someone from maintenance right away. What would be the typical timeframe for a maintenance visit for something like this?",
+      "pronunciation": "아이 언더스탠드. 아일 디스패치 썸원 프롬 메인터넌스 라이트 어웨이. 왓 우드 비 더 티피컬 타임프레임 포 어 메인터넌스 비짓 포 썸씽 라이크 디스?",
+      "korean": "알겠습니다. 제가 바로 보수 담당자를 보내겠습니다. 이런 문제로 보수 담당자가 오려면 보통 시간이 얼마나 걸리나요?"
+    },
+    {
+      "speaker": "You",
+      "english": "I was wondering, is there any specific way to operate the shower to get hot water, or is it supposed to be straightforward?",
+      "pronunciation": "아이 워즈 원더링, 이즈 데얼 애니 스페시픽 웨이 투 아퍼레이트 더 샤워 투 겟 핫 워터, 오어 이즈 잇 서포스트 투 비 스트레이트포워드?",
+      "korean": "궁금한 게, 뜨거운 물을 나오게 하려면 샤워기를 특별히 작동시키는 방법이 있나요, 아니면 그냥 일반적인가요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "It should be straightforward, just turn the handle. It sounds like a technical issue. Our technician should be there within 15 to 20 minutes.",
+      "pronunciation": "잇 슈드 비 스트레이트포워드, 저스트 턴 더 핸들. 잇 사운즈 라이크 어 테크니컬 이슈. 아워 테크니션 슈드 비 데얼 위딘 피프틴 투 트웬티 미니츠.",
+      "korean": "일반적으로 손잡이를 돌리면 됩니다. 기술적인 문제인 것 같네요. 저희 기술자가 15분에서 20분 안에 도착할 겁니다."
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "I'm experiencing an issue with the shower in my room; there's no hot water coming out.",
+      "pronunciation": "아임 익스피리언싱 언 이슈 윗 더 샤워 인 마이 룸; 데얼스 노 핫 워터 커밍 아웃.",
+      "korean": "샤워기에 뜨거운 물이 안 나와서 문제가 있어요.",
+      "tip": "'문제가 있다'고 정중하게 설명할 때 쓰는 표현입니다."
+    },
+    {
+      "english": "It seems like the water pressure in the shower is unusually low.",
+      "pronunciation": "잇 심스 라이크 더 워터 프레셔 인 더 샤워 이스 언유주얼리 로우.",
+      "korean": "샤워기 수압이 너무 낮은 것 같아요.",
+      "tip": "관찰한 문제점을 조심스럽게 언급하는 표현입니다."
+    },
+    {
+      "english": "What would be the typical timeframe for a maintenance visit for something like this?",
+      "pronunciation": "왓 우드 비 더 티피컬 타임프레임 포 어 메인터넌스 비짓 포 썸씽 라이크 디스?",
+      "korean": "이런 문제로 보수 담당자가 오려면 보통 시간이 얼마나 걸리나요?",
+      "tip": "예상 소요 시간을 문의할 때 유용합니다."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "My shower isn't working properly; there's no hot water.",
+      "pronunciation": "마이 샤워 이즌트 워킹 프라펄리; 데얼스 노 핫 워터.",
+      "korean": "제 샤워기가 제대로 작동하지 않아요. 뜨거운 물이 안 나옵니다.",
+      "note": "원래 표현보다 조금 더 직접적이고 덜 격식적인 느낌입니다. 바로 문제의 핵심을 전달합니다."
+    },
+    {
+      "english": "The water pressure in the shower is really weak.",
+      "pronunciation": "더 워터 프레셔 인 더 샤워 이스 리얼리 위크.",
+      "korean": "샤워기 수압이 정말 약해요.",
+      "note": "원래 표현보다 'unusually low' 대신 'really weak'을 사용하여 좀 더 캐주얼하고 간결하게 문제를 설명합니다."
+    },
+    {
+      "english": "Do I need to do anything special to get hot water from the shower?",
+      "pronunciation": "두 아이 니드 투 두 애니씽 스페셜 투 겟 핫 워터 프롬 더 샤워?",
+      "korean": "샤워기에서 뜨거운 물이 나오게 하려면 제가 특별히 뭘 해야 하나요?",
+      "note": "원래 표현('Is there any specific way...')보다 조금 더 직접적으로 본인이 할 수 있는 일이 있는지 묻는 표현입니다. 좀 더 적극적인 어조입니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-10-29",
+      "english": "It seems the air conditioning in my room isn't functioning properly.",
+      "pronunciation": "잇 씨-임즈 디 에어 컨디셔닝 인 마이 룸 이즌트 펑셔닝 프라펄리.",
+      "korean": "제 방 에어컨이 제대로 작동하지 않는 것 같아요.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-29",
+      "english": "I'm finding it quite cold in my room, and the heating doesn't seem to be turning on.",
+      "pronunciation": "아임 파인딩 잇 콰잇 코울드 인 마이 룸, 앤 더 히팅 더즌트 씨-임 투 비 터닝 온.",
+      "korean": "제 방이 꽤 춥고, 난방이 켜지지 않는 것 같아요.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-27",
+      "english": "I've just gotten to my room, and I believe the room type isn't what I originally booked.",
+      "pronunciation": "아-브 저스트 가튼 투 마이 룸, 앤 아이 빌리브 더 룸 타입 이즌트 왓 아이 어리지널리 북트.",
+      "korean": "방금 방에 들어왔는데, 제가 원래 예약했던 객실 타입이 아닌 것 같아요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-27",
+      "english": "My booking confirmation clearly states a [booked room type] with [specific feature], but this room is a [current room type].",
+      "pronunciation": "마이 부킹 컨퍼메이션 클리얼리 스테이츠 어 [예약 객실 타입] 위드 [특징], 벗 디스 룸 이즈 어 [현재 객실 타입].",
+      "korean": "제 예약 확인서에는 [예약 객실 타입]에 [특정 특징]이 명시되어 있는데, 이 방은 [현재 객실 타입]이네요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-24",
+      "english": "What would be the most straightforward way to reach the city center from the airport?",
+      "pronunciation": "왓 우드 비 더 모-스트 스트레이트포-워r드 웨이 투 리-치 더 시티 센터 프롬 디 에어-포-r트?",
+      "korean": "공항에서 시내 중심부까지 가는 가장 간단한(직관적인) 방법은 무엇일까요?",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
