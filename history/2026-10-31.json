@@ -1,0 +1,203 @@
+{
+  "date": "2026-10-31",
+  "updated_at": "10:42 KST",
+  "topic": "추가 수건·생수·어메니티 요청하기",
+  "intro": "해외여행 중 호텔이나 숙소에서 추가 수건, 생수 또는 다른 어메니티가 필요할 때 프런트 데스크나 하우스키핑에 요청하는 실제 회화 표현을 학습합니다. 단순히 '더 주세요'를 넘어, 현재 상황을 설명하고 원하는 것을 정확히 전달하며, 필요한 경우 서비스 제공 방식이나 시간을 묻는 자연스러운 대화법을 익힙니다.",
+  "sentences": [
+    {
+      "english": "We've run out of clean towels. Could you arrange for a couple of fresh ones to be sent up?",
+      "pronunciation": "위-브 런 아웃 옵 클린 타월스. 쿠쥬 어레인지 포 러 커플 옵 프레쉬 원스 투 비 센트 업?",
+      "korean": "깨끗한 수건이 다 떨어졌어요. 새 수건 두어 장을 방으로 올려 보내 주실 수 있을까요?",
+      "tip": "수건이 없어진 상황을 설명하고, 'arrange for ~ to be sent up'을 사용하여 직접 가져다 달라는 것보다 정중하게 '조치해 달라'는 뉘앙스를 전달합니다."
+    },
+    {
+      "english": "Regarding drinking water, is it replenished daily, or should I request additional bottles?",
+      "pronunciation": "리가딩 드링킹 워터, 이즈 잇 리플레니쉬트 데일리, 올 슈다이 리퀘스트 어디셔널 바틀스?",
+      "korean": "식수와 관련해서요, 매일 채워지나요, 아니면 추가 생수를 요청해야 하나요?",
+      "tip": "특정 항목에 대해 문의할 때 'Regarding [noun], ~'를 사용합니다. 서비스 제공 방식에 대해 먼저 물어보는 정중한 표현입니다."
+    },
+    {
+      "english": "I'm wondering about other available amenities. Do you have things like a shaving kit or slippers?",
+      "pronunciation": "아임 원더링 어바웃 아더 어베일러블 어메너티스. 두 유 해브 띵스 라잌 어 쉐이빙 킷 올 슬리퍼스?",
+      "korean": "이용 가능한 다른 어메니티가 궁금해서요. 면도 세트나 슬리퍼 같은 것도 있나요?",
+      "tip": "'I'm wondering about ~'으로 궁금한 점을 언급한 후, 구체적인 예시를 들어 질문하여 오해를 줄일 수 있습니다."
+    },
+    {
+      "english": "For the towels, we'd appreciate two bath towels and a hand towel. Is it possible for someone to bring them by?",
+      "pronunciation": "포 더 타월스, 위-드 어프리쉬에이트 투 바쓰 타월스 앤 더 핸드 타월. 이즈 잇 파서블 포 썸원 투 브링 뎀 바이?",
+      "korean": "수건은, 목욕 수건 두 장과 손수건 한 장이면 좋겠습니다. 혹시 누가 가져다줄 수 있나요?",
+      "tip": "'We'd appreciate ~'로 원하는 바를 정중하게 말하고, 'Is it possible for someone to bring them by?'로 물어보는 것은 부드러운 요청 방식입니다."
+    },
+    {
+      "english": "What's the usual timeframe for housekeeping to deliver requested items?",
+      "pronunciation": "왓츠 더 유주얼 타임프레임 포 하우스키핑 투 딜리버 리퀘스티드 아이템스?",
+      "korean": "하우스키핑에서 요청한 물품을 배달하는 데 보통 시간이 얼마나 걸리나요?",
+      "tip": "'What's the usual timeframe for ~?'를 사용하여 특정 서비스에 소요되는 일반적인 시간을 묻습니다. 재촉하기보다 정보를 얻으려는 뉘앙스입니다."
+    }
+  ],
+  "pattern": {
+    "form": "We've run out of [item(s)] in our room.",
+    "pronunciation": "위-브 런 아웃 옵 [아이템스] 인 아우어 룸.",
+    "meaning": "우리 방에 [물품]이 다 떨어졌어요.",
+    "examples": [
+      {
+        "english": "We've run out of toilet paper in our room.",
+        "pronunciation": "위-브 런 아웃 옵 토일릿 페이퍼 인 아우어 룸.",
+        "korean": "우리 방에 화장지가 다 떨어졌어요."
+      },
+      {
+        "english": "We've run out of coffee pods in our room.",
+        "pronunciation": "위-브 런 아웃 옵 커피 파즈 인 아우어 룸.",
+        "korean": "우리 방에 커피 캡슐이 다 떨어졌어요."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "replenish",
+      "pronunciation": "리플레니쉬",
+      "meaning": "채우다, 보충하다"
+    },
+    {
+      "word": "complimentary",
+      "pronunciation": "컴플리멘터리",
+      "meaning": "무료의, 서비스로 제공되는"
+    },
+    {
+      "word": "shaving kit",
+      "pronunciation": "쉐이빙 킷",
+      "meaning": "면도 세트"
+    },
+    {
+      "word": "slippers",
+      "pronunciation": "슬리퍼스",
+      "meaning": "슬리퍼"
+    },
+    {
+      "word": "housekeeping",
+      "pronunciation": "하우스키핑",
+      "meaning": "객실 관리/청소 (부서)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Staff",
+      "english": "Front desk, how may I assist you?",
+      "pronunciation": "프런트 데스크, 하우 메이 아이 어시스트 유?",
+      "korean": "프런트 데스크입니다, 무엇을 도와드릴까요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Hi, this is room 703. We've run out of clean towels. Could you arrange for a couple of fresh ones to be sent up?",
+      "pronunciation": "하이, 디스 이즈 룸 세븐 오 쓰리. 위-브 런 아웃 옵 클린 타월스. 쿠쥬 어레인지 포 러 커플 옵 프레쉬 원스 투 비 센트 업?",
+      "korean": "안녕하세요, 703호입니다. 깨끗한 수건이 다 떨어졌어요. 새 수건 두어 장을 방으로 올려 보내 주실 수 있을까요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Certainly. How many bath towels would you like, and do you need any hand towels or face towels?",
+      "pronunciation": "썰튼리. 하우 매니 바쓰 타월스 우쥬 라잌, 앤 두 유 니드 애니 핸드 타월스 올 페이스 타월스?",
+      "korean": "알겠습니다. 목욕 수건은 몇 장 드릴까요? 손수건이나 얼굴 수건도 필요하신가요?"
+    },
+    {
+      "speaker": "You",
+      "english": "For the towels, we'd appreciate two bath towels and a hand towel. And regarding drinking water, is it replenished daily, or should I request additional bottles?",
+      "pronunciation": "포 더 타월스, 위-드 어프리쉬에이트 투 바쓰 타월스 앤 더 핸드 타월. 앤 리가딩 드링킹 워터, 이즈 잇 리플레니쉬트 데일리, 올 슈다이 리퀘스트 어디셔널 바틀스?",
+      "korean": "수건은 목욕 수건 두 장과 손수건 한 장이면 좋겠습니다. 그리고 식수는 매일 채워지나요, 아니면 추가 생수를 요청해야 하나요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Bottled water is usually replenished daily during housekeeping. If you need more, just let us know. Is there anything else you might need?",
+      "pronunciation": "바틀드 워터 이즈 유주얼리 리플레니쉬트 데일리 듀어링 하우스키핑. 이프 유 니드 모어, 저스트 렛 어스 노. 이즈 데어 애니띵 엘스 유 마이트 니드?",
+      "korean": "생수는 하우스키핑 시 매일 채워집니다. 더 필요하시면 말씀해주세요. 혹시 다른 필요한 건 없으신가요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Yes, I'm wondering about other available amenities. Do you have things like a shaving kit or slippers?",
+      "pronunciation": "예스, 아임 원더링 어바웃 아더 어베일러블 어메너티스. 두 유 해브 띵스 라잌 어 쉐이빙 킷 올 슬리퍼스?",
+      "korean": "네, 이용 가능한 다른 어메니티가 궁금해서요. 면도 세트나 슬리퍼 같은 것도 있나요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Yes, we do. I'll send up a shaving kit and slippers along with your towels and water. What's the usual timeframe for housekeeping to deliver requested items?",
+      "pronunciation": "예스, 위 두. 아일 센드 업 어 쉐이빙 킷 앤 슬리퍼스 얼롱 윗 유어 타월스 앤 워터. 왓츠 더 유주얼 타임프레임 포 하우스키핑 투 딜리버 리퀘스티드 아이템스?",
+      "korean": "네, 있습니다. 수건과 물과 함께 면도 세트와 슬리퍼를 올려 보내드리겠습니다. 하우스키핑에서 요청한 물품을 배달하는 데 보통 시간이 얼마나 걸리나요?"
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "We've run out of clean towels.",
+      "pronunciation": "위-브 런 아웃 옵 클린 타월스.",
+      "korean": "깨끗한 수건이 다 떨어졌어요.",
+      "tip": "'다 떨어졌다'는 상황을 자연스럽게 전달하는 표현입니다."
+    },
+    {
+      "english": "Is it replenished daily, or should I request additional bottles?",
+      "pronunciation": "이즈 잇 리플레니쉬트 데일리, 올 슈다이 리퀘스트 어디셔널 바틀스?",
+      "korean": "매일 채워지나요, 아니면 추가 요청해야 하나요?",
+      "tip": "서비스 제공 방식을 확인할 때 유용한 질문입니다. 'should I'는 내가 해야 할 일을 묻는 것입니다."
+    },
+    {
+      "english": "Do you have things like a shaving kit or slippers?",
+      "pronunciation": "두 유 해브 띵스 라잌 어 쉐이빙 킷 올 슬리퍼스?",
+      "korean": "면도 세트나 슬리퍼 같은 것도 있나요?",
+      "tip": "구체적인 어메니티의 유무를 문의할 때 활용해보세요."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "Could we get some extra towels for our room?",
+      "pronunciation": "쿠드 위 겟 썸 엑스트라 타월스 포 아우어 룸?",
+      "korean": "우리 방에 추가 수건 좀 받을 수 있을까요?",
+      "note": "본문 표현보다 좀 더 직접적이고 간결한 요청입니다. 격식 없이 빠르게 요청할 때 사용하기 좋습니다."
+    },
+    {
+      "english": "Do you offer any other toiletries besides the shampoo and soap?",
+      "pronunciation": "두 유 오퍼 애니 아더 토일러트리즈 비사이즈 더 샴푸 앤 소프?",
+      "korean": "샴푸랑 비누 말고 다른 세면도구도 제공하나요?",
+      "note": "본문 표현보다 구체적으로 '샴푸와 비누 외에'라는 제한을 두어 질문하는 방식입니다."
+    },
+    {
+      "english": "How long does it usually take for items to arrive?",
+      "pronunciation": "하우 롱 더즈 잇 유주얼리 테익 포 아이템스 투 어라이브?",
+      "korean": "물품이 도착하는 데 보통 얼마나 걸리나요?",
+      "note": "본문 표현보다 주어가 생략되어 더 캐주얼하고 일반적인 질문입니다. 'housekeeping'이나 'requested' 같은 구체적인 단어를 생략했습니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-10-30",
+      "english": "I'm experiencing an issue with the shower in my room; there's no hot water coming out.",
+      "pronunciation": "아임 익스피리언싱 언 이슈 윗 더 샤워 인 마이 룸; 데얼스 노 핫 워터 커밍 아웃.",
+      "korean": "제 방 샤워기에 문제가 있어요. 뜨거운 물이 나오지 않습니다.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-30",
+      "english": "It seems like the water pressure in the shower is unusually low, making it difficult to properly rinse.",
+      "pronunciation": "잇 심스 라이크 더 워터 프레셔 인 더 샤워 이스 언유주얼리 로우, 메이킹 잇 디피컬트 투 프라펄리 린스.",
+      "korean": "샤워기 수압이 유난히 낮은 것 같아요. 제대로 헹구기가 어렵네요.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-28",
+      "english": "I'm afraid I'm experiencing quite a bit of noise in my room.",
+      "pronunciation": "아임 어프레이드 아임 익스피리언싱 콰잇-어 빗 어브 노이즈 인 마이 룸.",
+      "korean": "제 방에서 소음이 꽤 심한 것 같아서요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-28",
+      "english": "It seems to be coming from the hallway/adjoining room, making it difficult to relax.",
+      "pronunciation": "잇 심스 투 비 커밍 프롬 더 홀웨이/어조이닝 룸, 메이킹 잇 디피컬트 투 릴렉스.",
+      "korean": "복도/옆방에서 나는 소리 같고, 편히 쉬기가 어렵네요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-25",
+      "english": "I've got a reservation for tonight under the name Kim, Min-jun.",
+      "pronunciation": "아브 갓 어 레저베이션 포 투나잇 언더 더 네임 김, 민-준.",
+      "korean": "김민준 이름으로 오늘 밤 예약이 되어 있습니다.",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
