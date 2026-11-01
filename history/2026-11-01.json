@@ -1,0 +1,209 @@
+{
+  "date": "2026-11-01",
+  "updated_at": "10:18 KST",
+  "topic": "조식 포함 여부와 시간을 확인하기",
+  "intro": "해외여행 중 호텔에 도착해서 다음날 조식에 대해 궁금할 때, 예약에 포함된 것인지, 몇 시부터 몇 시까지 어디서 먹을 수 있는지 등을 확인하는 상황입니다. Could you / I'd like / Can I를 넘어선 자연스러운 표현으로 필요한 정보를 얻어봅시다.",
+  "sentences": [
+    {
+      "english": "I'm just trying to confirm if breakfast is part of my reservation.",
+      "pronunciation": "아임 저스트 트라잉 투 컨펌 이프 브렉퍼스트 이즈 파트 옵 마이 레저베이션.",
+      "korean": "제 예약에 조식이 포함되어 있는지 확인하고 싶어요.",
+      "tip": "'I'm just trying to confirm'은 정보를 확인하려 한다는 공손한 표현입니다. 'part of my reservation'은 예약에 포함되어 있다는 뜻입니다."
+    },
+    {
+      "english": "Could you let me know the breakfast hours and where it's served?",
+      "pronunciation": "쿠쥬 렛 미 노 더 브렉퍼스트 아워즈 앤 웨얼 잇츠 썰브드?",
+      "korean": "조식 시간과 제공되는 장소를 알려주실 수 있나요?",
+      "tip": "특정 정보(시간과 장소)를 동시에 물을 때 유용합니다. 'where it's served'는 식사가 어디서 제공되는지 묻는 표현입니다."
+    },
+    {
+      "english": "Is breakfast complimentary, or is there an additional charge for it?",
+      "pronunciation": "이즈 브렉퍼스트 컴플리멘터리, 오어 이즈 데어 언 어디셔널 챠지 포 잇?",
+      "korean": "조식은 무료인가요, 아니면 추가 요금이 있나요?",
+      "tip": "'Complimentary'는 무료 제공을 의미합니다. 'additional charge'는 추가 요금입니다. 둘 중 하나인지 직접적으로 묻는 표현입니다."
+    },
+    {
+      "english": "In case it's not included, are there any options for purchase, like a buffet or a la carte?",
+      "pronunciation": "인 케이스 잇츠 낫 인클루디드, 아 데어 에니 옵션스 포 펄췌스, 라이크 어 버페이 오어 아 라 카르트?",
+      "korean": "만약 포함되어 있지 않다면, 뷔페나 단품 요리처럼 구매할 수 있는 다른 옵션이 있나요?",
+      "tip": "'In case ~'는 '~인 경우'라는 가정입니다. 포함되지 않았을 때의 대안을 미리 묻는 자연스러운 흐름입니다. 'for purchase'는 구매 가능한이라는 뜻입니다."
+    },
+    {
+      "english": "I believe my booking stated breakfast was included, but I just want to double-check.",
+      "pronunciation": "아이 빌리브 마이 부킹 스테이티드 브렉퍼스트 워즈 인클루디드, 벗 아이 저스트 원트 투 더블체크.",
+      "korean": "제 예약에 조식이 포함되어 있다고 알고 있는데, 다시 한번 확인하고 싶어서요.",
+      "tip": "기억하는 정보를 언급하며 재확인을 요청할 때 쓰는 표현입니다. 'double-check'는 다시 확인한다는 의미입니다."
+    }
+  ],
+  "pattern": {
+    "form": "I'm looking to confirm the details regarding [명사/동명사].",
+    "pronunciation": "아임 루킹 투 컨펌 더 디테일즈 리가딩 [명사/동명사].",
+    "meaning": "~에 대한 세부 사항을 확인하려고 합니다.",
+    "examples": [
+      {
+        "english": "I'm looking to confirm the details regarding our upcoming tour.",
+        "pronunciation": "아임 루킹 투 컨펌 더 디테일즈 리가딩 아워 업커밍 투어.",
+        "korean": "저희의 곧 있을 투어에 대한 세부 사항을 확인하려고 합니다."
+      },
+      {
+        "english": "I'm looking to confirm the details regarding the hotel's shuttle service.",
+        "pronunciation": "아임 루킹 투 컨펌 더 디테일즈 리가딩 더 호텔스 셔틀 썰비스.",
+        "korean": "호텔 셔틀 서비스에 대한 세부 사항을 확인하려고 합니다."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "complimentary",
+      "pronunciation": "컴플리멘터리",
+      "meaning": "무료의, 서비스로 제공되는"
+    },
+    {
+      "word": "buffet",
+      "pronunciation": "버페이",
+      "meaning": "뷔페"
+    },
+    {
+      "word": "a la carte",
+      "pronunciation": "아 라 카르트",
+      "meaning": "단품으로, 메뉴판에서 선택하여"
+    },
+    {
+      "word": "dining area",
+      "pronunciation": "다이닝 에리어",
+      "meaning": "식사 공간"
+    },
+    {
+      "word": "inclusive",
+      "pronunciation": "인클루시브",
+      "meaning": "포함하는"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "You",
+      "english": "Excuse me, I have a quick question about breakfast.",
+      "pronunciation": "익스큐즈 미, 아이 해브 어 퀵 퀘스쳔 어바웃 브렉퍼스트.",
+      "korean": "실례합니다, 조식에 대해 간단히 여쭤볼 게 있어요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Certainly, how can I help you?",
+      "pronunciation": "썰튼리, 하우 캔 아이 헬프 유?",
+      "korean": "네, 무엇을 도와드릴까요?"
+    },
+    {
+      "speaker": "You",
+      "english": "I'm just trying to confirm if breakfast is part of my reservation.",
+      "pronunciation": "아임 저스트 트라잉 투 컨펌 이프 브렉퍼스트 이즈 파트 옵 마이 레저베이션.",
+      "korean": "제 예약에 조식이 포함되어 있는지 확인하고 싶어요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Let me check your booking. Could I have your last name and room number, please?",
+      "pronunciation": "렛 미 체크 유어 부킹. 쿠드 아이 해브 유어 라스트 네임 앤 룸 넘버, 플리즈?",
+      "korean": "예약 내역을 확인해 볼게요. 성함과 객실 번호를 알려주시겠어요?"
+    },
+    {
+      "speaker": "You",
+      "english": "It's Kim, and my room is 503. I believe my booking stated breakfast was included, but I just want to double-check.",
+      "pronunciation": "잇츠 킴, 앤 마이 룸 이즈 파이브 오 쓰리. 아이 빌리브 마이 부킹 스테이티드 브렉퍼스트 워즈 인클루디드, 벗 아이 저스트 원트 투 더블체크.",
+      "korean": "김입니다. 방은 503호예요. 예약에 조식이 포함되어 있다고 알고 있는데, 다시 한번 확인하고 싶어서요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Thank you, Mr. Kim. Yes, your booking is indeed inclusive of breakfast. It's complimentary for guests.",
+      "pronunciation": "땡큐, 미스터 킴. 예스, 유어 부킹 이즈 인디드 인클루시브 옵 브렉퍼스트. 잇츠 컴플리멘터리 포 게스트.",
+      "korean": "감사합니다, 김 선생님. 네, 예약에 조식이 포함되어 있네요. 투숙객께 무료로 제공됩니다."
+    },
+    {
+      "speaker": "You",
+      "english": "Great! Could you let me know the breakfast hours and where it's served?",
+      "pronunciation": "그레이트! 쿠쥬 렛 미 노 더 브렉퍼스트 아워즈 앤 웨얼 잇츠 썰브드?",
+      "korean": "잘 됐네요! 조식 시간과 제공되는 장소를 알려주실 수 있나요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Breakfast is served daily from 7 AM to 10 AM, on the second floor in our main dining area. It's a buffet style.",
+      "pronunciation": "브렉퍼스트 이즈 썰브드 데일리 프롬 세븐 에이엠 투 텐 에이엠, 온 더 세컨드 플로어 인 아워 메인 다이닝 에리어. 잇츠 어 버페이 스타일.",
+      "korean": "조식은 매일 오전 7시부터 10시까지 2층 메인 다이닝 공간에서 제공됩니다. 뷔페식입니다."
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "I'm just trying to confirm if breakfast is part of my reservation.",
+      "pronunciation": "아임 저스트 트라잉 투 컨펌 이프 브렉퍼스트 이즈 파트 옵 마이 레저베이션.",
+      "korean": "제 예약에 조식이 포함되어 있는지 확인하고 싶어요.",
+      "tip": "공손하게 '확인하려 한다'는 의도를 표현해 보세요."
+    },
+    {
+      "english": "Is breakfast complimentary, or is there an additional charge for it?",
+      "pronunciation": "이즈 브렉퍼스트 컴플리멘터리, 오어 이즈 데어 언 어디셔널 챠지 포 잇?",
+      "korean": "조식은 무료인가요, 아니면 추가 요금이 있나요?",
+      "tip": "'무료'를 뜻하는 단어와 '추가 요금'을 연결하여 물어보세요."
+    },
+    {
+      "english": "In case it's not included, are there any options for purchase, like a buffet or a la carte?",
+      "pronunciation": "인 케이스 잇츠 낫 인클루디드, 아 데어 에니 옵션스 포 펄췌스, 라이크 어 버페이 오어 아 라 카르트?",
+      "korean": "만약 포함되어 있지 않다면, 뷔페나 단품 요리처럼 구매할 수 있는 다른 옵션이 있나요?",
+      "tip": "'~인 경우'라는 가정을 먼저 언급하고, 구매 가능한 대안을 물어보세요."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "Could you tell me if breakfast is covered by my room rate?",
+      "pronunciation": "쿠쥬 텔 미 이프 브렉퍼스트 이즈 커버드 바이 마이 룸 레이트?",
+      "korean": "제 숙박 요금에 조식이 포함되어 있는지 알려주실 수 있나요?",
+      "note": "'part of my reservation' 대신 'covered by my room rate'를 사용하여 조식이 숙박 요금으로 지불되는지에 대한 여부를 묻는 좀 더 구체적인 표현입니다."
+    },
+    {
+      "english": "I need to clarify the breakfast situation for my stay.",
+      "pronunciation": "아이 니드 투 클레러파이 더 브렉퍼스트 시츄에이션 포 마이 스테이.",
+      "korean": "제 숙박 기간 동안의 조식 상황을 명확히 하고 싶어요.",
+      "note": "'I'm just trying to confirm'보다 더 직접적으로 정보를 명확히 하고 싶다는 의지를 나타냅니다. 'situation'이라는 단어로 전반적인 상황을 묻는 뉘앙스입니다."
+    },
+    {
+      "english": "What's the arrangement for breakfast here?",
+      "pronunciation": "왓츠 디 어레인지먼트 포 브렉퍼스트 히어?",
+      "korean": "여기 조식은 어떻게 진행되나요?",
+      "note": "매우 간결하고 일반적인 질문으로, 조식과 관련된 모든 정보를 포괄적으로 묻는 개방형 질문입니다. 'arrangement'는 준비나 방식, 절차 등을 의미합니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-10-31",
+      "english": "We've run out of clean towels. Could you arrange for a couple of fresh ones to be sent up?",
+      "pronunciation": "위-브 런 아웃 옵 클린 타월스. 쿠쥬 어레인지 포 러 커플 옵 프레쉬 원스 투 비 센트 업?",
+      "korean": "깨끗한 수건이 다 떨어졌어요. 새 수건 두어 장을 방으로 올려 보내 주실 수 있을까요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-31",
+      "english": "Regarding drinking water, is it replenished daily, or should I request additional bottles?",
+      "pronunciation": "리가딩 드링킹 워터, 이즈 잇 리플레니쉬트 데일리, 올 슈다이 리퀘스트 어디셔널 바틀스?",
+      "korean": "식수와 관련해서요, 매일 채워지나요, 아니면 추가 생수를 요청해야 하나요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-29",
+      "english": "It seems the air conditioning in my room isn't functioning properly.",
+      "pronunciation": "잇 씨-임즈 디 에어 컨디셔닝 인 마이 룸 이즌트 펑셔닝 프라펄리.",
+      "korean": "제 방 에어컨이 제대로 작동하지 않는 것 같아요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-29",
+      "english": "I'm finding it quite cold in my room, and the heating doesn't seem to be turning on.",
+      "pronunciation": "아임 파인딩 잇 콰잇 코울드 인 마이 룸, 앤 더 히팅 더즌트 씨-임 투 비 터닝 온.",
+      "korean": "제 방이 꽤 춥고, 난방이 켜지지 않는 것 같아요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-26",
+      "english": "I was hoping to check in a bit earlier today, if that's at all possible.",
+      "pronunciation": "아이 워즈 호-핑 투 첵 인 어 빗 얼리얼 투데이, 이프 댓츠 앳 올 파서블.",
+      "korean": "오늘 좀 일찍 체크인 할 수 있을까 해서요, 혹시라도 가능하다면요.",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
