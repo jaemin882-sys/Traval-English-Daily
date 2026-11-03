@@ -1,216 +1,207 @@
 {
-  "date": "2026-11-02",
-  "updated_at": "10:40 KST",
-  "topic": "레이트 체크아웃 가능한지 묻기",
-  "intro": "해외여행 마지막 날, 밤 비행기라 체크아웃 시간을 좀 더 늘리고 싶을 때 필요한 표현들을 배워볼까요? 호텔 직원에게 레이트 체크아웃 가능 여부와 추가 요금, 그리고 다른 대안까지 자연스럽게 물어보는 방법을 익혀봅시다.",
+  "date": "2026-11-03",
+  "updated_at": "12:32 KST",
+  "topic": "체크아웃 후 짐을 맡길 수 있는지 묻기",
+  "intro": "해외여행 중 호텔 체크아웃 시간은 지났지만, 비행기나 다음 일정이 늦게 있을 때 짐을 맡길 필요가 있죠. 이럴 때 호텔 직원에게 짐 보관이 가능한지, 절차는 어떻게 되는지 자연스럽게 묻는 표현들을 배워봅니다.",
   "sentences": [
     {
-      "english": "Is there any flexibility with the standard check-out time today?",
-      "pronunciation": "이즈 데어 에니 플렉서빌리티 윋 더 스탠다드 체크아웃 타임 투데이?",
-      "korean": "오늘 정규 체크아웃 시간에 좀 유동성이 있을까요?",
-      "tip": "직접적으로 '레이트 체크아웃'을 언급하기보다, '유동성' (flexibility)을 물어보며 정중하게 운을 떼는 표현입니다."
+      "english": "We're checking out now, but our flight isn't until much later. I'm hoping to find out if we can leave our luggage here for a few hours.",
+      "pronunciation": "위얼 체킹 아웃 나우, 벗 아워 플라잇 이즌튼 언틸 머치 레이터. 아임 호핑 투 파인드 아웃 이프 위 캔 리브 아워 러기지 히어 포러 퓨 아워스.",
+      "korean": "저희 지금 체크아웃 하는데, 비행기가 한참 뒤라서요. 짐을 여기 몇 시간 맡길 수 있는지 알아보고 싶어요.",
+      "tip": "상황 설명과 함께 정중하게 문의할 때 사용합니다. 'I'm hoping to find out if~'는 '알아보고 싶다'는 뉘앙스를 줍니다."
     },
     {
-      "english": "My flight doesn't depart until quite late, so I was hoping to stay in the room until around 4 PM.",
-      "pronunciation": "마이 플라이ㅌ 더즌ㅌ 디파엍 언틸 콰이ㅌ 레이ㅌ, 쏘 아이 워즈 호핑 투 스테이 인 더 룸 언틸 어라운드 포 피엠.",
-      "korean": "제 비행기가 꽤 늦게 출발해서, 오후 4시쯤까지 방에 머물 수 있기를 바라고 있었어요.",
-      "tip": "레이트 체크아웃을 요청하는 이유(late flight)와 희망 시간을 함께 말하면 설득력을 높일 수 있습니다."
+      "english": "What's the process for leaving our luggage here after checkout?",
+      "pronunciation": "왓츠 더 프로세스 포 리빙 아워 러기지 히어 애프터 체크아웃?",
+      "korean": "체크아웃 후에 짐을 여기에 맡기는 절차가 어떻게 되나요?",
+      "tip": "서비스 이용 절차를 직접적으로 물을 때 유용합니다. 'walk me through the process'보다 간단한 표현입니다."
     },
     {
-      "english": "Could you let me know the hotel's policy on late check-outs, especially regarding any potential charges?",
-      "pronunciation": "쿧 유 렛 미 노 더 호텔스 팔러씨 온 레이ㅌ 체크아웃츠, 이스페셜리 리가딩 에니 포텐셜 챨쥐스?",
-      "korean": "레이트 체크아웃에 대한 호텔 정책을 알려주실 수 있을까요, 특히 추가 요금 관련해서요?",
-      "tip": "'Could you~?'를 사용하여 정중하게 정책과 요금에 대해 한 번에 문의하는 표현입니다. 'potential charges'는 '있을 수 있는 요금'이란 뜻입니다."
+      "english": "Is there a designated area where guests can keep their belongings for a few hours?",
+      "pronunciation": "이즈 데어 어 데지그네이티드 에어리어 웨어 게스츠 캔 킵 데어 빌롱잉스 포러 퓨 아워스?",
+      "korean": "손님들이 몇 시간 동안 짐을 보관할 수 있는 지정된 장소가 있나요?",
+      "tip": "'지정된 장소'를 의미하는 'designated area'와 '소지품'을 의미하는 'belongings'를 사용해 좀 더 격식 있는 표현입니다."
     },
     {
-      "english": "If staying in the room for that long isn't an option, is there perhaps a shorter grace period available, say an hour or two?",
-      "pronunciation": "이프 스테잉 인 더 룸 포 댓 롱 이즌ㅌ 언 옵션, 이즈 데어 퍼랩스 어 숏터 그레이쓰 피리어드 어베일러블, 세이 언 아워 오어 투?",
-      "korean": "만약 그렇게 오래 방에 머무는 것이 어렵다면, 한두 시간 정도의 짧은 유예 기간이라도 있을까요?",
-      "tip": "원하는 시간만큼 안 될 경우, 한두 시간 정도의 '유예 기간'(grace period)이 있는지 대안을 묻는 똑똑한 질문입니다."
+      "english": "I just wanted to confirm if you offer a luggage storage service for hotel guests.",
+      "pronunciation": "아이 저스트 워니드 투 컨펌 이프 유 오퍼 어 러기지 스토리지 서비스 포 호텔 게스츠.",
+      "korean": "호텔 투숙객을 위한 짐 보관 서비스를 제공하는지 확인하고 싶어서요.",
+      "tip": "제공 여부를 재확인하거나 정중하게 물을 때 'I just wanted to confirm if~'를 사용합니다."
     },
     {
-      "english": "And if a room extension isn't feasible at all, are there any common areas or facilities where I could freshen up before leaving?",
-      "pronunciation": "앤드 이프 어 룸 익스텐션 이즌ㅌ 피저블 앳 올, 아 데어 에니 커먼 에리어스 오어 퍼실리티스 웨어 아이 쿧 프레션 업 비포어 리빙?",
-      "korean": "그리고 방 연장이 전혀 불가능하다면, 떠나기 전에 몸을 씻을 수 있는 공용 공간이나 시설이 있을까요?",
-      "tip": "최악의 경우를 대비하여 샤워나 간단한 정비를 할 수 있는 '공용 공간'(common areas)이나 '시설'(facilities)을 물어보는 표현입니다."
+      "english": "Could we leave our suitcases with you until this evening?",
+      "pronunciation": "쿳 위 리브 아워 수트케이스스 위드 유 언틸 디스 이브닝?",
+      "korean": "저녁까지 저희 여행 가방들을 좀 맡아주실 수 있을까요?",
+      "tip": "'Could we~'는 'Can we~'보다 더 정중한 요청이며, 'suitcases'는 여행 가방을 의미합니다."
     }
   ],
   "pattern": {
-    "form": "What's the policy on [noun/verb-ing]?",
-    "pronunciation": "왓츠 더 팔러씨 온 [나운/벫-잉]?",
-    "meaning": "~에 대한 정책은 무엇인가요?",
+    "form": "Given that [상황 설명], I'm curious about [질문/요청].",
+    "pronunciation": "기븐 댓 [상황 설명], 아임 큐리어스 어바웃 [질문/요청].",
+    "meaning": "~라는 점을 감안할 때, ~에 대해 궁금해요.",
     "examples": [
       {
-        "english": "What's the policy on canceling a reservation?",
-        "pronunciation": "왓츠 더 팔러씨 온 캔슬링 어 레저베이션?",
-        "korean": "예약 취소에 대한 정책은 무엇인가요?",
-        "tip": "호텔이나 서비스의 특정 정책을 물어볼 때 유용합니다."
+        "english": "Given that our flight is quite late, I'm curious about the possibility of a late checkout.",
+        "pronunciation": "기븐 댓 아워 플라잇 이즈 콰잇 레이트, 아임 큐리어스 어바웃 더 파서빌리티 오브 어 레이트 체크아웃.",
+        "korean": "저희 비행기가 꽤 늦은 시간이라는 점을 감안할 때, 레이트 체크아웃 가능 여부가 궁금해요.",
+        "tip": "상황을 먼저 제시하고 그에 따른 궁금증을 표현할 때 자연스럽습니다."
       },
       {
-        "english": "What's the policy on bringing outside food into the hotel?",
-        "pronunciation": "왓츠 더 팔러씨 온 브링잉 아웃사이드 푸드 인투 더 호텔?",
-        "korean": "호텔 내에 외부 음식을 반입하는 것에 대한 정책은 무엇인가요?",
-        "tip": "특정 행동에 대한 규칙이나 허용 여부를 문의할 때 사용합니다."
+        "english": "Given that the air conditioning isn't working, I'm curious about alternative cooling options for the room.",
+        "pronunciation": "기븐 댓 디 에어 컨디셔닝 이즌트 워킹, 아임 큐리어스 어바웃 얼터너티브 쿨링 옵션스 포 더 룸.",
+        "korean": "에어컨이 작동하지 않는다는 점을 감안할 때, 방의 다른 냉방 옵션이 궁금해요.",
+        "tip": "문제를 언급하며 대안을 물을 때 사용합니다."
       }
     ]
   },
   "words": [
     {
-      "word": "flexibility",
-      "pronunciation": "플렉서빌리티",
-      "meaning": "융통성, 유연성",
-      "tip": "규칙이나 시간 등에 여지가 있는지 물어볼 때 활용하기 좋습니다."
+      "word": "bell desk / concierge",
+      "pronunciation": "벨 데스크 / 컨시에어지",
+      "meaning": "벨 데스크 (짐 보관/운반), 컨시어지 (손님 안내/편의 서비스)",
+      "tip": "호텔에서 짐을 맡기는 장소로 흔히 'bell desk'나 'concierge'를 지칭합니다."
     },
     {
-      "word": "depart (flight departs)",
-      "pronunciation": "디파엍 (플라이ㅌ 디파엍츠)",
-      "meaning": "출발하다 (비행기가 출발하다)",
-      "tip": "비행기, 기차 등이 출발하는 것을 말할 때 쓰는 동사입니다."
+      "word": "retrieve",
+      "pronunciation": "리트리브",
+      "meaning": "(맡긴 것을) 찾아오다",
+      "tip": "짐을 맡긴 후 다시 찾아갈 때 사용하는 동사입니다."
     },
     {
-      "word": "grace period",
-      "pronunciation": "그레이쓰 피리어드",
-      "meaning": "유예 기간",
-      "tip": "정해진 시간보다 약간 더 주어지는 여유 시간을 의미합니다."
+      "word": "claim tag",
+      "pronunciation": "클레임 태그",
+      "meaning": "(맡긴 짐의) 짐표",
+      "tip": "짐 보관 시 받는 번호표를 의미합니다. 이것으로 짐을 찾아갑니다."
     },
     {
-      "word": "additional charge",
-      "pronunciation": "어디셔널 챨쥐",
-      "meaning": "추가 요금",
-      "tip": "기본 요금 외에 더 붙는 요금을 뜻합니다."
+      "word": "complimentary",
+      "pronunciation": "컴플리멘터리",
+      "meaning": "무료의, 서비스로 제공되는",
+      "tip": "호텔 서비스가 추가 요금 없이 제공될 때 사용합니다."
     },
     {
-      "word": "freshen up",
-      "pronunciation": "프레션 업",
-      "meaning": "간단히 몸단장하다, 상쾌하게 하다",
-      "tip": "씻거나 옷을 갈아입는 등 간단히 몸을 정비하는 것을 의미합니다."
+      "word": "hold onto (something)",
+      "pronunciation": "홀드 언투",
+      "meaning": "~을 보관하다, 맡아두다",
+      "tip": "누군가에게 잠시 무언가를 맡아달라고 할 때 'Can you hold onto this for me?'처럼 쓸 수 있습니다."
     }
   ],
   "dialogue": [
     {
       "speaker": "You",
-      "english": "Hi, I'm checking out today from room 705. Is there any flexibility with the standard check-out time today?",
-      "pronunciation": "하이, 아임 체킹 아웃 투데이 프롬 룸 세븐 오 파이브. 이즈 데어 에니 플렉서빌리티 윧 더 스탠다드 체크아웃 타임 투데이?",
-      "korean": "안녕하세요, 오늘 705호에서 체크아웃합니다. 오늘 정규 체크아웃 시간에 좀 유동성이 있을까요?",
-      "tip": "객실 번호를 함께 말하면 직원의 확인이 빠릅니다."
+      "english": "Hi, we're checking out now from room 503. Our names are Kim, Min-jun.",
+      "pronunciation": "하이, 위얼 체킹 아웃 나우 프롬 룸 파이브 오 쓰리. 아워 네임스 아 김, 민준.",
+      "korean": "안녕하세요, 저희 503호 김민준입니다. 지금 체크아웃하려고 해요."
     },
     {
       "speaker": "Staff",
-      "english": "Let me check for you. What time were you hoping to extend to?",
-      "pronunciation": "렛 미 첵 포 유. 왓 타임 워 유 호핑 투 익스텐드 투?",
-      "korean": "확인해 드릴게요. 몇 시까지 연장하고 싶으신가요?",
-      "tip": "직원이 먼저 희망 시간을 물어보는 경우입니다."
+      "english": "Certainly, Mr. Kim. Did you enjoy your stay?",
+      "pronunciation": "썰튼리, 미스터 김. 딛 유 인조이 유어 스테이?",
+      "korean": "네, 김 선생님. 즐거운 시간 보내셨나요?"
     },
     {
       "speaker": "You",
-      "english": "My flight doesn't depart until quite late, so I was hoping to stay in the room until around 4 PM. Could you let me know the hotel's policy on late check-outs, especially regarding any potential charges?",
-      "pronunciation": "마이 플라이ㅌ 더즌ㅌ 디파엍 언틸 콰이ㅌ 레이ㅌ, 쏘 아이 워즈 호핑 투 스테이 인 더 룸 언틸 어라운드 포 피엠. 쿧 유 렛 미 노 더 호텔스 팔러씨 온 레이ㅌ 체크아웃츠, 이스페셜리 리가딩 에니 포텐셜 챨쥐스?",
-      "korean": "제 비행기가 꽤 늦게 출발해서, 오후 4시쯤까지 방에 머물 수 있기를 바라고 있었어요. 레이트 체크아웃에 대한 호텔 정책을 알려주실 수 있을까요, 특히 추가 요금 관련해서요?",
-      "tip": "희망 시간과 함께 정책 및 요금을 문의하는 것이 좋습니다."
+      "english": "Yes, it was great, thank you. We're checking out, but our flight isn't until much later this evening. I'm hoping to find out if we can leave our luggage here for a few hours.",
+      "pronunciation": "예스, 잇 워즈 그레이트, 땡큐. 위얼 체킹 아웃, 벗 아워 플라잇 이즌튼 언틸 머치 레이터 디스 이브닝. 아임 호핑 투 파인드 아웃 이프 위 캔 리브 아워 러기지 히어 포러 퓨 아워스.",
+      "korean": "네, 덕분에 잘 지냈어요, 감사합니다. 지금 체크아웃하는데, 오늘 저녁 한참 뒤에 비행기라서요. 짐을 여기 몇 시간 맡길 수 있는지 알아보고 싶어요.",
+      "tip": "오늘의 핵심 표현 중 하나입니다."
     },
     {
       "speaker": "Staff",
-      "english": "For a check-out at 4 PM, there would be an additional charge of 50 dollars. We generally allow late check-out until 6 PM, but after that, it's considered an extra night.",
-      "pronunciation": "포 어 체크아웃 앳 포 피엠, 데어 욷 비 언 어디셔널 챨쥐 오브 피프티 달러스. 위 제너럴리 얼라우 레이ㅌ 체크아웃 언틸 식스 피엠, 벗 애프터 댓, 이츠 컨시더드 언 엑스트라 나이ㅌ.",
-      "korean": "오후 4시 체크아웃은 50달러의 추가 요금이 있습니다. 보통 오후 6시까지 레이트 체크아웃을 허용하지만, 그 이후는 추가 1박으로 간주됩니다.",
-      "tip": "직원이 정책과 요금을 설명해 줄 것입니다. 'extra night'는 1박 요금 전체를 뜻합니다."
+      "english": "Absolutely, Mr. Kim. We do offer a complimentary luggage storage service for our guests. You can leave your suitcases right here at the bell desk.",
+      "pronunciation": "앱솔루틀리, 미스터 김. 위 두 오퍼 어 컴플리멘터리 러기지 스토리지 서비스 포 아워 게스츠. 유 캔 리브 유어 수트케이스스 라잇 히어 앳 더 벨 데스크.",
+      "korean": "그럼요, 김 선생님. 저희는 투숙객을 위한 무료 짐 보관 서비스를 제공하고 있습니다. 바로 이곳 벨 데스크에 여행 가방들을 맡기시면 됩니다.",
+      "tip": "'complimentary'와 'bell desk'를 사용해 답합니다."
     },
     {
       "speaker": "You",
-      "english": "I see. If staying in the room for that long isn't an option, is there perhaps a shorter grace period available, say an hour or two without charge?",
-      "pronunciation": "아이 씨. 이프 스테잉 인 더 룸 포 댓 롱 이즌ㅌ 언 옵션, 이즈 데어 퍼랩스 어 숏터 그레이쓰 피리어드 어베일러블, 세이 언 아워 오어 투 윗아웃 챨쥐?",
-      "korean": "알겠습니다. 그렇게 오래 방에 머무는 것이 어렵다면, 혹시 요금 없이 한두 시간 정도의 짧은 유예 기간이라도 있을까요?",
-      "tip": "추가 요금이 부담될 때, 짧은 시간의 무료 유예 기간이 있는지 대안을 물어봅니다."
+      "english": "That's wonderful! What's the process for leaving our luggage here?",
+      "pronunciation": "댓츠 원더풀! 왓츠 더 프로세스 포 리빙 아워 러기지 히어?",
+      "korean": "정말 잘 됐네요! 짐을 여기 맡기는 절차가 어떻게 되나요?",
+      "tip": "오늘의 핵심 표현 중 하나입니다."
     },
     {
       "speaker": "Staff",
-      "english": "Yes, we can usually offer a complimentary extension until 1 PM, depending on availability. Would that be helpful?",
-      "pronunciation": "예스, 위 캔 유주얼리 오퍼 어 컴플리멘터리 익스텐션 언틸 원 피엠, 디펜딩 온 어베일러빌리티. 욷 댓 비 헬프풀?",
-      "korean": "네, 보통 오후 1시까지는 무료로 연장을 해 드릴 수 있습니다, 객실 상황에 따라 다르지만요. 도움이 되실까요?",
-      "tip": "'complimentary extension'은 '무료 연장'이라는 뜻입니다."
-    },
-    {
-      "speaker": "You",
-      "english": "That would be very helpful, thank you! And if a room extension isn't feasible at all, are there any common areas or facilities where I could freshen up before leaving?",
-      "pronunciation": "댓 욷 비 베리 헬프풀, 땡큐! 앤드 이프 어 룸 익스텐션 이즌ㅌ 피저블 앳 올, 아 데어 에니 커먼 에리어스 오어 퍼실리티스 웨어 아이 쿧 프레션 업 비포어 리빙?",
-      "korean": "정말 도움이 될 거예요, 감사합니다! 그리고 방 연장이 전혀 불가능하다면, 떠나기 전에 몸을 씻을 수 있는 공용 공간이나 시설이 있을까요?",
-      "tip": "무료 연장이 가능하더라도, 추가적인 대안을 미리 물어볼 수 있습니다."
+      "english": "Just place your bags here, and I'll give you a claim tag. Please keep it safe, as you'll need it to retrieve your luggage later. You can pick them up anytime before midnight.",
+      "pronunciation": "저스트 플레이스 유어 백스 히어, 앤 아일 기브 유 어 클레임 태그. 플리즈 킵 잇 세이프, 애즈 유일 니드 잇 투 리트리브 유어 러기지 레이터. 유 캔 픽 뎀 업 애니타임 비포어 미드나잇.",
+      "korean": "가방을 여기 두시면 짐표를 드릴 거예요. 나중에 짐을 찾아가실 때 필요하니 잘 보관해주세요. 자정 전까지 언제든지 찾아가실 수 있습니다.",
+      "tip": "'claim tag'와 'retrieve' 등 관련 단어를 사용해 설명합니다."
     }
   ],
   "retrieval": [
     {
-      "english": "Is there any flexibility with the standard check-out time today?",
-      "pronunciation": "이즈 데어 에니 플렉서빌리티 윧 더 스탠다드 체크아웃 타임 투데이?",
-      "korean": "오늘 정규 체크아웃 시간에 좀 유동성이 있을까요?",
-      "tip": "레이트 체크아웃을 정중하게 물어보는 핵심 문장입니다."
+      "english": "I'm hoping to find out if we can leave our luggage here for a few hours.",
+      "pronunciation": "아임 호핑 투 파인드 아웃 이프 위 캔 리브 아워 러기지 히어 포러 퓨 아워스.",
+      "korean": "짐을 여기 몇 시간 맡길 수 있는지 알아보고 싶어요.",
+      "tip": "'~할 수 있는지 알아보고 싶다'는 의도를 담아 말해보세요."
     },
     {
-      "english": "Could you let me know the hotel's policy on late check-outs, especially regarding any potential charges?",
-      "pronunciation": "쿧 유 렛 미 노 더 호텔스 팔러씨 온 레이ㅌ 체크아웃츠, 이스페셜리 리가딩 에니 포텐셜 챨쥐스?",
-      "korean": "레이트 체크아웃에 대한 호텔 정책을 알려주실 수 있을까요, 특히 추가 요금 관련해서요?",
-      "tip": "정책과 추가 요금을 한 번에 문의할 때 쓰는 표현입니다."
+      "english": "What's the process for leaving our luggage here after checkout?",
+      "pronunciation": "왓츠 더 프로세스 포 리빙 아워 러기지 히어 애프터 체크아웃?",
+      "korean": "체크아웃 후에 짐을 여기에 맡기는 절차가 어떻게 되나요?",
+      "tip": "'절차'를 묻는 표현으로, 'could you walk me through~'보다 간단합니다."
     },
     {
-      "english": "And if a room extension isn't feasible at all, are there any common areas or facilities where I could freshen up before leaving?",
-      "pronunciation": "앤드 이프 어 룸 익스텐션 이즌ㅌ 피저블 앳 올, 아 데어 에니 커먼 에리어스 오어 퍼실리티스 웨어 아이 쿧 프레션 업 비포어 리빙?",
-      "korean": "그리고 방 연장이 전혀 불가능하다면, 떠나기 전에 몸을 씻을 수 있는 공용 공간이나 시설이 있을까요?",
-      "tip": "레이트 체크아웃이 안 될 경우, 대안을 물어보는 핵심 질문입니다."
+      "english": "Could we leave our suitcases with you until this evening?",
+      "pronunciation": "쿳 위 리브 아워 수트케이스스 위드 유 언틸 디스 이브닝?",
+      "korean": "저녁까지 저희 여행 가방들을 좀 맡아주실 수 있을까요?",
+      "tip": "정중하게 짐을 맡아달라고 요청하는 표현입니다."
     }
   ],
   "alternatives": [
     {
-      "english": "I'm looking to request a late check-out. Is that something you can arrange?",
-      "pronunciation": "아임 루킹 투 리퀘스트 어 레이ㅌ 체크아웃. 이즈 댓 썸띵 유 캔 어레인쥐?",
-      "korean": "레이트 체크아웃을 요청하려고 합니다. 조정 가능한가요?",
-      "note": "직접적으로 'late check-out'을 언급하며, 호텔 측에서 '조정할 수 있는지'(arrange)를 묻는 비교적 직설적인 표현입니다."
+      "english": "Do you provide a luggage hold service for guests checking out?",
+      "pronunciation": "두 유 프로바이드 어 러기지 홀드 서비스 포 게스츠 체킹 아웃?",
+      "korean": "체크아웃하는 손님들을 위해 짐 보관 서비스를 제공하시나요?",
+      "note": "좀 더 직접적으로 'provide' (제공하다)와 'luggage hold service' (짐 보관 서비스)라는 단어를 사용하여 서비스 여부를 묻습니다."
     },
     {
-      "english": "I was wondering if it's possible to get an extended check-out time today.",
-      "pronunciation": "아이 워즈 원더링 이프 이츠 파서블 투 겟 언 익스텐디드 체크아웃 타임 투데이.",
-      "korean": "혹시 오늘 체크아웃 시간을 연장할 수 있는지 궁금해서요.",
-      "note": "'I was wondering if...'를 사용하여 좀 더 부드럽고 간접적으로 질문하는 표현입니다. 'extended check-out time'도 'late check-out'과 같은 의미입니다."
+      "english": "I'm wondering if there's a service to keep our bags for a few hours after we leave the room.",
+      "pronunciation": "아임 원더링 이프 데어스 어 서비스 투 킵 아워 백스 포러 퓨 아워스 애프터 위 리브 더 룸.",
+      "korean": "방을 비운 후 몇 시간 동안 저희 가방을 보관해 줄 서비스가 있는지 궁금해서요.",
+      "note": "'I'm wondering if~'를 사용하여 좀 더 부드럽게 질문하며, 'keep our bags'로 짐을 보관해달라는 의미를 전달합니다."
     },
     {
-      "english": "Would it be possible to check out a bit later than the usual time?",
-      "pronunciation": "욷 잇 비 파서블 투 첵 아웃 어 빗 레이터 댄 더 유주얼 타임?",
-      "korean": "평소 시간보다 조금 늦게 체크아웃하는 것이 가능할까요?",
-      "note": "'Would it be possible...?'을 사용하여 정중하고 포괄적으로 묻는 표현입니다. 구체적인 시간을 언급하기 전에 사용하기 좋습니다."
+      "english": "What are the arrangements for securing our luggage until later today?",
+      "pronunciation": "왓 아 더 어레인지먼츠 포 시큐어링 아워 러기지 언틸 레이터 투데이?",
+      "korean": "오늘 늦게까지 저희 짐을 안전하게 보관할 수 있는 방법(조치)은 무엇인가요?",
+      "note": "'arrangements' (조치/준비)와 'securing' (안전하게 보관하다)를 사용하여 짐 보관에 대한 '방법'이나 '체계'를 묻는 뉘앙스가 강합니다."
     }
   ],
   "review_items": [
     {
-      "source_date": "2026-11-01",
-      "english": "I'm just trying to confirm if breakfast is part of my reservation.",
-      "pronunciation": "아임 저스트 트라잉 투 컨펌 이프 브렉퍼스트 이즈 파트 옵 마이 레저베이션.",
-      "korean": "제 예약에 조식이 포함되어 있는지 확인하고 싶어요.",
+      "source_date": "2026-11-02",
+      "english": "Is there any flexibility with the standard check-out time today?",
+      "pronunciation": "이즈 데어 에니 플렉서빌리티 윋 더 스탠다드 체크아웃 타임 투데이?",
+      "korean": "오늘 정규 체크아웃 시간에 좀 유동성이 있을까요?",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-11-01",
-      "english": "Could you let me know the breakfast hours and where it's served?",
-      "pronunciation": "쿠쥬 렛 미 노 더 브렉퍼스트 아워즈 앤 웨얼 잇츠 썰브드?",
-      "korean": "조식 시간과 제공되는 장소를 알려주실 수 있나요?",
+      "source_date": "2026-11-02",
+      "english": "My flight doesn't depart until quite late, so I was hoping to stay in the room until around 4 PM.",
+      "pronunciation": "마이 플라이ㅌ 더즌ㅌ 디파엍 언틸 콰이ㅌ 레이ㅌ, 쏘 아이 워즈 호핑 투 스테이 인 더 룸 언틸 어라운드 포 피엠.",
+      "korean": "제 비행기가 꽤 늦게 출발해서, 오후 4시쯤까지 방에 머물 수 있기를 바라고 있었어요.",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-30",
-      "english": "I'm experiencing an issue with the shower in my room; there's no hot water coming out.",
-      "pronunciation": "아임 익스피리언싱 언 이슈 윗 더 샤워 인 마이 룸; 데얼스 노 핫 워터 커밍 아웃.",
-      "korean": "제 방 샤워기에 문제가 있어요. 뜨거운 물이 나오지 않습니다.",
+      "source_date": "2026-10-31",
+      "english": "We've run out of clean towels. Could you arrange for a couple of fresh ones to be sent up?",
+      "pronunciation": "위-브 런 아웃 옵 클린 타월스. 쿠쥬 어레인지 포 러 커플 옵 프레쉬 원스 투 비 센트 업?",
+      "korean": "깨끗한 수건이 다 떨어졌어요. 새 수건 두어 장을 방으로 올려 보내 주실 수 있을까요?",
       "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-30",
-      "english": "It seems like the water pressure in the shower is unusually low, making it difficult to properly rinse.",
-      "pronunciation": "잇 심스 라이크 더 워터 프레셔 인 더 샤워 이스 언유주얼리 로우, 메이킹 잇 디피컬트 투 프라펄리 린스.",
-      "korean": "샤워기 수압이 유난히 낮은 것 같아요. 제대로 헹구기가 어렵네요.",
+      "source_date": "2026-10-31",
+      "english": "Regarding drinking water, is it replenished daily, or should I request additional bottles?",
+      "pronunciation": "리가딩 드링킹 워터, 이즈 잇 리플레니쉬트 데일리, 올 슈다이 리퀘스트 어디셔널 바틀스?",
+      "korean": "식수와 관련해서요, 매일 채워지나요, 아니면 추가 생수를 요청해야 하나요?",
       "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-27",
-      "english": "I've just gotten to my room, and I believe the room type isn't what I originally booked.",
-      "pronunciation": "아-브 저스트 가튼 투 마이 룸, 앤 아이 빌리브 더 룸 타입 이즌트 왓 아이 어리지널리 북트.",
-      "korean": "방금 방에 들어왔는데, 제가 원래 예약했던 객실 타입이 아닌 것 같아요.",
+      "source_date": "2026-10-28",
+      "english": "I'm afraid I'm experiencing quite a bit of noise in my room.",
+      "pronunciation": "아임 어프레이드 아임 익스피리언싱 콰잇-어 빗 어브 노이즈 인 마이 룸.",
+      "korean": "제 방에서 소음이 꽤 심한 것 같아서요.",
       "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     }
   ]
