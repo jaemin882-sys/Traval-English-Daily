@@ -1,0 +1,210 @@
+{
+  "date": "2026-11-04",
+  "updated_at": "11:30 KST",
+  "topic": "호텔 청구서에 모르는 금액이 있을 때 문의하기",
+  "intro": "체크아웃 직전, 호텔 청구서를 꼼꼼히 확인했는데 예상치 못한 금액이 적혀있습니다. 이 요금이 어디서 발생한 것인지 확인하고 싶을 때 사용할 수 있는 표현들을 배워봅니다.",
+  "sentences": [
+    {
+      "english": "I'm reviewing my bill, and there's a charge here I don't recognize.",
+      "pronunciation": "아임 뤼뷰잉 마이 빌, 앤 데얼즈 어 챠-쥐 히어 아이 돈 뤡어그나이즈.",
+      "korean": "청구서를 보고 있는데, 제가 모르는 요금이 하나 있어요.",
+      "tip": "청구서를 확인하고 있다는 상황을 먼저 제시하며 자연스럽게 문제를 제기하는 표현입니다."
+    },
+    {
+      "english": "Could you explain what this 'Miscellaneous' charge is for?",
+      "pronunciation": "쿧 유 익스플레인 왓 디스 '미쓸레이니어스' 챠-쥐 이즈 포어?",
+      "korean": "이 '잡비(Miscellaneous)'라는 요금이 무엇에 대한 것인지 설명해 주실 수 있나요?",
+      "tip": "'Could you'를 사용하여 정중하게 설명을 요청하며, 명확히 모르는 항목을 콕 집어 질문합니다."
+    },
+    {
+      "english": "I don't recall making any purchases or using any services that would incur this amount.",
+      "pronunciation": "아이 돈 뤼콜 메이킹 애니 퍼-춰시스 오어 유징 애니 써-비시스 댓 우드 인-커 디스 어마운트.",
+      "korean": "이 금액이 발생할 만한 어떤 구매나 서비스를 이용한 기억이 없는데요.",
+      "tip": "왜 이 요금을 모르는지 자신의 상황을 설명하여 직원의 이해를 돕는 표현입니다. 'incur'는 '발생시키다'라는 뜻입니다."
+    },
+    {
+      "english": "Would it be possible to get a detailed breakdown of this specific charge?",
+      "pronunciation": "우딧 비 파서블 투 겟 어 디테일드 브레익다운 어브 디스 스페씨픽 챠-쥐?",
+      "korean": "이 특정 요금에 대한 세부 내역을 받아볼 수 있을까요?",
+      "tip": "'Would it be possible to~'는 'possibly'와 달리 어떤 요청이 가능한지 묻는 아주 정중한 표현입니다. 'detailed breakdown'은 상세 내역을 의미합니다."
+    },
+    {
+      "english": "What steps can we take to clarify this and adjust the bill if necessary?",
+      "pronunciation": "왓 스텝스 캔 위 테익 투 클레러파이 디스 앤 어져스트 더 빌 입 네써쎄리?",
+      "korean": "이것을 명확히 하고 필요하다면 청구서를 조정하기 위해 어떤 조치를 취할 수 있을까요?",
+      "tip": "문제 해결을 위한 다음 단계를 묻는 표현으로, 단순히 불만을 제기하는 것이 아니라 해결 의지를 보여줍니다. 'clarify'는 '명확히 하다', 'adjust'는 '조정하다'입니다."
+    }
+  ],
+  "pattern": {
+    "form": "I'm trying to understand [what/why/how]...",
+    "pronunciation": "아임 트라잉 투 언더스탠드 [왓/와이/하우]...",
+    "meaning": "~이 무엇인지/왜/어떻게 된 것인지 이해하려고 합니다.",
+    "examples": [
+      {
+        "english": "I'm trying to understand what this 'Minibar' charge represents.",
+        "pronunciation": "아임 트라잉 투 언더스탠드 왓 디스 '미니바' 챠-쥐 뤠프리젠츠.",
+        "korean": "이 '미니바' 요금이 무엇을 나타내는지 이해하려고 합니다.",
+        "tip": "특정 요금 항목이 무엇인지 불분명할 때 그 의미를 묻는 데 사용합니다."
+      },
+      {
+        "english": "I'm trying to understand why this amount was added to my room bill.",
+        "pronunciation": "아임 트라잉 투 언더스탠드 와이 디스 어마운트 워즈 애디드 투 마이 룸 빌.",
+        "korean": "이 금액이 왜 제 객실 청구서에 추가되었는지 이해하려고 합니다.",
+        "tip": "특정 금액이 청구된 이유를 알고 싶을 때 사용할 수 있습니다."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "bill / invoice",
+      "pronunciation": "빌 / 인-보이스",
+      "meaning": "청구서, 계산서",
+      "tip": "'bill'이 더 일반적이며, 'invoice'는 영수증에 가까운 상세 청구서를 의미할 때도 쓰입니다."
+    },
+    {
+      "word": "unfamiliar charge",
+      "pronunciation": "언펌일리어 챠-쥐",
+      "meaning": "모르는 요금",
+      "tip": "말 그대로 '익숙하지 않은, 모르는' 요금을 지칭할 때 사용합니다."
+    },
+    {
+      "word": "detailed breakdown",
+      "pronunciation": "디테일드 브레익다운",
+      "meaning": "세부 내역",
+      "tip": "특정 금액이나 항목에 대한 상세한 목록이나 설명을 요청할 때 쓰는 유용한 표현입니다."
+    },
+    {
+      "word": "incur",
+      "pronunciation": "인-커",
+      "meaning": "(비용, 손실 등을) 발생시키다, 부담하다",
+      "tip": "어떤 행동으로 인해 비용이 발생했음을 나타낼 때 사용합니다."
+    },
+    {
+      "word": "rectify",
+      "pronunciation": "뤡터파이",
+      "meaning": "(잘못된 것을) 시정하다, 바로잡다",
+      "tip": "'correct'보다 좀 더 격식 있고, '잘못된 것을 고치다'라는 뉘앙스가 강합니다."
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Staff",
+      "english": "Good morning! Checking out?",
+      "pronunciation": "굿 모어닝! 췌킹 아웃?",
+      "korean": "좋은 아침입니다! 체크아웃하시나요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Good morning. Yes, I am. I'm just reviewing my bill, and there's a charge here I don't recognize.",
+      "pronunciation": "굿 모어닝. 예스, 아이 앰. 아임 저스트 뤼뷰잉 마이 빌, 앤 데얼즈 어 챠-쥐 히어 아이 돈 뤡어그나이즈.",
+      "korean": "좋은 아침입니다. 네, 체크아웃합니다. 청구서를 보고 있는데, 제가 모르는 요금이 하나 있어요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Oh, I see. Which one are you referring to?",
+      "pronunciation": "오우, 아이 씨. 위치 원 아 유 뤼퍼링 투?",
+      "korean": "아, 알겠습니다. 어떤 요금을 말씀하시나요?"
+    },
+    {
+      "speaker": "You",
+      "english": "It's this one for '$30' labeled 'Miscellaneous'. I don't recall making any purchases or using any services that would incur this amount.",
+      "pronunciation": "잇츠 디스 원 포어 '썰리 달러즈' 레벌드 '미쓸레이니어스'. 아이 돈 뤼콜 메이킹 애니 퍼-춰시스 오어 유징 애니 써-비시스 댓 우드 인-커 디스 어마운트.",
+      "korean": "'잡비'라고 적힌 30달러짜리 요금이에요. 이 금액이 발생할 만한 어떤 구매나 서비스를 이용한 기억이 없는데요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Hmm, 'Miscellaneous,' you say. Let me look into that for you. What dates did you stay with us?",
+      "pronunciation": "음, '미쓸레이니어스'라구요. 제가 한번 확인해 보겠습니다. 언제부터 언제까지 묵으셨나요?",
+      "korean": "음, '잡비'라구요. 제가 한번 확인해 보겠습니다. 언제부터 언제까지 묵으셨나요?"
+    },
+    {
+      "speaker": "You",
+      "english": "My stay was from the 15th to the 18th. Would it be possible to get a detailed breakdown of this specific charge? I'm trying to understand what it's for.",
+      "pronunciation": "마이 스테이 워즈 프럼 더 피프틴쓰 투 더 에이틴쓰. 우딧 비 파서블 투 겟 어 디테일드 브레익다운 어브 디스 스페씨픽 챠-쥐? 아임 트라잉 투 언더스탠드 왓 잇츠 포어.",
+      "korean": "15일부터 18일까지 묵었습니다. 이 특정 요금에 대한 세부 내역을 받아볼 수 있을까요? 무엇에 대한 것인지 이해하려고 합니다."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Certainly. Please give me a moment while I check the system. I'll do my best to rectify this for you.",
+      "pronunciation": "썰튼리. 플리즈 기브 미 어 모먼트 와일 아이 췤 더 씨스템. 아일 두 마이 베스트 투 뤡터파이 디스 포어 유.",
+      "korean": "알겠습니다. 시스템을 확인하는 동안 잠시만 기다려 주세요. 최선을 다해 바로잡아 드리겠습니다."
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "I'm reviewing my bill, and there's a charge here I don't recognize.",
+      "pronunciation": "아임 뤼뷰잉 마이 빌, 앤 데얼즈 어 챠-쥐 히어 아이 돈 뤡어그나이즈.",
+      "korean": "제 계산서에 제가 모르는 요금이 있어요.",
+      "tip": "청구서를 확인하고 있다는 상황을 먼저 언급해보세요."
+    },
+    {
+      "english": "I'm trying to understand what this 'Minibar' charge represents.",
+      "pronunciation": "아임 트라잉 투 언더스탠드 왓 디스 '미니바' 챠-쥐 뤠프리젠츠.",
+      "korean": "이 '미니바' 요금이 무엇을 나타내는지 이해하려고 합니다.",
+      "tip": "'I'm trying to understand' 패턴을 활용하여 무엇이 궁금한지 말해보세요."
+    },
+    {
+      "english": "Would it be possible to get a detailed breakdown of this specific charge?",
+      "pronunciation": "우딧 비 파서블 투 겟 어 디테일드 브레익다운 어브 디스 스페씨픽 챠-쥐?",
+      "korean": "이 특정 요금의 세부 내역을 받을 수 있을까요?",
+      "tip": "'Would it be possible to~'와 'detailed breakdown'을 사용해서 상세 내역을 요청해보세요."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "I've noticed something unusual on my bill.",
+      "pronunciation": "아이브 노우티스트 썸씽 언유주얼 온 마이 빌.",
+      "korean": "청구서에 특이한 점을 발견했어요.",
+      "note": "원래 표현보다 조금 더 부드럽고 간접적으로 문제를 제기하는 방식입니다. '어떤 이상한 것이 있다'는 뉘앙스를 풍깁니다."
+    },
+    {
+      "english": "I'm a bit confused about this 'Miscellaneous' charge.",
+      "pronunciation": "아임 어 빗 컨퓨즈드 어바웃 디스 '미쓸레이니어스' 챠-쥐.",
+      "korean": "이 '잡비'라는 요금이 좀 혼란스럽네요.",
+      "note": "직접적인 질문 대신 자신의 '혼란스러움'을 먼저 표현하여 설명을 유도하는, 좀 더 감정적인(그러나 여전히 정중한) 접근 방식입니다."
+    },
+    {
+      "english": "I'd appreciate it if you could clarify the details of this specific charge.",
+      "pronunciation": "아이드 어프리시에잇 잇 입 유 쿧 클레러파이 더 디테일스 어브 디스 스페씨픽 챠-쥐.",
+      "korean": "이 특정 요금의 세부 사항을 명확히 해주시면 감사하겠습니다.",
+      "note": "'Would it be possible to~' 대신 'I'd appreciate it if you could~'를 사용하여 정중하게 요청하는 표현입니다. 'clarify'는 '명확히 하다'는 의미로 'explain'과 유사하게 쓰일 수 있습니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-11-03",
+      "english": "We're checking out now, but our flight isn't until much later. I'm hoping to find out if we can leave our luggage here for a few hours.",
+      "pronunciation": "위얼 체킹 아웃 나우, 벗 아워 플라잇 이즌튼 언틸 머치 레이터. 아임 호핑 투 파인드 아웃 이프 위 캔 리브 아워 러기지 히어 포러 퓨 아워스.",
+      "korean": "저희 지금 체크아웃 하는데, 비행기가 한참 뒤라서요. 짐을 여기 몇 시간 맡길 수 있는지 알아보고 싶어요.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-03",
+      "english": "What's the process for leaving our luggage here after checkout?",
+      "pronunciation": "왓츠 더 프로세스 포 리빙 아워 러기지 히어 애프터 체크아웃?",
+      "korean": "체크아웃 후에 짐을 여기에 맡기는 절차가 어떻게 되나요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-01",
+      "english": "I'm just trying to confirm if breakfast is part of my reservation.",
+      "pronunciation": "아임 저스트 트라잉 투 컨펌 이프 브렉퍼스트 이즈 파트 옵 마이 레저베이션.",
+      "korean": "제 예약에 조식이 포함되어 있는지 확인하고 싶어요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-01",
+      "english": "Could you let me know the breakfast hours and where it's served?",
+      "pronunciation": "쿠쥬 렛 미 노 더 브렉퍼스트 아워즈 앤 웨얼 잇츠 썰브드?",
+      "korean": "조식 시간과 제공되는 장소를 알려주실 수 있나요?",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-10-29",
+      "english": "It seems the air conditioning in my room isn't functioning properly.",
+      "pronunciation": "잇 씨-임즈 디 에어 컨디셔닝 인 마이 룸 이즌트 펑셔닝 프라펄리.",
+      "korean": "제 방 에어컨이 제대로 작동하지 않는 것 같아요.",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
