@@ -1,209 +1,196 @@
 {
-  "date": "2026-11-04",
-  "updated_at": "11:30 KST",
-  "topic": "호텔 청구서에 모르는 금액이 있을 때 문의하기",
-  "intro": "체크아웃 직전, 호텔 청구서를 꼼꼼히 확인했는데 예상치 못한 금액이 적혀있습니다. 이 요금이 어디서 발생한 것인지 확인하고 싶을 때 사용할 수 있는 표현들을 배워봅니다.",
+  "date": "2026-11-05",
+  "updated_at": "11:38 KST",
+  "topic": "예약 없이 식당에 갔을 때 대기시간 묻기",
+  "intro": "해외여행 중 유명한 식당에 예약 없이 방문했을 때, 얼마나 기다려야 하는지, 대기자 명단에 이름을 올리는 방법은 무엇인지 등을 영어로 자연스럽게 물어보는 상황을 학습합니다.",
   "sentences": [
     {
-      "english": "I'm reviewing my bill, and there's a charge here I don't recognize.",
-      "pronunciation": "아임 뤼뷰잉 마이 빌, 앤 데얼즈 어 챠-쥐 히어 아이 돈 뤡어그나이즈.",
-      "korean": "청구서를 보고 있는데, 제가 모르는 요금이 하나 있어요.",
-      "tip": "청구서를 확인하고 있다는 상황을 먼저 제시하며 자연스럽게 문제를 제기하는 표현입니다."
+      "english": "Hi, we don't have a reservation, but we're hoping to get a table for two.",
+      "pronunciation": "하이, 위 돈 해버 레저베이션, 벗 위얼 호핑 투 겟어 테이-블 포 투.",
+      "korean": "안녕하세요, 예약은 안 했지만, 두 명이 앉을 테이블을 찾고 있어요.",
+      "tip": "예약 없이 왔음을 알리고 인원수를 말할 때 사용할 수 있는 부드러운 시작 표현입니다."
     },
     {
-      "english": "Could you explain what this 'Miscellaneous' charge is for?",
-      "pronunciation": "쿧 유 익스플레인 왓 디스 '미쓸레이니어스' 챠-쥐 이즈 포어?",
-      "korean": "이 '잡비(Miscellaneous)'라는 요금이 무엇에 대한 것인지 설명해 주실 수 있나요?",
-      "tip": "'Could you'를 사용하여 정중하게 설명을 요청하며, 명확히 모르는 항목을 콕 집어 질문합니다."
+      "english": "What's the typical wait time looking like for walk-ins right now?",
+      "pronunciation": "왓츠 더 티-피컬 웨잍 타임 루킹 라이크 포 워크-인스 라이트 나우?",
+      "korean": "지금 예약 없이 오신 분들은 보통 대기시간이 얼마나 되나요?",
+      "tip": "'walk-ins'는 예약 없이 온 손님을 의미하며, 'looking like'는 '어떤 상황인 것 같냐'는 뉘앙스로 실제 회화에서 많이 쓰입니다."
     },
     {
-      "english": "I don't recall making any purchases or using any services that would incur this amount.",
-      "pronunciation": "아이 돈 뤼콜 메이킹 애니 퍼-춰시스 오어 유징 애니 써-비시스 댓 우드 인-커 디스 어마운트.",
-      "korean": "이 금액이 발생할 만한 어떤 구매나 서비스를 이용한 기억이 없는데요.",
-      "tip": "왜 이 요금을 모르는지 자신의 상황을 설명하여 직원의 이해를 돕는 표현입니다. 'incur'는 '발생시키다'라는 뜻입니다."
+      "english": "Do you happen to have any seating available for two people in the next 30 minutes or so?",
+      "pronunciation": "두유 해픈 투 해브 애니 시팅 어베일러블 포 투 피플 인 더 넥스트 써티 미닛츠 오어 쏘?",
+      "korean": "혹시 30분 이내에 두 명이 앉을 좌석이 있을까요?",
+      "tip": "'Do you happen to have~?'는 상대방이 예상치 못한 정보를 가지고 있을 수도 있다는 정중한 뉘앙스를 줍니다. 'or so'는 '대략 ~쯤'이라는 뜻입니다."
     },
     {
-      "english": "Would it be possible to get a detailed breakdown of this specific charge?",
-      "pronunciation": "우딧 비 파서블 투 겟 어 디테일드 브레익다운 어브 디스 스페씨픽 챠-쥐?",
-      "korean": "이 특정 요금에 대한 세부 내역을 받아볼 수 있을까요?",
-      "tip": "'Would it be possible to~'는 'possibly'와 달리 어떤 요청이 가능한지 묻는 아주 정중한 표현입니다. 'detailed breakdown'은 상세 내역을 의미합니다."
+      "english": "If we put our name down, how long would it usually take to get a table for two?",
+      "pronunciation": "이프 위 풋 아월 네임 다운, 하우 롱 우딧 유-주얼리 테익 투 겟어 테이-블 포 투?",
+      "korean": "만약 저희 이름을 대기자 명단에 올리면, 두 명이 앉을 테이블은 보통 얼마나 걸릴까요?",
+      "tip": "'put our name down'은 '이름을 (명단에) 올리다' 즉, 대기자 명단에 이름을 올리는 것을 의미합니다. 구체적인 상황을 가정하여 질문할 때 유용합니다."
     },
     {
-      "english": "What steps can we take to clarify this and adjust the bill if necessary?",
-      "pronunciation": "왓 스텝스 캔 위 테익 투 클레러파이 디스 앤 어져스트 더 빌 입 네써쎄리?",
-      "korean": "이것을 명확히 하고 필요하다면 청구서를 조정하기 위해 어떤 조치를 취할 수 있을까요?",
-      "tip": "문제 해결을 위한 다음 단계를 묻는 표현으로, 단순히 불만을 제기하는 것이 아니라 해결 의지를 보여줍니다. 'clarify'는 '명확히 하다', 'adjust'는 '조정하다'입니다."
+      "english": "And if we're waiting, where's the best spot to do so, and how will we know when our table is ready?",
+      "pronunciation": "앤드 이프 위얼 웨이팅, 웨얼즈 더 베스트 스팟 투 두 쏘, 앤드 하우 윌 위 노우 웬 아월 테이-블 이즈 레디?",
+      "korean": "그리고 기다린다면 어디가 가장 좋은 자리일까요, 그리고 테이블 준비가 되면 어떻게 알 수 있을까요?",
+      "tip": "대기하는 동안의 실질적인 정보를 얻고자 할 때 사용하는 질문입니다. 'spot'은 '장소'를 의미합니다."
     }
   ],
   "pattern": {
-    "form": "I'm trying to understand [what/why/how]...",
-    "pronunciation": "아임 트라잉 투 언더스탠드 [왓/와이/하우]...",
-    "meaning": "~이 무엇인지/왜/어떻게 된 것인지 이해하려고 합니다.",
+    "form": "How long are we typically looking at for [noun/verb-ing]?",
+    "pronunciation": "하우 롱 아 위 티-피컬리 루킹 앳 포 [명사/동명사]?",
+    "meaning": "~에 대해 보통 얼마나 예상해야 하나요? / ~까지 얼마나 걸릴까요?",
     "examples": [
       {
-        "english": "I'm trying to understand what this 'Minibar' charge represents.",
-        "pronunciation": "아임 트라잉 투 언더스탠드 왓 디스 '미니바' 챠-쥐 뤠프리젠츠.",
-        "korean": "이 '미니바' 요금이 무엇을 나타내는지 이해하려고 합니다.",
-        "tip": "특정 요금 항목이 무엇인지 불분명할 때 그 의미를 묻는 데 사용합니다."
+        "english": "How long are we typically looking at for a table by the window?",
+        "pronunciation": "하우 롱 아 위 티-피컬리 루킹 앳 포 어 테이-블 바이 더 윈도우?",
+        "korean": "창가 자리까지는 보통 얼마나 예상해야 할까요?"
       },
       {
-        "english": "I'm trying to understand why this amount was added to my room bill.",
-        "pronunciation": "아임 트라잉 투 언더스탠드 와이 디스 어마운트 워즈 애디드 투 마이 룸 빌.",
-        "korean": "이 금액이 왜 제 객실 청구서에 추가되었는지 이해하려고 합니다.",
-        "tip": "특정 금액이 청구된 이유를 알고 싶을 때 사용할 수 있습니다."
+        "english": "How long are we typically looking at for getting an update on our order?",
+        "pronunciation": "하우 롱 아 위 티-피컬리 루킹 앳 포 게링 언 업데이트 온 아월 오더?",
+        "korean": "주문 상황 업데이트까지는 보통 얼마나 예상해야 하나요?"
       }
     ]
   },
   "words": [
     {
-      "word": "bill / invoice",
-      "pronunciation": "빌 / 인-보이스",
-      "meaning": "청구서, 계산서",
-      "tip": "'bill'이 더 일반적이며, 'invoice'는 영수증에 가까운 상세 청구서를 의미할 때도 쓰입니다."
+      "word": "walk-in",
+      "pronunciation": "워크-인",
+      "meaning": "예약 없이 방문한 손님 (또는 그런 상황)"
     },
     {
-      "word": "unfamiliar charge",
-      "pronunciation": "언펌일리어 챠-쥐",
-      "meaning": "모르는 요금",
-      "tip": "말 그대로 '익숙하지 않은, 모르는' 요금을 지칭할 때 사용합니다."
+      "word": "put your name down",
+      "pronunciation": "풋 유어 네임 다운",
+      "meaning": "(대기자 명단 등에) 이름을 올리다"
     },
     {
-      "word": "detailed breakdown",
-      "pronunciation": "디테일드 브레익다운",
-      "meaning": "세부 내역",
-      "tip": "특정 금액이나 항목에 대한 상세한 목록이나 설명을 요청할 때 쓰는 유용한 표현입니다."
+      "word": "seating available",
+      "pronunciation": "시팅 어베일러블",
+      "meaning": "이용 가능한 좌석"
     },
     {
-      "word": "incur",
-      "pronunciation": "인-커",
-      "meaning": "(비용, 손실 등을) 발생시키다, 부담하다",
-      "tip": "어떤 행동으로 인해 비용이 발생했음을 나타낼 때 사용합니다."
+      "word": "on the waitlist",
+      "pronunciation": "온 더 웨이팅-리스트",
+      "meaning": "대기자 명단에 있는"
     },
     {
-      "word": "rectify",
-      "pronunciation": "뤡터파이",
-      "meaning": "(잘못된 것을) 시정하다, 바로잡다",
-      "tip": "'correct'보다 좀 더 격식 있고, '잘못된 것을 고치다'라는 뉘앙스가 강합니다."
+      "word": "host/hostess",
+      "pronunciation": "호스트/호스티스",
+      "meaning": "식당 안내 직원 (남성/여성)"
     }
   ],
   "dialogue": [
     {
+      "speaker": "You",
+      "english": "Hi, we're a party of two. We don't have a reservation tonight.",
+      "pronunciation": "하이, 위얼 어 파티 오브 투. 위 돈 해버 레저베이션 투나잇.",
+      "korean": "안녕하세요, 두 명입니다. 오늘 저녁 예약은 안 했어요."
+    },
+    {
       "speaker": "Staff",
-      "english": "Good morning! Checking out?",
-      "pronunciation": "굿 모어닝! 췌킹 아웃?",
-      "korean": "좋은 아침입니다! 체크아웃하시나요?"
+      "english": "No problem. For walk-ins right now, we're looking at about a 40 to 50 minute wait.",
+      "pronunciation": "노우 프라블럼. 포 워크-인스 라이트 나우, 위얼 루킹 앳 어바웃 어 포티 투 피프티 미닛 웨이트.",
+      "korean": "네, 괜찮습니다. 예약 없이 오신 분들은 지금 40분에서 50분 정도 기다리셔야 할 것 같아요."
     },
     {
       "speaker": "You",
-      "english": "Good morning. Yes, I am. I'm just reviewing my bill, and there's a charge here I don't recognize.",
-      "pronunciation": "굿 모어닝. 예스, 아이 앰. 아임 저스트 뤼뷰잉 마이 빌, 앤 데얼즈 어 챠-쥐 히어 아이 돈 뤡어그나이즈.",
-      "korean": "좋은 아침입니다. 네, 체크아웃합니다. 청구서를 보고 있는데, 제가 모르는 요금이 하나 있어요."
+      "english": "Okay, 40 to 50 minutes. Is there any chance that could be shorter, or is that a firm estimate?",
+      "pronunciation": "오케이, 포티 투 피프티 미닛츠. 이즈 데어 애니 챈스 댓 쿠드 비 쇼터, 오어 이즈 댓 어 펌 에스티밋?",
+      "korean": "음, 40분에서 50분이요. 혹시 더 짧아질 가능성도 있을까요, 아니면 거의 정확한 예상인가요?"
     },
     {
       "speaker": "Staff",
-      "english": "Oh, I see. Which one are you referring to?",
-      "pronunciation": "오우, 아이 씨. 위치 원 아 유 뤼퍼링 투?",
-      "korean": "아, 알겠습니다. 어떤 요금을 말씀하시나요?"
+      "english": "It's a pretty good estimate, but sometimes tables open up a bit quicker. We can put your name on the waitlist.",
+      "pronunciation": "이츠 어 프리티 굿 에스티밋, 벗 썸타임스 테이-블스 오픈 업 어 빗 퀵커. 위 캔 풋 유어 네임 온 더 웨이팅-리스트.",
+      "korean": "꽤 정확한 예상치지만, 가끔 테이블이 좀 더 빨리 나오기도 합니다. 대기자 명단에 이름을 올려드릴 수 있어요."
     },
     {
       "speaker": "You",
-      "english": "It's this one for '$30' labeled 'Miscellaneous'. I don't recall making any purchases or using any services that would incur this amount.",
-      "pronunciation": "잇츠 디스 원 포어 '썰리 달러즈' 레벌드 '미쓸레이니어스'. 아이 돈 뤼콜 메이킹 애니 퍼-춰시스 오어 유징 애니 써-비시스 댓 우드 인-커 디스 어마운트.",
-      "korean": "'잡비'라고 적힌 30달러짜리 요금이에요. 이 금액이 발생할 만한 어떤 구매나 서비스를 이용한 기억이 없는데요."
+      "english": "Perfect. And how will we know when our table is ready?",
+      "pronunciation": "퍼펙트. 앤드 하우 윌 위 노우 웬 아월 테이-블 이즈 레디?",
+      "korean": "좋아요. 그리고 저희 테이블이 준비되면 어떻게 알 수 있을까요?"
     },
     {
       "speaker": "Staff",
-      "english": "Hmm, 'Miscellaneous,' you say. Let me look into that for you. What dates did you stay with us?",
-      "pronunciation": "음, '미쓸레이니어스'라구요. 제가 한번 확인해 보겠습니다. 언제부터 언제까지 묵으셨나요?",
-      "korean": "음, '잡비'라구요. 제가 한번 확인해 보겠습니다. 언제부터 언제까지 묵으셨나요?"
-    },
-    {
-      "speaker": "You",
-      "english": "My stay was from the 15th to the 18th. Would it be possible to get a detailed breakdown of this specific charge? I'm trying to understand what it's for.",
-      "pronunciation": "마이 스테이 워즈 프럼 더 피프틴쓰 투 더 에이틴쓰. 우딧 비 파서블 투 겟 어 디테일드 브레익다운 어브 디스 스페씨픽 챠-쥐? 아임 트라잉 투 언더스탠드 왓 잇츠 포어.",
-      "korean": "15일부터 18일까지 묵었습니다. 이 특정 요금에 대한 세부 내역을 받아볼 수 있을까요? 무엇에 대한 것인지 이해하려고 합니다."
-    },
-    {
-      "speaker": "Staff",
-      "english": "Certainly. Please give me a moment while I check the system. I'll do my best to rectify this for you.",
-      "pronunciation": "썰튼리. 플리즈 기브 미 어 모먼트 와일 아이 췤 더 씨스템. 아일 두 마이 베스트 투 뤡터파이 디스 포어 유.",
-      "korean": "알겠습니다. 시스템을 확인하는 동안 잠시만 기다려 주세요. 최선을 다해 바로잡아 드리겠습니다."
+      "english": "We'll send you a text message when your table is just about ready. Feel free to wait by the bar.",
+      "pronunciation": "윌 센드 유 어 텍스트 메세지 웬 유어 테이-블 이즈 저스트 어바웃 레디. 필 프리 투 웨이트 바이 더 바.",
+      "korean": "테이블이 거의 준비될 때쯤 문자 메시지를 보내드릴 거예요. 바에서 편하게 기다리시면 됩니다."
     }
   ],
   "retrieval": [
     {
-      "english": "I'm reviewing my bill, and there's a charge here I don't recognize.",
-      "pronunciation": "아임 뤼뷰잉 마이 빌, 앤 데얼즈 어 챠-쥐 히어 아이 돈 뤡어그나이즈.",
-      "korean": "제 계산서에 제가 모르는 요금이 있어요.",
-      "tip": "청구서를 확인하고 있다는 상황을 먼저 언급해보세요."
+      "english": "What's the typical wait time for a table for three people without a reservation?",
+      "pronunciation": "왓츠 더 티-피컬 웨이트 타임 포어 테이-블 포 쓰리 피플 위다웃 어 레저베이션?",
+      "korean": "예약 없이 세 명이 앉을 테이블은 대기시간이 보통 얼마나 될까요?",
+      "tip": "'typical wait time'을 사용하여 평균 대기시간을 묻습니다."
     },
     {
-      "english": "I'm trying to understand what this 'Minibar' charge represents.",
-      "pronunciation": "아임 트라잉 투 언더스탠드 왓 디스 '미니바' 챠-쥐 뤠프리젠츠.",
-      "korean": "이 '미니바' 요금이 무엇을 나타내는지 이해하려고 합니다.",
-      "tip": "'I'm trying to understand' 패턴을 활용하여 무엇이 궁금한지 말해보세요."
+      "english": "Could we put our name down for a table for two?",
+      "pronunciation": "쿠드 위 풋 아월 네임 다운 포어 테이-블 포 투?",
+      "korean": "두 명 테이블 대기자 명단에 이름을 올릴 수 있을까요?",
+      "tip": "대기자 명단에 이름을 올리고 싶다는 요청을 정중하게 표현합니다."
     },
     {
-      "english": "Would it be possible to get a detailed breakdown of this specific charge?",
-      "pronunciation": "우딧 비 파서블 투 겟 어 디테일드 브레익다운 어브 디스 스페씨픽 챠-쥐?",
-      "korean": "이 특정 요금의 세부 내역을 받을 수 있을까요?",
-      "tip": "'Would it be possible to~'와 'detailed breakdown'을 사용해서 상세 내역을 요청해보세요."
+      "english": "Do you happen to have any open tables right now for two?",
+      "pronunciation": "두 유 해픈 투 해브 애니 오픈 테이-블스 라이트 나우 포 투?",
+      "korean": "혹시 지금 바로 두 명이 앉을 빈 테이블이 있을까요?",
+      "tip": "현재 바로 이용 가능한 테이블이 있는지 궁금할 때 'open tables'라는 표현을 사용할 수 있습니다."
     }
   ],
   "alternatives": [
     {
-      "english": "I've noticed something unusual on my bill.",
-      "pronunciation": "아이브 노우티스트 썸씽 언유주얼 온 마이 빌.",
-      "korean": "청구서에 특이한 점을 발견했어요.",
-      "note": "원래 표현보다 조금 더 부드럽고 간접적으로 문제를 제기하는 방식입니다. '어떤 이상한 것이 있다'는 뉘앙스를 풍깁니다."
+      "english": "How long is the current estimated wait?",
+      "pronunciation": "하우 롱 이즈 더 커런트 에스티메이티드 웨이트?",
+      "korean": "현재 예상 대기 시간은 얼마나 되나요?",
+      "note": "좀 더 직접적이고 공식적인 느낌을 주며, 'estimated'를 넣어 '예상'이라는 점을 강조합니다."
     },
     {
-      "english": "I'm a bit confused about this 'Miscellaneous' charge.",
-      "pronunciation": "아임 어 빗 컨퓨즈드 어바웃 디스 '미쓸레이니어스' 챠-쥐.",
-      "korean": "이 '잡비'라는 요금이 좀 혼란스럽네요.",
-      "note": "직접적인 질문 대신 자신의 '혼란스러움'을 먼저 표현하여 설명을 유도하는, 좀 더 감정적인(그러나 여전히 정중한) 접근 방식입니다."
+      "english": "Are you able to seat a party of two without a reservation?",
+      "pronunciation": "아 유 에이블 투 싯 어 파티 오브 투 위다웃 어 레저베이션?",
+      "korean": "예약 없이 두 명을 앉힐 수 있나요?",
+      "note": "식당이 예약 없는 손님을 받아줄 수 있는 '능력'에 초점을 맞춰 질문합니다. 'able to'를 사용합니다."
     },
     {
-      "english": "I'd appreciate it if you could clarify the details of this specific charge.",
-      "pronunciation": "아이드 어프리시에잇 잇 입 유 쿧 클레러파이 더 디테일스 어브 디스 스페씨픽 챠-쥐.",
-      "korean": "이 특정 요금의 세부 사항을 명확히 해주시면 감사하겠습니다.",
-      "note": "'Would it be possible to~' 대신 'I'd appreciate it if you could~'를 사용하여 정중하게 요청하는 표현입니다. 'clarify'는 '명확히 하다'는 의미로 'explain'과 유사하게 쓰일 수 있습니다."
+      "english": "What's the general timeframe for a table for two if we get on the waitlist?",
+      "pronunciation": "왓츠 더 제너럴 타임-프레임 포어 테이-블 포 투 이프 위 겟 온 더 웨이팅-리스트?",
+      "korean": "대기자 명단에 오르면 두 명 테이블까지 일반적인 소요 시간은 얼마나 될까요?",
+      "note": "'general timeframe'을 사용하여 전반적인 소요 시간을 묻는 표현입니다. 'get on the waitlist'는 '대기자 명단에 오르다'는 뜻입니다."
     }
   ],
   "review_items": [
     {
-      "source_date": "2026-11-03",
-      "english": "We're checking out now, but our flight isn't until much later. I'm hoping to find out if we can leave our luggage here for a few hours.",
-      "pronunciation": "위얼 체킹 아웃 나우, 벗 아워 플라잇 이즌튼 언틸 머치 레이터. 아임 호핑 투 파인드 아웃 이프 위 캔 리브 아워 러기지 히어 포러 퓨 아워스.",
-      "korean": "저희 지금 체크아웃 하는데, 비행기가 한참 뒤라서요. 짐을 여기 몇 시간 맡길 수 있는지 알아보고 싶어요.",
+      "source_date": "2026-11-04",
+      "english": "I'm reviewing my bill, and there's a charge here I don't recognize.",
+      "pronunciation": "아임 뤼뷰잉 마이 빌, 앤 데얼즈 어 챠-쥐 히어 아이 돈 뤡어그나이즈.",
+      "korean": "청구서를 보고 있는데, 제가 모르는 요금이 하나 있어요.",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-11-03",
-      "english": "What's the process for leaving our luggage here after checkout?",
-      "pronunciation": "왓츠 더 프로세스 포 리빙 아워 러기지 히어 애프터 체크아웃?",
-      "korean": "체크아웃 후에 짐을 여기에 맡기는 절차가 어떻게 되나요?",
+      "source_date": "2026-11-04",
+      "english": "Could you explain what this 'Miscellaneous' charge is for?",
+      "pronunciation": "쿧 유 익스플레인 왓 디스 '미쓸레이니어스' 챠-쥐 이즈 포어?",
+      "korean": "이 '잡비(Miscellaneous)'라는 요금이 무엇에 대한 것인지 설명해 주실 수 있나요?",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-11-01",
-      "english": "I'm just trying to confirm if breakfast is part of my reservation.",
-      "pronunciation": "아임 저스트 트라잉 투 컨펌 이프 브렉퍼스트 이즈 파트 옵 마이 레저베이션.",
-      "korean": "제 예약에 조식이 포함되어 있는지 확인하고 싶어요.",
+      "source_date": "2026-11-02",
+      "english": "Is there any flexibility with the standard check-out time today?",
+      "pronunciation": "이즈 데어 에니 플렉서빌리티 윋 더 스탠다드 체크아웃 타임 투데이?",
+      "korean": "오늘 정규 체크아웃 시간에 좀 유동성이 있을까요?",
       "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-11-01",
-      "english": "Could you let me know the breakfast hours and where it's served?",
-      "pronunciation": "쿠쥬 렛 미 노 더 브렉퍼스트 아워즈 앤 웨얼 잇츠 썰브드?",
-      "korean": "조식 시간과 제공되는 장소를 알려주실 수 있나요?",
+      "source_date": "2026-11-02",
+      "english": "My flight doesn't depart until quite late, so I was hoping to stay in the room until around 4 PM.",
+      "pronunciation": "마이 플라이ㅌ 더즌ㅌ 디파엍 언틸 콰이ㅌ 레이ㅌ, 쏘 아이 워즈 호핑 투 스테이 인 더 룸 언틸 어라운드 포 피엠.",
+      "korean": "제 비행기가 꽤 늦게 출발해서, 오후 4시쯤까지 방에 머물 수 있기를 바라고 있었어요.",
       "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-29",
-      "english": "It seems the air conditioning in my room isn't functioning properly.",
-      "pronunciation": "잇 씨-임즈 디 에어 컨디셔닝 인 마이 룸 이즌트 펑셔닝 프라펄리.",
-      "korean": "제 방 에어컨이 제대로 작동하지 않는 것 같아요.",
+      "source_date": "2026-10-30",
+      "english": "I'm experiencing an issue with the shower in my room; there's no hot water coming out.",
+      "pronunciation": "아임 익스피리언싱 언 이슈 윗 더 샤워 인 마이 룸; 데얼스 노 핫 워터 커밍 아웃.",
+      "korean": "제 방 샤워기에 문제가 있어요. 뜨거운 물이 나오지 않습니다.",
       "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     }
   ]
