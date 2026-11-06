@@ -1,196 +1,210 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "updated_at": "11:38 KST",
-  "topic": "예약 없이 식당에 갔을 때 대기시간 묻기",
-  "intro": "해외여행 중 유명한 식당에 예약 없이 방문했을 때, 얼마나 기다려야 하는지, 대기자 명단에 이름을 올리는 방법은 무엇인지 등을 영어로 자연스럽게 물어보는 상황을 학습합니다.",
+  "topic": "식당에서 메뉴 추천받기",
+  "intro": "해외 식당에서 메뉴판을 받았는데, 어떤 음식을 골라야 할지 막막할 때가 많죠? 현지 음식이나 인기 있는 메뉴를 추천받고 싶을 때, 혹은 알레르기나 식단 제한 때문에 특정 재료를 피하고 싶을 때 유용하게 쓸 수 있는 영어 표현들을 배워볼 거예요. 단순히 추천해 달라는 말보다 훨씬 자연스럽고 구체적인 대화가 가능하도록 구성했습니다.",
   "sentences": [
     {
-      "english": "Hi, we don't have a reservation, but we're hoping to get a table for two.",
-      "pronunciation": "하이, 위 돈 해버 레저베이션, 벗 위얼 호핑 투 겟어 테이-블 포 투.",
-      "korean": "안녕하세요, 예약은 안 했지만, 두 명이 앉을 테이블을 찾고 있어요.",
-      "tip": "예약 없이 왔음을 알리고 인원수를 말할 때 사용할 수 있는 부드러운 시작 표현입니다."
+      "english": "I'm a bit overwhelmed by the options! What would you typically recommend for someone trying your restaurant for the first time?",
+      "pronunciation": "아임 엇 빗 오우버웰름드 바이 디 옵션스! 왓 우쥬 티피컬리 레커멘드 포어 썸원 트라잉 유어 레스터런트 포어 더 퍼스트 타임?",
+      "korean": "메뉴가 너무 많아서 좀 압도되네요! 저희 식당에 처음 오신 분께 보통 뭘 추천해 주시겠어요?",
+      "tip": "메뉴가 너무 많아 고르기 어렵다는 상황을 자연스럽게 표현하고, 처음 방문하는 사람에게 적합한 추천을 요청할 때 사용합니다."
     },
     {
-      "english": "What's the typical wait time looking like for walk-ins right now?",
-      "pronunciation": "왓츠 더 티-피컬 웨잍 타임 루킹 라이크 포 워크-인스 라이트 나우?",
-      "korean": "지금 예약 없이 오신 분들은 보통 대기시간이 얼마나 되나요?",
-      "tip": "'walk-ins'는 예약 없이 온 손님을 의미하며, 'looking like'는 '어떤 상황인 것 같냐'는 뉘앙스로 실제 회화에서 많이 쓰입니다."
+      "english": "I'm trying to avoid gluten. Are there any dishes that are naturally gluten-free or can be adapted?",
+      "pronunciation": "아임 트라잉 투 어보이드 글루텐. 아 데어 애니 디쉬즈 댓 아 내츄럴리 글루텐-프리 오어 캔 비 어댑티드?",
+      "korean": "글루텐을 피하려고 하는데요. 혹시 원래 글루텐 프리인 요리나, 그렇게 조리될 수 있는 요리가 있을까요?",
+      "tip": "특정 재료를 피할 때 'I'm trying to avoid [재료]'를 사용하여 정중하게 말합니다. 'naturally [형용사]'는 '원래 ~한'을, 'can be adapted'는 '조절/변형 가능'을 의미합니다."
     },
     {
-      "english": "Do you happen to have any seating available for two people in the next 30 minutes or so?",
-      "pronunciation": "두유 해픈 투 해브 애니 시팅 어베일러블 포 투 피플 인 더 넥스트 써티 미닛츠 오어 쏘?",
-      "korean": "혹시 30분 이내에 두 명이 앉을 좌석이 있을까요?",
-      "tip": "'Do you happen to have~?'는 상대방이 예상치 못한 정보를 가지고 있을 수도 있다는 정중한 뉘앙스를 줍니다. 'or so'는 '대략 ~쯤'이라는 뜻입니다."
+      "english": "You mentioned the [Dish Name]. Could you describe it a bit more – like, is it savory or sweet, and what's the main texture?",
+      "pronunciation": "유 멘션드 더 [디쉬 네임]. 쿠쥣 디스크라이브 잇 엇 빗 모어 – 라잌, 이즛 쎄이버리 오어 스위트, 앤 왓츠 더 메인 텍스쳐?",
+      "korean": "방금 말씀하신 [메뉴 이름]이요, 좀 더 설명해 주시겠어요? 예를 들면, 짭짤한 맛인가요 단 맛인가요, 그리고 주된 식감은 어떤가요?",
+      "tip": "직원이 언급한 특정 메뉴에 대해 구체적인 질문을 할 때 사용합니다. 맛의 종류(savory/sweet)와 식감(texture)에 대해 물어보는 표현입니다."
     },
     {
-      "english": "If we put our name down, how long would it usually take to get a table for two?",
-      "pronunciation": "이프 위 풋 아월 네임 다운, 하우 롱 우딧 유-주얼리 테익 투 겟어 테이-블 포 투?",
-      "korean": "만약 저희 이름을 대기자 명단에 올리면, 두 명이 앉을 테이블은 보통 얼마나 걸릴까요?",
-      "tip": "'put our name down'은 '이름을 (명단에) 올리다' 즉, 대기자 명단에 이름을 올리는 것을 의미합니다. 구체적인 상황을 가정하여 질문할 때 유용합니다."
+      "english": "If I'm not in the mood for anything too heavy, what lighter options might you suggest that still have a lot of flavor?",
+      "pronunciation": "이프 아임 낫 인 더 무드 포어 에니띵 투 헤비, 왓 라이터 옵션스 마잍 유 써제스트 댓 스틸 해브 엇 랏 오브 플레이버?",
+      "korean": "너무 헤비한 음식은 먹고 싶지 않다면, 여전히 맛은 좋으면서 좀 더 가벼운 메뉴로는 어떤 걸 추천해 주시겠어요?",
+      "tip": "특정 취향(여기서는 '너무 헤비하지 않은')을 언급하며 다른 대안을 물을 때 씁니다. 'might you suggest'는 'could you suggest'보다 더 조심스러운 뉘앙스를 줍니다."
     },
     {
-      "english": "And if we're waiting, where's the best spot to do so, and how will we know when our table is ready?",
-      "pronunciation": "앤드 이프 위얼 웨이팅, 웨얼즈 더 베스트 스팟 투 두 쏘, 앤드 하우 윌 위 노우 웬 아월 테이-블 이즈 레디?",
-      "korean": "그리고 기다린다면 어디가 가장 좋은 자리일까요, 그리고 테이블 준비가 되면 어떻게 알 수 있을까요?",
-      "tip": "대기하는 동안의 실질적인 정보를 얻고자 할 때 사용하는 질문입니다. 'spot'은 '장소'를 의미합니다."
+      "english": "So, if I understand correctly, the [Dish Name] is a good blend of local flavors and is quite popular, right?",
+      "pronunciation": "쏘우, 이프 아이 언더스탠드 커렉틀리, 더 [디쉬 네임] 이즈 어 굿 블렌드 오브 로컬 플레이버즈 앤 이즈 콰잇 파퓰러, 라잇?",
+      "korean": "그러니까, 제가 제대로 이해했다면, [메뉴 이름]은 현지 풍미가 잘 어우러진 요리고 꽤 인기가 많다는 거죠, 맞나요?",
+      "tip": "직원의 설명을 자신이 이해한 대로 요약하며 확인하는 표현입니다. 'if I understand correctly'로 시작하여 재확인합니다."
     }
   ],
   "pattern": {
-    "form": "How long are we typically looking at for [noun/verb-ing]?",
-    "pronunciation": "하우 롱 아 위 티-피컬리 루킹 앳 포 [명사/동명사]?",
-    "meaning": "~에 대해 보통 얼마나 예상해야 하나요? / ~까지 얼마나 걸릴까요?",
+    "form": "Could you tell me a bit more about the [aspect] of [dish/item]?",
+    "pronunciation": "쿠쥣 텔 미 엇 빗 모어 어바웃 더 [애스펙트] 어브 [디쉬/아이템]?",
+    "meaning": "[음식/항목]의 [측면]에 대해 좀 더 설명해 주시겠어요?",
     "examples": [
       {
-        "english": "How long are we typically looking at for a table by the window?",
-        "pronunciation": "하우 롱 아 위 티-피컬리 루킹 앳 포 어 테이-블 바이 더 윈도우?",
-        "korean": "창가 자리까지는 보통 얼마나 예상해야 할까요?"
+        "english": "Could you tell me a bit more about the seasoning of the roasted chicken?",
+        "pronunciation": "쿠쥣 텔 미 엇 빗 모어 어바웃 더 씨즈닝 어브 더 로스티드 치킨?",
+        "korean": "로스티드 치킨의 양념에 대해 좀 더 설명해 주시겠어요?",
+        "tip": ""
       },
       {
-        "english": "How long are we typically looking at for getting an update on our order?",
-        "pronunciation": "하우 롱 아 위 티-피컬리 루킹 앳 포 게링 언 업데이트 온 아월 오더?",
-        "korean": "주문 상황 업데이트까지는 보통 얼마나 예상해야 하나요?"
+        "english": "Could you tell me a bit more about the portion size of the pasta dish?",
+        "pronunciation": "쿠쥣 텔 미 엇 빗 모어 어바웃 더 포션 사이즈 어브 더 파스타 디쉬?",
+        "korean": "파스타 요리의 양에 대해 좀 더 설명해 주시겠어요?",
+        "tip": ""
       }
     ]
   },
   "words": [
     {
-      "word": "walk-in",
-      "pronunciation": "워크-인",
-      "meaning": "예약 없이 방문한 손님 (또는 그런 상황)"
+      "word": "signature dish",
+      "pronunciation": "시그니처 디쉬",
+      "meaning": "대표 메뉴"
     },
     {
-      "word": "put your name down",
-      "pronunciation": "풋 유어 네임 다운",
-      "meaning": "(대기자 명단 등에) 이름을 올리다"
+      "word": "flavor profile",
+      "pronunciation": "플레이버 프로파일",
+      "meaning": "맛의 특징/향미"
     },
     {
-      "word": "seating available",
-      "pronunciation": "시팅 어베일러블",
-      "meaning": "이용 가능한 좌석"
+      "word": "dietary restrictions",
+      "pronunciation": "다이어터리 리스트릭션즈",
+      "meaning": "식단 제한"
     },
     {
-      "word": "on the waitlist",
-      "pronunciation": "온 더 웨이팅-리스트",
-      "meaning": "대기자 명단에 있는"
+      "word": "portion size",
+      "pronunciation": "포션 사이즈",
+      "meaning": "1인분 양"
     },
     {
-      "word": "host/hostess",
-      "pronunciation": "호스트/호스티스",
-      "meaning": "식당 안내 직원 (남성/여성)"
+      "word": "seasonal",
+      "pronunciation": "씨즈널",
+      "meaning": "제철의, 계절 메뉴"
     }
   ],
   "dialogue": [
     {
-      "speaker": "You",
-      "english": "Hi, we're a party of two. We don't have a reservation tonight.",
-      "pronunciation": "하이, 위얼 어 파티 오브 투. 위 돈 해버 레저베이션 투나잇.",
-      "korean": "안녕하세요, 두 명입니다. 오늘 저녁 예약은 안 했어요."
-    },
-    {
       "speaker": "Staff",
-      "english": "No problem. For walk-ins right now, we're looking at about a 40 to 50 minute wait.",
-      "pronunciation": "노우 프라블럼. 포 워크-인스 라이트 나우, 위얼 루킹 앳 어바웃 어 포티 투 피프티 미닛 웨이트.",
-      "korean": "네, 괜찮습니다. 예약 없이 오신 분들은 지금 40분에서 50분 정도 기다리셔야 할 것 같아요."
+      "english": "Hi there! Welcome to The Local Bistro. Any specific preferences today, or can I help you navigate our menu?",
+      "pronunciation": "하이 데어! 웰컴 투 더 로컬 비스트로. 애니 스페시픽 프레퍼런시즈 투데이, 오어 캔 아이 헬프 유 내비게이트 아워 메뉴?",
+      "korean": "안녕하세요! 더 로컬 비스트로에 오신 것을 환영합니다. 오늘 특별히 선호하는 게 있으신가요, 아니면 메뉴 고르는 걸 도와드릴까요?"
     },
     {
       "speaker": "You",
-      "english": "Okay, 40 to 50 minutes. Is there any chance that could be shorter, or is that a firm estimate?",
-      "pronunciation": "오케이, 포티 투 피프티 미닛츠. 이즈 데어 애니 챈스 댓 쿠드 비 쇼터, 오어 이즈 댓 어 펌 에스티밋?",
-      "korean": "음, 40분에서 50분이요. 혹시 더 짧아질 가능성도 있을까요, 아니면 거의 정확한 예상인가요?"
+      "english": "Thanks! I'm a bit overwhelmed by the options! What would you typically recommend for someone trying your restaurant for the first time?",
+      "pronunciation": "땡스! 아임 엇 빗 오우버웰름드 바이 디 옵션스! 왓 우쥬 티피컬리 레커멘드 포어 썸원 트라잉 유어 레스터런트 포어 더 퍼스트 타임?",
+      "korean": "감사합니다! 메뉴가 너무 많아서 좀 압도되네요! 저희 식당에 처음 오신 분께 보통 뭘 추천해 주시겠어요?"
     },
     {
       "speaker": "Staff",
-      "english": "It's a pretty good estimate, but sometimes tables open up a bit quicker. We can put your name on the waitlist.",
-      "pronunciation": "이츠 어 프리티 굿 에스티밋, 벗 썸타임스 테이-블스 오픈 업 어 빗 퀵커. 위 캔 풋 유어 네임 온 더 웨이팅-리스트.",
-      "korean": "꽤 정확한 예상치지만, 가끔 테이블이 좀 더 빨리 나오기도 합니다. 대기자 명단에 이름을 올려드릴 수 있어요."
+      "english": "Absolutely! Our Braised Lamb Shank is very popular – it's our signature dish, known for its unique flavor profile.",
+      "pronunciation": "앱솔루틀리! 아워 브레이즈드 램 섕크 이즈 베리 파퓰러 – 이츠 아워 시그니처 디쉬, 노운 포어 이츠 유니크 플레이버 프로파일.",
+      "korean": "물론이죠! 저희 브레이즈드 램 생크는 아주 인기가 많아요. 저희 시그니처 디쉬이고, 독특한 풍미로 유명합니다."
     },
     {
       "speaker": "You",
-      "english": "Perfect. And how will we know when our table is ready?",
-      "pronunciation": "퍼펙트. 앤드 하우 윌 위 노우 웬 아월 테이-블 이즈 레디?",
-      "korean": "좋아요. 그리고 저희 테이블이 준비되면 어떻게 알 수 있을까요?"
+      "english": "You mentioned the Braised Lamb Shank. Could you describe it a bit more – like, is it savory or sweet, and what's the main texture?",
+      "pronunciation": "유 멘션드 더 브레이즈드 램 섕크. 쿠쥣 디스크라이브 잇 엇 빗 모어 – 라잌, 이즛 쎄이버리 오어 스위트, 앤 왓츠 더 메인 텍스쳐?",
+      "korean": "브레이즈드 램 생크 말씀하셨죠. 좀 더 설명해 주시겠어요? 예를 들면, 짭짤한 맛인가요 단 맛인가요, 그리고 주된 식감은 어떤가요?"
     },
     {
       "speaker": "Staff",
-      "english": "We'll send you a text message when your table is just about ready. Feel free to wait by the bar.",
-      "pronunciation": "윌 센드 유 어 텍스트 메세지 웬 유어 테이-블 이즈 저스트 어바웃 레디. 필 프리 투 웨이트 바이 더 바.",
-      "korean": "테이블이 거의 준비될 때쯤 문자 메시지를 보내드릴 거예요. 바에서 편하게 기다리시면 됩니다."
+      "english": "It's definitely savory and rich, with a melt-in-your-mouth texture. It's slow-cooked to perfection, a great introduction to our cuisine.",
+      "pronunciation": "이츠 데피닛틀리 쎄이버리 앤 리치, 윗 어 멜트-인-유어-마우스 텍스쳐. 이츠 슬로우-쿡트 투 퍼펙션, 어 그레잇 인트로덕션 투 아워 퀴진.",
+      "korean": "분명히 짭짤하고 풍부한 맛이며, 입에서 살살 녹는 식감이에요. 완벽하게 천천히 조리되어 저희 요리를 맛보시기에 아주 좋습니다."
+    },
+    {
+      "speaker": "You",
+      "english": "Sounds delicious, but I'm trying to avoid dairy. Are there any dishes that are dairy-free or can be adapted, perhaps with a similar flavor profile?",
+      "pronunciation": "싸운즈 딜리셔스, 벗 아임 트라잉 투 어보이드 데어리. 아 데어 애니 디쉬즈 댓 아 데어리-프리 오어 캔 비 어댑티드, 퍼햅스 윗 어 씨밀러 플레이버 프로파일?",
+      "korean": "맛있을 것 같은데, 유제품을 피하려고 해요. 혹시 유제품이 없는 요리나, 그렇게 조절될 수 있는 요리가 있을까요? 비슷한 맛의 특징이면 좋겠는데요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Ah, in that case, our Pan-Seared Halibut with seasonal vegetables is dairy-free and very popular. It has a lighter, fresh flavor profile. Just to clarify, could you tell me a bit more about your preference for portion size?",
+      "pronunciation": "아, 인 댓 케이스, 아워 팬-씨어드 핼러벗 윗 씨즈널 베지터블즈 이즈 데어리-프리 앤 베리 파퓰러. 잇 해즈 어 라이터, 프레쉬 플레이버 프로파일. 저슷 투 클레러파이, 쿠쥣 텔 미 엇 빗 모어 어바웃 유어 프레퍼런스 포어 포션 사이즈?",
+      "korean": "아, 그렇다면, 저희 팬-시어드 핼러벗(가자미 요리)과 제철 채소 요리가 유제품이 없고 아주 인기가 많습니다. 더 가볍고 신선한 풍미를 가지고 있죠. 좀 더 분명히 하기 위해, 1인분 양에 대한 선호도를 좀 더 말씀해 주시겠어요?"
+    },
+    {
+      "speaker": "You",
+      "english": "I'm thinking a regular portion size would be fine. So, if I understand correctly, the Pan-Seared Halibut is dairy-free, seasonal, and still quite flavorful, right? I think I'll go with that one then.",
+      "pronunciation": "아임 띵킹 어 레귤러 포션 사이즈 우딧 비 파인. 쏘우, 이프 아이 언더스탠드 커렉틀리, 더 팬-씨어드 핼러벗 이즈 데어리-프리, 씨즈널, 앤 스틸 콰잇 플레이버풀, 라잇? 아이 띵크 아일 고 윗 댓 원 덴.",
+      "korean": "보통 양이면 괜찮을 것 같아요. 그럼, 제가 제대로 이해했다면, 팬-시어드 핼러벗은 유제품이 없고, 제철 요리이며, 여전히 맛도 꽤 좋다는 거죠, 맞나요? 그럼 그걸로 할게요."
     }
   ],
   "retrieval": [
     {
-      "english": "What's the typical wait time for a table for three people without a reservation?",
-      "pronunciation": "왓츠 더 티-피컬 웨이트 타임 포어 테이-블 포 쓰리 피플 위다웃 어 레저베이션?",
-      "korean": "예약 없이 세 명이 앉을 테이블은 대기시간이 보통 얼마나 될까요?",
-      "tip": "'typical wait time'을 사용하여 평균 대기시간을 묻습니다."
+      "english": "What would you typically recommend for someone trying your restaurant for the first time?",
+      "pronunciation": "왓 우쥬 티피컬리 레커멘드 포어 썸원 트라잉 유어 레스터런트 포어 더 퍼스트 타임?",
+      "korean": "이 식당에 처음 온 사람에게 보통 뭘 추천해 주시겠어요?",
+      "tip": "식당 첫 방문객을 위한 추천을 요청하는 문장입니다."
     },
     {
-      "english": "Could we put our name down for a table for two?",
-      "pronunciation": "쿠드 위 풋 아월 네임 다운 포어 테이-블 포 투?",
-      "korean": "두 명 테이블 대기자 명단에 이름을 올릴 수 있을까요?",
-      "tip": "대기자 명단에 이름을 올리고 싶다는 요청을 정중하게 표현합니다."
+      "english": "I'm trying to avoid dairy. Are there any dishes that are dairy-free or can be adapted?",
+      "pronunciation": "아임 트라잉 투 어보이드 데어리. 아 데어 애니 디쉬즈 댓 아 데어리-프리 오어 캔 비 어댑티드?",
+      "korean": "유제품을 피하려고 하는데, 유제품이 없는 요리가 있을까요?",
+      "tip": "식단 제한을 설명하고, 가능한 메뉴를 묻는 표현입니다. 'dairy-free' 대신 'gluten-free' 등으로 바꿔 쓸 수 있습니다."
     },
     {
-      "english": "Do you happen to have any open tables right now for two?",
-      "pronunciation": "두 유 해픈 투 해브 애니 오픈 테이-블스 라이트 나우 포 투?",
-      "korean": "혹시 지금 바로 두 명이 앉을 빈 테이블이 있을까요?",
-      "tip": "현재 바로 이용 가능한 테이블이 있는지 궁금할 때 'open tables'라는 표현을 사용할 수 있습니다."
+      "english": "Could you tell me a bit more about the flavor profile of the [Dish Name]?",
+      "pronunciation": "쿠쥣 텔 미 엇 빗 모어 어바웃 더 플레이버 프로파일 어브 더 [디쉬 네임]?",
+      "korean": "추천해주신 [메뉴 이름]의 맛 특징에 대해 좀 더 설명해 주시겠어요?",
+      "tip": "특정 메뉴의 'flavor profile(맛 특징)'에 대해 자세히 묻는 패턴입니다."
     }
   ],
   "alternatives": [
     {
-      "english": "How long is the current estimated wait?",
-      "pronunciation": "하우 롱 이즈 더 커런트 에스티메이티드 웨이트?",
-      "korean": "현재 예상 대기 시간은 얼마나 되나요?",
-      "note": "좀 더 직접적이고 공식적인 느낌을 주며, 'estimated'를 넣어 '예상'이라는 점을 강조합니다."
+      "english": "I'm completely unfamiliar with the menu. Do you have any standout dishes or house favorites you'd suggest?",
+      "pronunciation": "아임 컴플리틀리 언패밀리어 윗 더 메뉴. 두 유 해브 애니 스탠드아웃 디쉬즈 오어 하우스 페이버릿츠 유드 써제스트?",
+      "korean": "메뉴를 전혀 모르겠네요. 특별히 눈에 띄는 요리나 식당 인기 메뉴 중 추천해 주실 만한 것이 있나요?",
+      "note": "원래 표현 ('overwhelmed by the options')보다 '완전히 생소하다'는 점을 강조합니다. 'standout dishes'나 'house favorites'는 'must-try'와 유사하게 식당의 인기 메뉴를 묻는 자연스러운 표현입니다."
     },
     {
-      "english": "Are you able to seat a party of two without a reservation?",
-      "pronunciation": "아 유 에이블 투 싯 어 파티 오브 투 위다웃 어 레저베이션?",
-      "korean": "예약 없이 두 명을 앉힐 수 있나요?",
-      "note": "식당이 예약 없는 손님을 받아줄 수 있는 '능력'에 초점을 맞춰 질문합니다. 'able to'를 사용합니다."
+      "english": "My diet requires me to be gluten-free. Could you point out some suitable options on the menu?",
+      "pronunciation": "마이 다이어트 리콰이어즈 미 투 비 글루텐-프리. 쿠쥣 포인트 아웃 썸 쑤터블 옵션스 온 더 메뉴?",
+      "korean": "제 식단 때문에 글루텐 프리여야 합니다. 메뉴에서 적합한 옵션들을 알려주실 수 있나요?",
+      "note": "원래 표현 ('I'm trying to avoid gluten')보다 더 단호하고 명확하게 식단 제한 사항을 전달합니다. 'point out'은 메뉴판에서 직접 가리켜 달라는 의미로 더 직관적인 요청이 됩니다."
     },
     {
-      "english": "What's the general timeframe for a table for two if we get on the waitlist?",
-      "pronunciation": "왓츠 더 제너럴 타임-프레임 포어 테이-블 포 투 이프 위 겟 온 더 웨이팅-리스트?",
-      "korean": "대기자 명단에 오르면 두 명 테이블까지 일반적인 소요 시간은 얼마나 될까요?",
-      "note": "'general timeframe'을 사용하여 전반적인 소요 시간을 묻는 표현입니다. 'get on the waitlist'는 '대기자 명단에 오르다'는 뜻입니다."
+      "english": "Regarding the [Dish Name], what are its key characteristics in terms of taste and consistency?",
+      "pronunciation": "리가딩 더 [디쉬 네임], 왓 아 잇츠 키 캐럭터리스틱스 인 텀즈 어브 테이스트 앤 컨시스턴시?",
+      "korean": "[메뉴 이름]에 대해 말하자면, 맛과 질감 면에서 주요 특징이 무엇인가요?",
+      "note": "원래 표현 ('is it savory or sweet, and what's the main texture?')보다 좀 더 격식 있고 간결하게 묻는 방법입니다. 'key characteristics'와 'taste and consistency'를 사용해 핵심적인 정보를 요청합니다."
     }
   ],
   "review_items": [
     {
-      "source_date": "2026-11-04",
-      "english": "I'm reviewing my bill, and there's a charge here I don't recognize.",
-      "pronunciation": "아임 뤼뷰잉 마이 빌, 앤 데얼즈 어 챠-쥐 히어 아이 돈 뤡어그나이즈.",
-      "korean": "청구서를 보고 있는데, 제가 모르는 요금이 하나 있어요.",
+      "source_date": "2026-11-05",
+      "english": "Hi, we don't have a reservation, but we're hoping to get a table for two.",
+      "pronunciation": "하이, 위 돈 해버 레저베이션, 벗 위얼 호핑 투 겟어 테이-블 포 투.",
+      "korean": "안녕하세요, 예약은 안 했지만, 두 명이 앉을 테이블을 찾고 있어요.",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-11-04",
-      "english": "Could you explain what this 'Miscellaneous' charge is for?",
-      "pronunciation": "쿧 유 익스플레인 왓 디스 '미쓸레이니어스' 챠-쥐 이즈 포어?",
-      "korean": "이 '잡비(Miscellaneous)'라는 요금이 무엇에 대한 것인지 설명해 주실 수 있나요?",
+      "source_date": "2026-11-05",
+      "english": "What's the typical wait time looking like for walk-ins right now?",
+      "pronunciation": "왓츠 더 티-피컬 웨잍 타임 루킹 라이크 포 워크-인스 라이트 나우?",
+      "korean": "지금 예약 없이 오신 분들은 보통 대기시간이 얼마나 되나요?",
       "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-11-02",
-      "english": "Is there any flexibility with the standard check-out time today?",
-      "pronunciation": "이즈 데어 에니 플렉서빌리티 윋 더 스탠다드 체크아웃 타임 투데이?",
-      "korean": "오늘 정규 체크아웃 시간에 좀 유동성이 있을까요?",
+      "source_date": "2026-11-03",
+      "english": "We're checking out now, but our flight isn't until much later. I'm hoping to find out if we can leave our luggage here for a few hours.",
+      "pronunciation": "위얼 체킹 아웃 나우, 벗 아워 플라잇 이즌튼 언틸 머치 레이터. 아임 호핑 투 파인드 아웃 이프 위 캔 리브 아워 러기지 히어 포러 퓨 아워스.",
+      "korean": "저희 지금 체크아웃 하는데, 비행기가 한참 뒤라서요. 짐을 여기 몇 시간 맡길 수 있는지 알아보고 싶어요.",
       "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-11-02",
-      "english": "My flight doesn't depart until quite late, so I was hoping to stay in the room until around 4 PM.",
-      "pronunciation": "마이 플라이ㅌ 더즌ㅌ 디파엍 언틸 콰이ㅌ 레이ㅌ, 쏘 아이 워즈 호핑 투 스테이 인 더 룸 언틸 어라운드 포 피엠.",
-      "korean": "제 비행기가 꽤 늦게 출발해서, 오후 4시쯤까지 방에 머물 수 있기를 바라고 있었어요.",
+      "source_date": "2026-11-03",
+      "english": "What's the process for leaving our luggage here after checkout?",
+      "pronunciation": "왓츠 더 프로세스 포 리빙 아워 러기지 히어 애프터 체크아웃?",
+      "korean": "체크아웃 후에 짐을 여기에 맡기는 절차가 어떻게 되나요?",
       "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-10-30",
-      "english": "I'm experiencing an issue with the shower in my room; there's no hot water coming out.",
-      "pronunciation": "아임 익스피리언싱 언 이슈 윗 더 샤워 인 마이 룸; 데얼스 노 핫 워터 커밍 아웃.",
-      "korean": "제 방 샤워기에 문제가 있어요. 뜨거운 물이 나오지 않습니다.",
+      "source_date": "2026-10-31",
+      "english": "We've run out of clean towels. Could you arrange for a couple of fresh ones to be sent up?",
+      "pronunciation": "위-브 런 아웃 옵 클린 타월스. 쿠쥬 어레인지 포 러 커플 옵 프레쉬 원스 투 비 센트 업?",
+      "korean": "깨끗한 수건이 다 떨어졌어요. 새 수건 두어 장을 방으로 올려 보내 주실 수 있을까요?",
       "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     }
   ]
