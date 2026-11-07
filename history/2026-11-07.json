@@ -1,0 +1,209 @@
+{
+  "date": "2026-11-07",
+  "updated_at": "11:06 KST",
+  "topic": "알레르기·못 먹는 재료를 설명하기",
+  "intro": "해외 식당이나 카페에서 주문할 때, 자신의 알레르기나 피해야 할 재료를 명확하고 정중하게 설명하는 것은 여행의 안전과 즐거움을 위해 매우 중요해요. 오늘 학습할 표현들을 통해 상대방에게 정확한 정보를 전달하고, 안전한 식사를 요청하는 다양한 방법을 익혀봅시다.",
+  "sentences": [
+    {
+      "english": "It's important for me to mention that I have a severe allergy to [allergen], like peanuts.",
+      "pronunciation": "잇츠 임포턴트 포 미 투 멘션 댓 아이 해브 어 씨비어 애럴지 투 [알러젠], 라잌 피넛츠.",
+      "korean": "제가 [알레르기 유발 물질], 예를 들어 땅콩에 심한 알레르기가 있다는 것을 말씀드리는 것이 중요해요.",
+      "tip": "대화 시작 시 자신의 알레르기를 명확히 알리는 데 사용합니다. 'It's important for me to mention that...'으로 시작하여 강조하는 뉘앙스를 줍니다."
+    },
+    {
+      "english": "Would you be able to check if [this dish/sauce] contains any [allergen]?",
+      "pronunciation": "우쥬 비 에이블 투 첵 이프 [디스 디쉬/싸-쓰] 컨테인스 애니 [알러젠]?",
+      "korean": "[이 요리/소스]에 혹시 [알레르기 유발 물질]이 들어있는지 확인해 주실 수 있을까요?",
+      "tip": "특정 메뉴에 알레르기 유발 물질 포함 여부를 정중히 묻는 표현입니다. 'Would you be able to check if...?'는 'Could you check if...?'보다 더 공손하고 구체적인 가능성을 묻는 뉘앙스가 있어요."
+    },
+    {
+      "english": "I need to make sure there's no [allergen] in my meal, even a trace amount, to avoid any issues.",
+      "pronunciation": "아이 니드 투 메잌 슈어 데얼스 노 [알러젠] 인 마이 밀, 이븐 어 트레이스 어마운트, 투 어보이드 애니 이슈스.",
+      "korean": "어떤 문제가 생기지 않도록, 제 음식에 [알레르기 유발 물질]이 아주 소량이라도 들어있지 않은지 확인해야 해요.",
+      "tip": "미량까지도 민감하다는 것을 강조하며 문제 발생을 방지하기 위한 필요성을 설명할 때 사용합니다."
+    },
+    {
+      "english": "What are some safe recommendations on the menu that are free from [allergen]?",
+      "pronunciation": "왓 알 썸 쎄잎 레커멘데이션스 온 더 메뉴 댓 알 프리 프롬 [알러젠]?",
+      "korean": "[알레르기 유발 물질]이 없는 안전한 메뉴 추천은 어떤 것들이 있을까요?",
+      "tip": "특정 알레르기 유발 물질이 없는 메뉴를 추천받을 때 사용합니다. 'safe recommendations'로 더 명확하게 안전성을 강조합니다."
+    },
+    {
+      "english": "Just to reconfirm, is it possible for the [dish name] to be prepared completely without [ingredient]?",
+      "pronunciation": "저스트 투 리컨펌, 이즈 잇 파써블 포 더 [디쉬 네임] 투 비 프리페얼드 컴플릿틀리 위다웃 [잉그리디언트]?",
+      "korean": "다시 한번 확인하자면, [요리 이름]을 [재료] 없이 완전히 조리해 주실 수 있을까요?",
+      "tip": "특정 재료를 빼고 조리가 가능한지 재확인하는 표현입니다. 'completely without'으로 완벽한 제외를 강조합니다."
+    }
+  ],
+  "pattern": {
+    "form": "I need to double-check if [dish/item] contains [allergen/ingredient].",
+    "pronunciation": "아이 니드 투 더블-첵 이프 [디쉬/아이템] 컨테인스 [알러젠/잉그리디언트].",
+    "meaning": "[음식/메뉴]에 [알레르기 유발 물질/재료]이(가) 들어있는지 다시 한번 확인해야 해요.",
+    "examples": [
+      {
+        "english": "I need to double-check if this sauce contains any dairy.",
+        "pronunciation": "아이 니드 투 더블-첵 이프 디스 싸-쓰 컨테인스 애니 데어리.",
+        "korean": "이 소스에 혹시 유제품이 들어있는지 다시 한번 확인해야 해요."
+      },
+      {
+        "english": "Before ordering, I need to double-check if the soup contains any nuts.",
+        "pronunciation": "비포 오더링, 아이 니드 투 더블-첵 이프 더 쑷 컨테인스 애니 넛츠.",
+        "korean": "주문하기 전에, 이 수프에 견과류가 들어있는지 다시 한번 확인해야 해요."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "severe allergy",
+      "pronunciation": "씨비어 애럴지",
+      "meaning": "심한 알레르기"
+    },
+    {
+      "word": "dietary restriction",
+      "pronunciation": "다이어테리 리스트릭션",
+      "meaning": "식이 제한"
+    },
+    {
+      "word": "trace amount",
+      "pronunciation": "트레이스 어마운트",
+      "meaning": "미량"
+    },
+    {
+      "word": "cross-contamination",
+      "pronunciation": "크로스-컨태미네이션",
+      "meaning": "교차 오염"
+    },
+    {
+      "word": "nut-free",
+      "pronunciation": "넛-프리",
+      "meaning": "견과류가 없는"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "You",
+      "english": "Hello, it's important for me to mention that I have a severe allergy to peanuts.",
+      "pronunciation": "헬로우, 잇츠 임포턴트 포 미 투 멘션 댓 아이 해브 어 씨비어 애럴지 투 피넛츠.",
+      "korean": "안녕하세요, 제가 땅콩에 심한 알레르기가 있다는 것을 말씀드리는 것이 중요해요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Of course, thank you for letting us know. We take allergies very seriously here. What can I get for you?",
+      "pronunciation": "어브 코스, 땡큐 포 렛팅 어스 노. 위 테익 애럴지스 베리 씨리어서리 히어. 왓 캔 아이 겟 포 유?",
+      "korean": "물론이죠, 알려주셔서 감사합니다. 저희는 알레르기를 매우 중요하게 생각합니다. 무엇을 도와드릴까요?"
+    },
+    {
+      "speaker": "You",
+      "english": "I need to make sure there's no peanut in my meal, even a trace amount, to avoid any issues.",
+      "pronunciation": "아이 니드 투 메잌 슈어 데얼스 노 피넛 인 마이 밀, 이븐 어 트레이스 어마운트, 투 어보이드 애니 이슈스.",
+      "korean": "어떤 문제가 생기지 않도록, 제 음식에 땅콩이 아주 소량이라도 들어있지 않은지 확인해야 해요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Understood. I'll make sure to note that for the kitchen. Are you looking at anything specific on the menu?",
+      "pronunciation": "언더스투드. 아일 메잌 슈어 투 노우 댓 포 더 키친. 알 유 룩킹 앳 애니띵 스페시픽 온 더 메뉴?",
+      "korean": "알겠습니다. 주방에 확실히 전달하겠습니다. 메뉴에서 특별히 보고 계신 것이 있으세요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Yes, I was considering the Pad Thai. Would you be able to check if this dish contains any peanuts or peanut oil?",
+      "pronunciation": "예스, 아이 워즈 컨씨더링 더 팟 타이. 우쥬 비 에이블 투 첵 이프 디스 디쉬 컨테인스 애니 피넛츠 오어 피넛 오일?",
+      "korean": "네, 팟타이를 보고 있었어요. 혹시 이 요리에 땅콩이나 땅콩 기름이 들어있는지 확인해 주실 수 있을까요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Let me double-check with the chef right away. Pad Thai typically has peanuts, but sometimes we can make adjustments. Please wait a moment.",
+      "pronunciation": "렛 미 더블-첵 윋 더 쉪 라잇 어웨이. 팟 타이 티피컬리 해즈 피넛츠, 벗 썸타임스 위 캔 메잌 어져스트먼츠. 플리즈 웨잇 어 모멘트.",
+      "korean": "주방장님께 바로 확인해 볼게요. 팟타이는 보통 땅콩이 들어가지만, 가끔 조절이 가능할 수도 있습니다. 잠시만 기다려 주세요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Okay, the chef confirmed that the Pad Thai cannot be made completely peanut-free due to cross-contamination risks. However, we have other great options.",
+      "pronunciation": "오케이, 더 쉪 컨펌드 댓 더 팟 타이 캐낫 비 메잌 컴플릿틀리 피넛-프리 듀 투 크로스-컨태미네이션 리스크스. 하우에버, 위 해브 아더 그레잇 옵션스.",
+      "korean": "네, 주방장님이 팟타이는 교차 오염 위험 때문에 완전히 땅콩을 뺄 수는 없다고 확인해 주셨어요. 하지만 다른 좋은 메뉴들도 있습니다."
+    },
+    {
+      "speaker": "You",
+      "english": "That's good to know. In that case, what are some safe recommendations on the menu that are free from nuts?",
+      "pronunciation": "댓츠 굳 투 노. 인 댓 케이스, 왓 알 썸 쎄잎 레커멘데이션스 온 더 메뉴 댓 알 프리 프롬 넛츠?",
+      "korean": "알려주셔서 감사해요. 그렇다면, 견과류가 없는 안전한 메뉴 추천은 어떤 것들이 있을까요?"
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "I need to double-check if this sauce contains any dairy.",
+      "pronunciation": "아이 니드 투 더블-첵 이프 디스 싸-쓰 컨테인스 애니 데어리.",
+      "korean": "이 소스에 혹시 유제품이 들어있는지 다시 한번 확인해야 해요.",
+      "tip": "패턴 학습에서 나온 문장으로, 특정 재료 포함 여부를 재확인할 때 사용합니다."
+    },
+    {
+      "english": "I have a severe peanut allergy, so even a trace amount could be problematic.",
+      "pronunciation": "아이 해브 어 씨비어 피넛 애럴지, 쏘 이븐 어 트레이스 어마운트 쿧 비 프라블레매틱.",
+      "korean": "저는 땅콩 알레르기가 심해서, 아주 소량이라도 문제가 될 수 있어요.",
+      "tip": "알레르기의 심각성과 미량의 위험성을 동시에 설명할 때 유용합니다."
+    },
+    {
+      "english": "What are some safe recommendations on the menu that are free from nuts?",
+      "pronunciation": "왓 알 썸 쎄잎 레커멘데이션스 온 더 메뉴 댓 알 프리 프롬 넛츠?",
+      "korean": "견과류가 없는 안전한 다른 추천 메뉴가 있을까요?",
+      "tip": "특정 알레르기 유발 물질이 없는 안전한 대안 메뉴를 요청할 때 씁니다."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "Just so you know, I have a serious allergy to peanuts, and I really can't have even a tiny bit.",
+      "pronunciation": "저스트 쏘 유 노우, 아이 해브 어 씨리어스 애럴지 투 피넛츠, 앤 아이 리얼리 캔트 해브 이븐 어 타이니 빗.",
+      "korean": "참고로 저는 땅콩에 심각한 알레르기가 있어서, 아주 조금이라도 정말 먹을 수 없어요.",
+      "note": "원래 표현보다 좀 더 비격식적이고 개인적인 느낌을 줍니다. 'really can't'와 'tiny bit'으로 강조하여 캐주얼하면서도 진지한 뉘앙스를 전달합니다."
+    },
+    {
+      "english": "My body reacts strongly to peanuts, so we need to be very careful about cross-contamination.",
+      "pronunciation": "마이 바디 리액츠 스트롱리 투 피넛츠, 쏘 위 니드 투 비 베리 케어풀 어바웃 크로스-컨태미네이션.",
+      "korean": "제 몸은 땅콩에 강하게 반응해서, 교차 오염에 대해 매우 조심해야 해요.",
+      "note": "알레르기 반응의 심각성을 간접적으로 설명하고, 'cross-contamination'이라는 전문 용어를 사용하여 상황의 심각성을 부각합니다."
+    },
+    {
+      "english": "It's critical that my food is completely free of peanuts due to a severe allergy.",
+      "pronunciation": "잇츠 크리티컬 댓 마이 푸드 이즈 컴플릿틀리 프리 어브 피넛츠 듀 투 어 씨비어 애럴지.",
+      "korean": "심한 알레르기 때문에 제 음식에 땅콩이 완전히 없어야 하는 것이 매우 중요해요.",
+      "note": "'It's critical'로 시작하여 훨씬 더 강력하고 직접적으로 필수적인 조건을 전달하며, 'completely free of'로 완벽한 제외를 강조합니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-11-06",
+      "english": "I'm a bit overwhelmed by the options! What would you typically recommend for someone trying your restaurant for the first time?",
+      "pronunciation": "아임 엇 빗 오우버웰름드 바이 디 옵션스! 왓 우쥬 티피컬리 레커멘드 포어 썸원 트라잉 유어 레스터런트 포어 더 퍼스트 타임?",
+      "korean": "메뉴가 너무 많아서 좀 압도되네요! 저희 식당에 처음 오신 분께 보통 뭘 추천해 주시겠어요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-06",
+      "english": "I'm trying to avoid gluten. Are there any dishes that are naturally gluten-free or can be adapted?",
+      "pronunciation": "아임 트라잉 투 어보이드 글루텐. 아 데어 애니 디쉬즈 댓 아 내츄럴리 글루텐-프리 오어 캔 비 어댑티드?",
+      "korean": "글루텐을 피하려고 하는데요. 혹시 원래 글루텐 프리인 요리나, 그렇게 조리될 수 있는 요리가 있을까요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-04",
+      "english": "I'm reviewing my bill, and there's a charge here I don't recognize.",
+      "pronunciation": "아임 뤼뷰잉 마이 빌, 앤 데얼즈 어 챠-쥐 히어 아이 돈 뤡어그나이즈.",
+      "korean": "청구서를 보고 있는데, 제가 모르는 요금이 하나 있어요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-04",
+      "english": "Could you explain what this 'Miscellaneous' charge is for?",
+      "pronunciation": "쿧 유 익스플레인 왓 디스 '미쓸레이니어스' 챠-쥐 이즈 포어?",
+      "korean": "이 '잡비(Miscellaneous)'라는 요금이 무엇에 대한 것인지 설명해 주실 수 있나요?",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-01",
+      "english": "I'm just trying to confirm if breakfast is part of my reservation.",
+      "pronunciation": "아임 저스트 트라잉 투 컨펌 이프 브렉퍼스트 이즈 파트 옵 마이 레저베이션.",
+      "korean": "제 예약에 조식이 포함되어 있는지 확인하고 싶어요.",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
