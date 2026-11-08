@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-08",
+  "updated_at": "10:38 KST",
+  "topic": "메뉴의 재료와 조리방식 묻기",
+  "intro": "해외 식당에서 메뉴판을 봤는데, 익숙하지 않은 재료나 조리 방식 때문에 망설인 적 있으시죠? 또는 특정 재료를 빼달라고 요청해야 할 때도 있고요. 오늘은 메뉴의 재료와 조리법에 대해 자연스럽게 묻고 원하는 대로 요청하는 표현들을 배워봅니다.",
+  "sentences": [
+    {
+      "english": "What exactly goes into the [dish name]?",
+      "pronunciation": "왓 이그잭틀리 고우스 인투 더 [디쉬 네임]?",
+      "korean": "[메뉴 이름]에는 정확히 어떤 재료들이 들어가나요?",
+      "tip": "특정 메뉴의 구체적인 재료 구성이 궁금할 때 사용합니다. 'exactly'를 넣어 더 정확한 정보를 요청하는 뉘앙스입니다."
+    },
+    {
+      "english": "How is the [dish name] typically prepared here?",
+      "pronunciation": "하우 이즈 더 [디쉬 네임] 티피컬리 프리페얼드 히얼?",
+      "korean": "이 [메뉴 이름]은 여기에서 보통 어떻게 조리되나요?",
+      "tip": "이 식당의 특정 메뉴가 어떤 조리 방식으로 만들어지는지 궁금할 때 'typically prepared'를 사용하여 일반적인 방식을 묻습니다."
+    },
+    {
+      "english": "I'm wondering if [ingredient] is a prominent flavor or just a minor component in this dish.",
+      "pronunciation": "아임 원더링 이프 [잉그리디언트] 이즈 어 프라미넌트 플레버 오어 저스트 어 마이너 컴포넌트 인 디스 디쉬.",
+      "korean": "이 요리에 [재료]가 주요 맛을 내는 부분인가요, 아니면 소량만 들어가는 건가요?",
+      "tip": "특정 재료의 존재 여부뿐 아니라, 그 재료가 맛에 미치는 영향이나 비중이 궁금할 때 유용하게 쓸 수 있습니다."
+    },
+    {
+      "english": "Is it possible to have the [dish name] prepared without [specific ingredient]?",
+      "pronunciation": "이즈 잇 파서블 투 해브 더 [디쉬 네임] 프리페얼드 위다웃 [스페시픽 잉그리디언트]?",
+      "korean": "[메뉴 이름]을 [특정 재료] 없이 조리해 주실 수 있나요?",
+      "tip": "특정 재료를 빼달라고 정중하게 요청할 때 사용합니다. 'Could you prepare...?'보다 조금 더 부드러운 뉘앙스입니다."
+    },
+    {
+      "english": "The menu mentions 'rustic style.' What does that generally imply about the cooking method or ingredients?",
+      "pronunciation": "더 메뉴 멘션즈 '러스틱 스타일'. 왓 더즈 댓 제너럴리 임플라이 어바웃 더 쿠킹 메서드 오어 잉그리디언츠?",
+      "korean": "메뉴에 '러스틱 스타일'이라고 되어 있는데, 그게 보통 조리법이나 재료 면에서 어떤 의미인가요?",
+      "tip": "메뉴에 있는 'home-style', 'classic', 'authentic' 등 추상적인 표현에 대해 구체적인 설명을 요청할 때 좋습니다."
+    }
+  ],
+  "pattern": {
+    "form": "I'm trying to get a better sense of [what/how/whether + S + V / Noun phrase].",
+    "pronunciation": "아임 트라잉 투 겟 어 베터 센스 어브 [왓/하우/웨더 + 주어 + 동사 / 명사구].",
+    "meaning": "[무엇/어떻게/인지]에 대해 좀 더 파악하고 싶어요.",
+    "examples": [
+      {
+        "english": "I'm trying to get a better sense of what kind of spices are used in the curry.",
+        "pronunciation": "아임 트라잉 투 겟 어 베터 센스 어브 왓 카인드 어브 스파이시즈 아 유즈드 인 더 커리.",
+        "korean": "커리에 어떤 종류의 향신료가 쓰이는지 좀 더 파악하고 싶어요."
+      },
+      {
+        "english": "I'm trying to get a better sense of how spicy the dish actually is.",
+        "pronunciation": "아임 트라잉 투 겟 어 베터 센스 어브 하우 스파이시 더 디쉬 액츄얼리 이즈.",
+        "korean": "그 요리가 실제로 얼마나 매운지 좀 더 파악하고 싶어요."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "braised",
+      "pronunciation": "브레이즈드",
+      "meaning": "찜 요리한, 약한 불에 오래 끓인 (보통 고기를 갈색으로 익힌 후 소량의 액체와 함께 천천히 익히는 조리법)"
+    },
+    {
+      "word": "pan-fried",
+      "pronunciation": "팬-프라이드",
+      "meaning": "팬에 지진, 튀긴 (적은 양의 기름으로 팬에 지지거나 튀기는 조리법)"
+    },
+    {
+      "word": "garnish",
+      "pronunciation": "가니쉬",
+      "meaning": "고명, 장식 (요리 위에 얹는 장식이나 곁들임 재료)"
+    },
+    {
+      "word": "tangy",
+      "pronunciation": "탠-지",
+      "meaning": "톡 쏘는 맛의, 시큼한 (상큼하고 약간 시큼한 맛)"
+    },
+    {
+      "word": "texture",
+      "pronunciation": "텍스쳐",
+      "meaning": "식감 (음식을 씹을 때 느껴지는 감촉)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Staff",
+      "english": "Welcome! Are you ready to order, or do you have any questions about the menu?",
+      "pronunciation": "웰컴! 아 유 레디 투 오더, 오어 두 유 해브 애니 퀘스천즈 어바웃 더 메뉴?",
+      "korean": "어서 오세요! 주문 준비되셨나요, 아니면 메뉴에 대해 궁금한 점 있으세요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Hi! I have a few questions, actually. First, for the 'Seafood Risotto,' what exactly goes into it?",
+      "pronunciation": "하이! 아이 해브 어 퓨 퀘스천즈, 액츄얼리. 퍼스트, 포 더 '씨푸드 리조또', 왓 이그잭틀리 고우스 인투 잇?",
+      "korean": "안녕하세요! 질문이 몇 가지 있어요. 우선, '해산물 리조또'에는 정확히 어떤 재료들이 들어가나요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "The Seafood Risotto contains arborio rice, a mix of shrimp, mussels, clams, and a touch of saffron for flavor.",
+      "pronunciation": "더 씨푸드 리조또 컨테인즈 아보리오 라이스, 어 믹스 어브 쉬림프, 머슬즈, 클램즈, 앤드 어 터치 어브 사프론 포 플레버.",
+      "korean": "해산물 리조또에는 아르보리오 쌀, 새우, 홍합, 조개류 믹스가 들어가고, 맛을 위해 약간의 사프란이 들어갑니다."
+    },
+    {
+      "speaker": "You",
+      "english": "Sounds delicious. And for the 'Duck Confit,' how is it typically prepared here?",
+      "pronunciation": "사운즈 딜리셔스. 앤드 포 더 '덕 콩피', 하우 이즈 잇 티피컬리 프리페얼드 히얼?",
+      "korean": "맛있겠네요. 그럼 '덕 콩피'는 여기에서 보통 어떻게 조리되나요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Our Duck Confit is slow-cooked in its own fat until it's incredibly tender, then pan-fried to get a crispy skin right before serving.",
+      "pronunciation": "아워 덕 콩피 이즈 슬로우-쿡트 인 잇츠 온 팻 언틸 잇츠 인크레더블리 텐더, 덴 팬-프라이드 투 겟 어 크리스피 스킨 라이트 비포어 써빙.",
+      "korean": "저희 덕 콩피는 오리 지방에 넣고 아주 부드러워질 때까지 천천히 익힌 다음, 서빙 직전에 팬에 지져서 껍질을 바삭하게 만듭니다."
+    },
+    {
+      "speaker": "You",
+      "english": "That sounds amazing! I'm wondering if garlic is a prominent flavor or just a minor component in this dish?",
+      "pronunciation": "댓 사운즈 어메이징! 아임 원더링 이프 갈릭 이즈 어 프라미넌트 플레버 오어 저스트 어 마이너 컴포넌트 인 디스 디쉬?",
+      "korean": "정말 맛있을 것 같아요! 혹시 마늘이 이 요리에서 주요 맛을 내는 부분인가요, 아니면 소량만 들어가는 건가요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "It's definitely a prominent flavor, but not overpowering. We use it to enhance the duck's richness.",
+      "pronunciation": "잇츠 데피닛틀리 어 프라미넌트 플레버, 벗 낫 오버파워링. 위 유즈 잇 투 인핸스 더 덕스 리치니스.",
+      "korean": "분명히 중요한 맛을 내지만, 너무 강하지는 않습니다. 오리의 풍부한 맛을 살리는 데 사용합니다."
+    },
+    {
+      "speaker": "You",
+      "english": "Understood. One last thing, is it possible to have the Duck Confit prepared without cilantro? I'm not a big fan.",
+      "pronunciation": "언더스투드. 원 라스트 띵, 이즈 잇 파서블 투 해브 더 덕 콩피 프리페얼드 위다웃 실란트로? 아임 낫 어 빅 팬.",
+      "korean": "알겠습니다. 마지막으로 하나 더, 덕 콩피를 고수(실란트로) 없이 조리해 주실 수 있을까요? 제가 고수를 별로 좋아하지 않아서요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Absolutely, we can certainly prepare it without cilantro for you.",
+      "pronunciation": "앱솔루틀리, 위 캔 써튼리 프리페얼 잇 위다웃 실란트로 포 유.",
+      "korean": "물론이죠, 고수 없이 조리해 드릴 수 있습니다."
+    },
+    {
+      "speaker": "You",
+      "english": "Perfect, thank you! I'll go with the Duck Confit then.",
+      "pronunciation": "퍼펙트, 땡큐! 아일 고 위드 더 덕 콩피 덴.",
+      "korean": "좋아요, 감사합니다! 그럼 덕 콩피로 할게요."
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "What exactly goes into it?",
+      "pronunciation": "왓 이그잭틀리 고우스 인투 잇?",
+      "korean": "이 메뉴에는 정확히 어떤 재료들이 들어가나요?",
+      "tip": "메뉴의 재료 구성을 묻는 핵심 표현입니다."
+    },
+    {
+      "english": "prepared without [specific ingredient]",
+      "pronunciation": "프리페얼드 위다웃 [스페시픽 잉그리디언트]",
+      "korean": "[특정 재료] 없이 조리될 수 있을까요?",
+      "tip": "특정 재료를 빼달라고 요청할 때 사용하는 구문입니다."
+    },
+    {
+      "english": "a prominent flavor or just a minor component",
+      "pronunciation": "어 프라미넌트 플레버 오어 저스트 어 마이너 컴포넌트",
+      "korean": "(특정 재료가) 주요 맛을 내는 부분인가요 아니면 소량만 들어가나요?",
+      "tip": "재료의 비중이나 맛에 미치는 영향을 묻는 표현입니다."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "What are the main ingredients in the [dish name]?",
+      "pronunciation": "왓 아 더 메인 잉그리디언츠 인 더 [디쉬 네임]?",
+      "korean": "[메뉴 이름]의 주재료는 무엇인가요?",
+      "note": "원래 표현 'What exactly goes into...'보다 좀 더 직접적이고 간단하게 주재료를 묻는 표현입니다. 'exactly' 같은 강조가 없어 덜 탐색적인 뉘앙스입니다."
+    },
+    {
+      "english": "How is the [dish name] cooked?",
+      "pronunciation": "하우 이즈 더 [디쉬 네임] 쿡트?",
+      "korean": "[메뉴 이름]은 어떻게 조리되나요?",
+      "note": "원래 표현 'How is the [dish name] typically prepared here?'보다 더 짧고 일반적인 질문입니다. 'typically prepared here'는 이 식당의 일반적인 방식을 묻는 반면, 이 표현은 단순히 조리 방식을 묻습니다."
+    },
+    {
+      "english": "Could you make this dish without [ingredient]?",
+      "pronunciation": "쿧 유 메익 디스 디쉬 위다웃 [잉그리디언트]?",
+      "korean": "이 요리를 [재료] 없이 만들어 주실 수 있나요?",
+      "note": "원래 표현 'Is it possible to have the [dish name] prepared without [specific ingredient]?'보다 직접적으로 요청하는 표현입니다. 좀 더 간결하고 흔히 쓰이지만, 원래 표현은 약간 더 정중한 느낌을 줍니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-11-07",
+      "english": "It's important for me to mention that I have a severe allergy to [allergen], like peanuts.",
+      "pronunciation": "잇츠 임포턴트 포 미 투 멘션 댓 아이 해브 어 씨비어 애럴지 투 [알러젠], 라잌 피넛츠.",
+      "korean": "제가 [알레르기 유발 물질], 예를 들어 땅콩에 심한 알레르기가 있다는 것을 말씀드리는 것이 중요해요.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-07",
+      "english": "Would you be able to check if [this dish/sauce] contains any [allergen]?",
+      "pronunciation": "우쥬 비 에이블 투 첵 이프 [디스 디쉬/싸-쓰] 컨테인스 애니 [알러젠]?",
+      "korean": "[이 요리/소스]에 혹시 [알레르기 유발 물질]이 들어있는지 확인해 주실 수 있을까요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-05",
+      "english": "Hi, we don't have a reservation, but we're hoping to get a table for two.",
+      "pronunciation": "하이, 위 돈 해버 레저베이션, 벗 위얼 호핑 투 겟어 테이-블 포 투.",
+      "korean": "안녕하세요, 예약은 안 했지만, 두 명이 앉을 테이블을 찾고 있어요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-05",
+      "english": "What's the typical wait time looking like for walk-ins right now?",
+      "pronunciation": "왓츠 더 티-피컬 웨잍 타임 루킹 라이크 포 워크-인스 라이트 나우?",
+      "korean": "지금 예약 없이 오신 분들은 보통 대기시간이 얼마나 되나요?",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-02",
+      "english": "Is there any flexibility with the standard check-out time today?",
+      "pronunciation": "이즈 데어 에니 플렉서빌리티 윋 더 스탠다드 체크아웃 타임 투데이?",
+      "korean": "오늘 정규 체크아웃 시간에 좀 유동성이 있을까요?",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
