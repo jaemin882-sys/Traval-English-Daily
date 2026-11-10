@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-10",
+  "updated_at": "13:13 KST",
+  "topic": "주문과 다른 음식이 나왔을 때 말하기",
+  "intro": "해외 식당에서 기대했던 음식과 다른 메뉴가 나왔을 때 당황하지 않고, 침착하게 상황을 설명하고 올바른 음식을 요청하는 표현들을 배워봅시다. 정중하면서도 명확하게 의사를 전달하는 것이 중요합니다.",
+  "sentences": [
+    {
+      "english": "Excuse me, I think there might be a mistake with our order.",
+      "pronunciation": "익스큐즈 미, 아이 씽크 데어 마잇 비어 미스테익 위드 아워 오-더.",
+      "korean": "실례합니다, 저희 주문에 뭔가 착오가 있는 것 같아요.",
+      "tip": "상황을 부드럽게 시작하며, 불확실한 가능성을 표현하여 정중함을 더합니다. 'Our order'는 일행이 있을 때 더 자연스럽습니다."
+    },
+    {
+      "english": "I believe I ordered the [Original Dish], but this seems to be the [Received Dish].",
+      "pronunciation": "아이 빌리-브 아이 오-덜드 더 [오리지널 디쉬], 벗 디스 씨-엠스 투 비 더 [리씨-브드 디쉬].",
+      "korean": "제가 [원래 시킨 메뉴]를 주문했는데, 이건 [나온 메뉴]인 것 같아요.",
+      "tip": "구체적으로 어떤 음식을 주문했고 어떤 음식이 나왔는지 설명할 때 사용합니다. 정확한 메뉴 이름을 넣어주세요."
+    },
+    {
+      "english": "Could you verify what I originally asked for?",
+      "pronunciation": "쿠쥬 베리-파이 왓 아이 어리지널리 애스크트 포-ㄹ?",
+      "korean": "제가 원래 무엇을 요청했는지 확인해 주실 수 있으세요?",
+      "tip": "직원에게 주문 내용을 다시 확인해 달라고 정중하게 요청하는 표현입니다. 'Check'보다 조금 더 격식 있지만 자연스럽습니다."
+    },
+    {
+      "english": "I was expecting the [Original Dish], so I'm a bit confused.",
+      "pronunciation": "아이 워즈 익스펙팅 더 [오리지널 디쉬], 쏘 아임 어 빗 컨퓨-즈드.",
+      "korean": "저는 [원래 시킨 메뉴]를 기대하고 있었는데, 약간 혼란스럽네요.",
+      "tip": "기대했던 것과 달라서 약간 당황스럽다는 뉘앙스를 전달하며, 직원이 상황을 이해하도록 돕습니다."
+    },
+    {
+      "english": "What would be the best approach to get the correct order?",
+      "pronunciation": "왓 우드 비 더 베스트 어프로-치 투 겟 더 커렉트 오-더?",
+      "korean": "정확한 주문을 받으려면 어떻게 하는 것이 가장 좋을까요?",
+      "tip": "문제를 해결하기 위한 가장 좋은 방법이나 다음 단계가 무엇인지 정중하게 묻는 표현입니다. 직원이 해결책을 제시하도록 유도합니다."
+    }
+  ],
+  "pattern": {
+    "form": "I was expecting [Noun/Noun Phrase], but this is [different Noun/Noun Phrase].",
+    "pronunciation": "아이 워즈 익스펙팅 [명사/명사구], 벗 디스 이즈 [다른 명사/명사구].",
+    "meaning": "~을 기대하고 있었는데, 이건 ~이네요. (기대와 다른 결과 설명)",
+    "examples": [
+      {
+        "english": "I was expecting a side of fries, but this is a salad.",
+        "pronunciation": "아이 워즈 익스펙팅 어 싸이드 어브 프라이즈, 벗 디스 이즈 어 샐러드.",
+        "korean": "저는 감자튀김을 기대했는데, 이건 샐러드네요.",
+        "tip": "메인 요리에 딸려 나오는 사이드 메뉴가 다르게 나왔을 때 활용할 수 있습니다."
+      },
+      {
+        "english": "I was expecting a sparkling water, but this is tap water.",
+        "pronunciation": "아이 워즈 익스펙팅 어 스파클링 워터, 벗 디스 이즈 탭 워터.",
+        "korean": "저는 탄산수를 기대했는데, 이건 수돗물이네요.",
+        "tip": "음료가 잘못 나왔을 때도 사용할 수 있는 유용한 패턴입니다."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "mistake",
+      "pronunciation": "미스테익",
+      "meaning": "실수, 착오"
+    },
+    {
+      "word": "verify",
+      "pronunciation": "베리-파이",
+      "meaning": "확인하다, 검증하다"
+    },
+    {
+      "word": "discrepancy",
+      "pronunciation": "디스크레펀씨",
+      "meaning": "불일치, 차이"
+    },
+    {
+      "word": "replace",
+      "pronunciation": "리플레이스",
+      "meaning": "교체하다, 바꾸다"
+    },
+    {
+      "word": "on the house",
+      "pronunciation": "온 더 하우스",
+      "meaning": "무료로, 서비스로 (식당에서)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "You",
+      "english": "Excuse me, I think there might be a mistake with our order.",
+      "pronunciation": "익스큐즈 미, 아이 씽크 데어 마잇 비어 미스테익 위드 아워 오-더.",
+      "korean": "실례합니다, 저희 주문에 뭔가 착오가 있는 것 같아요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Oh, I apologize. What seems to be the issue?",
+      "pronunciation": "오, 아이 어폴러자이즈. 왓 씨-엠스 투 비 디 이슈-?",
+      "korean": "오, 죄송합니다. 어떤 문제가 있으신가요?"
+    },
+    {
+      "speaker": "You",
+      "english": "I believe I ordered the Seafood Pasta, but this seems to be the Chicken Alfredo. I was expecting the pasta with seafood, so I'm a bit confused.",
+      "pronunciation": "아이 빌리-브 아이 오-덜드 더 씨-푸드 파-스타, 벗 디스 씨-엠스 투 비 더 치킨 알프레도. 아이 워즈 익스펙팅 더 파-스타 위드 씨-푸드, 쏘 아임 어 빗 컨퓨-즈드.",
+      "korean": "제가 해산물 파스타를 주문했는데, 이건 치킨 알프레도인 것 같아요. 해산물 파스타를 기대하고 있었는데, 약간 혼란스럽네요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "My apologies, I'll check our system right away. Yes, it seems there was a mix-up in the kitchen. We'll get your correct Seafood Pasta prepared immediately.",
+      "pronunciation": "마이 어폴러자이즈, 아일 첵 아워 씨스템 라잇 어웨이. 예스, 잇 씨-엠스 데어 워즈 어 믹스-업 인 더 키친. 위-을 겟 유어 커렉트 씨-푸드 파-스타 프리페어드 이-미디엇리.",
+      "korean": "죄송합니다, 바로 시스템을 확인해 보겠습니다. 네, 주방에서 착오가 있었던 것 같네요. 올바른 해산물 파스타를 즉시 준비해 드리겠습니다."
+    },
+    {
+      "speaker": "You",
+      "english": "Thank you. And what would be the best approach to get the correct order? Will it take long?",
+      "pronunciation": "쌩큐. 앤 왓 우드 비 더 베스트 어프로-치 투 겟 더 커렉트 오-더? 윌 잇 테익 롱?",
+      "korean": "감사합니다. 정확한 주문을 받으려면 어떻게 하는 게 가장 좋을까요? 오래 걸릴까요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "It shouldn't take too long, perhaps another 10-15 minutes. We'll prioritize it. And this Chicken Alfredo will be on the house for the inconvenience.",
+      "pronunciation": "잇 슈든트 테익 투 롱, 퍼햅스 어나더 텐 투 피프틴 미닛츠. 위-을 프라이오리타이즈 잇. 앤 디스 치킨 알프레도 윌 비 온 더 하우스 포 디 인컨비니언스.",
+      "korean": "오래 걸리진 않을 거예요, 아마 10~15분 정도요. 최우선으로 준비하겠습니다. 그리고 불편을 드린 것에 대해 이 치킨 알프레도는 서비스로 드리겠습니다."
+    },
+    {
+      "speaker": "You",
+      "english": "That's very kind of you, thank you so much.",
+      "pronunciation": "댓츠 베리 카인드 어브 유, 쌩큐 쏘 머치.",
+      "korean": "정말 친절하시네요, 대단히 감사합니다."
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "I think there might be a mistake with our order.",
+      "pronunciation": "아이 씽크 데어 마잇 비어 미스테익 위드 아워 오-더.",
+      "korean": "저희 주문이 잘못된 것 같아요.",
+      "tip": "문제를 부드럽게 제기할 때 쓰는 표현입니다."
+    },
+    {
+      "english": "I believe I ordered the [Original Dish], but this seems to be the [Received Dish].",
+      "pronunciation": "아이 빌리-브 아이 오-덜드 더 [오리지널 디쉬], 벗 디스 씨-엠스 투 비 더 [리씨-브드 디쉬].",
+      "korean": "제가 [원래 시킨 메뉴]를 시켰는데, 이건 [나온 메뉴]인 것 같아요.",
+      "tip": "주문한 음식과 나온 음식의 차이를 명확히 설명하는 표현입니다."
+    },
+    {
+      "english": "What would be the best approach to get the correct order?",
+      "pronunciation": "왓 우드 비 더 베스트 어프로-치 투 겟 더 커렉트 오-더?",
+      "korean": "원래 주문한 것을 받을 수 있는 가장 좋은 방법이 뭘까요?",
+      "tip": "문제 해결을 위한 다음 단계를 정중하게 문의할 때 사용합니다."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "This isn't what I ordered.",
+      "pronunciation": "디스 이즌트 왓 아이 오-덜드.",
+      "korean": "이건 제가 주문한 게 아니에요.",
+      "note": "핵심 표현보다 조금 더 직접적이고 간결한 표현입니다. 격식 없이 빠르게 상황을 알릴 때 사용하기 좋습니다."
+    },
+    {
+      "english": "I think you might have brought the wrong dish.",
+      "pronunciation": "아이 씽크 유 마잇 해브 브롯 더 롱 디쉬.",
+      "korean": "혹시 다른 음식을 가져다주신 것 같아요.",
+      "note": "직원이 실수를 했을 가능성을 조심스럽게 언급하며, '우리 주문'보다는 '직원이 가져온 것'에 초점을 맞춥니다."
+    },
+    {
+      "english": "I actually ordered the [Original Dish].",
+      "pronunciation": "아이 액츄얼리 오-덜드 더 [오리지널 디쉬].",
+      "korean": "저는 사실 [원래 시킨 메뉴]를 시켰었어요.",
+      "note": "'I believe I ordered'보다 훨씬 간결하고 부드럽게 원래 주문을 재확인하는 뉘앙스를 가집니다. 현재 음식이 잘못되었다는 것을 간접적으로 나타냅니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-11-09",
+      "english": "We ordered approximately 30 minutes ago, and we haven't received our food yet.",
+      "pronunciation": "위 오더드 어프락시멋리 써리 미닛츠 어고우, 앤 위 해븐트 리씨브드 아워 푸드 옛.",
+      "korean": "저희가 대략 30분 전에 주문했는데, 아직 음식을 받지 못했어요.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-09",
+      "english": "Our [specific dish] seems to be taking quite a while. Is everything alright with it?",
+      "pronunciation": "아워 [스페씨픽 디쉬] 씸즈 투 비 테이킹 콰잍 어 와일. 이즈 에브리띵 올롸잍 위딧?",
+      "korean": "저희 [특정 메뉴]가 좀 오래 걸리는 것 같아요. 문제 없는 건가요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-07",
+      "english": "It's important for me to mention that I have a severe allergy to [allergen], like peanuts.",
+      "pronunciation": "잇츠 임포턴트 포 미 투 멘션 댓 아이 해브 어 씨비어 애럴지 투 [알러젠], 라잌 피넛츠.",
+      "korean": "제가 [알레르기 유발 물질], 예를 들어 땅콩에 심한 알레르기가 있다는 것을 말씀드리는 것이 중요해요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-07",
+      "english": "Would you be able to check if [this dish/sauce] contains any [allergen]?",
+      "pronunciation": "우쥬 비 에이블 투 첵 이프 [디스 디쉬/싸-쓰] 컨테인스 애니 [알러젠]?",
+      "korean": "[이 요리/소스]에 혹시 [알레르기 유발 물질]이 들어있는지 확인해 주실 수 있을까요?",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-04",
+      "english": "I'm reviewing my bill, and there's a charge here I don't recognize.",
+      "pronunciation": "아임 뤼뷰잉 마이 빌, 앤 데얼즈 어 챠-쥐 히어 아이 돈 뤡어그나이즈.",
+      "korean": "청구서를 보고 있는데, 제가 모르는 요금이 하나 있어요.",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
