@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-11",
+  "updated_at": "11:01 KST",
+  "topic": "음식 간을 조절해달라고 요청하기",
+  "intro": "해외 식당에서 음식이 너무 짜거나 맵거나, 혹은 반대로 너무 싱거울 때가 있죠. 내 입맛에 맞게 간을 조절해달라고 요청하는 것은 현지 음식을 더 맛있게 즐기는 데 중요한 부분입니다. 정중하게 문제점을 설명하고, 가능한 해결책을 묻는 표현들을 배워볼까요?",
+  "sentences": [
+    {
+      "english": "This pasta seems a bit too salty for my taste.",
+      "pronunciation": "디스 파스타 씸스 어 빗 투 쏠티 폴 마이 테이스트.",
+      "korean": "이 파스타가 제 입맛에는 좀 짠 것 같아요.",
+      "tip": "'for my taste'는 '내 입맛에는'이라는 의미로, 주관적인 의견임을 부드럽게 표현합니다."
+    },
+    {
+      "english": "I was wondering if it's possible to adjust the seasoning on this, maybe make it less spicy?",
+      "pronunciation": "아이 워즈 원더링 이프 잇츠 파서블 투 어져스트 더 씨즈닝 온 디스, 메이비 메익 잇 레스 스파이씨?",
+      "korean": "이 음식의 간을 조절하는 것이 가능할지 궁금해서요, 혹시 덜 맵게 해주실 수 있을까요?",
+      "tip": "'I was wondering if...'는 정중하게 질문하거나 요청할 때 아주 유용한 패턴입니다."
+    },
+    {
+      "english": "Is there anything that can be done to tone down the saltiness?",
+      "pronunciation": "이즈 데어 애니띵 댓 캔 비 던 투 톤 다운 더 쏠티니스?",
+      "korean": "짠맛을 좀 줄일 수 있는 방법이 있을까요?",
+      "tip": "'tone down'은 '강도를 낮추다, 줄이다'라는 뜻으로, 맛이나 색상 등을 조절할 때 사용합니다."
+    },
+    {
+      "english": "Would it be an option to get a fresh one prepared with milder seasoning?",
+      "pronunciation": "우딧 비 언 옵션 투 겟 어 프레쉬 원 프리페어드 위드 마일더 씨즈닝?",
+      "korean": "혹시 간을 약하게 해서 새로 만들어 주실 수 있는 옵션도 있을까요?",
+      "tip": "'Would it be an option to...?'는 특정 해결책이 가능한지 물어볼 때 사용하며, 'milder seasoning'은 '더 순한 간'이라는 뜻입니다."
+    },
+    {
+      "english": "Just to clarify, will the new dish be prepared with less salt this time?",
+      "pronunciation": "저스트 투 클레리파이, 윌 더 뉴 디쉬 비 프리페어드 위드 레스 쏠트 디스 타임?",
+      "korean": "확인차 여쭤보는데, 이번에는 덜 짜게 해서 새로 만들어 주시는 건가요?",
+      "tip": "'Just to clarify'는 '확인차, 명확히 하려고'라는 의미로, 상대방의 말을 재확인할 때 유용합니다."
+    }
+  ],
+  "pattern": {
+    "form": "This [dish name] is a bit [adjective], and I'm wondering if [action/solution] is possible.",
+    "pronunciation": "디스 [디시 네임] 이즈 어 빗 [애드젝티브], 앤 아이엠 원더링 이프 [액션/솔루션] 이즈 파서블.",
+    "meaning": "이 [음식 이름]이 좀 [형용사]한데, [행동/해결책]이 가능한지 궁금해서요.",
+    "examples": [
+      {
+        "english": "This soup is a bit bland, and I'm wondering if we could get some extra seasoning on the side.",
+        "pronunciation": "디스 쑵 이즈 어 빗 블랜드, 앤 아이엠 원더링 이프 위 쿳 겟 썸 엑스트라 씨즈닝 온 더 사이드.",
+        "korean": "이 수프가 좀 싱거운 것 같아서요, 양념을 좀 더 따로 받을 수 있을지 궁금해서요.",
+        "tip": "'on the side'는 '따로'라는 뜻으로, 메인 음식과 분리해서 받을 때 사용합니다."
+      },
+      {
+        "english": "This curry is a bit too spicy, and I'm wondering if there's any way to make it milder.",
+        "pronunciation": "디스 커리 이즈 어 빗 투 스파이씨, 앤 아이엠 원더링 이프 데어즈 애니 웨이 투 메익 잇 마일더.",
+        "korean": "이 카레가 좀 너무 매운데, 더 순하게 할 방법이 있는지 궁금해서요.",
+        "tip": "'any way to...'는 '어떤 방법이 있는지'를 물을 때 씁니다."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "seasoning",
+      "pronunciation": "씨즈닝",
+      "meaning": "간, 양념"
+    },
+    {
+      "word": "salty",
+      "pronunciation": "쏠티",
+      "meaning": "짠"
+    },
+    {
+      "word": "spicy",
+      "pronunciation": "스파이씨",
+      "meaning": "매운"
+    },
+    {
+      "word": "bland",
+      "pronunciation": "블랜드",
+      "meaning": "싱거운, 밋밋한"
+    },
+    {
+      "word": "tone down",
+      "pronunciation": "톤 다운",
+      "meaning": "~의 강도를 줄이다, 약하게 하다"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Staff",
+      "english": "Is everything to your liking, folks?",
+      "pronunciation": "이즈 에브리띵 투 유어 라이킹, 포오크스?",
+      "korean": "손님들, 모든 것이 만족스러우신가요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Actually, this pasta is a bit too salty for my taste. I was wondering if there's anything we can do about the seasoning?",
+      "pronunciation": "액추얼리, 디스 파스타 이즈 어 빗 투 쏠티 폴 마이 테이스트. 아이 워즈 원더링 이프 데어즈 애니띵 위 캔 두 어바웃 더 씨즈닝?",
+      "korean": "음, 사실 이 파스타가 제 입맛엔 좀 짜네요. 간 조절을 위해 뭔가 할 수 있는 게 있을까요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Oh, I apologize for that. We can certainly adjust it for you. Would you like us to remake it with less salt, or perhaps bring something to balance it out, like some fresh cream?",
+      "pronunciation": "오, 아이 어팔러자이즈 폴 댓. 위 캔 써튼리 어져스트 잇 폴 유. 우쥬 라이크 어스 투 리메익 잇 위드 레스 쏠트, 오어 펄햅스 브링 썸띵 투 밸런스 잇 아웃, 라이크 썸 프레쉬 크림?",
+      "korean": "아, 죄송합니다. 물론 조절해 드릴 수 있습니다. 소금을 덜 넣고 다시 만들어 드릴까요, 아니면 신선한 크림 같은 것을 가져다드려 맛을 중화시켜 드릴까요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Remaking it with less salt would be great. Just to clarify, will it be a completely fresh dish, not just rinsed?",
+      "pronunciation": "리메이킹 잇 위드 레스 쏠트 우드 비 그레잇. 저스트 투 클레리파이, 윌 잇 비 어 컴플리틀리 프레쉬 디쉬, 낫 저스트 린스드?",
+      "korean": "소금을 덜 넣고 다시 만들어 주시면 좋겠습니다. 확실히 하려고 여쭤보는데, 헹궈내는 것 말고 완전히 새로운 요리로 다시 만들어 주시는 건가요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Yes, absolutely. We'll prepare a brand new one for you with a milder seasoning. It will take just a few minutes.",
+      "pronunciation": "예스, 앱솔루틀리. 위윌 프리페어 어 브랜 뉴 원 폴 유 위드 어 마일더 씨즈닝. 잇 윌 테익 저스트 어 퓨 미닛츠.",
+      "korean": "네, 물론이죠. 더 순한 간으로 완전히 새로운 요리를 준비해 드리겠습니다. 몇 분 정도 걸릴 거예요."
+    },
+    {
+      "speaker": "You",
+      "english": "That sounds perfect, thank you so much for your help!",
+      "pronunciation": "댓 싸운즈 퍼펙트, 땡큐 쏘 머치 폴 유어 헬프!",
+      "korean": "완벽하네요, 도와주셔서 정말 감사합니다!"
+    },
+    {
+      "speaker": "Staff",
+      "english": "My pleasure. I'll get that started right away.",
+      "pronunciation": "마이 플레져. 아윌 겟 댓 스타티드 라잇 어웨이.",
+      "korean": "천만에요. 바로 시작하도록 하겠습니다."
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "This soup is a bit bland. I was wondering if we could get some extra seasoning on the side.",
+      "pronunciation": "디스 쑵 이즈 어 빗 블랜드. 아이 워즈 원더링 이프 위 쿳 겟 썸 엑스트라 씨즈닝 온 더 사이드.",
+      "korean": "이 수프가 너무 싱거워서 양념을 좀 더 따로 받을 수 있을지 묻고 싶을 때.",
+      "tip": "'bland'와 'extra seasoning on the side'를 활용해 보세요."
+    },
+    {
+      "english": "Is there anything that can be done to tone down the spiciness?",
+      "pronunciation": "이즈 데어 애니띵 댓 캔 비 던 투 톤 다운 더 스파이씨니스?",
+      "korean": "음식이 너무 매워서 매운맛을 좀 줄일 수 있는 방법이 있는지 물어보고 싶을 때.",
+      "tip": "'tone down'과 'spiciness'를 사용해 보세요."
+    },
+    {
+      "english": "Would it be an option to get a fresh one prepared with milder seasoning?",
+      "pronunciation": "우딧 비 언 옵션 투 겟 어 프레쉬 원 프리페어드 위드 마일더 씨즈닝?",
+      "korean": "새 음식으로 간을 약하게 다시 준비해 줄 수 있는지 물어보고 싶을 때.",
+      "tip": "'fresh one'과 'milder seasoning'을 기억하세요."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "I'm afraid this is a little too salty for me. Could it be adjusted?",
+      "pronunciation": "아이엠 어프레이드 디스 이즈 어 리를 투 쏠티 폴 미. 쿳 잇 비 어져스티드?",
+      "korean": "죄송하지만, 이건 저에게 좀 짜요. 조절될 수 있을까요?",
+      "note": "'I'm afraid'는 좀 더 조심스럽고 정중한 느낌을 준다. 'Could it be adjusted?'는 직접적인 요청이지만 여전히 공손하다."
+    },
+    {
+      "english": "My preference is for less spicy food. Is there any way to make this milder?",
+      "pronunciation": "마이 프레퍼런스 이즈 폴 레스 스파이씨 푸드. 이즈 데어 애니 웨이 투 메익 디스 마일더?",
+      "korean": "저는 덜 매운 음식을 선호합니다. 이것을 더 순하게 할 방법이 있을까요?",
+      "note": "개인적인 선호를 부각하여, 음식이 '잘못되었다'기보다 '내 취향에 안 맞는다'는 뉘앙스를 전달한다."
+    },
+    {
+      "english": "I'm finding the flavor a bit strong. Would it be possible to have it prepared with lighter seasoning?",
+      "pronunciation": "아이엠 파인딩 더 플레이버 어 빗 스트롱. 우딧 비 파서블 투 해브 잇 프리페어드 위드 라이터 씨즈닝?",
+      "korean": "맛이 좀 강하게 느껴집니다. 간을 좀 더 약하게 해서 준비해 주실 수 있을까요?",
+      "note": "'strong'이나 'lighter seasoning' 같은 표현을 사용하여 간의 문제보다는 맛의 강도를 완곡하게 표현한다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-11-10",
+      "english": "Excuse me, I think there might be a mistake with our order.",
+      "pronunciation": "익스큐즈 미, 아이 씽크 데어 마잇 비어 미스테익 위드 아워 오-더.",
+      "korean": "실례합니다, 저희 주문에 뭔가 착오가 있는 것 같아요.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-10",
+      "english": "I believe I ordered the [Original Dish], but this seems to be the [Received Dish].",
+      "pronunciation": "아이 빌리-브 아이 오-덜드 더 [오리지널 디쉬], 벗 디스 씨-엠스 투 비 더 [리씨-브드 디쉬].",
+      "korean": "제가 [원래 시킨 메뉴]를 주문했는데, 이건 [나온 메뉴]인 것 같아요.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-08",
+      "english": "What exactly goes into the [dish name]?",
+      "pronunciation": "왓 이그잭틀리 고우스 인투 더 [디쉬 네임]?",
+      "korean": "[메뉴 이름]에는 정확히 어떤 재료들이 들어가나요?",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-08",
+      "english": "How is the [dish name] typically prepared here?",
+      "pronunciation": "하우 이즈 더 [디쉬 네임] 티피컬리 프리페얼드 히얼?",
+      "korean": "이 [메뉴 이름]은 여기에서 보통 어떻게 조리되나요?",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-05",
+      "english": "Hi, we don't have a reservation, but we're hoping to get a table for two.",
+      "pronunciation": "하이, 위 돈 해버 레저베이션, 벗 위얼 호핑 투 겟어 테이-블 포 투.",
+      "korean": "안녕하세요, 예약은 안 했지만, 두 명이 앉을 테이블을 찾고 있어요.",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
