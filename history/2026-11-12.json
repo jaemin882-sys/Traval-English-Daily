@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-12",
+  "updated_at": "12:10 KST",
+  "topic": "사이드 메뉴나 소스를 다른 것으로 바꾸기",
+  "intro": "레스토랑에서 주문한 메인 요리와 함께 나오는 사이드 메뉴나 소스가 마음에 들지 않거나, 다른 것으로 바꾸고 싶을 때 요청하는 표현을 배워봅니다.",
+  "sentences": [
+    {
+      "english": "I was wondering if it's possible to substitute the side salad with french fries instead?",
+      "pronunciation": "아이 워즈 원-더링 이프 잇츠 파-서블 투 서-브스티튯 더 사이드 샐-러드 위드 프렌치 프라이즈 인-스테드?",
+      "korean": "사이드 샐러드 대신 프렌치프라이로 대체하는 것이 가능할까요?",
+      "tip": "직접적인 요청보다 '가능한지 궁금하다'는 뉘앙스로 정중하게 묻는 표현입니다."
+    },
+    {
+      "english": "The menu mentions a spicy sauce. Would it be an option to get a milder alternative?",
+      "pronunciation": "더 메-뉴 멘션즈 어 스파이-씨 소스. 우-딧 비 언 옵-션 투 겟 어 마일-더 얼-터너티브?",
+      "korean": "메뉴에 매운 소스라고 되어 있는데, 좀 더 순한 다른 소스를 받을 수 있을까요?",
+      "tip": "메뉴 내용을 언급하며 대안이 있는지 묻는 공손한 방식입니다. 'Would it be an option to ~?'는 좋은 대안 질문입니다."
+    },
+    {
+      "english": "I'd prefer not to have the mashed potatoes. Is there another vegetable side I could choose?",
+      "pronunciation": "아이-드 프리-퍼어 낫 투 해브 더 매쉬드 포-테이토즈. 이즈 데어 어나-더 베-지터블 사이드 아이 쿧 츄-즈?",
+      "korean": "매쉬드 포테이토는 안 먹고 싶은데요. 제가 고를 수 있는 다른 야채 사이드 메뉴가 있을까요?",
+      "tip": "선호를 먼저 밝히고, 선택 가능한 다른 옵션을 묻는 표현입니다."
+    },
+    {
+      "english": "Just to clarify, would there be an extra charge if I swap the rice for garlic bread?",
+      "pronunciation": "저스트 투 클래-러파이, 우-드 데어 비 언 엑-스트라 촤-쥐 이프 아이 스왑 더 라이스 포 가-를릭 브레드?",
+      "korean": "확인차 여쭤보는 건데요, 밥 대신 갈릭 브레드로 바꾸면 추가 요금이 붙나요?",
+      "tip": "사이드 메뉴 변경 시 추가 요금 여부를 확인하는 표현입니다. 'Just to clarify'로 말을 시작하여 확인하는 뉘앙스를 줍니다."
+    },
+    {
+      "english": "For my main course, instead of the regular sauce, could I get the creamy mushroom sauce that comes with the chicken dish?",
+      "pronunciation": "포 마이 메인 코스, 인-스테드 어브 더 레-귤러 소스, 쿧 아이 겟 더 크리-미 머-쉬룸 소스 댓 컴즈 위드 더 치-킨 디쉬?",
+      "korean": "제 메인 요리에 기본 소스 대신, 치킨 요리에 나오는 크림 머쉬룸 소스를 받을 수 있을까요?",
+      "tip": "다른 메뉴의 특정 소스를 언급하며 요청하는 구체적인 표현입니다. 구체적인 대안을 제시할 때 유용합니다."
+    }
+  ],
+  "pattern": {
+    "form": "I'm not a big fan of [item/flavor], do you have any other options for [side/sauce]?",
+    "pronunciation": "아임 낫 어 빅 팬 어브 [아이템/플레이버], 두 유 해브 애니 아-더 옵-션즈 포 [사이드/소스]?",
+    "meaning": "[아이템/맛]을 그리 좋아하지 않아서요, [사이드/소스]는 다른 옵션이 있을까요?",
+    "examples": [
+      {
+        "english": "I'm not a big fan of mayonnaise, do you have any other options for a dipping sauce?",
+        "pronunciation": "아임 낫 어 빅 팬 어브 매-요네이즈, 두 유 해브 애니 아-더 옵-션즈 포 어 딥-핑 소스?",
+        "korean": "마요네즈는 그리 좋아하지 않아서요, 찍어 먹는 소스는 다른 옵션이 있을까요?"
+      },
+      {
+        "english": "I'm not a big fan of steamed vegetables, do you have any other options for a side dish?",
+        "pronunciation": "아임 낫 어 빅 팬 어브 스팀드 베-지터블즈, 두 유 해브 애니 아-더 옵-션즈 포 어 사이드 디쉬?",
+        "korean": "찐 채소는 그리 좋아하지 않아서요, 사이드 메뉴는 다른 옵션이 있을까요?"
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "substitute",
+      "pronunciation": "서-브스티튯",
+      "meaning": "대체하다, 대신하다"
+    },
+    {
+      "word": "swap",
+      "pronunciation": "스왑",
+      "meaning": "교환하다, 바꾸다"
+    },
+    {
+      "word": "alternative",
+      "pronunciation": "얼-터너티브",
+      "meaning": "대안, 대체의"
+    },
+    {
+      "word": "dressing",
+      "pronunciation": "드레-싱",
+      "meaning": "(샐러드) 드레싱"
+    },
+    {
+      "word": "condiment",
+      "pronunciation": "칸-디멘트",
+      "meaning": "양념, 조미료 (케첩, 머스터드 등)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "You",
+      "english": "Excuse me, I'd like to order the steak. I was wondering if it's possible to swap the mashed potatoes for grilled asparagus?",
+      "pronunciation": "익스큐즈 미, 아이-드 라잌 투 오-더 더 스테-잌. 아이 워즈 원-더링 이프 잇츠 파-서블 투 스왑 더 매쉬드 포-테이토즈 포 그릴드 어스페-러거스?",
+      "korean": "저기요, 스테이크를 주문하고 싶은데요. 매쉬드 포테이토 대신 구운 아스파라거스로 바꿀 수 있을까요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Yes, absolutely. We can do that. There's a small upcharge of $3 for the asparagus, is that okay?",
+      "pronunciation": "예스, 앱-설루틀리. 위 캔 두 댓. 데어즈 어 스몰 업-촤-쥐 어브 쓰리 달-러즈 포 디 어스페-러거스, 이즈 댓 오-케이?",
+      "korean": "네, 물론이죠. 가능합니다. 아스파라거스로 바꾸시면 3달러 추가 요금이 있는데 괜찮으실까요?"
+    },
+    {
+      "speaker": "You",
+      "english": "That's fine. And for the sauce, the menu mentions a chimichurri sauce. I'm not a big fan of very strong flavors. Do you have any other options, maybe something creamy?",
+      "pronunciation": "댓츠 파인. 앤 포 더 소스, 더 메-뉴 멘션즈 어 치미-츄리 소스. 아임 낫 어 빅 팬 어브 베-리 스트롱 플레이-버즈. 두 유 해브 애니 아-더 옵-션즈, 메이-비 썸-씽 크리-미?",
+      "korean": "네, 괜찮아요. 소스 말인데요, 메뉴에 치미추리 소스라고 되어 있는데, 너무 강한 맛은 별로 안 좋아해서요. 다른 옵션이 있을까요? 혹시 크리미한 종류는요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "We certainly do! We also have a peppercorn sauce or a red wine reduction. Both are quite popular and less strong than the chimichurri.",
+      "pronunciation": "위 서-튼리 두! 위 올-소 해브 어 페-퍼콘 소스 오어 어 레드 와인 리-덕션. 보스 아 콰잇 파-퓰러 앤 레스 스트롱 댄 더 치미-츄리.",
+      "korean": "네, 물론이죠! 페퍼콘 소스나 레드 와인 리덕션도 있습니다. 둘 다 아주 인기가 많고 치미추리보다 덜 강한 맛이에요."
+    },
+    {
+      "speaker": "You",
+      "english": "Okay, the peppercorn sauce sounds good then. So, one steak with grilled asparagus and peppercorn sauce, please.",
+      "pronunciation": "오-케이, 더 페-퍼콘 소스 사운즈 굿 덴. 소, 원 스테-잌 위드 그릴드 어스페-러거스 앤 페-퍼콘 소스, 플리즈.",
+      "korean": "네, 그럼 페퍼콘 소스로 할게요. 그래서 구운 아스파라거스와 페퍼콘 소스를 곁들인 스테이크 하나요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Got it. Steak, grilled asparagus, and peppercorn sauce. Anything else for you today?",
+      "pronunciation": "갓 잇. 스테-잌, 그릴드 어스페-러거스, 앤 페-퍼콘 소스. 애니-씽 엘스 포 유 투-데이?",
+      "korean": "알겠습니다. 스테이크, 구운 아스파라거스, 페퍼콘 소스. 오늘 다른 건 필요 없으실까요?"
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "I was wondering if it's possible to substitute the side salad with french fries instead?",
+      "pronunciation": "아이 워즈 원-더링 이프 잇츠 파-서블 투 서-브스티튯 더 사이드 샐-러드 위드 프렌치 프라이즈 인-스테드?",
+      "korean": "사이드 샐러드 대신 프렌치프라이로 대체할 수 있는지 궁금해요.",
+      "tip": "'~인지 궁금하다'는 뜻의 완곡한 질문을 사용하세요."
+    },
+    {
+      "english": "Do you have any other options, maybe something creamy?",
+      "pronunciation": "두 유 해브 애니 아-더 옵-션즈, 메이-비 썸-씽 크리-미?",
+      "korean": "다른 옵션이 있을까요, 혹시 크리미한 종류로요?",
+      "tip": "구체적인 선호를 덧붙여 질문해보세요."
+    },
+    {
+      "english": "Just to clarify, would there be an extra charge if I swap the rice for garlic bread?",
+      "pronunciation": "저스트 투 클래-러파이, 우-드 데어 비 언 엑-스트라 촤-쥐 이프 아이 스왑 더 라이스 포 가-를릭 브레드?",
+      "korean": "확인차 여쭤보는 건데요, 밥 대신 갈릭 브레드로 바꾸면 추가 요금이 붙나요?",
+      "tip": "추가 요금 여부를 확인하는 표현을 사용하세요."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "Would it be possible to switch out the side salad for fries?",
+      "pronunciation": "우-딧 비 파-서블 투 스위치 아웃 더 사이드 샐-러드 포 프라이즈?",
+      "korean": "사이드 샐러드를 프라이로 바꿔주실 수 있을까요?",
+      "note": "'switch out ~ for ...'는 '무엇을 무엇으로 바꾸다'라는 뜻으로, 'substitute'보다 좀 더 캐주얼하게 사용될 수 있습니다."
+    },
+    {
+      "english": "Could I get this dish with the creamy mushroom sauce instead of the regular one?",
+      "pronunciation": "쿧 아이 겟 디스 디쉬 위드 더 크리-미 머-쉬룸 소스 인-스테드 어브 더 레-귤러 원?",
+      "korean": "이 요리를 기본 소스 대신 크림 머쉬룸 소스로 받을 수 있을까요?",
+      "note": "간결하고 직접적인 요청으로, 원하는 변경 사항을 명확히 전달할 때 유용합니다."
+    },
+    {
+      "english": "I'm not fond of very spicy sauces. Are there any milder alternatives available?",
+      "pronunciation": "아임 낫 판드 어브 베-리 스파이-씨 소시즈. 아 데어 애니 마일-더 얼-터너티브즈 어베-일러블?",
+      "korean": "매운 소스는 별로 좋아하지 않아서요. 더 순한 다른 소스가 있을까요?",
+      "note": "'I'm not fond of ~'는 '나는 ~를 좋아하지 않는다'는 뜻으로, 선호를 부드럽게 표현하고 대안을 묻는 데 사용됩니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-11-11",
+      "english": "This pasta seems a bit too salty for my taste.",
+      "pronunciation": "디스 파스타 씸스 어 빗 투 쏠티 폴 마이 테이스트.",
+      "korean": "이 파스타가 제 입맛에는 좀 짠 것 같아요.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-11",
+      "english": "I was wondering if it's possible to adjust the seasoning on this, maybe make it less spicy?",
+      "pronunciation": "아이 워즈 원더링 이프 잇츠 파서블 투 어져스트 더 씨즈닝 온 디스, 메이비 메익 잇 레스 스파이씨?",
+      "korean": "이 음식의 간을 조절하는 것이 가능할지 궁금해서요, 혹시 덜 맵게 해주실 수 있을까요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-09",
+      "english": "We ordered approximately 30 minutes ago, and we haven't received our food yet.",
+      "pronunciation": "위 오더드 어프락시멋리 써리 미닛츠 어고우, 앤 위 해븐트 리씨브드 아워 푸드 옛.",
+      "korean": "저희가 대략 30분 전에 주문했는데, 아직 음식을 받지 못했어요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-09",
+      "english": "Our [specific dish] seems to be taking quite a while. Is everything alright with it?",
+      "pronunciation": "아워 [스페씨픽 디쉬] 씸즈 투 비 테이킹 콰잍 어 와일. 이즈 에브리띵 올롸잍 위딧?",
+      "korean": "저희 [특정 메뉴]가 좀 오래 걸리는 것 같아요. 문제 없는 건가요?",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-06",
+      "english": "I'm a bit overwhelmed by the options! What would you typically recommend for someone trying your restaurant for the first time?",
+      "pronunciation": "아임 엇 빗 오우버웰름드 바이 디 옵션스! 왓 우쥬 티피컬리 레커멘드 포어 썸원 트라잉 유어 레스터런트 포어 더 퍼스트 타임?",
+      "korean": "메뉴가 너무 많아서 좀 압도되네요! 저희 식당에 처음 오신 분께 보통 뭘 추천해 주시겠어요?",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
