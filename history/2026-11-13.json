@@ -1,0 +1,191 @@
+{
+  "date": "2026-11-13",
+  "updated_at": "11:44 KST",
+  "topic": "포장 가능한지 요청하기",
+  "intro": "해외여행 중 맛집에서 음식을 남겼거나, 처음부터 포장 주문하고 싶을 때 유용하게 쓸 수 있는 표현들을 배워봅니다. 단순히 'Take out, please'를 넘어, 상황에 맞춰 다양하고 정중하게 요청하고 확인하는 방법을 익혀보세요.",
+  "sentences": [
+    {
+      "english": "I've really enjoyed the meal, but I couldn't finish it all. I was wondering if it's possible to get the rest packed up to take with me?",
+      "pronunciation": "아-입 릴리 엔조이-드 더 밀, 벗 아이 쿠든 피니쉬 잇 올. 아이 워즈 원더링 이프 잇츠 파서블 투 겟 더 레스트 팩트 업 투 테익 위드 미?",
+      "korean": "식사를 정말 맛있게 잘했는데, 다 먹지는 못했어요. 남은 음식을 포장해서 가져갈 수 있을까요?",
+      "tip": "'I was wondering if...'는 매우 정중한 요청 표현입니다. 구체적인 상황 설명(남은 음식)과 함께 요청합니다."
+    },
+    {
+      "english": "For this dish, could I get it prepared to go, please?",
+      "pronunciation": "포 디스 디쉬, 쿠드 아이 겟 잇 프리페어드 투 고, 플리즈?",
+      "korean": "이 음식은 포장해서 가져갈 수 있게 준비해 주실 수 있을까요?",
+      "tip": "특정 음식을 가리키며 처음부터 '포장 주문'을 할 때 사용합니다. 'to go'는 미국 영어, 'takeaway'는 영국 영어에서 흔히 쓰입니다."
+    },
+    {
+      "english": "Are take-out options generally available for items on your menu?",
+      "pronunciation": "아 테익-아웃 옵션스 제너럴리 어베일러블 포 아이템스 온 유어 메뉴?",
+      "korean": "메뉴에 있는 음식들은 대체로 포장 주문이 가능한가요?",
+      "tip": "식당의 일반적인 포장 정책을 묻는 질문입니다. 특정 음식이 아닌 '전반적인 가능성'을 확인할 때 유용합니다."
+    },
+    {
+      "english": "Do you provide containers for customers who want to take their unfinished food?",
+      "pronunciation": "두 유 프로바이드 컨테이너스 포 커스터머스 후 원트 투 테익 데어 언피니쉬드 푸드?",
+      "korean": "남은 음식을 가져가고 싶어 하는 손님들에게 용기를 제공해 주시나요?",
+      "tip": "포장 용기 제공 여부를 직접적으로 묻는 표현입니다. 'unfinished food'는 'leftovers'와 같은 의미입니다."
+    },
+    {
+      "english": "What's the usual procedure if we want to get something packed for later?",
+      "pronunciation": "왓츠 더 유주얼 프로시져 이프 위 원트 투 겟 썸씽 팩트 포 레이터?",
+      "korean": "나중에 먹으려고 음식을 포장하고 싶을 경우, 일반적인 절차가 어떻게 되나요?",
+      "tip": "단순히 포장 가능 여부를 넘어, 포장하는 방법이나 절차에 대해 문의할 때 사용합니다. 'for later'를 붙여 나중에 먹을 것임을 명확히 합니다."
+    }
+  ],
+  "pattern": {
+    "form": "Is there a [noun] for [action/purpose]?",
+    "pronunciation": "이즈 데어 어 [명사] 포 [액션/목적]?",
+    "meaning": "~을 위한 [명사]가 있나요?",
+    "examples": [
+      {
+        "english": "Is there a designated area for luggage storage?",
+        "pronunciation": "이즈 데어 어 데지그네이티드 에리어 포 러기지 스토리지?",
+        "korean": "수하물 보관을 위한 지정된 장소가 있나요?"
+      },
+      {
+        "english": "Is there a special sauce for this dish?",
+        "pronunciation": "이즈 데어 어 스페셜 소스 포 디스 디쉬?",
+        "korean": "이 요리를 위한 특별한 소스가 있나요?"
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "to go box / take-out box",
+      "pronunciation": "투 고 박스 / 테익-아웃 박스",
+      "meaning": "포장 용기"
+    },
+    {
+      "word": "leftovers",
+      "pronunciation": "레프트오버즈",
+      "meaning": "남은 음식"
+    },
+    {
+      "word": "pack up",
+      "pronunciation": "팩 업",
+      "meaning": "~을 포장하다"
+    },
+    {
+      "word": "takeaway (adj./n.)",
+      "pronunciation": "테이커웨이",
+      "meaning": "포장용의 / 포장 음식 (주로 영국)"
+    },
+    {
+      "word": "packing fee / charge",
+      "pronunciation": "패킹 피 / 챠지",
+      "meaning": "포장 요금"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "You",
+      "english": "Excuse me. This dish is absolutely delicious, but I can't finish it all. I was wondering if it's possible to get the rest packed up to take with me?",
+      "pronunciation": "익스큐즈 미. 디스 디쉬 이즈 앱솔루틀리 딜리셔스, 벗 아이 캔트 피니쉬 잇 올. 아이 워즈 원더링 이프 잇츠 파서블 투 겟 더 레스트 팩트 업 투 테익 위드 미?",
+      "korean": "실례합니다. 이 음식이 정말 맛있는데, 다 먹을 수가 없네요. 남은 음식을 포장해서 가져갈 수 있을까요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Certainly! We can definitely pack that up for you. Would you like a to-go box for this, or for anything else?",
+      "pronunciation": "썰튼리! 위 캔 데피닛리 팩 댓 업 포 유. 우쥬 라이크 어 투-고 박스 포 디스, 오어 포 애니씽 엘스?",
+      "korean": "물론이죠! 그렇게 포장해 드릴 수 있습니다. 이 음식만 포장 용기에 담아드릴까요, 아니면 다른 것도요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Just this one, please. And is there typically a small charge for the take-out containers?",
+      "pronunciation": "저스트 디스 원, 플리즈. 앤 이즈 데어 티피컬리 어 스몰 챠지 포 더 테익-아웃 컨테이너스?",
+      "korean": "이것만요. 그리고 보통 포장 용기에 소액의 요금이 부과되나요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "For a single container, there's no additional charge. We provide them complimentary. I'll get that ready for you right away.",
+      "pronunciation": "포 어 싱글 컨테이너, 데어즈 노 어디셔널 챠지. 위 프로바이드 뎀 컴플리멘터리. 아일 겟 댓 레디 포 유 라이트 어웨이.",
+      "korean": "용기 하나는 추가 요금이 없습니다. 무료로 제공해 드리고 있어요. 바로 준비해 드리겠습니다."
+    },
+    {
+      "speaker": "You",
+      "english": "That's very kind, thank you! I appreciate it.",
+      "pronunciation": "댓츠 베리 카인드, 땡큐! 아이 어프리시에잇 잇.",
+      "korean": "정말 친절하시네요, 감사합니다! 도움 주셔서 고맙습니다."
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "Is it possible to take this to go?",
+      "pronunciation": "이즈 잇 파서블 투 테익 디스 투 고?",
+      "korean": "이거 포장 되나요?",
+      "tip": "포장 가능 여부를 묻는 가장 기본적인 질문입니다."
+    },
+    {
+      "english": "I'd like to get the rest of my meal packed up.",
+      "pronunciation": "아읻 라이크 투 겟 더 레스트 오브 마이 밀 팩트 업.",
+      "korean": "남은 음식을 싸가고 싶어요.",
+      "tip": "남은 음식을 포장하고 싶을 때 쓰는 표현입니다."
+    },
+    {
+      "english": "Do you have any to-go boxes available?",
+      "pronunciation": "두 유 해브 애니 투-고 박시즈 어베일러블?",
+      "korean": "포장 용기 좀 주실 수 있나요?",
+      "tip": "포장 용기 자체의 유무를 묻는 표현입니다."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "Would it be alright to take this with me?",
+      "pronunciation": "우딧 비 올라이트 투 테익 디스 위드 미?",
+      "korean": "이걸 제가 가져가도 괜찮을까요?",
+      "note": "직접적으로 포장을 요청하기보다는, '내가 가져가는 것'에 대한 허락을 구하는 듯한, 좀 더 부드럽고 간접적인 표현입니다."
+    },
+    {
+      "english": "Do you offer any options for 'to go' orders?",
+      "pronunciation": "두 유 오퍼 애니 옵션스 포 투 고 오더즈?",
+      "korean": "포장 주문에 대한 옵션이 있나요?",
+      "note": "'to go' 주문 전반에 대한 시스템이나 정책을 묻는 좀 더 포괄적이고 격식 있는 질문입니다."
+    },
+    {
+      "english": "I'd like to get this for takeaway.",
+      "pronunciation": "아읻 라이크 투 겟 디스 포 테이커웨이.",
+      "korean": "이것을 포장하고 싶어요.",
+      "note": "미국 영어의 'to go'와 비슷한 의미로, 주로 영국이나 호주 등지에서 사용되는 표현입니다. 직접적으로 '포장 주문'을 말할 때 쓸 수 있습니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-11-12",
+      "english": "I was wondering if it's possible to substitute the side salad with french fries instead?",
+      "pronunciation": "아이 워즈 원-더링 이프 잇츠 파-서블 투 서-브스티튯 더 사이드 샐-러드 위드 프렌치 프라이즈 인-스테드?",
+      "korean": "사이드 샐러드 대신 프렌치프라이로 대체하는 것이 가능할까요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-12",
+      "english": "The menu mentions a spicy sauce. Would it be an option to get a milder alternative?",
+      "pronunciation": "더 메-뉴 멘션즈 어 스파이-씨 소스. 우-딧 비 언 옵-션 투 겟 어 마일-더 얼-터너티브?",
+      "korean": "메뉴에 매운 소스라고 되어 있는데, 좀 더 순한 다른 소스를 받을 수 있을까요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-10",
+      "english": "Excuse me, I think there might be a mistake with our order.",
+      "pronunciation": "익스큐즈 미, 아이 씽크 데어 마잇 비어 미스테익 위드 아워 오-더.",
+      "korean": "실례합니다, 저희 주문에 뭔가 착오가 있는 것 같아요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-10",
+      "english": "I believe I ordered the [Original Dish], but this seems to be the [Received Dish].",
+      "pronunciation": "아이 빌리-브 아이 오-덜드 더 [오리지널 디쉬], 벗 디스 씨-엠스 투 비 더 [리씨-브드 디쉬].",
+      "korean": "제가 [원래 시킨 메뉴]를 주문했는데, 이건 [나온 메뉴]인 것 같아요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-07",
+      "english": "It's important for me to mention that I have a severe allergy to [allergen], like peanuts.",
+      "pronunciation": "잇츠 임포턴트 포 미 투 멘션 댓 아이 해브 어 씨비어 애럴지 투 [알러젠], 라잌 피넛츠.",
+      "korean": "제가 [알레르기 유발 물질], 예를 들어 땅콩에 심한 알레르기가 있다는 것을 말씀드리는 것이 중요해요.",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
