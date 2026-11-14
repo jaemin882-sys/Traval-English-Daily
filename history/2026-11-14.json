@@ -1,0 +1,199 @@
+{
+  "date": "2026-11-14",
+  "updated_at": "11:33 KST",
+  "topic": "계산서를 나눠 결제할 수 있는지 묻기",
+  "intro": "해외여행 중 식당에서 여러 명이 함께 식사하고 계산할 때, 각자 부담한 금액만큼 나눠서 결제하고 싶을 때가 많죠. 웨이터나 캐셔에게 '계산서를 따로따로 내고 싶어요'라고 요청하는 다양한 방법을 알아봅시다. 여러 명이 왔을 때 식당에서 흔히 겪는 상황이니 자연스러운 표현으로 센스 있게 요청하는 방법을 익혀두세요.",
+  "sentences": [
+    {
+      "english": "Would it be possible to divide the total among us?",
+      "pronunciation": "우딧 비 파서블 투 디바이ㄷ 더 토틀 어멍 어스?",
+      "korean": "총액을 저희끼리 나눌 수 있을까요?",
+      "tip": "여러 명이 계산을 나누고 싶을 때 쓸 수 있는 정중한 요청입니다. 'divide the total'은 '총액을 나누다'라는 뜻이에요."
+    },
+    {
+      "english": "We're hoping to pay for our meals separately, if that's okay.",
+      "pronunciation": "위얼 호핑 투 페이 포 아월 밀스 세퍼럿리, 이프 댓츠 오케이.",
+      "korean": "저희는 각자 식사비를 따로 지불하고 싶은데, 괜찮을까요?",
+      "tip": "'We're hoping to...'는 '~하길 바랍니다'라는 부드러운 희망 표현입니다. 'separately'는 '개별적으로'라는 뜻이에요."
+    },
+    {
+      "english": "Is it an option to get separate checks for our table?",
+      "pronunciation": "이짓 언 옵션 투 겟 세퍼럿 첵스 포 아월 테이-블?",
+      "korean": "저희 테이블에 계산서를 따로따로 받을 수 있는 옵션이 있나요?",
+      "tip": "'Is it an option to...?'는 '~하는 것이 가능한 선택인가요?'라고 묻는 표현입니다. 'separate checks'는 '개별 계산서'라는 뜻으로 흔히 쓰여요."
+    },
+    {
+      "english": "Could we settle up individually, rather than one payment?",
+      "pronunciation": "쿧 위 세틀 업 인디비쥬얼리, 래더 댄 원 페이먼ㅌ?",
+      "korean": "하나의 결제가 아니라, 저희가 각자 정산할 수 있을까요?",
+      "tip": "'settle up'은 '정산하다, 계산하다'라는 의미로, 특히 함께 쓴 돈을 나누어 낼 때 자주 사용합니다. 'individually'는 '개별적으로'라는 뜻이고, 'rather than'은 '~보다는'이라는 의미입니다."
+    },
+    {
+      "english": "How do you usually handle groups wanting to split the bill here?",
+      "pronunciation": "하우 두 유 유쥬얼리 핸-들 그룹스 워닝 투 스플릿 더 빌 히어?",
+      "korean": "여기서는 계산서를 나누고 싶어 하는 그룹을 보통 어떻게 처리하시나요?",
+      "tip": "식당의 일반적인 방식을 묻는 질문으로, 'split the bill'은 '계산서를 나누다'라는 핵심 표현입니다. 간혹 식당마다 정책이 다르므로 이렇게 물어보는 것이 좋습니다."
+    }
+  ],
+  "pattern": {
+    "form": "Do you accommodate [request/situation]?",
+    "pronunciation": "두 유 어캄어데이-ㅌ [리퀘스트/시츄에이션]?",
+    "meaning": "~를 처리/수용해 주실 수 있나요?",
+    "examples": [
+      {
+        "english": "Do you accommodate separate payments?",
+        "pronunciation": "두 유 어캄어데이-ㅌ 세퍼럿 페이먼츠?",
+        "korean": "개별 결제를 수용해 주시나요?",
+        "tip": "계산 방식에 대해 직접적으로 묻기 좋은 표현입니다."
+      },
+      {
+        "english": "Do you accommodate parties wanting to split the bill?",
+        "pronunciation": "두 유 어캄어데이-ㅌ 파티스 워닝 투 스플릿 더 빌?",
+        "korean": "계산서를 나누려는 일행을 수용해 주시나요?",
+        "tip": "'parties'는 여기서는 '일행'이라는 뜻입니다. 해당 식당의 정책을 묻는 뉘앙스입니다."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "split the bill",
+      "pronunciation": "스플릿 더 빌",
+      "meaning": "계산서를 나누다"
+    },
+    {
+      "word": "separate checks",
+      "pronunciation": "세퍼럿 첵스",
+      "meaning": "개별 계산서"
+    },
+    {
+      "word": "individually",
+      "pronunciation": "인디비쥬얼리",
+      "meaning": "개별적으로"
+    },
+    {
+      "word": "accommodate",
+      "pronunciation": "어캄어데이-ㅌ",
+      "meaning": "~를 수용하다, 편의를 제공하다"
+    },
+    {
+      "word": "partial payment",
+      "pronunciation": "파셜 페이먼ㅌ",
+      "meaning": "부분 결제"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "You",
+      "english": "Excuse me, could we get the bill, please?",
+      "pronunciation": "익스큐즈 미, 쿧 위 겟 더 빌, 플리즈?",
+      "korean": "실례합니다, 계산서 좀 주시겠어요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Certainly, here's your bill. Are you ready to pay?",
+      "pronunciation": "썰튼리, 히어스 유얼 빌. 아 유 레디 투 페이?",
+      "korean": "네, 여기 계산서입니다. 결제하시겠어요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Yes, we are. We're hoping to pay for our meals separately. Is that something you accommodate here?",
+      "pronunciation": "예스, 위 아. 위얼 호핑 투 페이 포 아월 밀스 세퍼럿리. 이즈 댓 썸씽 유 어캄어데이-ㅌ 히어?",
+      "korean": "네, 준비됐어요. 저희는 각자 식사비를 따로 지불하고 싶은데요. 여기서 그게 가능한가요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Yes, we can do that. How would you like to split it? By item, or specific amounts?",
+      "pronunciation": "예스, 위 캔 두 댓. 하우 우쥬 라이크 투 스플릿 잇? 바이 아이템, 오어 스페시픽 어마운츠?",
+      "korean": "네, 그렇게 해드릴 수 있습니다. 어떻게 나누어 드릴까요? 품목별로, 아니면 특정 금액으로요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Could we have two separate checks, one for me and one for my friend, with items split equally where possible?",
+      "pronunciation": "쿧 위 해브 투 세퍼럿 첵스, 원 포 미 앤 원 포 마이 프렌드, 위드 아이템스 스플릿 이퀄리 웨어 파서블?",
+      "korean": "저와 제 친구를 위해 계산서 두 개를 따로따로 받을 수 있을까요? 가능한 경우 품목은 균등하게 나눠서요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "No problem at all. I'll get that sorted for you right away.",
+      "pronunciation": "노 프라블럼 앳 올. 아윌 겟 댓 쏠티드 포 유 라잇 어웨이.",
+      "korean": "문제없습니다. 바로 처리해 드릴게요."
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "Is it an option to get separate checks?",
+      "pronunciation": "이짓 언 옵션 투 겟 세퍼럿 첵스?",
+      "korean": "계산서를 따로따로 받을 수 있는 옵션이 있나요?",
+      "tip": "'Is it an option to...?' 패턴을 활용해 개별 계산서 가능 여부를 물어보세요."
+    },
+    {
+      "english": "We'd like to settle up individually, please.",
+      "pronunciation": "위-ㄷ 라이크 투 세틀 업 인디비쥬얼리, 플리즈.",
+      "korean": "저희는 각자 정산하고 싶습니다.",
+      "tip": "'settle up individually'라는 표현으로 각자 결제하고 싶다는 요청을 해보세요."
+    },
+    {
+      "english": "How do you usually handle splitting the bill for groups?",
+      "pronunciation": "하우 두 유 유쥬얼리 핸-들 스플리팅 더 빌 포 그룹스?",
+      "korean": "그룹의 계산서를 나누는 것을 보통 어떻게 처리하시나요?",
+      "tip": "식당의 일반적인 정책이나 절차를 물어보는 표현입니다. 'handle'과 'splitting the bill'을 활용해보세요."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "Can we get separate checks, please?",
+      "pronunciation": "캔 위 겟 세퍼럿 첵스, 플리즈?",
+      "korean": "계산서를 따로따로 주시겠어요?",
+      "note": "가장 흔하고 직접적인 요청입니다. 일상적인 상황에서 정중하면서도 간결하게 말할 때 좋습니다."
+    },
+    {
+      "english": "We'd like to pay individually.",
+      "pronunciation": "위-ㄷ 라이크 투 페이 인디비쥬얼리.",
+      "korean": "저희는 각자 지불하고 싶어요.",
+      "note": "'I'd like to' 패턴을 사용한 명확하고 간결한 요청입니다. 격식 없이 사용하기 좋습니다."
+    },
+    {
+      "english": "Is it alright if we split the cost?",
+      "pronunciation": "이짓 올라이-ㅌ 이프 위 스플릿 더 코스트?",
+      "korean": "저희가 비용을 나눠서 내도 괜찮을까요?",
+      "note": "'Is it alright if...?'는 좀 더 부드럽게 허락을 구하는 뉘앙스를 가집니다. 상대방에게 부담을 덜 주는 느낌을 줍니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-11-13",
+      "english": "I've really enjoyed the meal, but I couldn't finish it all. I was wondering if it's possible to get the rest packed up to take with me?",
+      "pronunciation": "아-입 릴리 엔조이-드 더 밀, 벗 아이 쿠든 피니쉬 잇 올. 아이 워즈 원더링 이프 잇츠 파서블 투 겟 더 레스트 팩트 업 투 테익 위드 미?",
+      "korean": "식사를 정말 맛있게 잘했는데, 다 먹지는 못했어요. 남은 음식을 포장해서 가져갈 수 있을까요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-13",
+      "english": "For this dish, could I get it prepared to go, please?",
+      "pronunciation": "포 디스 디쉬, 쿠드 아이 겟 잇 프리페어드 투 고, 플리즈?",
+      "korean": "이 음식은 포장해서 가져갈 수 있게 준비해 주실 수 있을까요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-11",
+      "english": "This pasta seems a bit too salty for my taste.",
+      "pronunciation": "디스 파스타 씸스 어 빗 투 쏠티 폴 마이 테이스트.",
+      "korean": "이 파스타가 제 입맛에는 좀 짠 것 같아요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-11",
+      "english": "I was wondering if it's possible to adjust the seasoning on this, maybe make it less spicy?",
+      "pronunciation": "아이 워즈 원더링 이프 잇츠 파서블 투 어져스트 더 씨즈닝 온 디스, 메이비 메익 잇 레스 스파이씨?",
+      "korean": "이 음식의 간을 조절하는 것이 가능할지 궁금해서요, 혹시 덜 맵게 해주실 수 있을까요?",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-08",
+      "english": "What exactly goes into the [dish name]?",
+      "pronunciation": "왓 이그잭틀리 고우스 인투 더 [디쉬 네임]?",
+      "korean": "[메뉴 이름]에는 정확히 어떤 재료들이 들어가나요?",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
