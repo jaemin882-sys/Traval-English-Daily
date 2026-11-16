@@ -1,162 +1,172 @@
 {
-  "date": "2026-11-14",
-  "updated_at": "11:33 KST",
-  "topic": "계산서를 나눠 결제할 수 있는지 묻기",
-  "intro": "해외여행 중 식당에서 여러 명이 함께 식사하고 계산할 때, 각자 부담한 금액만큼 나눠서 결제하고 싶을 때가 많죠. 웨이터나 캐셔에게 '계산서를 따로따로 내고 싶어요'라고 요청하는 다양한 방법을 알아봅시다. 여러 명이 왔을 때 식당에서 흔히 겪는 상황이니 자연스러운 표현으로 센스 있게 요청하는 방법을 익혀두세요.",
+  "date": "2026-11-16",
+  "updated_at": "11:16 KST",
+  "topic": "카페에서 우유 종류·샷·당도 등을 바꿔 주문하기",
+  "intro": "해외 카페에서 메뉴판에 없는 나만의 특별한 음료를 주문하고 싶으신가요? 우유 종류, 샷 추가, 당도 조절 등 바리스타에게 요청해야 할 다양한 상황을 위한 자연스러운 영어 표현을 익혀봅시다.",
   "sentences": [
     {
-      "english": "Would it be possible to divide the total among us?",
-      "pronunciation": "우딧 비 파서블 투 디바이ㄷ 더 토틀 어멍 어스?",
-      "korean": "총액을 저희끼리 나눌 수 있을까요?",
-      "tip": "여러 명이 계산을 나누고 싶을 때 쓸 수 있는 정중한 요청입니다. 'divide the total'은 '총액을 나누다'라는 뜻이에요."
+      "english": "I'd like to get an iced latte, but could I possibly have it with oat milk instead of regular milk?",
+      "pronunciation": "아이드 라익 투 겟 언 아이스드 라테, 벗 쿠드 아이 파서블리 해브 잇 위드 오트 밀크 인스테드 오브 레귤러 밀크?",
+      "korean": "아이스 라떼 하나 주세요, 근데 일반 우유 대신 오트 밀크로 바꿔서 주실 수 있나요?",
+      "tip": "'could I possibly'는 '혹시 ~할 수 있을까요?'라는 아주 정중한 요청입니다. 'regular milk' 대신 'dairy milk'도 가능합니다."
     },
     {
-      "english": "We're hoping to pay for our meals separately, if that's okay.",
-      "pronunciation": "위얼 호핑 투 페이 포 아월 밀스 세퍼럿리, 이프 댓츠 오케이.",
-      "korean": "저희는 각자 식사비를 따로 지불하고 싶은데, 괜찮을까요?",
-      "tip": "'We're hoping to...'는 '~하길 바랍니다'라는 부드러운 희망 표현입니다. 'separately'는 '개별적으로'라는 뜻이에요."
+      "english": "I'm looking for a coffee that's less sweet. Do you have options to adjust the sugar level, maybe half sugar or sugar-free syrup?",
+      "pronunciation": "아임 루킹 포러 커피 댓츠 레스 스윗. 두 유 해브 옵션스 투 어저스트 더 슈거 레벨, 메이비 해프 슈거 오어 슈거-프리 시럽?",
+      "korean": "덜 단 커피를 찾고 있어요. 당도 조절 옵션이 있나요, 예를 들어 설탕 반만 넣거나 슈거프리 시럽 같은 거요?",
+      "tip": "'I'm looking for'는 찾는 것을 먼저 말한 뒤 세부 사항을 묻는 자연스러운 방식입니다. 'adjust the sugar level'은 '당도를 조절하다'는 뜻입니다."
     },
     {
-      "english": "Is it an option to get separate checks for our table?",
-      "pronunciation": "이짓 언 옵션 투 겟 세퍼럿 첵스 포 아월 테이-블?",
-      "korean": "저희 테이블에 계산서를 따로따로 받을 수 있는 옵션이 있나요?",
-      "tip": "'Is it an option to...?'는 '~하는 것이 가능한 선택인가요?'라고 묻는 표현입니다. 'separate checks'는 '개별 계산서'라는 뜻으로 흔히 쓰여요."
+      "english": "Would it be an option to add an extra shot to my Americano, and also make it decaf?",
+      "pronunciation": "우딧 비 언 옵션 투 애드 언 엑스트라 샷 투 마이 아메리카노, 앤드 올소 메이크 잇 디카페인?",
+      "korean": "아메리카노에 샷 하나 추가하고, 디카페인으로도 할 수 있을까요?",
+      "tip": "'Would it be an option to ~?'는 '혹시 ~하는 것도 가능한가요?'라는 식으로 여러 요청을 한 번에 물어볼 때 유용합니다."
     },
     {
-      "english": "Could we settle up individually, rather than one payment?",
-      "pronunciation": "쿧 위 세틀 업 인디비쥬얼리, 래더 댄 원 페이먼ㅌ?",
-      "korean": "하나의 결제가 아니라, 저희가 각자 정산할 수 있을까요?",
-      "tip": "'settle up'은 '정산하다, 계산하다'라는 의미로, 특히 함께 쓴 돈을 나누어 낼 때 자주 사용합니다. 'individually'는 '개별적으로'라는 뜻이고, 'rather than'은 '~보다는'이라는 의미입니다."
+      "english": "Just to confirm, is it possible to get a flat white with almond milk and only one shot?",
+      "pronunciation": "저스트 투 컨펌, 이즈 잇 파서블 투 겟 어 플랫 화이트 위드 아몬드 밀크 앤드 온리 원 샷?",
+      "korean": "확인차 여쭤보는데, 플랫 화이트를 아몬드 밀크에 샷 하나만 넣어서 받을 수 있나요?",
+      "tip": "'Just to confirm'은 주문하기 전에 다시 한번 확인하는 느낌을 줍니다. 'only one shot'은 '원샷'이라고 콩글리시로 말하는 대신 정확히 '단 한 개의 샷'을 의미합니다."
     },
     {
-      "english": "How do you usually handle groups wanting to split the bill here?",
-      "pronunciation": "하우 두 유 유쥬얼리 핸-들 그룹스 워닝 투 스플릿 더 빌 히어?",
-      "korean": "여기서는 계산서를 나누고 싶어 하는 그룹을 보통 어떻게 처리하시나요?",
-      "tip": "식당의 일반적인 방식을 묻는 질문으로, 'split the bill'은 '계산서를 나누다'라는 핵심 표현입니다. 간혹 식당마다 정책이 다르므로 이렇게 물어보는 것이 좋습니다."
+      "english": "For the hot chocolate, I was wondering if you could make it with skim milk and no whipped cream on top.",
+      "pronunciation": "포 더 핫 초콜릿, 아이 워즈 원더링 이프 유 쿠드 메이크 잇 위드 스킴 밀크 앤 노 휩트 크림 온 탑.",
+      "korean": "핫 초콜릿은 스킴 밀크(저지방 우유)로 해주시고, 휘핑크림은 올리지 말아주실 수 있을까요?",
+      "tip": "'I was wondering if you could'는 매우 공손한 요청 방식입니다. 'on top'을 붙여 휘핑크림이 '위에' 올라가는 것을 구체적으로 언급합니다."
     }
   ],
   "pattern": {
-    "form": "Do you accommodate [request/situation]?",
-    "pronunciation": "두 유 어캄어데이-ㅌ [리퀘스트/시츄에이션]?",
-    "meaning": "~를 처리/수용해 주실 수 있나요?",
+    "form": "I'm hoping to get [drink/item] with [specific modification].",
+    "pronunciation": "아임 호핑 투 겟 [드링크/아이템] 위드 [스페시픽 모디피케이션].",
+    "meaning": "[음료/메뉴]를 [특정 변경 사항]으로 받고 싶어요.",
     "examples": [
       {
-        "english": "Do you accommodate separate payments?",
-        "pronunciation": "두 유 어캄어데이-ㅌ 세퍼럿 페이먼츠?",
-        "korean": "개별 결제를 수용해 주시나요?",
-        "tip": "계산 방식에 대해 직접적으로 묻기 좋은 표현입니다."
+        "english": "I'm hoping to get my latte with an extra shot.",
+        "pronunciation": "아임 호핑 투 겟 마이 라떼 위드 언 엑스트라 샷.",
+        "korean": "라떼를 샷 추가해서 받고 싶어요."
       },
       {
-        "english": "Do you accommodate parties wanting to split the bill?",
-        "pronunciation": "두 유 어캄어데이-ㅌ 파티스 워닝 투 스플릿 더 빌?",
-        "korean": "계산서를 나누려는 일행을 수용해 주시나요?",
-        "tip": "'parties'는 여기서는 '일행'이라는 뜻입니다. 해당 식당의 정책을 묻는 뉘앙스입니다."
+        "english": "I'm hoping to get the hot chocolate with no whipped cream.",
+        "pronunciation": "아임 호핑 투 겟 더 핫 초콜릿 위드 노 휩트 크림.",
+        "korean": "핫 초콜릿은 휘핑크림 없이 받고 싶어요."
       }
     ]
   },
   "words": [
     {
-      "word": "split the bill",
-      "pronunciation": "스플릿 더 빌",
-      "meaning": "계산서를 나누다"
+      "word": "Oat milk",
+      "pronunciation": "오트 밀크",
+      "meaning": "귀리 우유"
     },
     {
-      "word": "separate checks",
-      "pronunciation": "세퍼럿 첵스",
-      "meaning": "개별 계산서"
+      "word": "Skim milk",
+      "pronunciation": "스킴 밀크",
+      "meaning": "저지방 우유 (무지방 우유)"
     },
     {
-      "word": "individually",
-      "pronunciation": "인디비쥬얼리",
-      "meaning": "개별적으로"
+      "word": "Extra shot",
+      "pronunciation": "엑스트라 샷",
+      "meaning": "샷 추가"
     },
     {
-      "word": "accommodate",
-      "pronunciation": "어캄어데이-ㅌ",
-      "meaning": "~를 수용하다, 편의를 제공하다"
+      "word": "Less sweet",
+      "pronunciation": "레스 스윗",
+      "meaning": "덜 달게"
     },
     {
-      "word": "partial payment",
-      "pronunciation": "파셜 페이먼ㅌ",
-      "meaning": "부분 결제"
+      "word": "Sugar-free syrup",
+      "pronunciation": "슈거-프리 시럽",
+      "meaning": "무설탕 시럽"
     }
   ],
   "dialogue": [
     {
-      "speaker": "You",
-      "english": "Excuse me, could we get the bill, please?",
-      "pronunciation": "익스큐즈 미, 쿧 위 겟 더 빌, 플리즈?",
-      "korean": "실례합니다, 계산서 좀 주시겠어요?"
-    },
-    {
       "speaker": "Staff",
-      "english": "Certainly, here's your bill. Are you ready to pay?",
-      "pronunciation": "썰튼리, 히어스 유얼 빌. 아 유 레디 투 페이?",
-      "korean": "네, 여기 계산서입니다. 결제하시겠어요?"
+      "english": "Hi, what can I get for you today?",
+      "pronunciation": "하이, 왓 캔 아이 겟 포 유 투데이?",
+      "korean": "안녕하세요, 무엇을 도와드릴까요?"
     },
     {
       "speaker": "You",
-      "english": "Yes, we are. We're hoping to pay for our meals separately. Is that something you accommodate here?",
-      "pronunciation": "예스, 위 아. 위얼 호핑 투 페이 포 아월 밀스 세퍼럿리. 이즈 댓 썸씽 유 어캄어데이-ㅌ 히어?",
-      "korean": "네, 준비됐어요. 저희는 각자 식사비를 따로 지불하고 싶은데요. 여기서 그게 가능한가요?"
+      "english": "I'd like a hot latte, please.",
+      "pronunciation": "아이드 라익 어 핫 라테, 플리즈.",
+      "korean": "따뜻한 라떼 하나 주세요."
     },
     {
       "speaker": "Staff",
-      "english": "Yes, we can do that. How would you like to split it? By item, or specific amounts?",
-      "pronunciation": "예스, 위 캔 두 댓. 하우 우쥬 라이크 투 스플릿 잇? 바이 아이템, 오어 스페시픽 어마운츠?",
-      "korean": "네, 그렇게 해드릴 수 있습니다. 어떻게 나누어 드릴까요? 품목별로, 아니면 특정 금액으로요?"
+      "english": "Sure, anything else?",
+      "pronunciation": "슈어, 애니띵 엘스?",
+      "korean": "네, 다른 건요?"
     },
     {
       "speaker": "You",
-      "english": "Could we have two separate checks, one for me and one for my friend, with items split equally where possible?",
-      "pronunciation": "쿧 위 해브 투 세퍼럿 첵스, 원 포 미 앤 원 포 마이 프렌드, 위드 아이템스 스플릿 이퀄리 웨어 파서블?",
-      "korean": "저와 제 친구를 위해 계산서 두 개를 따로따로 받을 수 있을까요? 가능한 경우 품목은 균등하게 나눠서요."
+      "english": "Yes, I was hoping to get it with almond milk instead of regular milk, and also a bit less sweet. Is that possible?",
+      "pronunciation": "예스, 아이 워즈 호핑 투 겟 잇 위드 아몬드 밀크 인스테드 오브 레귤러 밀크, 앤드 올소 어 빗 레스 스윗. 이즈 댓 파서블?",
+      "korean": "네, 일반 우유 대신 아몬드 밀크로 하고, 좀 덜 달게 해주시면 좋겠어요. 가능한가요?"
     },
     {
       "speaker": "Staff",
-      "english": "No problem at all. I'll get that sorted for you right away.",
-      "pronunciation": "노 프라블럼 앳 올. 아윌 겟 댓 쏠티드 포 유 라잇 어웨이.",
-      "korean": "문제없습니다. 바로 처리해 드릴게요."
+      "english": "Almond milk, less sweet, got it. And for the sweetness, do you mean half sugar or just a light touch of syrup?",
+      "pronunciation": "아몬드 밀크, 레스 스윗, 가릿. 앤드 포 더 스윗니스, 두 유 민 해프 슈거 오어 저스트 어 라잇 터치 오브 시럽?",
+      "korean": "아몬드 밀크에 덜 달게요, 알겠습니다. 당도는 설탕 반만 넣는 걸 말씀하시는 건가요 아니면 시럽을 살짝만 넣는 걸 말씀하시는 건가요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Just a light touch, please. No extra sugar. And could I also get an extra shot in there?",
+      "pronunciation": "저스트 어 라잇 터치, 플리즈. 노 엑스트라 슈거. 앤드 쿠드 아이 올소 겟 언 엑스트라 샷 인 데어?",
+      "korean": "살짝만 넣어주세요. 설탕은 더 넣지 말고요. 그리고 샷 추가도 가능할까요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "So, a hot latte with almond milk, a light touch of sweetness, and an extra shot. Is that right?",
+      "pronunciation": "쏘우, 어 핫 라테 위드 아몬드 밀크, 어 라잇 터치 오브 스윗니스, 앤드 언 엑스트라 샷. 이즈 댓 라잇?",
+      "korean": "그럼, 따뜻한 라떼 아몬드 우유로, 당도는 살짝만, 샷 추가해서요. 맞을까요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Yes, that sounds perfect. Thank you!",
+      "pronunciation": "예스, 댓 사운즈 퍼펙트. 쌩큐!",
+      "korean": "네, 완벽해요. 감사합니다!"
     }
   ],
   "retrieval": [
     {
-      "english": "Is it an option to get separate checks?",
-      "pronunciation": "이짓 언 옵션 투 겟 세퍼럿 첵스?",
-      "korean": "계산서를 따로따로 받을 수 있는 옵션이 있나요?",
-      "tip": "'Is it an option to...?' 패턴을 활용해 개별 계산서 가능 여부를 물어보세요."
+      "english": "Could I swap it for oat milk?",
+      "pronunciation": "쿠드 아이 스왑 잇 포 오트 밀크?",
+      "korean": "(일반 우유 대신) 귀리 우유로 바꿔도 될까요?",
+      "tip": "특정 재료를 다른 것으로 '바꾸다'는 'swap'을 활용해보세요."
     },
     {
-      "english": "We'd like to settle up individually, please.",
-      "pronunciation": "위-ㄷ 라이크 투 세틀 업 인디비쥬얼리, 플리즈.",
-      "korean": "저희는 각자 정산하고 싶습니다.",
-      "tip": "'settle up individually'라는 표현으로 각자 결제하고 싶다는 요청을 해보세요."
+      "english": "Could I add an extra shot?",
+      "pronunciation": "쿠드 아이 애드 언 엑스트라 샷?",
+      "korean": "샷을 추가할 수 있나요?",
+      "tip": "음료에 무언가를 '추가하다'는 'add'를 씁니다."
     },
     {
-      "english": "How do you usually handle splitting the bill for groups?",
-      "pronunciation": "하우 두 유 유쥬얼리 핸-들 스플리팅 더 빌 포 그룹스?",
-      "korean": "그룹의 계산서를 나누는 것을 보통 어떻게 처리하시나요?",
-      "tip": "식당의 일반적인 정책이나 절차를 물어보는 표현입니다. 'handle'과 'splitting the bill'을 활용해보세요."
+      "english": "Is it possible to adjust the sweetness?",
+      "pronunciation": "이즈 잇 파서블 투 어저스트 더 스윗니스?",
+      "korean": "당도를 조절할 수 있나요?",
+      "tip": "맛이나 정도를 '조절하다'는 'adjust'를 사용합니다."
     }
   ],
   "alternatives": [
     {
-      "english": "Can we get separate checks, please?",
-      "pronunciation": "캔 위 겟 세퍼럿 첵스, 플리즈?",
-      "korean": "계산서를 따로따로 주시겠어요?",
-      "note": "가장 흔하고 직접적인 요청입니다. 일상적인 상황에서 정중하면서도 간결하게 말할 때 좋습니다."
+      "english": "Can I swap the regular milk for oat milk?",
+      "pronunciation": "캔 아이 스왑 더 레귤러 밀크 포 오트 밀크?",
+      "korean": "일반 우유 대신 귀리 우유로 바꿀 수 있나요?",
+      "note": "'I'd like... but could I possibly...' 보다 좀 더 직접적이고 덜 정중하지만, 캐주얼한 카페에서는 충분히 자연스럽습니다."
     },
     {
-      "english": "We'd like to pay individually.",
-      "pronunciation": "위-ㄷ 라이크 투 페이 인디비쥬얼리.",
-      "korean": "저희는 각자 지불하고 싶어요.",
-      "note": "'I'd like to' 패턴을 사용한 명확하고 간결한 요청입니다. 격식 없이 사용하기 좋습니다."
+      "english": "Would it be okay to get this with less sugar?",
+      "pronunciation": "우딧 비 오케이 투 겟 디스 위드 레스 슈거?",
+      "korean": "이거 덜 달게 해주실 수 있을까요?",
+      "note": "'Do you have options to adjust the sugar level?' 보다 요청의 형태가 더 강하며, '괜찮으시다면'의 뉘앙스를 담아 허락을 구하는 느낌입니다."
     },
     {
-      "english": "Is it alright if we split the cost?",
-      "pronunciation": "이짓 올라이-ㅌ 이프 위 스플릿 더 코스트?",
-      "korean": "저희가 비용을 나눠서 내도 괜찮을까요?",
-      "note": "'Is it alright if...?'는 좀 더 부드럽게 허락을 구하는 뉘앙스를 가집니다. 상대방에게 부담을 덜 주는 느낌을 줍니다."
+      "english": "I'd prefer my coffee with an extra shot.",
+      "pronunciation": "아이드 프리퍼 마이 커피 위드 언 엑스트라 샷.",
+      "korean": "제 커피는 샷 추가로 부탁드립니다.",
+      "note": "'Would it be an option to add an extra shot'보다 본인의 선호를 직접적으로 표현하는 방식입니다. 이미 옵션으로 제공된다고 예상할 때 사용하기 좋습니다."
     }
   ],
   "review_items": [
@@ -165,35 +175,35 @@
       "english": "I've really enjoyed the meal, but I couldn't finish it all. I was wondering if it's possible to get the rest packed up to take with me?",
       "pronunciation": "아-입 릴리 엔조이-드 더 밀, 벗 아이 쿠든 피니쉬 잇 올. 아이 워즈 원더링 이프 잇츠 파서블 투 겟 더 레스트 팩트 업 투 테익 위드 미?",
       "korean": "식사를 정말 맛있게 잘했는데, 다 먹지는 못했어요. 남은 음식을 포장해서 가져갈 수 있을까요?",
-      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
       "source_date": "2026-11-13",
       "english": "For this dish, could I get it prepared to go, please?",
       "pronunciation": "포 디스 디쉬, 쿠드 아이 겟 잇 프리페어드 투 고, 플리즈?",
       "korean": "이 음식은 포장해서 가져갈 수 있게 준비해 주실 수 있을까요?",
-      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
-    },
-    {
-      "source_date": "2026-11-11",
-      "english": "This pasta seems a bit too salty for my taste.",
-      "pronunciation": "디스 파스타 씸스 어 빗 투 쏠티 폴 마이 테이스트.",
-      "korean": "이 파스타가 제 입맛에는 좀 짠 것 같아요.",
       "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     },
     {
-      "source_date": "2026-11-11",
-      "english": "I was wondering if it's possible to adjust the seasoning on this, maybe make it less spicy?",
-      "pronunciation": "아이 워즈 원더링 이프 잇츠 파서블 투 어져스트 더 씨즈닝 온 디스, 메이비 메익 잇 레스 스파이씨?",
-      "korean": "이 음식의 간을 조절하는 것이 가능할지 궁금해서요, 혹시 덜 맵게 해주실 수 있을까요?",
-      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
-    },
-    {
-      "source_date": "2026-11-08",
-      "english": "What exactly goes into the [dish name]?",
-      "pronunciation": "왓 이그잭틀리 고우스 인투 더 [디쉬 네임]?",
-      "korean": "[메뉴 이름]에는 정확히 어떤 재료들이 들어가나요?",
+      "source_date": "2026-11-10",
+      "english": "Excuse me, I think there might be a mistake with our order.",
+      "pronunciation": "익스큐즈 미, 아이 씽크 데어 마잇 비어 미스테익 위드 아워 오-더.",
+      "korean": "실례합니다, 저희 주문에 뭔가 착오가 있는 것 같아요.",
       "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-10",
+      "english": "I believe I ordered the [Original Dish], but this seems to be the [Received Dish].",
+      "pronunciation": "아이 빌리-브 아이 오-덜드 더 [오리지널 디쉬], 벗 디스 씨-엠스 투 비 더 [리씨-브드 디쉬].",
+      "korean": "제가 [원래 시킨 메뉴]를 주문했는데, 이건 [나온 메뉴]인 것 같아요.",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-03",
+      "english": "We're checking out now, but our flight isn't until much later. I'm hoping to find out if we can leave our luggage here for a few hours.",
+      "pronunciation": "위얼 체킹 아웃 나우, 벗 아워 플라잇 이즌튼 언틸 머치 레이터. 아임 호핑 투 파인드 아웃 이프 위 캔 리브 아워 러기지 히어 포러 퓨 아워스.",
+      "korean": "저희 지금 체크아웃 하는데, 비행기가 한참 뒤라서요. 짐을 여기 몇 시간 맡길 수 있는지 알아보고 싶어요.",
+      "tip": "13일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
     }
   ]
 }
