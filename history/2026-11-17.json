@@ -1,0 +1,210 @@
+{
+  "date": "2026-11-17",
+  "updated_at": "13:39 KST",
+  "topic": "테이크아웃 주문이 잘못 나왔을 때 수정 요청하기",
+  "intro": "해외여행 중 테이크아웃 음식을 주문했는데, 집에 와서 보니 주문한 것과 다른 음식이 들어있을 때 당황스러울 수 있죠. 다시 가게로 돌아가서 주문이 잘못 나왔음을 설명하고, 올바른 음식으로 교환하거나 환불을 요청해야 하는 상황입니다. 복잡하게 들리지만, 침착하게 상황을 설명하고 원하는 바를 명확히 전달하는 연습을 해봅시다.",
+  "sentences": [
+    {
+      "english": "It seems there's been a slight mix-up with my takeout order.",
+      "pronunciation": "잇 씨-ms 데얼스 빈 어 슬라이트 믹스-업 윋 마이 테잌아웃 오-더.",
+      "korean": "제 테이크아웃 주문에 약간 착오가 있었던 것 같아요.",
+      "tip": "주문에 문제가 있음을 부드럽게 알리는 표현입니다. 'mix-up'은 '혼동', '착오'라는 뜻으로 흔히 쓰입니다."
+    },
+    {
+      "english": "I believe I ordered the [Original Dish], but this bag contains the [Received Dish].",
+      "pronunciation": "아이 빌리-브 아이 오-덜드 더 [오리지널 디쉬], 벋 디스 배그 컨테인스 더 [리씨-브드 디쉬].",
+      "korean": "제가 [원래 주문한 음식]을 주문했다고 생각했는데, 이 봉투에는 [받은 음식]이 들어있어요.",
+      "tip": "주문한 것과 받은 것의 차이를 명확하게 설명할 때 사용합니다. 'bag contains' 대신 'this is'를 쓸 수도 있습니다."
+    },
+    {
+      "english": "Could you help me check what was noted down for my order?",
+      "pronunciation": "쿧 유 헬프 미 첵 왓 워즈 노티드 다운 포 마이 오-더?",
+      "korean": "제 주문으로 무엇이 기록되었는지 확인해주실 수 있나요?",
+      "tip": "직원의 기록을 확인하고 싶을 때 쓰는 표현으로, 내 주문이 잘못되었다고 직접적으로 말하기보다 덜 공격적인 질문입니다."
+    },
+    {
+      "english": "What would be the usual process for getting this corrected?",
+      "pronunciation": "왓 우드 비 더 유-쥬얼 프로세스 포 게팅 디스 커렉티드?",
+      "korean": "이걸 수정하려면 어떤 일반적인 절차를 거쳐야 하나요?",
+      "tip": "문제 해결을 위해 어떤 방법이 있는지 상대방에게 묻는 표현입니다. 'usual process'는 '일반적인 절차'를 의미합니다."
+    },
+    {
+      "english": "So, if I bring this back, will I get the correct item, or is there another option?",
+      "pronunciation": "쏘-우, 이프 아이 브링 디스 백, 윌 아이 겟 더 커렉트 아이템, 올 이즈 데얼 어나더 옵션?",
+      "korean": "그럼 이걸 다시 가져오면 올바른 음식을 받을 수 있는 건가요, 아니면 다른 방법도 있나요?",
+      "tip": "다음 단계를 재확인하거나, 예상치 못한 상황에 대비해 다른 해결책이 있는지 물을 때 유용합니다."
+    }
+  ],
+  "pattern": {
+    "form": "It appears there's been a [slight] [noun describing error] with [my] [item].",
+    "pronunciation": "잇 어피어-r-스 데얼스 빈 어 [슬라이트] [나운 디스크라이빙 에러] 윋 [마이] [아이템].",
+    "meaning": "[내] [물품]에 [약간의] [오류명]이 있었던 것 같아요.",
+    "examples": [
+      {
+        "english": "It appears there's been a discrepancy with my booking details.",
+        "pronunciation": "잇 어피어-r-스 데얼스 빈 어 디스크레펀씨 윋 마이 부-킹 디테일즈.",
+        "korean": "제 예약 정보에 불일치가 있었던 것 같아요.",
+        "tip": "'discrepancy'는 '불일치'라는 뜻으로, 예약 정보 등이 일치하지 않을 때 사용합니다."
+      },
+      {
+        "english": "It appears there's been an error in the pricing on the menu.",
+        "pronunciation": "잇 어피어-r-스 데얼스 빈 언 에러 인 더 프라이싱 온 더 메뉴.",
+        "korean": "메뉴 가격에 오류가 있었던 것 같아요.",
+        "tip": "가격이나 계산에 문제가 있을 때 'error'를 활용하여 말할 수 있습니다."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "mix-up",
+      "pronunciation": "믹스-업",
+      "meaning": "혼동, 착오",
+      "tip": "계획이나 주문 등이 섞여 잘못되었을 때 사용합니다."
+    },
+    {
+      "word": "discrepancy",
+      "pronunciation": "디스크레펀씨",
+      "meaning": "불일치, 차이",
+      "tip": "두 가지 정보나 항목 사이에 차이가 있을 때 쓰는 다소 정중한 표현입니다."
+    },
+    {
+      "word": "correct (v.)",
+      "pronunciation": "커렉트",
+      "meaning": "수정하다, 고치다",
+      "tip": "잘못된 것을 올바르게 바꾸는 동사입니다."
+    },
+    {
+      "word": "process",
+      "pronunciation": "프로세스",
+      "meaning": "절차",
+      "tip": "어떤 일을 수행하는 일련의 단계나 방법을 의미합니다."
+    },
+    {
+      "word": "accommodate",
+      "pronunciation": "어카머데잇",
+      "meaning": "편의를 봐주다, (요청을) 들어주다",
+      "tip": "누군가의 필요나 요청에 맞춰주거나 해결책을 제공할 때 사용합니다."
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "You",
+      "english": "Hi there. It seems there's been a slight mix-up with my takeout order. I picked it up about 15 minutes ago.",
+      "pronunciation": "하이 데얼. 잇 씨-ms 데얼스 빈 어 슬라이트 믹스-업 윋 마이 테잌아웃 오-더. 아이 픽트 잇 업 어바웃 피프틴 미닛츠 어고.",
+      "korean": "안녕하세요. 제 테이크아웃 주문에 약간 착오가 있었던 것 같아요. 약 15분 전에 픽업했어요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Oh, I'm sorry to hear that. What seems to be the issue?",
+      "pronunciation": "오, 아임 쏘-리 투 히얼 댓. 왓 씨-ms 투 비 디 이-슈?",
+      "korean": "오, 죄송합니다. 어떤 문제인가요?"
+    },
+    {
+      "speaker": "You",
+      "english": "I believe I ordered the Chicken Teriyaki Bowl, but this bag contains the Beef Bulgogi Plate instead.",
+      "pronunciation": "아이 빌리-브 아이 오-덜드 더 치킨 테리야키 보울, 벋 디스 배그 컨테인스 더 비프 불고기 플레잇 인스테드.",
+      "korean": "제가 치킨 데리야끼 보울을 주문했다고 생각했는데, 이 봉투에는 비프 불고기 플레이트가 들어있어요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "I see. Do you happen to have your receipt with you?",
+      "pronunciation": "아이 씨-. 두 유 해픈 투 해브 유어 리씨-트 윋 유?",
+      "korean": "알겠습니다. 영수증 가지고 계신가요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Yes, here it is. Could you help me check what was noted down for my order? And what would be the usual process for getting this corrected?",
+      "pronunciation": "예스, 히어 릿 이즈. 쿧 유 헬프 미 첵 왓 워즈 노티드 다운 포 마이 오-더? 앤 왓 우드 비 더 유-쥬얼 프로세스 포 게팅 디스 커렉티드?",
+      "korean": "네, 여기 있어요. 제 주문으로 무엇이 기록되었는지 확인해주실 수 있나요? 그리고 이걸 수정하려면 어떤 일반적인 절차를 거쳐야 하나요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Alright, let me just check. Ah, it does look like the Beef Bulgogi was entered by mistake. We can definitely get you the Chicken Teriyaki. We'll make a fresh one right away.",
+      "pronunciation": "올라잇, 렛 미 저스트 첵. 아, 잇 더즈 룩 라이크 더 비프 불고기 워즈 엔터드 바이 미스테잌. 위 캔 데피닛리 겟 유 더 치킨 테리야키. 윌 메잌 어 프레시 원 라이트 어웨이.",
+      "korean": "네, 확인해 볼게요. 아, 비프 불고기가 실수로 입력된 것 같네요. 치킨 데리야끼로 바꿔드릴 수 있습니다. 바로 새로 만들어 드릴게요."
+    },
+    {
+      "speaker": "You",
+      "english": "Great, thanks! So, if I wait here for a bit, I'll get the correct item then?",
+      "pronunciation": "그레잇, 땡스! 쏘-우, 이프 아이 웨잇 히어 포 어 빗, 아일 겟 더 커렉트 아이템 덴?",
+      "korean": "좋아요, 감사합니다! 그럼 여기서 잠깐 기다리면 올바른 음식을 받을 수 있는 건가요?"
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "It seems there's been a slight mix-up with my takeout order.",
+      "pronunciation": "잇 씨-ms 데얼스 빈 어 슬라이트 믹스-업 윋 마이 테잌아웃 오-더.",
+      "korean": "테이크아웃 주문이 약간 잘못 나온 것 같아요.",
+      "tip": "문제 발생을 간접적이고 정중하게 알리는 표현을 떠올려보세요."
+    },
+    {
+      "english": "I believe I ordered the [Original Dish], but this bag contains the [Received Dish].",
+      "pronunciation": "아이 빌리-브 아이 오-덜드 더 [오리지널 디쉬], 벋 디스 배그 컨테인스 더 [리씨-브드 디쉬].",
+      "korean": "제가 [원래 주문한 음식]을 주문했다고 생각했는데, 이 봉투에는 [받은 음식]이 들어있어요.",
+      "tip": "주문한 것과 받은 것이 다를 때 구체적으로 설명하는 표현입니다."
+    },
+    {
+      "english": "What would be the usual process for getting this corrected?",
+      "pronunciation": "왓 우드 비 더 유-쥬얼 프로세스 포 게팅 디스 커렉티드?",
+      "korean": "이걸 어떻게 고칠 수 있는 절차가 있을까요?",
+      "tip": "문제를 해결하기 위한 '일반적인 절차'를 묻는 표현을 사용합니다."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "I think my takeout order might be incorrect.",
+      "pronunciation": "아이 띵크 마이 테잌아웃 오-더 마이트 비 인커렉트.",
+      "korean": "제 테이크아웃 주문이 잘못된 것 같아요.",
+      "note": "원래 표현보다 조금 더 직접적으로 '틀렸다'고 말하지만, 'might be'를 사용하여 부드러움을 유지합니다."
+    },
+    {
+      "english": "There's a problem with my takeout. It's not what I ordered.",
+      "pronunciation": "데얼스 어 프라블럼 윋 마이 테잌아웃. 잇츠 낫 왓 아이 오-덜드.",
+      "korean": "제 테이크아웃에 문제가 있어요. 제가 주문한 것이 아니에요.",
+      "note": "원래 표현보다 더 단호하고 명확하게 문제 상황을 전달하며, 긴급성이 더 느껴질 수 있습니다."
+    },
+    {
+      "english": "I'm calling about a recent takeout order; it appears there's an item missing/wrong.",
+      "pronunciation": "아임 콜링 어바웃 어 리-쓴트 테잌아웃 오-더; 잇 어피어-r-스 데얼스 언 아이템 미씽/롱.",
+      "korean": "최근 테이크아웃 주문 때문에 전화 드렸는데요. 음식이 빠졌거나 잘못된 것 같아요.",
+      "note": "매장에 직접 방문하기보다 전화로 문의할 때 적합한 표현입니다. 'missing' 또는 'wrong'을 추가하여 구체적인 문제를 지적할 수 있습니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-11-16",
+      "english": "I'd like to get an iced latte, but could I possibly have it with oat milk instead of regular milk?",
+      "pronunciation": "아이드 라익 투 겟 언 아이스드 라테, 벗 쿠드 아이 파서블리 해브 잇 위드 오트 밀크 인스테드 오브 레귤러 밀크?",
+      "korean": "아이스 라떼 하나 주세요, 근데 일반 우유 대신 오트 밀크로 바꿔서 주실 수 있나요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-16",
+      "english": "I'm looking for a coffee that's less sweet. Do you have options to adjust the sugar level, maybe half sugar or sugar-free syrup?",
+      "pronunciation": "아임 루킹 포러 커피 댓츠 레스 스윗. 두 유 해브 옵션스 투 어저스트 더 슈거 레벨, 메이비 해프 슈거 오어 슈거-프리 시럽?",
+      "korean": "덜 단 커피를 찾고 있어요. 당도 조절 옵션이 있나요, 예를 들어 설탕 반만 넣거나 슈거프리 시럽 같은 거요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-14",
+      "english": "Would it be possible to divide the total among us?",
+      "pronunciation": "우딧 비 파서블 투 디바이ㄷ 더 토틀 어멍 어스?",
+      "korean": "총액을 저희끼리 나눌 수 있을까요?",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-14",
+      "english": "We're hoping to pay for our meals separately, if that's okay.",
+      "pronunciation": "위얼 호핑 투 페이 포 아월 밀스 세퍼럿리, 이프 댓츠 오케이.",
+      "korean": "저희는 각자 식사비를 따로 지불하고 싶은데, 괜찮을까요?",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-11",
+      "english": "This pasta seems a bit too salty for my taste.",
+      "pronunciation": "디스 파스타 씸스 어 빗 투 쏠티 폴 마이 테이스트.",
+      "korean": "이 파스타가 제 입맛에는 좀 짠 것 같아요.",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
