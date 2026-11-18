@@ -1,0 +1,199 @@
+{
+  "date": "2026-11-18",
+  "updated_at": "12:45 KST",
+  "topic": "택시에서 목적지와 선호 경로 말하기",
+  "intro": "해외에서 택시를 탔을 때, 운전사에게 목적지를 정확히 전달하고, 가끔은 선호하는 경로를 제시하거나 예상 비용을 물어보는 것은 매우 중요합니다. 오늘 학습에서는 자연스럽게 이러한 정보를 소통하는 다양한 방법을 알아봅니다.",
+  "sentences": [
+    {
+      "english": "I'm actually trying to get to [The Grand Hotel, 123 Main Street].",
+      "pronunciation": "아임 액츄얼리 트라잉 투 겟 투 [더 그랜-드 호텔, 원 투 쓰리 메인 스트릿].",
+      "korean": "[그랜드 호텔, 123 메인 스트리트]로 가려고 합니다.",
+      "tip": "'actually'를 넣어 좀 더 자연스럽게 목적지를 전달하며, 뒤에 주소를 붙여 정확도를 높일 수 있습니다."
+    },
+    {
+      "english": "If it's convenient for you, I'd prefer to take the highway.",
+      "pronunciation": "이프 잇츠 컨비니언트 포 유, 아읻 프리퍼 투 테익 더 하이웨이.",
+      "korean": "괜찮으시다면, 고속도로로 가는 것을 선호합니다.",
+      "tip": "운전자의 편의를 먼저 고려하는 표현으로, 직접적인 요청보다 부드러운 선호 표출입니다."
+    },
+    {
+      "english": "Do you have an idea of what the estimated fare and travel time might be for that?",
+      "pronunciation": "두 유 해브 언 아이디어 오브 왓 더 에스터메이티드 페어 앤 트래블 타임 마이트 비 포 댓?",
+      "korean": "그렇게 가면 예상 요금과 이동 시간이 얼마나 될지 대략적으로 아시나요?",
+      "tip": "'Do you have an idea of ~'를 사용해 예상치를 묻는 부드러운 방식입니다. 'fare'는 요금, 'travel time'은 이동 시간입니다."
+    },
+    {
+      "english": "Just to confirm, we're aiming for [the city center], correct?",
+      "pronunciation": "저스트 투 컨펌, 위어 에이밍 포 [더 시티 센터], 커렉트?",
+      "korean": "확인차 여쭙는데, [시내 중심가]로 가는 것이 맞죠?",
+      "tip": "'Just to confirm'으로 질문의 목적을 명확히 하고, 'aiming for'는 '목표로 하다'는 뜻으로 목적지를 확인하는 데 사용됩니다."
+    },
+    {
+      "english": "I'm seeing us heading down [Elm Street]. Is this typically the quickest way to [the airport]?",
+      "pronunciation": "아임 씨잉 어스 헤딩 다운 [엘름 스트릿]. 이즈 디스 티피컬리 더 퀵키스트 웨이 투 [디 에어포트]?",
+      "korean": "저희가 [엘름 스트리트]로 가는 것 같네요. 여기가 보통 [공항] 가는 가장 빠른 길인가요?",
+      "tip": "현재 상황을 묘사하고(I'm seeing us heading down ~), 그에 대한 질문을 덧붙여 궁금증을 표현하는 방식입니다."
+    }
+  ],
+  "pattern": {
+    "form": "Would it make sense to [verb phrase/action] to [destination/place]?",
+    "pronunciation": "우딧 메익 센스 투 [동사 구/액션] 투 [데스티네이션/플레이스]?",
+    "meaning": "[목적지/장소]까지 [동사 구/액션]하는 것이 합리적일까요? (특정 경로 제안 시 운전자의 의견을 묻는 뉘앙스)",
+    "examples": [
+      {
+        "english": "Would it make sense to take the freeway to the airport, given the rush hour traffic?",
+        "pronunciation": "우딧 메익 센스 투 테익 더 프리웨이 투 디 에어포트, 기븐 더 러쉬 아워 트래픽?",
+        "korean": "러시아워 교통량을 고려하면, 공항까지 고속도로로 가는 게 합리적일까요?",
+        "tip": "'given ~'은 '~을 고려하면'이라는 뜻입니다."
+      },
+      {
+        "english": "Would it make sense to go via the bridge to avoid the city center?",
+        "pronunciation": "우딧 메익 센스 투 고 바이아 더 브릿지 투 어보이드 더 시티 센터?",
+        "korean": "시내 중심가를 피하려면 다리를 통해 가는 게 합리적일까요?",
+        "tip": "'via ~'는 '~을 경유하여'라는 의미입니다."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "destination",
+      "pronunciation": "데스티네이션",
+      "meaning": "목적지"
+    },
+    {
+      "word": "toll road",
+      "pronunciation": "톨 로-드",
+      "meaning": "유료 도로 (고속도로나 특정 다리 등)"
+    },
+    {
+      "word": "detour",
+      "pronunciation": "디-투어",
+      "meaning": "우회로, 돌아가는 길"
+    },
+    {
+      "word": "estimate",
+      "pronunciation": "에스터메이트",
+      "meaning": "(비용/시간) 예상치"
+    },
+    {
+      "word": "rush hour",
+      "pronunciation": "러쉬 아워",
+      "meaning": "러시아워, 출퇴근 시간"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Taxi Driver",
+      "english": "Where are we off to today?",
+      "pronunciation": "웨어 아 위 오프 투 투데이?",
+      "korean": "오늘 어디로 가시겠습니까?"
+    },
+    {
+      "speaker": "You",
+      "english": "I'm actually trying to get to the National Museum, please.",
+      "pronunciation": "아임 액츄얼리 트라잉 투 겟 투 더 내셔널 뮤지엄, 플리즈.",
+      "korean": "국립 박물관으로 가려고 합니다."
+    },
+    {
+      "speaker": "You",
+      "english": "If it's convenient for you, I'd prefer to take the main road rather than the small streets.",
+      "pronunciation": "이프 잇츠 컨비니언트 포 유, 아읻 프리퍼 투 테익 더 메인 로-드 래더 댄 더 스몰 스트릿츠.",
+      "korean": "괜찮으시다면, 작은 길보다는 큰 도로로 가는 것을 선호합니다."
+    },
+    {
+      "speaker": "Taxi Driver",
+      "english": "Alright, the main road it is. Just to confirm, that's the National Museum on Park Avenue, correct?",
+      "pronunciation": "올라잇, 더 메인 로-드 잇 이즈. 저스트 투 컨펌, 댓츠 더 내셔널 뮤지엄 온 팍 애비뉴, 커렉트?",
+      "korean": "알겠습니다, 큰 도로로 가겠습니다. 확인차 여쭙는데, 파크 애비뉴에 있는 국립 박물관이 맞죠?"
+    },
+    {
+      "speaker": "You",
+      "english": "Yes, that's the one. Do you have an idea of what the estimated fare and travel time might be for that?",
+      "pronunciation": "예스, 댓츠 더 원. 두 유 해브 언 아이디어 오브 왓 더 에스터메이티드 페어 앤 트래블 타임 마이트 비 포 댓?",
+      "korean": "네, 맞아요. 그렇게 가면 예상 요금과 이동 시간이 얼마나 될지 대략적으로 아시나요?"
+    },
+    {
+      "speaker": "Taxi Driver",
+      "english": "Usually around 25 to 30 dollars, taking about 20 minutes if traffic isn't too bad.",
+      "pronunciation": "유주얼리 어라운드 투엔티 파이브 투 써티 달러스, 테이킹 어바웃 투엔티 미닛츠 이프 트래픽 이즌트 투 배드.",
+      "korean": "보통 25달러에서 30달러 정도 나오고, 교통 체증이 심하지 않으면 20분 정도 걸립니다."
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "I'm heading to the central market.",
+      "pronunciation": "아임 헤딩 투 더 센트럴 마켓.",
+      "korean": "저는 중앙 시장으로 가는 중입니다.",
+      "tip": "'I'm heading to ~'는 목적지를 말하는 보편적인 표현입니다."
+    },
+    {
+      "english": "Would it make sense to take the expressway?",
+      "pronunciation": "우딧 메익 센스 투 테익 디 익스프레스웨이?",
+      "korean": "고속도로를 이용하는 게 합리적일까요?",
+      "tip": "운전자의 의견을 구하며 경로를 제안할 때 사용합니다."
+    },
+    {
+      "english": "What's the rough estimate for the fare and duration?",
+      "pronunciation": "왓츠 더 러프 에스터메이트 포 더 페어 앤 듀레이션?",
+      "korean": "요금과 소요 시간에 대한 대략적인 예상치는 어떻게 되나요?",
+      "tip": "'rough estimate'는 '대략적인 예상치'를 의미하며, 'duration'은 '소요 시간'입니다."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "To [The Grand Hotel, 123 Main Street], please.",
+      "pronunciation": "투 [더 그랜-드 호텔, 원 투 쓰리 메인 스트릿], 플리즈.",
+      "korean": "[그랜드 호텔, 123 메인 스트리트]로 가주세요.",
+      "note": "원래 표현('I'm actually trying to get to ~')보다 훨씬 간결하고 직접적인 요청입니다. 일상적으로 자주 사용되지만, 아주 약간 덜 공손하게 들릴 수 있습니다."
+    },
+    {
+      "english": "Would [the highway] be a quicker option?",
+      "pronunciation": "우드 [더 하이웨이] 비 어 퀵커 옵션?",
+      "korean": "[고속도로]가 더 빠른 선택지일까요?",
+      "note": "원래 표현('If it's convenient for you, I'd prefer to take the highway.')이 운전자의 편의를 먼저 묻고 선호를 밝히는 반면, 이 표현은 단순히 '더 빠른지' 여부에 초점을 맞춰 직접적으로 묻습니다."
+    },
+    {
+      "english": "Could you give me a rough idea of the cost and time?",
+      "pronunciation": "쿧 쥬 기브 미 어 러프 아이디어 오브 더 코스트 앤 타임?",
+      "korean": "비용과 시간에 대해 대략적으로 알려주실 수 있을까요?",
+      "note": "원래 표현('Do you have an idea of ~')보다 더 직접적으로 '알려줄 수 있는지'를 묻는 요청입니다. 'Could you'를 사용하지만, 자연스러운 표현입니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-11-17",
+      "english": "It seems there's been a slight mix-up with my takeout order.",
+      "pronunciation": "잇 씨-ms 데얼스 빈 어 슬라이트 믹스-업 윋 마이 테잌아웃 오-더.",
+      "korean": "제 테이크아웃 주문에 약간 착오가 있었던 것 같아요.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-17",
+      "english": "I believe I ordered the [Original Dish], but this bag contains the [Received Dish].",
+      "pronunciation": "아이 빌리-브 아이 오-덜드 더 [오리지널 디쉬], 벋 디스 배그 컨테인스 더 [리씨-브드 디쉬].",
+      "korean": "제가 [원래 주문한 음식]을 주문했다고 생각했는데, 이 봉투에는 [받은 음식]이 들어있어요.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-12",
+      "english": "I was wondering if it's possible to substitute the side salad with french fries instead?",
+      "pronunciation": "아이 워즈 원-더링 이프 잇츠 파-서블 투 서-브스티튯 더 사이드 샐-러드 위드 프렌치 프라이즈 인-스테드?",
+      "korean": "사이드 샐러드 대신 프렌치프라이로 대체하는 것이 가능할까요?",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-12",
+      "english": "The menu mentions a spicy sauce. Would it be an option to get a milder alternative?",
+      "pronunciation": "더 메-뉴 멘션즈 어 스파이-씨 소스. 우-딧 비 언 옵-션 투 겟 어 마일-더 얼-터너티브?",
+      "korean": "메뉴에 매운 소스라고 되어 있는데, 좀 더 순한 다른 소스를 받을 수 있을까요?",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-05",
+      "english": "Hi, we don't have a reservation, but we're hoping to get a table for two.",
+      "pronunciation": "하이, 위 돈 해버 레저베이션, 벗 위얼 호핑 투 겟어 테이-블 포 투.",
+      "korean": "안녕하세요, 예약은 안 했지만, 두 명이 앉을 테이블을 찾고 있어요.",
+      "tip": "13일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
