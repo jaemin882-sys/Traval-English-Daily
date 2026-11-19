@@ -1,0 +1,203 @@
+{
+  "date": "2026-11-19",
+  "updated_at": "12:43 KST",
+  "topic": "택시가 목적지와 다른 방향으로 갈 때 확인하기",
+  "intro": "해외여행 중 택시가 목적지와 다른 방향으로 가는 것 같을 때, 당황하지 않고 정확하고 침착하게 상황을 확인하고 경로 수정을 요청하는 표현들을 학습합니다. 운전자에게 정중하게 오류를 지적하고 올바른 방향으로 돌아가기 위한 방법을 확인하는 데 중점을 둡니다.",
+  "sentences": [
+    {
+      "english": "I'm a bit unsure, but I thought we were heading towards the [Grand Hyatt Hotel]?",
+      "pronunciation": "아임 어 빗 언슈어, 벗 아이 쏘-트 위 워 헤딩 투월즈 더 [그랜드 하이얏 호텔]?",
+      "korean": "제가 좀 불확실한데요, 저희 [그랜드 하이얏 호텔] 쪽으로 가고 있다고 생각했는데요?",
+      "tip": "자신이 착각했을 수도 있다는 뉘앙스를 주며 조심스럽게 방향에 대한 의문을 제기할 때 사용합니다."
+    },
+    {
+      "english": "It looks like we've taken a wrong turn somewhere, as I'm seeing us on [Riverside Drive].",
+      "pronunciation": "잇 룩스 라이크 위브 테이큰 어 롱 턴 썸웨어, 애즈 아임 씨잉 어스 온 [리버사이드 드라이브].",
+      "korean": "어딘가에서 잘못된 길로 들어선 것 같아요, 지금 [리버사이드 드라이브]에 있는 걸로 보이는데요.",
+      "tip": "GPS나 지도를 보고 확인한 구체적인 정보를 언급하며 잘못된 경로를 지적할 때 유용합니다."
+    },
+    {
+      "english": "Just to confirm, my destination is [123 Main Street]. Is this route still leading us there?",
+      "pronunciation": "저스트 투 컨펌, 마이 데스티네이션 이즈 [원 투 쓰리 메인 스트릿]. 이즈 디스 루트 스틸 리딩 어스 데어?",
+      "korean": "확인차 여쭤보는데, 제 목적지는 [메인 스트릿 123번지]인데, 이 경로로 계속 가면 그곳으로 가는 게 맞나요?",
+      "tip": "목적지를 재확인하면서 현재 경로가 올바른지 다시 묻는 표현입니다."
+    },
+    {
+      "english": "What's the best way for us to get back on track to [the airport] from here?",
+      "pronunciation": "왓츠 더 베스트 웨이 포 어스 투 겟 백 온 트랙 투 [디 에어포트] 프롬 히어?",
+      "korean": "여기서 [공항]으로 다시 올바른 경로로 돌아가려면 어떻게 하는 게 제일 좋을까요?",
+      "tip": "잘못된 경로를 인정한 후, 가장 효율적인 해결책을 운전자에게 물어볼 때 사용합니다."
+    },
+    {
+      "english": "So, to clarify, we'll turn around at the next intersection and then take [Maple Avenue]?",
+      "pronunciation": "쏘, 투 클레러파이, 윌 턴 어라운드 앳 더 넥스트 인터섹션 앤 덴 테이크 [메이플 애비뉴]?",
+      "korean": "그럼 명확히 하자면, 다음 교차로에서 유턴해서 [메이플 애비뉴]로 가는 건가요?",
+      "tip": "운전자가 제시한 해결책(예: 유턴, 특정 도로 진입)을 구체적으로 되물어 자신의 이해가 맞는지 확인할 때 씁니다."
+    }
+  ],
+  "pattern": {
+    "form": "It seems we're currently [verb-ing/on X], but I was anticipating [different verb-ing/on Y].",
+    "pronunciation": "잇 심스 위어 커런틀리 [동사ing/온 X], 벗 아이 워즈 앤티서페이팅 [다른 동사ing/온 Y].",
+    "meaning": "현재 상황과 기대했던 상황의 불일치를 완곡하게 표현할 때 사용합니다.",
+    "examples": [
+      {
+        "english": "It seems we're currently heading south, but I was anticipating going north for the museum.",
+        "pronunciation": "잇 심스 위어 커런틀리 헤딩 사우스, 벗 아이 워즈 앤티서페이팅 고잉 노스 포 더 뮤지엄.",
+        "korean": "지금 남쪽으로 가고 있는 것 같은데, 박물관을 위해 북쪽으로 갈 거라고 예상했었거든요."
+      },
+      {
+        "english": "It seems we're currently on the local streets, but I was anticipating taking the highway.",
+        "pronunciation": "잇 심스 위어 커런틀리 온 더 로컬 스트릿츠, 벗 아이 워즈 앤티서페이팅 테이킹 더 하이웨이.",
+        "korean": "지금 일반 도로에 있는 것 같은데, 저는 고속도로를 탈 거라고 예상했었어요."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "off course",
+      "pronunciation": "오프 코스",
+      "meaning": "경로를 벗어난"
+    },
+    {
+      "word": "on track",
+      "pronunciation": "온 트랙",
+      "meaning": "제대로 가고 있는, 순조로운"
+    },
+    {
+      "word": "U-turn",
+      "pronunciation": "유-턴",
+      "meaning": "유턴"
+    },
+    {
+      "word": "intersection",
+      "pronunciation": "인터섹션",
+      "meaning": "교차로"
+    },
+    {
+      "word": "re-route",
+      "pronunciation": "리-루트",
+      "meaning": "경로를 다시 설정하다"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "You",
+      "english": "Excuse me, I'm a bit unsure, but I thought we were heading towards the [Grand Hyatt Hotel]?",
+      "pronunciation": "익스큐즈 미, 아임 어 빗 언슈어, 벗 아이 쏘-트 위 워 헤딩 투월즈 더 [그랜드 하이얏 호텔]?",
+      "korean": "실례합니다, 제가 좀 불확실한데요, 저희 [그랜드 하이얏 호텔] 쪽으로 가고 있다고 생각했는데요?"
+    },
+    {
+      "speaker": "Driver",
+      "english": "Grand Hyatt? Yes, that's right. Is there a problem?",
+      "pronunciation": "그랜드 하이얏? 예스, 댓츠 라이트. 이즈 데어 어 프라블럼?",
+      "korean": "그랜드 하이얏이요? 네, 맞습니다. 무슨 문제 있으신가요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Well, it looks like we've taken a wrong turn somewhere. My map shows we're currently on [Riverside Drive], but I was expecting us to be on [Main Street] by now.",
+      "pronunciation": "웰, 잇 룩스 라이크 위브 테이큰 어 롱 턴 썸웨어. 마이 맵 쇼우스 위어 커런틀리 온 [리버사이드 드라이브], 벗 아이 워즈 앤티서페이팅 어스 투 비 온 [메인 스트릿] 바이 나우.",
+      "korean": "음, 어딘가에서 잘못된 길로 들어선 것 같아요. 제 지도에는 지금 [리버사이드 드라이브]에 있다고 나오는데, 지금쯤은 [메인 스트릿]에 있을 거라고 예상했거든요."
+    },
+    {
+      "speaker": "Driver",
+      "english": "Oh, you are right! My apologies. I made a mistake. I'll make a U-turn up ahead and re-route.",
+      "pronunciation": "오, 유 아 라이트! 마이 어팔러지즈. 아이 메이드 어 미스테이크. 아일 메이크 어 유-턴 업 어헤드 앤 리-루트.",
+      "korean": "아, 손님 말씀이 맞네요! 죄송합니다. 제가 실수를 했어요. 저기 앞에서 유턴해서 경로를 다시 설정하겠습니다."
+    },
+    {
+      "speaker": "You",
+      "english": "Okay, so, to clarify, we'll turn around at the next intersection and then take [Maple Avenue]?",
+      "pronunciation": "오케이, 쏘, 투 클레러파이, 윌 턴 어라운드 앳 더 넥스트 인터섹션 앤 덴 테이크 [메이플 애비뉴]?",
+      "korean": "알겠습니다, 그럼 명확히 하자면, 다음 교차로에서 유턴해서 [메이플 애비뉴]로 가는 건가요?"
+    },
+    {
+      "speaker": "Driver",
+      "english": "Exactly. That will get us back on track quickly. Sorry for the confusion.",
+      "pronunciation": "이그잭틀리. 댓 윌 겟 어스 백 온 트랙 퀵클리. 싸리 포 더 컨퓨전.",
+      "korean": "정확합니다. 그렇게 하면 빨리 제자리로 돌아갈 수 있을 겁니다. 혼란을 드려 죄송합니다."
+    },
+    {
+      "speaker": "You",
+      "english": "No problem, thank you for checking.",
+      "pronunciation": "노 프라블럼, 땡큐 포 체킹.",
+      "korean": "괜찮습니다, 확인해 주셔서 감사합니다."
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "I think we might be going in the wrong direction.",
+      "pronunciation": "아이 씽크 위 마잇 비 고잉 인 더 롱 디렉션.",
+      "korean": "우리가 다른 방향으로 가고 있는 것 같아요.",
+      "tip": "완곡하게 잘못된 방향을 언급할 때 사용합니다."
+    },
+    {
+      "english": "My destination is [Address], is this route still leading us there?",
+      "pronunciation": "마이 데스티네이션 이즈 [어드레스], 이즈 디스 루트 스틸 리딩 어스 데어?",
+      "korean": "목적지가 [주소]인데, 이 길이 그곳으로 가는 게 맞나요?",
+      "tip": "목적지를 재확인하며 경로의 적절성을 물을 때 사용합니다."
+    },
+    {
+      "english": "What's the best way for us to get back on track from here?",
+      "pronunciation": "왓츠 더 베스트 웨이 포 어스 투 겟 백 온 트랙 프롬 히어?",
+      "korean": "여기서 올바른 경로로 다시 돌아가려면 어떻게 해야 할까요?",
+      "tip": "문제 해결을 위한 구체적인 방법을 물을 때 사용합니다."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "Excuse me, I'm concerned we might be heading the wrong way.",
+      "pronunciation": "익스큐즈 미, 아임 컨써언드 위 마잇 비 헤딩 더 롱 웨이.",
+      "korean": "실례합니다만, 저희가 잘못된 방향으로 가는 것 같아 걱정되네요.",
+      "note": "좀 더 직접적으로 우려를 표하며 잘못된 방향임을 전달할 때 사용합니다. 'I'm concerned'는 '걱정된다'는 뜻으로, 정중하지만 확실하게 문제를 제기할 때 좋습니다."
+    },
+    {
+      "english": "Could you please confirm the destination again? I'm seeing us go in a different direction.",
+      "pronunciation": "쿠쥬 플리즈 컨펌 더 데스티네이션 어겐? 아임 씨잉 어스 고 인 어 디프런트 디렉션.",
+      "korean": "목적지를 다시 한번 확인해 주시겠어요? 저희가 다른 방향으로 가는 것 같아서요.",
+      "note": "운전자에게 목적지를 다시 확인 요청하고, 현재 방향이 다르다는 점을 지적할 때 사용합니다. 'Could you please'를 사용하여 정중함을 유지합니다."
+    },
+    {
+      "english": "Do we need to turn around or take a different road to reach [Destination Name]?",
+      "pronunciation": "두 위 니드 투 턴 어라운드 오어 테이크 어 디프런트 로드 투 리치 [데스티네이션 네임]?",
+      "korean": "[목적지]에 도착하려면 유턴하거나 다른 길로 가야 하나요?",
+      "note": "특정 해결책(유턴, 다른 길)을 제시하며 운전자에게 확인을 요청할 때 사용합니다. 구체적인 해결 방안을 함께 제시하여 대화를 빠르게 이끌 수 있습니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-11-18",
+      "english": "I'm actually trying to get to [The Grand Hotel, 123 Main Street].",
+      "pronunciation": "아임 액츄얼리 트라잉 투 겟 투 [더 그랜-드 호텔, 원 투 쓰리 메인 스트릿].",
+      "korean": "[그랜드 호텔, 123 메인 스트리트]로 가려고 합니다.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-18",
+      "english": "If it's convenient for you, I'd prefer to take the highway.",
+      "pronunciation": "이프 잇츠 컨비니언트 포 유, 아읻 프리퍼 투 테익 더 하이웨이.",
+      "korean": "괜찮으시다면, 고속도로로 가는 것을 선호합니다.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-16",
+      "english": "I'd like to get an iced latte, but could I possibly have it with oat milk instead of regular milk?",
+      "pronunciation": "아이드 라익 투 겟 언 아이스드 라테, 벗 쿠드 아이 파서블리 해브 잇 위드 오트 밀크 인스테드 오브 레귤러 밀크?",
+      "korean": "아이스 라떼 하나 주세요, 근데 일반 우유 대신 오트 밀크로 바꿔서 주실 수 있나요?",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-16",
+      "english": "I'm looking for a coffee that's less sweet. Do you have options to adjust the sugar level, maybe half sugar or sugar-free syrup?",
+      "pronunciation": "아임 루킹 포러 커피 댓츠 레스 스윗. 두 유 해브 옵션스 투 어저스트 더 슈거 레벨, 메이비 해프 슈거 오어 슈거-프리 시럽?",
+      "korean": "덜 단 커피를 찾고 있어요. 당도 조절 옵션이 있나요, 예를 들어 설탕 반만 넣거나 슈거프리 시럽 같은 거요?",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-13",
+      "english": "I've really enjoyed the meal, but I couldn't finish it all. I was wondering if it's possible to get the rest packed up to take with me?",
+      "pronunciation": "아-입 릴리 엔조이-드 더 밀, 벗 아이 쿠든 피니쉬 잇 올. 아이 워즈 원더링 이프 잇츠 파서블 투 겟 더 레스트 팩트 업 투 테익 위드 미?",
+      "korean": "식사를 정말 맛있게 잘했는데, 다 먹지는 못했어요. 남은 음식을 포장해서 가져갈 수 있을까요?",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
