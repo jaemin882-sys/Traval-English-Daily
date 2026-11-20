@@ -1,0 +1,199 @@
+{
+  "date": "2026-11-20",
+  "updated_at": "12:36 KST",
+  "topic": "택시 카드 결제 가능 여부 묻기",
+  "intro": "해외여행 중 택시를 이용할 때, 미리 카드 결제 가능 여부를 확인하고 싶을 때 유용하게 쓸 수 있는 표현들입니다. 현금이 부족하거나 신용카드로 마일리지를 쌓고 싶을 때 당황하지 않고 물어볼 수 있도록 다양한 방법을 익혀보세요.",
+  "sentences": [
+    {
+      "english": "Do you happen to take credit cards?",
+      "pronunciation": "두 유 해픈 투 테잌 크레딧 카드스?",
+      "korean": "혹시 신용카드 받으시나요?",
+      "tip": "'happen to'는 '혹시 ~이신가요/하시나요?'와 같이 조심스럽게 물어볼 때 사용하며, 'Can I pay with a card?'보다 훨씬 자연스럽고 부드러운 표현입니다."
+    },
+    {
+      "english": "I was wondering if you accept [Visa/Mastercard]?",
+      "pronunciation": "아이 워즈 원더링 이프 유 억셉 [비자/마스터카드]?",
+      "korean": "[비자/마스터카드] 결제가 가능한지 궁금해서요.",
+      "tip": "'I was wondering if~'는 공손하게 질문할 때 쓰는 전형적인 표현입니다. 특정 카드 브랜드를 언급하여 더 명확하게 확인할 수 있습니다."
+    },
+    {
+      "english": "If not, what would be the best way to pay?",
+      "pronunciation": "이프 낫, 왓 우드 비 더 베스트 웨이 투 페이?",
+      "korean": "만약 안 된다면, 어떤 방식으로 지불하는 게 가장 좋을까요?",
+      "tip": "카드 결제가 안 될 경우에 대비해 미리 다른 결제 수단에 대해 물어보는 표현입니다. 'What's the best way to pay?'만 써도 무방합니다."
+    },
+    {
+      "english": "Just to confirm before we head off, is card payment an option?",
+      "pronunciation": "저스트 투 컨펌 비포 위 헤드 오프, 이스 카드 페이먼트 언 옵션?",
+      "korean": "출발하기 전에 한 번 더 확인하는데, 카드 결제도 가능한가요?",
+      "tip": "'Just to confirm'은 '확인 차 다시 묻자면'의 의미로, 다시 한번 확인하고 싶을 때 쓰는 표현입니다. 'head off'는 '출발하다'는 뜻입니다."
+    },
+    {
+      "english": "I don't have much cash on me, so I'm hoping to pay by card.",
+      "pronunciation": "아이 돈 해브 머치 캐쉬 온 미, 쏘 아임 호핑 투 페이 바이 카드.",
+      "korean": "현금이 별로 없어서, 카드로 결제하고 싶어요.",
+      "tip": "결제 방식을 요청하기 전에 현재 상황(현금이 부족한 점)을 설명하여 기사에게 양해를 구하는 표현입니다. 더 부드러운 소통에 도움이 됩니다."
+    }
+  ],
+  "pattern": {
+    "form": "What are my options for [noun/verb-ing]?",
+    "pronunciation": "왓 아 마이 옵션스 포 [나운/벌브-잉]?",
+    "meaning": "~에 대한 제 선택지는 무엇인가요? / ~할 수 있는 방법이 무엇인가요?",
+    "examples": [
+      {
+        "english": "What are my options for payment?",
+        "pronunciation": "왓 아 마이 옵션스 포 페이먼트?",
+        "korean": "결제 수단은 어떤 것들이 있나요?",
+        "tip": "결제 가능한 여러 가지 방법들을 물어볼 때 사용할 수 있습니다."
+      },
+      {
+        "english": "What are my options for getting to the airport if this route is closed?",
+        "pronunciation": "왓 아 마이 옵션스 포 게팅 투 디 에어포트 이프 디스 루트 이스 클로즈드?",
+        "korean": "이 경로가 막혔다면, 공항으로 가는 다른 방법은 무엇인가요?",
+        "tip": "특정 상황에 대한 대안이나 다른 해결책을 물어볼 때 유용합니다."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "credit card machine",
+      "pronunciation": "크레딧 카드 머쉰",
+      "meaning": "신용카드 결제기"
+    },
+    {
+      "word": "cash payment",
+      "pronunciation": "캐쉬 페이먼트",
+      "meaning": "현금 결제"
+    },
+    {
+      "word": "mobile payment",
+      "pronunciation": "모바일 페이먼트",
+      "meaning": "모바일 결제 (예: Apple Pay, Google Pay)"
+    },
+    {
+      "word": "fixed fare / flat rate",
+      "pronunciation": "픽스트 페어 / 플랫 레이트",
+      "meaning": "정액 요금"
+    },
+    {
+      "word": "digital payment",
+      "pronunciation": "디지털 페이먼트",
+      "meaning": "디지털 결제 (모바일 결제를 포함하는 포괄적 개념)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "You",
+      "english": "Hi, could you please take me to the Grand Hyatt Hotel, please?",
+      "pronunciation": "하이, 쿠쥬 플리즈 테잌 미 투 더 그랜드 하이얏 호텔, 플리즈?",
+      "korean": "안녕하세요, 그랜드 하얏트 호텔로 가주세요."
+    },
+    {
+      "speaker": "Driver",
+      "english": "Sure, Grand Hyatt Hotel. Is that on Main Street?",
+      "pronunciation": "슈어, 그랜드 하이얏 호텔. 이스 댓 온 메인 스트릿?",
+      "korean": "네, 그랜드 하얏트 호텔이요. 메인 스트릿에 있는 곳 맞으시죠?"
+    },
+    {
+      "speaker": "You",
+      "english": "Yes, that's right. Just a quick question before we go, do you happen to take credit cards?",
+      "pronunciation": "예스, 댓츠 라이트. 저스트 어 퀵 퀘스천 비포 위 고, 두 유 해픈 투 테잌 크레딧 카드스?",
+      "korean": "네, 맞아요. 가기 전에 간단히 여쭤볼 게 있는데요, 혹시 신용카드 결제도 받으시나요?"
+    },
+    {
+      "speaker": "Driver",
+      "english": "Yes, we do. We have a card machine. Is that okay for you?",
+      "pronunciation": "예스, 위 두. 위 해브 어 카드 머쉰. 이스 댓 오케이 포 유?",
+      "korean": "네, 됩니다. 카드 결제기가 있어요. 괜찮으시겠어요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Perfect, thank you. I don't have much cash on me, so I was hoping to pay by card.",
+      "pronunciation": "퍼펙트, 땡큐. 아이 돈 해브 머치 캐쉬 온 미, 쏘 아임 호핑 투 페이 바이 카드.",
+      "korean": "정말 잘 됐네요, 감사합니다. 현금이 별로 없어서 카드로 결제하고 싶었어요."
+    },
+    {
+      "speaker": "Driver",
+      "english": "No problem at all. We'll get you there. Just put on your seatbelt.",
+      "pronunciation": "노 프라블럼 앳 올. 위일 겟 유 데어. 저스트 풋 온 유어 씻벨트.",
+      "korean": "전혀 문제없습니다. 태워다 드릴게요. 안전벨트 매세요."
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "I was wondering if you accept credit cards?",
+      "pronunciation": "아이 워즈 원더링 이프 유 억셉 크레딧 카드스?",
+      "korean": "카드 결제가 가능한지 궁금해서요.",
+      "tip": "'I was wondering if~' 패턴으로 공손하게 물어보세요."
+    },
+    {
+      "english": "I don't have much cash on me, so I'm hoping to pay by card.",
+      "pronunciation": "아이 돈 해브 머치 캐쉬 온 미, 쏘 아임 호핑 투 페이 바이 카드.",
+      "korean": "현금이 별로 없어서 카드로 결제하고 싶어요.",
+      "tip": "상황을 설명하며 요청하는 방식으로 자연스럽게 말해보세요."
+    },
+    {
+      "english": "If not, what would be the best way to pay?",
+      "pronunciation": "이프 낫, 왓 우드 비 더 베스트 웨이 투 페이?",
+      "korean": "만약 카드 결제가 안 되면, 어떻게 지불하는 게 좋을까요?",
+      "tip": "카드 결제가 안 될 경우를 대비해 대안을 미리 물어보는 표현입니다."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "Do you take cards?",
+      "pronunciation": "두 유 테잌 카드스?",
+      "korean": "카드 받으시나요?",
+      "note": "가장 흔하고 간결하게 물어보는 표현입니다. 조금 더 캐주얼하게 느껴질 수 있습니다."
+    },
+    {
+      "english": "Is card payment possible?",
+      "pronunciation": "이스 카드 페이먼트 파서블?",
+      "korean": "카드 결제가 가능한가요?",
+      "note": "직접적이고 명확하게 가능 여부를 묻는 표현입니다. '가능합니까?'라는 뜻을 명확히 전달합니다."
+    },
+    {
+      "english": "I'm looking to pay with a card, is that okay?",
+      "pronunciation": "아임 루킹 투 페이 위드 어 카드, 이스 댓 오케이?",
+      "korean": "카드로 결제하고 싶은데, 괜찮을까요?",
+      "note": "본인의 결제 의사를 먼저 밝히고, 상대방에게 괜찮은지 확인하는 방식으로, 정중하면서도 목적이 분명합니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-11-19",
+      "english": "I'm a bit unsure, but I thought we were heading towards the [Grand Hyatt Hotel]?",
+      "pronunciation": "아임 어 빗 언슈어, 벗 아이 쏘-트 위 워 헤딩 투월즈 더 [그랜드 하이얏 호텔]?",
+      "korean": "제가 좀 불확실한데요, 저희 [그랜드 하이얏 호텔] 쪽으로 가고 있다고 생각했는데요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-19",
+      "english": "It looks like we've taken a wrong turn somewhere, as I'm seeing us on [Riverside Drive].",
+      "pronunciation": "잇 룩스 라이크 위브 테이큰 어 롱 턴 썸웨어, 애즈 아임 씨잉 어스 온 [리버사이드 드라이브].",
+      "korean": "어딘가에서 잘못된 길로 들어선 것 같아요, 지금 [리버사이드 드라이브]에 있는 걸로 보이는데요.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-17",
+      "english": "It seems there's been a slight mix-up with my takeout order.",
+      "pronunciation": "잇 씨-ms 데얼스 빈 어 슬라이트 믹스-업 윋 마이 테잌아웃 오-더.",
+      "korean": "제 테이크아웃 주문에 약간 착오가 있었던 것 같아요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-17",
+      "english": "I believe I ordered the [Original Dish], but this bag contains the [Received Dish].",
+      "pronunciation": "아이 빌리-브 아이 오-덜드 더 [오리지널 디쉬], 벋 디스 배그 컨테인스 더 [리씨-브드 디쉬].",
+      "korean": "제가 [원래 주문한 음식]을 주문했다고 생각했는데, 이 봉투에는 [받은 음식]이 들어있어요.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-14",
+      "english": "Would it be possible to divide the total among us?",
+      "pronunciation": "우딧 비 파서블 투 디바이ㄷ 더 토틀 어멍 어스?",
+      "korean": "총액을 저희끼리 나눌 수 있을까요?",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
