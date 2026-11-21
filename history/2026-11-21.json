@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-21",
+  "updated_at": "12:19 KST",
+  "topic": "기차표를 당일 다른 시간으로 변경하기",
+  "intro": "해외여행 중 기차표를 구매했는데, 갑자기 계획이 바뀌어 당일 다른 시간대로 기차를 변경해야 하는 상황입니다. 역무원에게 자연스럽게 변경을 요청하고 필요한 정보를 얻는 표현들을 배워봅니다.",
+  "sentences": [
+    {
+      "english": "I need to adjust my train ticket for today.",
+      "pronunciation": "아이 니드 투 어져-스트 마이 트레인 티켓 폴 투데이.",
+      "korean": "오늘 제 기차표 시간을 변경해야 합니다.",
+      "tip": "티켓 변경이 필요함을 직접적으로 전달하는 문장입니다. 'adjust'는 조정하다, 변경하다는 의미로 사용됩니다."
+    },
+    {
+      "english": "My reservation is for [time], and I was hoping to switch to an earlier/later service on the same day.",
+      "pronunciation": "마이 레저베이션 이즈 폴 [타임], 앤 아이 워즈 호우핑 투 스위치 투 언 얼리얼/레이터 서비스 온 더 세임 데이.",
+      "korean": "제 예약은 [시간]인데, 오늘 중으로 더 이른/늦은 시간대로 바꾸고 싶습니다.",
+      "tip": "현재 티켓 정보와 원하는 변경 방향(더 이른/늦은)을 함께 설명하여 상황을 명확히 전달합니다. 'I was hoping to'는 희망 사항을 정중하게 말할 때 유용합니다."
+    },
+    {
+      "english": "Would it be possible to check the availability for the [new time] train?",
+      "pronunciation": "우딧 비 파서블 투 쳌 디 어베일러빌리티 폴 더 [뉴 타임] 트레인?",
+      "korean": "[새로운 시간] 기차에 좌석이 있는지 확인해 주실 수 있을까요?",
+      "tip": "'Would it be possible to ~?'는 매우 공손한 요청 표현입니다. 'availability'는 좌석 유무나 가능 여부를 뜻합니다."
+    },
+    {
+      "english": "What's involved in changing a ticket on the day of travel?",
+      "pronunciation": "왓츠 인볼브드 인 체인징 어 티켓 온 더 데이 오브 트래블?",
+      "korean": "여행 당일에 티켓을 변경하는 데 어떤 절차나 규정이 있나요?",
+      "tip": "변경 과정이나 수수료 등 관련된 모든 것을 포괄적으로 묻는 표현입니다. 'What's involved in ~?'은 어떤 일에 수반되는 조건, 절차 등을 물을 때 유용합니다."
+    },
+    {
+      "english": "If that specific departure time isn't an option, are there any other alternative trains this afternoon?",
+      "pronunciation": "이프 댓 스페시픽 디파처 타임 이즌 언 옵션, 알 데어 애니 아더 얼터너티브 트레인즈 디스 애프터눈?",
+      "korean": "만약 그 특정 출발 시간이 안 된다면, 오늘 오후에 다른 대안이 될 만한 기차가 있을까요?",
+      "tip": "원하는 시간이 안 될 경우를 대비하여 다른 대안을 미리 묻는 표현입니다. 'alternative'는 대안, 다른 선택지를 의미합니다."
+    }
+  ],
+  "pattern": {
+    "form": "What's involved in [verb-ing/noun phrase]?",
+    "pronunciation": "왓츠 인볼브드 인 [동명사/명사구]?",
+    "meaning": "~하는 데 어떤 절차/요건이 있나요?",
+    "examples": [
+      {
+        "english": "What's involved in getting a refund for a cancelled ticket?",
+        "pronunciation": "왓츠 인볼브드 인 게팅 어 리펀드 폴 어 캔슬드 티켓?",
+        "korean": "취소된 티켓 환불받는 데 어떤 절차가 있나요?",
+        "tip": "'getting a refund' (환불받는 것)에 관련된 절차를 묻습니다."
+      },
+      {
+        "english": "What's involved in upgrading my seat to first class?",
+        "pronunciation": "왓츠 인볼브드 인 업그레이딩 마이 싯 투 퍼스트 클래스?",
+        "korean": "좌석을 퍼스트 클래스로 업그레이드하는 데 어떤 요건이 있나요?",
+        "tip": "'upgrading my seat' (좌석 업그레이드)에 관련된 비용, 조건 등을 묻습니다."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "departure time",
+      "pronunciation": "디파처 타임",
+      "meaning": "출발 시간"
+    },
+    {
+      "word": "availability",
+      "pronunciation": "어베일러빌리티",
+      "meaning": "가능 여부, (좌석) 유무"
+    },
+    {
+      "word": "rebook",
+      "pronunciation": "리-북",
+      "meaning": "다시 예약하다"
+    },
+    {
+      "word": "change fee",
+      "pronunciation": "체인지 피",
+      "meaning": "변경 수수료"
+    },
+    {
+      "word": "fare difference",
+      "pronunciation": "페어 디프런스",
+      "meaning": "운임 차액"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "You",
+      "english": "Excuse me, I need to adjust my train ticket for today.",
+      "pronunciation": "익스큐즈 미, 아이 니드 투 어져-스트 마이 트레인 티켓 폴 투데이.",
+      "korean": "실례합니다, 오늘 제 기차표 시간을 변경해야 합니다."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Certainly. May I see your current ticket, please? What's your current departure time?",
+      "pronunciation": "썰튼리. 메이 아이 씨 유어 커런트 티켓, 플리즈? 왓츠 유어 커런트 디파처 타임?",
+      "korean": "네, 알겠습니다. 현재 티켓을 보여주시겠어요? 현재 출발 시간이 어떻게 되시나요?"
+    },
+    {
+      "speaker": "You",
+      "english": "My reservation is for 2 PM, and I was hoping to switch to an earlier service, perhaps around 11 AM if possible.",
+      "pronunciation": "마이 레저베이션 이즈 폴 투 피엠, 앤 아이 워즈 호우핑 투 스위치 투 언 얼리얼 서비스, 펄햅스 어라운드 일레븐 에이엠 이프 파서블.",
+      "korean": "제 예약은 오후 2시인데, 더 이른 시간대로, 가능하면 오전 11시쯤으로 바꾸고 싶습니다."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Let me check that for you. So, you're looking to rebook from 2 PM to 11 AM today. One moment.",
+      "pronunciation": "렛 미 쳌 댓 폴 유. 쏘우, 유어 루킹 투 리-북 프롬 투 피엠 투 일레븐 에이엠 투데이. 원 모먼트.",
+      "korean": "확인해 드리겠습니다. 오후 2시에서 오늘 오전 11시로 다시 예약하시려는 거군요. 잠시만 기다려 주세요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Yes, there's availability on the 11 AM train. What's involved in changing a ticket on the day of travel? There's usually a small change fee and you might need to pay the fare difference if the new ticket is more expensive.",
+      "pronunciation": "예스, 데어스 어베일러빌리티 온 디 일레븐 에이엠 트레인. 왓츠 인볼브드 인 체인징 어 티켓 온 더 데이 오브 트래블? 데어스 유주얼리 어 스몰 체인지 피 앤 유 마이트 니드 투 페이 더 페어 디프런스 이프 더 뉴 티켓 이즈 모어 익스펜시브.",
+      "korean": "네, 오전 11시 기차에 좌석이 있습니다. 여행 당일에 티켓을 변경하는 데 어떤 절차나 규정이 있나요? 일반적으로 소액의 변경 수수료가 있으며, 새 티켓이 더 비쌀 경우 운임 차액을 지불하셔야 할 수 있습니다."
+    },
+    {
+      "speaker": "You",
+      "english": "I see. So, if I go ahead with the 11 AM train, there will be a change fee and potentially a fare difference. Is that right?",
+      "pronunciation": "아이 씨. 쏘우, 이프 아이 고 어헤드 윗 디 일레븐 에이엠 트레인, 데어 윌 비 어 체인지 피 앤 포텐셜리 어 페어 디프런스. 이즈 댓 라이트?",
+      "korean": "알겠습니다. 그럼 오전 11시 기차로 변경하면 변경 수수료와 어쩌면 운임 차액이 발생한다는 말씀이신가요? 맞나요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "That's correct. I can process that for you now if you'd like. The total additional cost would be [amount].",
+      "pronunciation": "댓츠 커렉트. 아이 캔 프로세스 댓 폴 유 나우 이프 유드 라이크. 더 토털 어디셔널 코스트 우드 비 [어마운트].",
+      "korean": "맞습니다. 원하시면 지금 바로 처리해 드릴 수 있습니다. 총 추가 비용은 [금액]입니다."
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "Is it possible to change the train ticket time?",
+      "pronunciation": "이즈 잇 파서블 투 체인지 더 트레인 티켓 타임?",
+      "korean": "기차표 시간 변경이 가능한가요?",
+      "tip": "변경 가능 여부를 묻는 핵심 질문입니다. 'Is it possible to~?' 패턴을 활용해 보세요."
+    },
+    {
+      "english": "Are there any other trains available this afternoon?",
+      "pronunciation": "알 데어 애니 아더 트레인즈 어베일러블 디스 애프터눈?",
+      "korean": "오늘 오후에 다른 시간대 열차가 있나요?",
+      "tip": "원하는 시간이 없을 경우 다른 대안을 묻는 질문입니다. 'available'은 이용 가능한, 구할 수 있는 이란 뜻입니다."
+    },
+    {
+      "english": "Are there any change fees?",
+      "pronunciation": "알 데어 애니 체인지 피즈?",
+      "korean": "변경 수수료가 있나요?",
+      "tip": "가장 중요한 질문 중 하나! 'change fee'라는 표현을 기억해두세요."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "I have a ticket for the [time] train, but I'm looking to change it to [new time] today.",
+      "pronunciation": "아이 해브 어 티켓 폴 더 [타임] 트레인, 벗 아임 루킹 투 체인지 잇 투 [뉴 타임] 투데이.",
+      "korean": "저는 [시간] 기차표가 있는데, 오늘 [새로운 시간]으로 바꾸고 싶습니다.",
+      "note": "'I'm looking to ~'는 특정한 목적을 가지고 무엇인가를 하려 할 때 사용하는 자연스러운 표현입니다. 조금 더 직접적이고 명확한 의도를 전달합니다."
+    },
+    {
+      "english": "I was wondering if I could move my ticket for the [time] train to a different time today.",
+      "pronunciation": "아이 워즈 원더링 이프 아이 쿠드 무브 마이 티켓 폴 더 [타임] 트레인 투 어 디프런트 타임 투데이.",
+      "korean": "오늘 [시간] 기차표를 다른 시간으로 변경할 수 있을지 궁금해서요.",
+      "note": "'I was wondering if ~'는 훨씬 더 공손하고 조심스러운 요청의 뉘앙스를 가집니다. 상대방에게 부담을 주지 않으려는 말투입니다."
+    },
+    {
+      "english": "Is there any chance I could get on an earlier/later train than my current [time] ticket for today?",
+      "pronunciation": "이즈 데어 애니 찬스 아이 쿠드 겟 온 언 얼리얼/레이터 트레인 댄 마이 커런트 [타임] 티켓 폴 투데이?",
+      "korean": "오늘 제 현재 [시간] 티켓보다 더 이른/늦은 기차를 탈 수 있는 가능성이 있을까요?",
+      "note": "'Is there any chance ~?'는 혹시라도 가능성이 있을까 하고 조심스럽게 물어볼 때 사용합니다. 희망에 가까운 요청을 할 때 적합합니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-11-20",
+      "english": "Do you happen to take credit cards?",
+      "pronunciation": "두 유 해픈 투 테잌 크레딧 카드스?",
+      "korean": "혹시 신용카드 받으시나요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-20",
+      "english": "I was wondering if you accept [Visa/Mastercard]?",
+      "pronunciation": "아이 워즈 원더링 이프 유 억셉 [비자/마스터카드]?",
+      "korean": "[비자/마스터카드] 결제가 가능한지 궁금해서요.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-18",
+      "english": "I'm actually trying to get to [The Grand Hotel, 123 Main Street].",
+      "pronunciation": "아임 액츄얼리 트라잉 투 겟 투 [더 그랜-드 호텔, 원 투 쓰리 메인 스트릿].",
+      "korean": "[그랜드 호텔, 123 메인 스트리트]로 가려고 합니다.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-18",
+      "english": "If it's convenient for you, I'd prefer to take the highway.",
+      "pronunciation": "이프 잇츠 컨비니언트 포 유, 아읻 프리퍼 투 테익 더 하이웨이.",
+      "korean": "괜찮으시다면, 고속도로로 가는 것을 선호합니다.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-08",
+      "english": "What exactly goes into the [dish name]?",
+      "pronunciation": "왓 이그잭틀리 고우스 인투 더 [디쉬 네임]?",
+      "korean": "[메뉴 이름]에는 정확히 어떤 재료들이 들어가나요?",
+      "tip": "13일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
