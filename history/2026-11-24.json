@@ -1,0 +1,203 @@
+{
+  "date": "2026-11-24",
+  "updated_at": "15:12 KST",
+  "topic": "대중교통 카드 충전 방법 묻기",
+  "intro": "해외 대중교통 이용은 필수! 지하철이나 버스에서 쓰는 교통카드를 충전해야 할 때, 어떻게 해야 할지 몰라 답답했던 경험이 있다면 오늘 표현들을 꼭 익혀두세요. 충전하는 방법, 기계 사용법, 결제 수단 확인까지 자연스럽게 물어볼 수 있습니다.",
+  "sentences": [
+    {
+      "english": "I'm looking to top up my transit card. What's the best way to do that around here?",
+      "pronunciation": "아임 루킹 투 탑 업 마이 트랜짓 카드. 왓츠 더 베스트 웨이 투 두 댓 어라운드 히어?",
+      "korean": "제 교통카드를 충전하고 싶어요. 여기서 충전하는 가장 좋은 방법이 뭔가요?",
+      "tip": "'top up'은 교통카드를 충전할 때 자주 쓰는 표현입니다. 'around here'은 주변의 특정 장소를 물을 때 유용합니다."
+    },
+    {
+      "english": "I have this travel card, and I need to add funds to it. Is there a specific machine for that?",
+      "pronunciation": "아이 해브 디스 트래블 카드, 앤 아이 니드 투 애드 펀즈 투 잇. 이즈 데어 어 스페시픽 머신 포 댓?",
+      "korean": "이 교통카드가 있는데, 여기에 돈을 충전해야 해요. 전용 기계가 있나요?",
+      "tip": "'add funds'는 '돈을 추가하다, 충전하다'는 뜻으로 'top up'과 비슷하게 사용됩니다. 'specific machine'은 특정 용도의 기계를 의미합니다."
+    },
+    {
+      "english": "I've got this card here, and I need to add more credit. Do you know where I can do that?",
+      "pronunciation": "아이브 갓 디스 카드 히어, 앤 아이 니드 투 애드 모어 크레딧. 두 유 노우 웨어 아이 캔 두 댓?",
+      "korean": "이 카드가 있는데, 잔액을 더 충전해야 해요. 어디서 할 수 있는지 아시나요?",
+      "tip": "'add more credit'은 잔액을 추가한다는 의미이며, 'Do you know where I can do that?'으로 충전 가능한 장소를 물을 수 있습니다."
+    },
+    {
+      "english": "I'm a bit unsure about how to use this self-service machine for recharging. Could you walk me through it briefly?",
+      "pronunciation": "아임 어 빗 언슈어 어바웃 하우 투 유즈 디스 셀프-서비스 머신 포 리차징. 쿠쥬 워크 미 쓰루 잇 브리플리?",
+      "korean": "이 셀프 서비스 충전기를 어떻게 사용하는지 잘 모르겠네요. 간단히 설명해주실 수 있을까요?",
+      "tip": "'walk me through it'은 어떤 절차나 사용법을 차근차근 설명해달라고 요청할 때 쓰는 자연스러운 표현입니다. 'briefly'를 붙여 간략한 설명을 요청할 수 있습니다."
+    },
+    {
+      "english": "Just to double-check, is it possible to pay with a credit card at these top-up stations?",
+      "pronunciation": "저스트 투 더블-체크, 이즈 잇 파서블 투 페이 윗 어 크레딧 카드 앳 디즈 탑-업 스테이션스?",
+      "korean": "재확인하려고요, 이 충전소에서 신용카드로 결제하는 것도 가능한가요?",
+      "tip": "'Just to double-check'은 다시 한번 확인하고 싶을 때 쓰는 유용한 시작 표현입니다. 'top-up stations'는 교통카드 충전소를 의미합니다."
+    }
+  ],
+  "pattern": {
+    "form": "I'm curious about the steps involved in [verb-ing/noun phrase].",
+    "pronunciation": "아임 큐리어스 어바웃 더 스텝스 인볼브드 인 [버빙/나운 프레이즈].",
+    "meaning": "[~하는] 데 필요한 단계들이 궁금해요.",
+    "examples": [
+      {
+        "english": "I'm curious about the steps involved in getting a refund for this ticket.",
+        "pronunciation": "아임 큐리어스 어바웃 더 스텝스 인볼브드 인 게링 어 리펀드 포 디스 티켓.",
+        "korean": "이 티켓 환불 절차가 궁금해요."
+      },
+      {
+        "english": "I'm curious about the steps involved in activating this new SIM card.",
+        "pronunciation": "아임 큐리어스 어바웃 더 스텝스 인볼브드 인 액티베이팅 디스 뉴 심 카드.",
+        "korean": "이 새 SIM 카드 활성화하는 절차가 궁금해요."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "top up (v.)",
+      "pronunciation": "탑 업",
+      "meaning": "(교통카드 등을) 충전하다"
+    },
+    {
+      "word": "transit card / travel card",
+      "pronunciation": "트랜짓 카드 / 트래블 카드",
+      "meaning": "대중교통 카드 / 교통 카드"
+    },
+    {
+      "word": "self-service machine",
+      "pronunciation": "셀프-서비스 머신",
+      "meaning": "셀프 서비스 기계 (키오스크)"
+    },
+    {
+      "word": "add funds / put money on",
+      "pronunciation": "애드 펀즈 / 풋 머니 온",
+      "meaning": "돈을 추가하다 / 돈을 넣다 (충전하다)"
+    },
+    {
+      "word": "balance (n.)",
+      "pronunciation": "밸런스",
+      "meaning": "(카드, 계좌의) 잔액"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "You",
+      "english": "Excuse me, I'm looking to top up my transit card. What's the best way to do that around here?",
+      "pronunciation": "익스큐즈 미, 아임 루킹 투 탑 업 마이 트랜짓 카드. 왓츠 더 베스트 웨이 투 두 댓 어라운드 히어?",
+      "korean": "실례합니다, 제 교통카드를 충전하고 싶어서요. 여기서 충전하는 가장 좋은 방법이 뭔가요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Sure. You can use one of the self-service machines over there. They accept both cash and card.",
+      "pronunciation": "슈어. 유 캔 유즈 워-놉 더 셀프-서비스 머신스 오버 데어. 데이 억셉트 보쓰 캐쉬 앤 카드.",
+      "korean": "네. 저쪽에 있는 셀프 서비스 기계를 이용하시면 됩니다. 현금과 카드 모두 가능해요."
+    },
+    {
+      "speaker": "You",
+      "english": "Okay, I see. And I'm a bit unsure about how to use this self-service machine for recharging. Could you walk me through it briefly?",
+      "pronunciation": "오케이, 아이 씨. 앤 아임 어 빗 언슈어 어바웃 하우 투 유즈 디스 셀프-서비스 머신 포 리차징. 쿠쥬 워크 미 쓰루 잇 브리플리?",
+      "korean": "알겠습니다. 그런데 이 셀프 서비스 충전기를 어떻게 사용하는지 잘 모르겠네요. 간단히 설명해주실 수 있을까요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "No problem. Just place your card on the reader, select the amount, and then choose your payment method. It's quite straightforward.",
+      "pronunciation": "노 프라블럼. 저스트 플레이스 유어 카드 온 더 리더, 셀렉트 디 어마운트, 앤 덴 추즈 유어 페이먼트 메소드. 잇츠 콰잇 스트레이트포워드.",
+      "korean": "문제없습니다. 카드를 리더기에 올리고, 금액을 선택한 다음 결제 수단을 고르시면 돼요. 아주 간단합니다."
+    },
+    {
+      "speaker": "You",
+      "english": "Got it. Just to double-check, is it possible to pay with a credit card at these top-up stations?",
+      "pronunciation": "가릿. 저스트 투 더블-체크, 이즈 잇 파서블 투 페이 윗 어 크레딧 카드 앳 디즈 탑-업 스테이션스?",
+      "korean": "알겠습니다. 재확인하려고요, 이 충전소에서 신용카드로 결제하는 것도 가능한가요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Yes, absolutely. Most major credit cards are accepted. Just follow the on-screen prompts.",
+      "pronunciation": "예스, 앱솔루틀리. 모스트 메이저 크레딧 카드스 아 억셉티드. 저스트 팔로우 디 온-스크린 프롬츠.",
+      "korean": "네, 물론이죠. 대부분의 주요 신용카드를 받습니다. 화면 안내에 따라 진행하시면 돼요."
+    },
+    {
+      "speaker": "You",
+      "english": "Perfect, thank you so much for your help!",
+      "pronunciation": "퍼펙트, 땡큐 쏘 머치 포 유어 헬프!",
+      "korean": "좋습니다, 도와주셔서 정말 감사합니다!"
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "What's the best way to top up my transit card?",
+      "pronunciation": "왓츠 더 베스트 웨이 투 탑 업 마이 트랜짓 카드?",
+      "korean": "교통카드 충전하는 가장 좋은 방법이 뭘까요?",
+      "tip": "'top up'은 교통카드를 충전할 때 자주 쓰는 표현입니다."
+    },
+    {
+      "english": "I'm a bit unsure how to use this self-service machine. Could you walk me through it?",
+      "pronunciation": "아임 어 빗 언슈어 하우 투 유즈 디스 셀프-서비스 머신. 쿠쥬 워크 미 쓰루 잇?",
+      "korean": "이 셀프 서비스 기계 사용법을 잘 모르겠는데, 알려주실 수 있나요?",
+      "tip": "'walk someone through it'은 어떤 절차를 차근차근 설명해달라고 할 때 유용합니다."
+    },
+    {
+      "english": "Just to double-check, is it possible to pay with a credit card at these top-up stations?",
+      "pronunciation": "저스트 투 더블-체크, 이즈 잇 파서블 투 페이 윗 어 크레딧 카드 앳 디즈 탑-업 스테이션스?",
+      "korean": "이 충전소에서 신용카드로 결제하는 것도 가능한지 확인하고 싶어요.",
+      "tip": "'Just to double-check'으로 질문의 의도를 명확히 할 수 있습니다."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "Where exactly can I add credit to this public transport card?",
+      "pronunciation": "웨어 이그잭틀리 캔 아이 애드 크레딧 투 디스 퍼블릭 트랜스포트 카드?",
+      "korean": "이 대중교통 카드에 어디서 충전할 수 있나요?",
+      "note": "'어디서'에 초점을 맞춰 충전 장소를 직접적으로 묻는 표현입니다. 'add credit'도 충전의 의미로 쓰입니다."
+    },
+    {
+      "english": "I'm having a little trouble figuring out this top-up machine. Could you give me some quick pointers?",
+      "pronunciation": "아임 해빙 어 리틀 트러블 피겨링 아웃 디스 탑-업 머신. 쿠쥬 기브 미 썸 퀵 포인터스?",
+      "korean": "이 충전기 사용법을 알아내기가 좀 어렵네요. 몇 가지 요점을 알려주실 수 있을까요?",
+      "note": "'figuring out'은 무언가를 이해하거나 방법을 알아내는 데 어려움이 있음을 나타내고, 'quick pointers'는 간단한 팁이나 설명을 요청할 때 사용합니다."
+    },
+    {
+      "english": "I'm curious about the payment options for topping up a card here. Is card payment generally accepted?",
+      "pronunciation": "아임 큐리어스 어바웃 더 페이먼트 옵션스 포 터핑 업 어 카드 히어. 이즈 카드 페이먼트 제너럴리 억셉티드?",
+      "korean": "여기서 카드 충전 시 결제 옵션이 궁금해요. 카드 결제가 일반적으로 되나요?",
+      "note": "'curious about the payment options'로 질문을 부드럽게 시작하며, 'generally accepted'를 사용하여 일반적인 수용 여부를 묻습니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-11-23",
+      "english": "Excuse me, I'm hoping to get to the Grand Central Station, but I'm not entirely sure if this bus is heading that way.",
+      "pronunciation": "익스큐즈 미, 아임 호핑 투 겟 투 더 그랜 센트럴 스테이션, 벗 아임 낫 인타이얼리 슈어 이프 디스 버스 이즈 헤딩 댓 웨이.",
+      "korean": "실례합니다, 그랜드 센트럴 스테이션에 가고 싶은데, 이 버스가 그쪽으로 가는 게 맞는지 잘 모르겠어요.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-23",
+      "english": "Could you clarify if this bus terminates at the museum district?",
+      "pronunciation": "쿠쥬 클레러파이 이프 디스 버스 터미네이츠 앳 더 뮤지엄 디스트릭트?",
+      "korean": "이 버스가 박물관 지구에서 종착하는지 알려주실 수 있을까요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-21",
+      "english": "I need to adjust my train ticket for today.",
+      "pronunciation": "아이 니드 투 어져-스트 마이 트레인 티켓 폴 투데이.",
+      "korean": "오늘 제 기차표 시간을 변경해야 합니다.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-21",
+      "english": "My reservation is for [time], and I was hoping to switch to an earlier/later service on the same day.",
+      "pronunciation": "마이 레저베이션 이즈 폴 [타임], 앤 아이 워즈 호우핑 투 스위치 투 언 얼리얼/레이터 서비스 온 더 세임 데이.",
+      "korean": "제 예약은 [시간]인데, 오늘 중으로 더 이른/늦은 시간대로 바꾸고 싶습니다.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-18",
+      "english": "I'm actually trying to get to [The Grand Hotel, 123 Main Street].",
+      "pronunciation": "아임 액츄얼리 트라잉 투 겟 투 [더 그랜-드 호텔, 원 투 쓰리 메인 스트릿].",
+      "korean": "[그랜드 호텔, 123 메인 스트리트]로 가려고 합니다.",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
