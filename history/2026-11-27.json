@@ -1,0 +1,203 @@
+{
+  "date": "2026-11-27",
+  "updated_at": "13:22 KST",
+  "topic": "렌터카 반납 장소와 연료 규정 확인하기",
+  "intro": "해외 렌터카 여행의 마지막 단계, 차량 반납! 반납 장소를 헷갈리거나 연료 규정을 어기면 불필요한 추가 요금이 발생할 수 있어요. 오늘 콘텐츠에서는 렌터카를 문제없이 반납하기 위해 필요한 장소와 연료 규정을 확인하는 다양한 영어 표현을 배워봅니다.",
+  "sentences": [
+    {
+      "english": "What's the exact location for dropping off the rental car?",
+      "pronunciation": "왓츠 디 이그잭트 로케이션 포 드라핑 오프 더 렌털 카?",
+      "korean": "렌터카 반납 장소가 정확히 어디인가요?",
+      "tip": "'exact location'은 '정확한 위치'를 뜻하며, 'dropping off'는 '내려놓다, 반납하다'라는 의미로 차량 반납 상황에 자주 쓰입니다."
+    },
+    {
+      "english": "Could you walk me through the fuel requirements for the return?",
+      "pronunciation": "쿠쥬 워크 미 쓰루 더 퓨얼 리콰이어먼츠 포 더 리턴?",
+      "korean": "반납 시 연료 규정에 대해 자세히 설명해 주실 수 있을까요?",
+      "tip": "'walk me through'는 '절차나 규정을 단계별로 자세히 설명해 주다'는 뜻으로, 복잡한 내용을 이해할 때 유용한 표현입니다."
+    },
+    {
+      "english": "To ensure I'm doing this right, should the fuel tank be full upon return?",
+      "pronunciation": "투 인슈어 아임 두잉 디스 롸잇, 슈드 더 퓨얼 탱크 비 풀 어폰 리턴?",
+      "korean": "제가 제대로 이해하고 있는지 확인하기 위해서인데요, 반납 시 연료 탱크가 가득 차 있어야 하나요?",
+      "tip": "'To ensure I'm doing this right'는 '내가 제대로 하고 있는지 확실히 하기 위해'라는 의미로, 조심스럽게 재확인할 때 쓸 수 있습니다. 'upon return'은 '반납 시에'라는 뜻입니다."
+    },
+    {
+      "english": "What are the potential charges if I don't return it with a full tank?",
+      "pronunciation": "왓 아 더 포텐셜 차지스 이프 아이 돈트 리턴 잇 위더 풀 탱크?",
+      "korean": "만약 연료를 가득 채워서 반납하지 않으면 어떤 추가 요금이 발생할 수 있나요?",
+      "tip": "'potential charges'는 '발생할 수 있는 요금'을 의미하며, 'if I don't~'는 특정 조건을 가정할 때 사용합니다."
+    },
+    {
+      "english": "Do you happen to know where the closest gas station is to the return depot?",
+      "pronunciation": "두 유 해픈 투 노우 웨어 더 클로시스트 개스 스테이션 이즈 투 더 리턴 디포?",
+      "korean": "혹시 반납 장소 근처에 가장 가까운 주유소가 어디인지 아시나요?",
+      "tip": "'Do you happen to know~?'는 '혹시 ~을 아세요?'라는 뜻으로, 상대에게 부담을 주지 않으면서 정보를 물어볼 때 좋은 표현입니다. 'depot'은 '차고, 보관소'를 의미합니다."
+    }
+  ],
+  "pattern": {
+    "form": "How should I go about [verb-ing/noun phrase]?",
+    "pronunciation": "하우 슈다이 고 어바웃 [동사-ing/명사구]?",
+    "meaning": "~을 어떻게 처리해야/해야 하나요?",
+    "examples": [
+      {
+        "english": "How should I go about returning the car after hours?",
+        "pronunciation": "하우 슈다이 고 어바웃 리터닝 더 카 애프터 아워스?",
+        "korean": "업무 시간 외에 차량을 어떻게 반납해야 하나요?"
+      },
+      {
+        "english": "How should I go about getting a shuttle to the airport terminal?",
+        "pronunciation": "하우 슈다이 고 어바웃 게링 어 셔틀 투 디 에어포트 터미널?",
+        "korean": "공항 터미널로 가는 셔틀을 어떻게 이용해야 하나요?"
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "drop-off point",
+      "pronunciation": "드랍-오프 포인트",
+      "meaning": "반납 지점"
+    },
+    {
+      "word": "fuel policy",
+      "pronunciation": "퓨얼 팔러시",
+      "meaning": "연료 규정"
+    },
+    {
+      "word": "refuel / fill up the tank",
+      "pronunciation": "리퓨얼 / 필 업 더 탱크",
+      "meaning": "주유하다 / 탱크를 가득 채우다"
+    },
+    {
+      "word": "surcharge / additional fee",
+      "pronunciation": "서차지 / 어디셔널 피",
+      "meaning": "추가 요금"
+    },
+    {
+      "word": "return depot / facility",
+      "pronunciation": "리턴 디포 / 퍼실리티",
+      "meaning": "차량 반납 시설 / 장소"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "You",
+      "english": "Excuse me, I'm ready to return my rental car. What's the exact location for dropping off the rental car?",
+      "pronunciation": "익스큐즈 미, 아임 레디 투 리턴 마이 렌털 카. 왓츠 디 이그잭트 로케이션 포 드라핑 오프 더 렌털 카?",
+      "korean": "실례합니다, 렌터카를 반납하려고 하는데요. 반납 장소가 정확히 어디인가요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Certainly. Please follow the 'Car Return' signs to Terminal 3. There's a dedicated drop-off point there.",
+      "pronunciation": "서트늘리. 플리즈 팔로우 더 '카 리턴' 사인스 투 터미널 쓰리. 데얼스 어 데디케이티드 드랍-오프 포인트 데어.",
+      "korean": "네, '차량 반납' 표지판을 따라 터미널 3으로 가세요. 전용 반납 지점이 있습니다."
+    },
+    {
+      "speaker": "You",
+      "english": "Okay, got it. And could you walk me through the fuel requirements for the return?",
+      "pronunciation": "오케이, 가릿. 앤 쿠쥬 워크 미 쓰루 더 퓨얼 리콰이어먼츠 포 더 리턴?",
+      "korean": "알겠습니다. 그리고 반납 시 연료 규정에 대해 자세히 설명해 주실 수 있을까요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Our standard fuel policy is full-to-full. So, yes, you're expected to return it with a full tank.",
+      "pronunciation": "아워 스탠더드 퓨얼 팔러시 이즈 풀-투-풀. 소, 예스, 유아 엑스펙티드 투 리턴 잇 위더 풀 탱크.",
+      "korean": "저희 표준 연료 규정은 '가득 채워서 반납'입니다. 따라서, 연료를 가득 채워서 반납하셔야 합니다."
+    },
+    {
+      "speaker": "You",
+      "english": "To ensure I'm doing this right, should the fuel tank be full upon return? What are the potential charges if I don't return it with a full tank?",
+      "pronunciation": "투 인슈어 아임 두잉 디스 롸잇, 슈드 더 퓨얼 탱크 비 풀 어폰 리턴? 왓 아 더 포텐셜 차지스 이프 아이 돈트 리턴 잇 위더 풀 탱크?",
+      "korean": "제가 제대로 하고 있는지 확인하는 건데요, 반납 시 연료 탱크가 가득 차 있어야 하나요? 만약 가득 채우지 않으면 어떤 추가 요금이 발생할 수 있나요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Yes, absolutely full. If not, there's a flat refueling fee of $25, plus the cost of the fuel at our premium rate.",
+      "pronunciation": "예스, 앱솔루틀리 풀. 이프 낫, 데얼스 어 플랫 리퓨얼링 피 오브 트웬티-파이브 달러스, 플라스 더 코스트 오브 더 퓨얼 앳 아워 프리미엄 레이트.",
+      "korean": "네, 완전히 가득 채워야 합니다. 그렇지 않으면 25달러의 정액 주유 수수료와 저희의 할증 요금으로 연료비가 부과됩니다."
+    },
+    {
+      "speaker": "You",
+      "english": "Got it. Do you happen to know where the closest gas station is to the return depot?",
+      "pronunciation": "가릿. 두 유 해픈 투 노우 웨어 더 클로시스트 개스 스테이션 이즈 투 더 리턴 디포?",
+      "korean": "알겠습니다. 혹시 반납 장소 근처에 가장 가까운 주유소가 어디인지 아시나요?"
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "What's the exact location for dropping off the rental car?",
+      "pronunciation": "왓츠 디 이그잭트 로케이션 포 드라핑 오프 더 렌털 카?",
+      "korean": "렌터카 반납 장소가 정확히 어디인가요?",
+      "tip": "'exact location'과 'dropping off'를 활용해 반납 장소를 묻는 자연스러운 표현입니다."
+    },
+    {
+      "english": "Could you walk me through the fuel requirements for the return?",
+      "pronunciation": "쿠쥬 워크 미 쓰루 더 퓨얼 리콰이어먼츠 포 더 리턴?",
+      "korean": "연료 규정이 어떻게 되는지 설명해 주실 수 있을까요?",
+      "tip": "'walk me through'는 '자세히 설명해주다'는 뜻으로, 규정에 대한 설명을 요청할 때 유용합니다."
+    },
+    {
+      "english": "Do you happen to know where the closest gas station is to the return depot?",
+      "pronunciation": "두 유 해픈 투 노우 웨어 더 클로시스트 개스 스테이션 이즈 투 더 리턴 디포?",
+      "korean": "혹시 반납 장소 근처에 가장 가까운 주유소가 어디인지 아시나요?",
+      "tip": "'happen to know'는 '혹시 ~을 아세요?'라는 완곡한 질문입니다."
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "Where exactly should I be taking the car back to?",
+      "pronunciation": "웨어 이그잭틀리 슈다이 비 테이킹 더 카 백 투?",
+      "korean": "차를 정확히 어디로 다시 가져가야 하나요?",
+      "note": "'take back to'는 '돌려주다, 가져다주다'의 구어적 표현으로, 좀 더 캐주얼하고 직접적인 느낌을 줍니다."
+    },
+    {
+      "english": "Just checking, the expectation is for a full tank, right?",
+      "pronunciation": "저스 체킹, 디 엑스펙테이션 이즈 포러 풀 탱크, 롸잇?",
+      "korean": "확인하는 건데요, 연료를 가득 채워야 하는 거죠?",
+      "note": "'Just checking'은 가볍게 확인하는 뉘앙스를 주며, 'expectation'은 '기대되는 바/요구사항'을 의미하여 규정을 재확인하는 데 쓰기 좋습니다."
+    },
+    {
+      "english": "And what's the policy if the tank isn't completely full?",
+      "pronunciation": "앤 왓츠 더 팔러시 이프 더 탱크 이즌트 컴플리틀리 풀?",
+      "korean": "만약 연료가 완전히 채워지지 않으면 정책이 어떻게 되나요?",
+      "note": "'policy'는 '규정/방침'을 의미하여, 'potential charges'보다 좀 더 일반적인 질문이지만 같은 우려를 표현할 수 있습니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-11-26",
+      "english": "I'm just noticing a scratch here on the passenger side door.",
+      "pronunciation": "아임 저스트 노티씽 어 스크래치 히어 온 더 패신저 싸이드 도어.",
+      "korean": "조금 전에 여기 조수석 문에 흠집이 있는 걸 발견했어요.",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-26",
+      "english": "Would it be possible to make a note of this before I head out?",
+      "pronunciation": "우딧 비 파서블 투 메이크 어 노우트 오브 디스 비포 아이 헤드 아웃?",
+      "korean": "제가 출발하기 전에 이걸 기록해 주실 수 있을까요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-24",
+      "english": "I'm looking to top up my transit card. What's the best way to do that around here?",
+      "pronunciation": "아임 루킹 투 탑 업 마이 트랜짓 카드. 왓츠 더 베스트 웨이 투 두 댓 어라운드 히어?",
+      "korean": "제 교통카드를 충전하고 싶어요. 여기서 충전하는 가장 좋은 방법이 뭔가요?",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-24",
+      "english": "I have this travel card, and I need to add funds to it. Is there a specific machine for that?",
+      "pronunciation": "아이 해브 디스 트래블 카드, 앤 아이 니드 투 애드 펀즈 투 잇. 이즈 데어 어 스페시픽 머신 포 댓?",
+      "korean": "이 교통카드가 있는데, 여기에 돈을 충전해야 해요. 전용 기계가 있나요?",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-21",
+      "english": "I need to adjust my train ticket for today.",
+      "pronunciation": "아이 니드 투 어져-스트 마이 트레인 티켓 폴 투데이.",
+      "korean": "오늘 제 기차표 시간을 변경해야 합니다.",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
