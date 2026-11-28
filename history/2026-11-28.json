@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-28",
+  "updated_at": "13:02 KST",
+  "topic": "쇼핑 중 다른 사이즈·색상 재고 묻기",
+  "intro": "해외 쇼핑 중 마음에 드는 옷이나 물건을 발견했는데, 원하는 사이즈나 색상이 매장에 없는 경우, 직원에게 재고 확인이나 다른 옵션을 물어볼 때 유용한 표현들을 배워봅니다. 정중하고 자연스럽게 요청하는 다양한 방법을 익혀 쇼핑을 더욱 즐겁게 만들어 보세요.",
+  "sentences": [
+    {
+      "english": "I'm looking for this top in a different size, maybe a medium.",
+      "pronunciation": "아임 루킹 포 디스 탑 인 어 디퍼런트 사이즈, 메이비 어 미디엄.",
+      "korean": "이 상의 다른 사이즈, 혹시 미디엄으로 찾고 있어요.",
+      "tip": "특정 상품의 다른 사이즈를 찾을 때 가장 기본적인 표현입니다. 'maybe'를 붙여 '혹시'라는 뉘앙스를 더할 수 있습니다."
+    },
+    {
+      "english": "This jacket is great, but I was hoping to find it in a different color. Do you have it in black?",
+      "pronunciation": "디스 재킷 이즈 그레잇, 밧 아이 워즈 호핑 투 파인딧 인 어 디퍼런트 컬러. 두 유 해빗 인 블랙?",
+      "korean": "이 재킷 정말 마음에 드는데, 다른 색상으로 찾고 있었어요. 검은색도 있나요?",
+      "tip": "'I was hoping to find...'는 '~을 찾고 있었다'는 부드러운 표현으로, 원래 기대했던 바를 말하며 질문을 이어갈 때 좋습니다."
+    },
+    {
+      "english": "I don't see this one on the rack. Is there any possibility you could check if you have a size small in the back?",
+      "pronunciation": "아이 돈 씨 디스 원 온 더 랙. 이즈 데어 애니 파서빌리티 유 쿠드 첵 이프 유 해브 어 사이즈 스몰 인 더 백?",
+      "korean": "이거 진열대에는 없네요. 혹시 뒷편 창고에 스몰 사이즈가 있는지 확인해 주실 수 있으세요?",
+      "tip": "'on the rack'은 '진열대에'라는 뜻입니다. 'Is there any possibility you could...?'는 매우 정중하게 요청할 때 사용하는 표현입니다."
+    },
+    {
+      "english": "Could you tell me if this particular style comes in a larger size?",
+      "pronunciation": "쿠쥬 텔 미 이프 디스 파티큘러 스따일 컴스 인 어 라저 사이즈?",
+      "korean": "이 특정 스타일이 더 큰 사이즈로도 나오는지 알려주실 수 있으세요?",
+      "tip": "'this particular style'은 '이 특정 스타일'을 강조하며, 'comes in a size'는 '어떤 사이즈로 나오다'는 의미입니다."
+    },
+    {
+      "english": "It seems you're out of stock for this model in red. Do you expect to receive more shipments soon?",
+      "pronunciation": "잇 심스 유어 아웃 오브 스탁 포 디스 모델 인 레드. 두 유 익스펙트 투 리시브 모어 쉽먼츠 순?",
+      "korean": "이 모델은 빨간색 재고가 없는 것 같아요. 곧 재입고될 예정인가요?",
+      "tip": "'It seems you're out of stock'은 재고가 없는 상황을 부드럽게 언급하는 표현입니다. 'shipments'는 '배송된 물품, 입고'를 의미합니다."
+    }
+  ],
+  "pattern": {
+    "form": "I was wondering if [item/style] comes in [alternative/variation]?",
+    "pronunciation": "아이 워즈 원더링 이프 [아이템/스타일] 컴스 인 [얼터너티브/베리에이션]?",
+    "meaning": "[이 상품/스타일]이 [다른 것/변형]으로도 나오는지 궁금합니다.",
+    "examples": [
+      {
+        "english": "I was wondering if this dress comes in a longer length?",
+        "pronunciation": "아이 워즈 원더링 이프 디스 드레스 컴스 인 어 롱거 렝쓰?",
+        "korean": "이 드레스가 더 긴 길이로도 나오는지 궁금합니다."
+      },
+      {
+        "english": "I was wondering if this design comes in any solid colors?",
+        "pronunciation": "아이 워즈 원더링 이프 디스 디자인 컴스 인 애니 솔리드 컬러즈?",
+        "korean": "이 디자인이 단색으로도 나오는지 궁금합니다."
+      }
+    ]
+  },
+  "words": [
+    {
+      "word": "in stock",
+      "pronunciation": "인 스탁",
+      "meaning": "재고가 있는"
+    },
+    {
+      "word": "out of stock",
+      "pronunciation": "아웃 오브 스탁",
+      "meaning": "재고가 없는"
+    },
+    {
+      "word": "on the rack",
+      "pronunciation": "온 더 랙",
+      "meaning": "진열대에 있는"
+    },
+    {
+      "word": "check the back / back room",
+      "pronunciation": "첵 더 백 / 백 룸",
+      "meaning": "창고/뒷편을 확인하다"
+    },
+    {
+      "word": "restock / shipment",
+      "pronunciation": "리스탁 / 쉽먼트",
+      "meaning": "재입고하다 / (물품) 입고"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Staff",
+      "english": "Hi there! Can I help you find anything today?",
+      "pronunciation": "하이 데어! 캔 아이 헬프 유 파인드 애니띵 투데이?",
+      "korean": "안녕하세요! 뭐 찾으시는 거 있으세요?"
+    },
+    {
+      "speaker": "You",
+      "english": "Yes, please. I really like this shirt. I'm looking for it in a size large.",
+      "pronunciation": "예스, 플리즈. 아이 리얼리 라익 디스 셔츠. 아임 루킹 포 릿 인 어 사이즈 라지.",
+      "korean": "네, 이 셔츠가 정말 마음에 드네요. 라지 사이즈를 찾고 있어요."
+    },
+    {
+      "speaker": "Staff",
+      "english": "Let me check for you. Ah, it seems we're out of size large in this particular color on the rack. Would you mind if I check in the back for you?",
+      "pronunciation": "렛 미 첵 포 유. 아, 잇 심스 위어 아웃 오브 사이즈 라지 인 디스 파티큘러 컬러 온 더 랙. 우쥬 마인드 이프 아이 첵 인 더 백 포 유?",
+      "korean": "확인해 드릴게요. 아, 진열대에는 이 색상 라지 사이즈 재고가 없는 것 같아요. 혹시 뒷편 창고에 재고가 있는지 확인해 드릴까요?"
+    },
+    {
+      "speaker": "You",
+      "english": "That would be great, thank you! While you're at it, I was also wondering if this style comes in any other colors, like maybe a dark green?",
+      "pronunciation": "댓 우드 비 그레잇, 땡큐! 와일 유어 앳 잇, 아이 워즈 올소 원더링 이프 디스 스따일 컴스 인 애니 아더 컬러즈, 라익 메이비 어 다크 그린?",
+      "korean": "네, 정말 감사해요! 확인하시는 김에, 이 스타일이 혹시 다른 색상으로도 나오는지 궁금해요, 예를 들면 짙은 녹색 같은 거요?"
+    },
+    {
+      "speaker": "Staff",
+      "english": "Sure, I can check that for you too. Please wait a moment.",
+      "pronunciation": "슈어, 아이 캔 첵 댓 포 유 투. 플리즈 웨잇 어 모먼트.",
+      "korean": "네, 그것도 확인해 드릴게요. 잠시만 기다려 주세요."
+    },
+    {
+      "speaker": "You",
+      "english": "Sounds good. Thank you!",
+      "pronunciation": "싸운즈 굿. 땡큐!",
+      "korean": "알겠습니다. 고마워요!"
+    }
+  ],
+  "retrieval": [
+    {
+      "english": "Does this dress come in a larger size?",
+      "pronunciation": "더즈 디스 드레스 컴 인 어 라저 사이즈?",
+      "korean": "이 드레스가 더 큰 사이즈로도 나오나요?",
+      "tip": "`come in a size` 표현 활용"
+    },
+    {
+      "english": "Would you be able to check the back for me for that?",
+      "pronunciation": "우쥬 비 에이블 투 첵 더 백 포 미 포 댓?",
+      "korean": "혹시 뒷편에 재고가 있는지 확인해 주실 수 있나요?",
+      "tip": "`check the back` 활용, 정중한 요청"
+    },
+    {
+      "english": "Do you expect this item to be restocked soon?",
+      "pronunciation": "두 유 익스펙트 디스 아이템 투 비 리스탁트 순?",
+      "korean": "이 상품이 곧 재입고될 예정인가요?",
+      "tip": "`restock soon` 활용"
+    }
+  ],
+  "alternatives": [
+    {
+      "english": "Do you happen to have this top in a size medium?",
+      "pronunciation": "두 유 해픈 투 해브 디스 탑 인 어 사이즈 미디엄?",
+      "korean": "이 탑 미디엄 사이즈 있으신가요?",
+      "note": "원래 표현보다 좀 더 직접적이고 간결한 질문입니다. `happen to have`는 '혹시 ~ 있나요?' 하는 느낌을 줍니다."
+    },
+    {
+      "english": "Are there any other color options for this jacket?",
+      "pronunciation": "아 데어 애니 아더 컬러 옵션스 포 디스 재킷?",
+      "korean": "이 재킷 다른 색상 옵션은 없나요?",
+      "note": "'혹시 ~ 있나요?' 보다 '다른 선택지가 있나요?' 에 초점을 맞춘 질문입니다. 직관적입니다."
+    },
+    {
+      "english": "Could you take a quick look in the storage room for a size small?",
+      "pronunciation": "쿠쥬 테익 어 퀵 룩 인 더 스토리지 룸 포 어 사이즈 스몰?",
+      "korean": "창고에 스몰 사이즈가 있는지 잠깐 확인해 주실 수 있나요?",
+      "note": "`storage room`은 `back`과 같은 의미로 쓸 수 있으며, `take a quick look`은 '잠깐 봐주다'는 뉘앙스를 줍니다."
+    }
+  ],
+  "review_items": [
+    {
+      "source_date": "2026-11-27",
+      "english": "What's the exact location for dropping off the rental car?",
+      "pronunciation": "왓츠 디 이그잭트 로케이션 포 드라핑 오프 더 렌털 카?",
+      "korean": "렌터카 반납 장소가 정확히 어디인가요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-27",
+      "english": "Could you walk me through the fuel requirements for the return?",
+      "pronunciation": "쿠쥬 워크 미 쓰루 더 퓨얼 리콰이어먼츠 포 더 리턴?",
+      "korean": "반납 시 연료 규정에 대해 자세히 설명해 주실 수 있을까요?",
+      "tip": "1일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-25",
+      "english": "What exactly does this standard insurance package cover?",
+      "pronunciation": "왓 이그잭틀리 더즈 디스 스탠다드 인슈어런스 패키지 커버?",
+      "korean": "이 표준 보험 패키지가 정확히 무엇을 보장하나요?",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-25",
+      "english": "I'm looking to understand the deductible amount for this policy.",
+      "pronunciation": "아임 루킹 투 언더스탠드 더 디덕터블 어마운트 포 디스 팔러시.",
+      "korean": "이 보험의 자기부담금(공제액)이 얼마인지 알고 싶습니다.",
+      "tip": "3일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    },
+    {
+      "source_date": "2026-11-22",
+      "english": "Excuse me, could you point me to the platform for the [city name] train, please?",
+      "pronunciation": "익스큐즈 미, 쿠쥬 포인-트 미 투 더 플랫-폼 포 더 [도시 이름] 트레인, 플리즈?",
+      "korean": "[도시 이름]행 기차 플랫폼이 어딘지 알려주실 수 있나요?",
+      "tip": "6일 전 배운 표현입니다. 정답을 보기 전에 먼저 말해보세요."
+    }
+  ]
+}
